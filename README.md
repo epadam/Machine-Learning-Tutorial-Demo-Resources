@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## [Machine learning in jupyter notebook 100 days](https://epadam.github.io/machine-learning-with-jupyter-notebook-100-days/)
+
 
 You can use the [editor on GitHub](https://github.com/epadam/machine-learning-with-jupyter-notebook-100-days/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
