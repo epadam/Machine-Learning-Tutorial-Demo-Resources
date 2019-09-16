@@ -2,6 +2,9 @@
 
 [Learning Resources](learning_resources.md)
 
+Transfer Learning
+
+ImageNet, cifar-100 with ResNet, DenseNet
 
 [Morphnet](Morphnet.ipynb)
 
@@ -10,6 +13,8 @@
 
 
 [reinforcement learning](reinforcement_learning.ipynb)
+
+Tensorflow in production
 
 You can use the [editor on GitHub](https://github.com/epadam/machine-learning-with-jupyter-notebook-100-days/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
