@@ -4,17 +4,25 @@
 
 Transfer Learning
 
-ImageNet, cifar-100 with ResNet, DenseNet
+ImageNet, cifar-100 with ResNet, DenseNet, EfficientNet
 
 [Morphnet](Morphnet.ipynb)
 
-
 [YOLO](YOLO.ipynb)
 
+GAN
 
 [reinforcement learning](reinforcement_learning.ipynb)
 
-Tensorflow in production
+Tensorflow in production (MLflow)
+
+NLP:
+
+SyntaxNet
+
+Bert 
+
+XLNet
 
 You can use the [editor on GitHub](https://github.com/epadam/machine-learning-with-jupyter-notebook-100-days/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
