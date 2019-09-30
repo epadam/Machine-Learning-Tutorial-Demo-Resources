@@ -22,7 +22,7 @@ Mobile device with tensorflow (tensorflow lite)
 
 Image Understanding
 
-Image and Video Depth 
+Image and Video Depth Estimation
 
 Densepose
 
