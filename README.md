@@ -16,11 +16,22 @@ Deepfake
 
 [reinforcement learning](reinforcement_learning.ipynb)
 
-Tensorflow in production (MLflow)
+Tensorflow in production (MLflow, Estimator, Serving)
+
+Mobile device with tensorflow (tensorflow lite)
+
+Image Understanding
+
+Image and Video Depth 
+
+Densepose
 
 Maleware detection
 
-NLP:
+
+
+
+NLP
 
 SyntaxNet
 
@@ -28,9 +39,6 @@ Bert
 
 XLNet
 
-You can use the [editor on GitHub](https://github.com/epadam/machine-learning-with-jupyter-notebook-100-days/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 
