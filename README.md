@@ -12,9 +12,13 @@ ImageNet, cifar-100 with ResNet, DenseNet, EfficientNet
 
 GAN
 
+Deepfake
+
 [reinforcement learning](reinforcement_learning.ipynb)
 
 Tensorflow in production (MLflow)
+
+Maleware detection
 
 NLP:
 
