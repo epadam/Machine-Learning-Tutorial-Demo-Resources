@@ -10,6 +10,8 @@ ImageNet, cifar-100 with ResNet, DenseNet, EfficientNet
 
 [YOLO](YOLO.ipynb)
 
+automatically label
+
 GAN
 
 Deepfake
