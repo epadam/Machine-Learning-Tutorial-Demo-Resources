@@ -20,6 +20,8 @@ GAN
 
 Deepfake
 
+Fake Documents Detection
+
 Create 3D models from 2D image
 
 Generate art, sound, music from machine learning
