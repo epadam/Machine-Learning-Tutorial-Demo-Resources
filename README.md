@@ -2,6 +2,12 @@
 
 [Learning Resources](learning_resources.md)
 
+Know your data with Embedding Projector
+
+Visualize what machine learning learn
+
+automatically label
+
 Transfer Learning
 
 ImageNet, cifar-100 with ResNet, DenseNet, EfficientNet
@@ -10,11 +16,13 @@ ImageNet, cifar-100 with ResNet, DenseNet, EfficientNet
 
 [YOLO](YOLO.ipynb)
 
-automatically label
-
 GAN
 
 Deepfake
+
+Create 3D models from 2D image
+
+Generate art, sound, music from machine learning
 
 [reinforcement learning](reinforcement_learning.ipynb)
 
@@ -31,8 +39,6 @@ Densepose
 Maleware detection
 
 
-
-
 NLP
 
 SyntaxNet
@@ -41,7 +47,7 @@ Bert
 
 XLNet
 
-
+Content automation
 
 
 ### Jekyll Themes
