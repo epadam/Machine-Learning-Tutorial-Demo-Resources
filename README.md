@@ -6,6 +6,10 @@
 
 automatically label
 
+data privacy
+
+Web Scraping (Crawling)
+
 # Framework
 
 
@@ -70,8 +74,6 @@ Bert
 XLNet
 
 Content automation
-
-Web Scraping
 
 # Combine
 
