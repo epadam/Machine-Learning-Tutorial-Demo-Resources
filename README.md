@@ -71,6 +71,8 @@ XLNet
 
 Content automation
 
+Web Scraping
+
 # Combine
 
 Generate art, sound, music
