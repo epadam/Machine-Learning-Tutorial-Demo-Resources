@@ -26,11 +26,13 @@ ResNet, DenseNet, EfficientNet
 
 GAN
 
+Facial Recognition
+
 Deepfake
 
 Fake Documents Detection
 
-2D image to 3D models
+3D reconstruction
 
 SLAM
 
@@ -58,10 +60,6 @@ Generate art, sound, music
 
 Transfer Learning
 
-# Other Applications
-
-Maleware detection
-
 # Deployment
 
 Tensorflow in production (MLflow, Estimator, Serving)
@@ -70,6 +68,12 @@ Mobile device with tensorflow (tensorflow lite)
 
 # [reinforcement learning](reinforcement_learning.ipynb)
 
+
+# Other Applications
+
+Maleware detection
+
+Code IntelliSense (code-completion)
 
 # Self Driving
 
