@@ -57,10 +57,8 @@ Image and Video Depth Estimation
 https://arxiv.org/abs/1411.6387
 
 
-
 Densepose
 
-Image Scene Understanding
 
 # Natural Languages Processing
 
@@ -76,6 +74,17 @@ Content automation
 
 Generate art, sound, music
 
+
+Image Scene Understanding
+
+# [Reinforcement Learning](reinforcement_learning.ipynb)
+
+Imatation Learning
+
+
+# Self-Supervised Learning
+
+
 # Techniques
 
 Transfer Learning
@@ -86,7 +95,7 @@ Tensorflow in production (MLflow, Estimator, Serving)
 
 Mobile device with tensorflow (tensorflow lite)
 
-# [Reinforcement Learning](reinforcement_learning.ipynb)
+
 
 
 # Other Applications
