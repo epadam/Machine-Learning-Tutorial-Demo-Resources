@@ -86,6 +86,8 @@ Generate art, sound, music
 
 Image adn Video Scene Understanding
 
+https://arxiv.org/abs/1807.09956
+
 https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176
 
 
@@ -105,7 +107,7 @@ Transfer Learning
 
 Tensorflow in production (MLflow, Estimator, Serving)
 
-Mobile device with tensorflow (tensorflow lite)
+Mobile device with tensorflow (tensorflow lite, mobileNet)
 
 MLflow
 
