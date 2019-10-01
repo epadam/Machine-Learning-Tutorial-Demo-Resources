@@ -83,7 +83,7 @@ https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-
 
 # [Reinforcement Learning](reinforcement_learning.ipynb)
 
-Imatation Learning
+Imitation Learning
 
 
 # Self-Supervised Learning
