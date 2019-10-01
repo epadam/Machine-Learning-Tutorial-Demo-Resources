@@ -76,7 +76,10 @@ Content automation
 Generate art, sound, music
 
 
-Image Scene Understanding
+Image adn Video Scene Understanding
+
+https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176
+
 
 # [Reinforcement Learning](reinforcement_learning.ipynb)
 
