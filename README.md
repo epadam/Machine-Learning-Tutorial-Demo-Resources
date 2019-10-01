@@ -56,6 +56,7 @@ Image and Video Depth Estimation
 
 https://arxiv.org/abs/1411.6387
 
+https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
 
 Densepose
 
@@ -95,7 +96,7 @@ Tensorflow in production (MLflow, Estimator, Serving)
 
 Mobile device with tensorflow (tensorflow lite)
 
-
+MLflow
 
 
 # Other Applications
