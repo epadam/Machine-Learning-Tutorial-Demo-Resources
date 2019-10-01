@@ -86,7 +86,7 @@ Tensorflow in production (MLflow, Estimator, Serving)
 
 Mobile device with tensorflow (tensorflow lite)
 
-# [reinforcement learning](reinforcement_learning.ipynb)
+# [Reinforcement Learning](reinforcement_learning.ipynb)
 
 
 # Other Applications
@@ -103,6 +103,6 @@ AirSim
 
 Apollo
 
-
+# Build Real Machine Learning Web App
 
 
