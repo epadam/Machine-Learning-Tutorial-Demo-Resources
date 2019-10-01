@@ -2,13 +2,16 @@
 
 [Learning Resources](learning_resources.md)
 
+# Data Processing
+
 Know your data with Embedding Projector
 
 Visualize what machine learning learn
 
 automatically label
 
-Transfer Learning
+
+# Image Processing
 
 ImageNet, cifar-100 with ResNet, DenseNet, EfficientNet
 
@@ -22,26 +25,17 @@ Deepfake
 
 Fake Documents Detection
 
-Create 3D models from 2D image
+2D image to 3D models
 
-Generate art, sound, music from machine learning
-
-[reinforcement learning](reinforcement_learning.ipynb)
-
-Tensorflow in production (MLflow, Estimator, Serving)
-
-Mobile device with tensorflow (tensorflow lite)
-
-Image Understanding
+SLAM
 
 Image and Video Depth Estimation
 
 Densepose
 
-Maleware detection
+Image Scene Understanding
 
-
-NLP
+# Natural Languages Processing
 
 SyntaxNet
 
@@ -50,4 +44,36 @@ Bert
 XLNet
 
 Content automation
+
+# Combine
+
+Generate art, sound, music
+
+# Techniques
+
+Transfer Learning
+
+# Other Applications
+
+Maleware detection
+
+# Deployment
+
+Tensorflow in production (MLflow, Estimator, Serving)
+
+Mobile device with tensorflow (tensorflow lite)
+
+# [reinforcement learning](reinforcement_learning.ipynb)
+
+
+# Self Driving
+
+Carla
+
+AirSim
+
+Apollo
+
+
+
 
