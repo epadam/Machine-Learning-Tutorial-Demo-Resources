@@ -12,9 +12,9 @@ data privacy
 
 Web Scraping (Crawling)
 
-# Framework
+# Tools and Framework
 
-
+https://kknews.cc/code/34aja5o.html
 
 # Visualization
 
@@ -118,6 +118,8 @@ https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 Maleware detection
 
 Code IntelliSense (code-completion)
+
+https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/
 
 # Self Driving
 
