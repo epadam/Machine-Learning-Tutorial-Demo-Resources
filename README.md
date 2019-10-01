@@ -111,6 +111,7 @@ Mobile device with tensorflow (tensorflow lite, mobileNet)
 
 MLflow
 
+https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 # Other Applications
 
