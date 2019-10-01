@@ -2,18 +2,23 @@
 
 [Learning Resources](learning_resources.md)
 
-# Data Processing
-
-Know your data with Embedding Projector
-
-Visualize what machine learning learn
+# Data pre-processing
 
 automatically label
 
 
+# Visualization
+
+Visualize what convolutional kernals learn
+
+Know your data with Embedding Projector
+
+
 # Image Processing
 
-ImageNet, cifar-100 with ResNet, DenseNet, EfficientNet
+ImageNet, cifar-100 
+
+ResNet, DenseNet, EfficientNet
 
 [Morphnet](Morphnet.ipynb)
 
