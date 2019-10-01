@@ -16,6 +16,7 @@ Visualize what convolutional kernals learn
 
 Know your data with Embedding Projector
 
+https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
 # Image Processing
 
@@ -35,11 +36,27 @@ Deepfake
 
 Fake Documents Detection
 
-3D reconstruction
+3D reconstruction and SLAM (required real-time)
+-----------------------------------------------------
 
-SLAM
+https://arxiv.org/abs/1712.07122
+
+https://zhuanlan.zhihu.com/p/74085115
+
+https://zhuanlan.zhihu.com/p/64720052
+
+https://niessnerlab.org/projects/avetisyan2019scan2cad.html
+
+https://zhuanlan.zhihu.com/p/60954106
+
+https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07
 
 Image and Video Depth Estimation
+--------------------------------------
+
+https://arxiv.org/abs/1411.6387
+
+
 
 Densepose
 
