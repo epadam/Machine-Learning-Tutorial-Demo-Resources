@@ -10,6 +10,8 @@ https://buzzorange.com/techorange/2019/01/17/ai-design-ai/
 
 data privacy
 
+https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6
+
 Web Scraping (Crawling)
 
 # Tools and Framework
@@ -89,6 +91,8 @@ Image adn Video Scene Understanding
 https://arxiv.org/abs/1807.09956
 
 https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176
+
+# Interpretable AI
 
 
 # [Reinforcement Learning](reinforcement_learning.ipynb)
