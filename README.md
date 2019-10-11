@@ -20,9 +20,13 @@ https://kknews.cc/code/34aja5o.html
 
 # Visualization
 
+What if tool
+
+
+
 Visualize what convolutional kernals learn
 
-Know your data with Embedding Projector
+Know your data with Embedding Projector (t-SNE)
 
 https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
