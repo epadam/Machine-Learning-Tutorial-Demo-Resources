@@ -72,7 +72,6 @@ https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
 
 Densepose
 
-
 # Natural Languages Processing
 
 SyntaxNet
@@ -89,8 +88,7 @@ Content automation
 
 Generate art, sound, music
 
-
-Image adn Video Scene Understanding
+Image adn Video Content Understanding and Reasoning
 
 https://arxiv.org/abs/1807.09956
 
