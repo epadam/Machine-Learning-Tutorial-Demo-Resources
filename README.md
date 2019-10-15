@@ -80,6 +80,8 @@ Bert
 
 XLNet
 
+GPT-2
+
 https://spacy.io
 
 Content automation
@@ -95,8 +97,6 @@ https://arxiv.org/abs/1807.09956
 https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176
 
 # Interpretable AI
-
-# Content Reasoning
 
 
 # [Reinforcement Learning](reinforcement_learning.ipynb)
@@ -122,6 +122,9 @@ MLflow
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 # Other Applications
+
+auto code generator
+https://github.com/tonybeltramelli/pix2code
 
 Maleware detection
 
