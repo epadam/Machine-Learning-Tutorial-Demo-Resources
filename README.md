@@ -16,6 +16,8 @@ Web Scraping (Crawling)
 
 # Tools and Framework
 
+TF-Slim
+
 https://kknews.cc/code/34aja5o.html
 
 # Visualization
