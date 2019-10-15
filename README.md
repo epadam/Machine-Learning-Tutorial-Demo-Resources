@@ -82,6 +82,9 @@ XLNet
 
 GPT-2
 
+
+Speach to text
+
 https://spacy.io
 
 Content automation
@@ -122,6 +125,11 @@ MLflow
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 # Other Applications
+
+Speach to text
+
+end-to-end speach to speach
+
 
 auto code generator
 https://github.com/tonybeltramelli/pix2code
