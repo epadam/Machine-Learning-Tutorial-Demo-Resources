@@ -82,9 +82,6 @@ XLNet
 
 GPT-2
 
-
-Speach to text
-
 https://spacy.io
 
 Content automation
