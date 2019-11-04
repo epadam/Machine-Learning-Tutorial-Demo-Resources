@@ -23,9 +23,28 @@ epochs = 100
 filepath ='./testdata.tfrecord'
 log_dir='./logs/tf/64'
 
+
+
+def read_TFRecords_test():
+    record_itr = tf.python_io.tf_record_iterator(path=filepath)
+    for r in record_itr:
+        example = tf.train.Example()
+        example.ParseFromString(r)
+
+        label = example.features.feature["label"].int64_list.value[0]
+        print("Label", label)
+        image_bytes = example.features.feature["image"].bytes_list.value[0]
+        img = np.fromstring(image_bytes, dtype=np.uint8).reshape(64, 64, 1)
+        #print(img)
+        # plt.imshow(img, cmap="gray")
+        # plt.show()
+        break  # 只读取一个Example
+
+
+
 def _parse_function(proto):
     # define your tfrecord again. Remember that you saved your image as a string.
-    features = {'image': tf.io.FixedLenFeature([], tf.float32),
+    features = {'image': tf.io.FixedLenFeature([], tf.string),
                  'label': tf.io.FixedLenFeature([], tf.int64)
                         #'qp': tf.io.FixedLenFeature([], tf.int64)
                         }
@@ -33,15 +52,17 @@ def _parse_function(proto):
     # Load one example
     parsed_features = tf.io.parse_single_example(proto, features)
 
+    oneimage = tf.decode_raw(parsed_features['image'], tf.uint8)
 
-    oneimage = tf.cast(parsed_features['image'], tf.float32)
+
+    #oneimage = tf.cast(parsed_features['image'], tf.float32)
 
 
     onelabel = tf.cast(parsed_features['label'], tf.int64)
 
    
     # Turn your saved image string into an array
-    #image = tf.decode_raw(parsed_features['image'], tf.float32)
+    
     #label = tf.cast(label_raw, tf.int32)
     #image = tf.to_float(image_raw)
     #label = tf.decode_raw(parsed_features['label'], tf.int64)
@@ -132,7 +153,10 @@ def create_dataset(filepath):
     
     return image, label
 
+
 raw_train, label_train = create_dataset(filepath)
+
+raw_val, label_val = create_dataset('./valdata.tfrecord')
 
 print(tf.shape(raw_train))
 print(tf.shape(label_train))
@@ -153,7 +177,7 @@ print(np.shape(label_train))
 #     x = x - backend.mean(x)   
 #     return x
 
-'''
+
 
 data = Input(shape=(block_size,block_size,NUM_CHANNELS))
 
@@ -205,4 +229,31 @@ print(type(STEPS_PER_EPOCH))
 
 
 history = model.fit(raw_train, label_train, epochs=epochs, verbose=1, steps_per_epoch=STEPS_PER_EPOCH)
-'''
+
+
+score = model.evaluate(raw_val, label_val, verbose=0, steps=2)
+
+print('Test loss:', score[0])
+print('Test accuracy:', score[1])
+
+
+model.save(log_dir+'/m1_qp120_64_HV.h5') 
+
+
+
+tf.keras.backend.set_learning_phase(1)
+
+model=tf.keras.models.load_model(log_dir+'/m1_qp120_64_HV.h5')
+export_path='./test/1'
+
+with tf.keras.backend.get_session() as sess:
+    tf.saved_model.simple_save(
+        session=sess,
+        export_dir=export_path,
+        inputs={
+            'input_image':model.input
+        },
+        outputs={
+            t.name:t for t in model.outputs
+        }
+    )

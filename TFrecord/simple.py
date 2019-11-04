@@ -37,4 +37,5 @@ def load_tfrecord(filepath):
 
 
 if __name__ == "__main__":
+    
     data = load_tfrecord(filepath)
