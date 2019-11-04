@@ -24,7 +24,7 @@ num_classes = 2
 block_size = 64
 NUM_CHANNELS = 1
 epochs = 100
-filepath ='./'
+filepath ='./testdata.tfrecord'
 log_dir='./logs/tf/64'
 
 if not exists(log_dir):
@@ -126,33 +126,82 @@ def plot_confusion_matrix(y_true, y_pred, classes,
 
 def _parse_function(proto):
     # define your tfrecord again. Remember that you saved your image as a string.
-    keys_to_features = {'image': tf.FixedLenFeature([], tf.string),
-                        'label': tf.FixedLenFeature([], tf.string),
-                        'qp': tf.FixedLenFeature([], tf.string)
+    keys_to_features = {'image': tf.io.FixedLenFeature([], tf.float32),
+                        'label': tf.io.FixedLenFeature([], tf.int64)
+                        #'qp': tf.io.FixedLenFeature([], tf.int64)
                         }
     
     # Load one example
-    parsed_features = tf.parse_single_example(proto, keys_to_features)
-    
-    # Turn your saved image string into an array
-    image = tf.decode_raw(parsed_features['image'], tf.float32)
-    image = tf.to_float(image)
-    label = tf.decode_raw(parsed_features['label'], tf.uint8)
-    #label = tf.to_uint8(label)
-    qp = tf.decode_raw(parsed_features['qp'], tf.uint8)
-    #qp = tf.to_uint8(qp)
-    
-    return image, label, qp
+    parsed_features = tf.io.parse_single_example(proto, keys_to_features)
 
-  
+   
+    # Turn your saved image string into an array
+    #image = tf.decode_raw(parsed_features['image'], tf.float32)
+    #label = tf.cast(label_raw, tf.int32)
+    #image = tf.to_float(image_raw)
+    #label = tf.decode_raw(parsed_features['label'], tf.int64)
+    #label = tf.to_int64(label)
+    #qp = tf.decode_raw(qp, tf.int64)
+    #print(image.dtype)
+    #print(label.dtype)
+
+    
+    
+    #label = tf.reshape(label, [-1])
+    #qp = tf.reshape(qp, [-1])
+
+
+    
+    #qp = tf.to_uint8(qp)
+    #print(tf.shape(image))
+    #print(tf.shape(label))
+    #print(tf.shape(qp))
+
+
+    return parsed_features['image'], parsed_features['label']
+'''
+
+example = tf.train.Example()
+for record in tf.python_io.tf_record_iterator(filepath):
+    example.ParseFromString(record)
+    f = example.features.feature
+    image = f['image'].float_list.value[0]
+
+    image = tf.reshape(image, [-1, block_size, block_size, NUM_CHANNELS])
+
+
+    label = f['label'].int64_list.value[0]
+    # for bytes you might want to represent them in a different way (based on what they were before saving)
+    # something like `np.fromstring(f['img'].bytes_list.value[0], dtype=np.uint8
+    # Now do something with your v1/v2/v3
+
+
+
+
+dataset = tf.data.TFRecordDataset(filepath)
+
+dataset = dataset.map(_parse_function)
+
+dataset= dataset.shuffle(buffer_size=4000).batch(128)
+
+'''
 def create_dataset(filepath):
     
     # This works with arrays as well
     dataset = tf.data.TFRecordDataset(filepath)
     
     # Maps the parser on every filepath in the array. You can set the number of parallel loaders here
-    dataset = dataset.map(_parse_function, num_parallel_calls=4)
-    
+    dataset= dataset.map(_parse_function)
+
+    '''
+
+    dataset = dataset.cache() # This dataset fits in RAM
+    dataset = dataset.repeat()
+    #dataset = dataset.shuffle(2048)
+    dataset = dataset.batch(batch_size, drop_remainder=True) 
+    dataset = dataset.prefetch(898)
+    '''
+
     # This dataset will go on forever
     dataset = dataset.repeat(epochs)
     
@@ -166,33 +215,45 @@ def create_dataset(filepath):
     iterator = dataset.make_one_shot_iterator()
     
     # Create your tf representation of the iterator
-    image, label, qp = iterator.get_next()
+    image, label = iterator.get_next()
 
 
-    # Bring your picture back in shape
-    image = tf.reshape(image, [-1, block_size, block_size, NUM_CHANNELS])
 
-    print(np.shape(image))
-    print(np.shape(label))
+    # Bring your picture back in shape  
+    image = tf.reshape(image, [-1, block_size, block_size, NUM_CHANNELS])    
 
-    qp = tf.reshape(qp, [-1, 1])
-    print(np.shape(qp))
+
+    # print(tf.shape(image))
+    # print(tf.shape(label))
+    # print(tf.shape(qp))
+
+    # print(image.dtype)
+    # print(label.dtype)
+    # print(qp.dtype)
+
+    # print(np.shape(image))
+    # print(np.shape(label))
+    # print(np.shape(qp))
     
     # Create a one hot array for your labels
     label = tf.one_hot(label, num_classes)
     
-    return image, label, qp
+    return image, label
+
+raw_train, label_train = create_dataset(filepath)
 
 
+# print(tf.shape(raw_train))
+# print(tf.shape(label_train))
+# print(tf.shape(qp_train))
 
+# print(raw_train.dtype)
+# print(label_train.dtype)
+# print(qp_train.dtype)
 
-SUM_OF_ALL_DATASAMPLES=898
-
-STEPS_PER_EPOCH = SUM_OF_ALL_DATASAMPLES // batch_size
-
-print(type(STEPS_PER_EPOCH))
-
-raw_train, label_train, qp_train = create_dataset(filepath)
+# print(np.shape(raw_train))
+# print(np.shape(label_train))
+# print(np.shape(qp_train))
 
 
 
@@ -221,24 +282,25 @@ conv3 = Conv2D(32, (2, 2), strides =(2,2), activation='relu', padding='valid')(c
 conv3_d = Dropout(0.5)(conv3)
 flat3 = Flatten()(conv3_d)
 
-qp = Input(tensor=qp_train)
-qp_n = Lambda(lambda x: x/255, input_shape=(1,))(qp)
 
-concat = Concatenate(axis=1)([flat2, flat3, qp_n])
+# qp = Input(shape=(1,))
+# qp_n = Lambda(lambda x: x/255)(qp)
+
+concat = Concatenate(axis=1)([flat2, flat3])
 
 fc1 = Dense(64, activation='relu')(concat)
 fc1_d = Dropout(0.5)(fc1)
-fc1_qp = Concatenate(axis=1)([fc1_d, qp_n])
+#fc1_qp = Concatenate(axis=1)([fc1_d, qp_n])
 
-fc2 = Dense(48, activation='relu')(fc1_qp)
+fc2 = Dense(48, activation='relu')(fc1_d)
 fc2_d = Dropout(0.5)(fc2)
-fc2_qp = Concatenate(axis=1)([fc2_d, qp_n])
+#fc2_qp = Concatenate(axis=1)([fc2_d, qp_n])
     
-output = Dense(num_classes, activation='softmax')(fc2_qp)
+output = Dense(num_classes, activation='softmax')(fc2_d)
 
-model = Model(inputs=[data,qp], outputs=output)
+model = Model(inputs=data, outputs=output)
 
-model.summary()
+#model.summary()
 
 model.compile(loss='categorical_crossentropy',
               optimizer=keras.optimizers.Adam(lr=0.001),
@@ -246,13 +308,17 @@ model.compile(loss='categorical_crossentropy',
 
 
 #model = load_model(log_dir+'/m1_qp120_32_sh.h5')
-#class_weight = {0: 8.74, 1: 36.4, 2: 33.82, 3: 1, 4: 132.52, 5: 112.28, 6: 188., 7: 109.24, 8: 63.65, 9: 53.18}
-#class_weight = {0: 1.55, 1: 6.87, 2: 7.47, 3: 1, 4: 21.73, 5: 21.2, 6: 23.74, 7: 23.61, 8: 9.64, 9: 11.74} #32
-#class_weight = {0: 1., 1: 5.77, 2: 6.29, 3: 11.74, 4: 28.27, 5: 37.52, 6: 28.54, 7: 37.04, 8: 14.1, 9: 15.53} #16
 
-history = model.fit([raw_train, qp_train], label_train, epochs=epochs, verbose=1, steps_per_epoch=STEPS_PER_EPOCH)
+SUM_OF_ALL_DATASAMPLES=898
+
+STEPS_PER_EPOCH = SUM_OF_ALL_DATASAMPLES // batch_size
+
+print(type(STEPS_PER_EPOCH))
 
 
+history = model.fit(raw_train, label_train, epochs=epochs, verbose=1, steps_per_epoch=STEPS_PER_EPOCH)
+
+'''
 y_pred = model.predict([raw_test, qp_test])
 y_index =np.zeros(len(y_pred))
 
@@ -311,7 +377,7 @@ with open(log_dir+'/trainHistoryDict_m1_64_HV', 'wb') as file_pi:
 
 
 model.save(log_dir+'/m1_qp120_16_fw.h5') 
-
+'''
 '''
 model=load_model('my_model.h5') 
 

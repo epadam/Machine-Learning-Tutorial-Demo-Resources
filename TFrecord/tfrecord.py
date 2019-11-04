@@ -17,7 +17,7 @@ with open(sample_file, 'rb') as f:
     print(np.shape(raw))
     raw_train = raw[:898*4096]
     #raw_train = np.reshape(raw_train, [-1, block_size, block_size, NUM_CHANNELS])
-    print(np.shape(raw_train))
+    print('raw_train', np.shape(raw_train))
     #raw_train = raw_train.tostring()
     #raw_test = raw[-len(raw)//10:]
     #raw_test = np.reshape(raw_test, [-1, block_size, block_size, NUM_CHANNELS])
@@ -32,8 +32,8 @@ with open(sample_file, 'rb') as f:
 #read labels
 with open(label_file, 'r') as f_single_label:
     single_label = f_single_label.read()    
-    single_label =np.fromstring (single_label, dtype=np.uint8 ,sep=' ')
-    single_label = np.reshape(single_label, [-1])
+    single_label =np.fromstring (single_label, dtype=np.int64 ,sep=' ')
+    #single_label = np.reshape(single_label, [-1])
    
     #single_label = keras.utils.to_categorical(single_label, num_classes)
     label_train = single_label[:898]
@@ -49,7 +49,7 @@ with open(label_file, 'r') as f_single_label:
 #read qps
 with open(qp_file, 'r') as f_qp:
     qps = f_qp.read()
-    qps =np.fromstring (qps, dtype=np.uint8, sep=' ')
+    qps =np.fromstring (qps, dtype=np.int64, sep=' ')
     #qps = np.reshape(qps, [-1,1])
     print(np.shape(qps))
     	 
@@ -74,8 +74,7 @@ def int64_feature(value):
     return tf.train.Feature(int64_list=tf.train.Int64List(value=value))
 
 def bytes_feature(value):
-  """Wrapper for inserting a bytes Feature into a SequenceExample proto."""
-  return tf.train.Feature(bytes_list=tf.train.BytesList(value=value))
+    return tf.train.Feature(bytes_list=tf.train.BytesList(value=value))
 
 
 #raw_train = raw_train.flatten
@@ -85,11 +84,15 @@ def bytes_feature(value):
 #print(np.shape(raw_train))
 
 feature_dict = {
-    'image': bytes_feature(raw_train),
-    'label': int64_feature(label_train),
-    'qp': int64_feature(qp_train)
+    'image': float_feature(raw_train),
+    'label': int64_feature(label_train)
+    #'qp': int64_feature(qp_train)
 }
 
 example = tf.train.Example(features=tf.train.Features(feature=feature_dict))
 
 writer.write(example.SerializeToString())
+
+
+
+
