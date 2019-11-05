@@ -6,6 +6,8 @@ import numpy as np
 from tensorflow.contrib.tensorboard.plugins import projector
 from tensorflow.examples.tutorials.mnist import input_data
 
+#This code is used to generate image that can be used in Tensorboard Projector 
+
 LOG_DIR = 'minimalsample'
 NAME_TO_VISUALISE_VARIABLE = "mnistembedding"
 TO_EMBED_COUNT = 1000

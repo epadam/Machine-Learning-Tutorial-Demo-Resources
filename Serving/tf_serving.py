@@ -1,8 +1,8 @@
-
-
 import pandas as pd
 import os
 import tensorflow as tf
+
+# this code port the model into pb format that can be served using tensorflow serving
  
 tf.logging.set_verbosity(tf.logging.INFO)
 ...
