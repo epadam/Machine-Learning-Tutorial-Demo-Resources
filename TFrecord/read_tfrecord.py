@@ -171,7 +171,6 @@ print(np.shape(label_train))
 
 
 
-
 # def sub_mean(x):
 #     x = x/255
 #     x = x - backend.mean(x)   
@@ -221,6 +220,19 @@ model.compile(loss='categorical_crossentropy',
 
 
 
+
+tbCallBack = TensorBoard(log_dir=log_dir,
+                     batch_size=batch_size,                     
+                     histogram_freq=0,  
+                     write_graph=True,  
+                     write_grads=True, 
+                     write_images=True,
+                     embeddings_freq=0, 
+                     embeddings_layer_names=None, 
+                     embeddings_metadata=None
+                     )
+
+
 SUM_OF_ALL_DATASAMPLES=898
 
 STEPS_PER_EPOCH = SUM_OF_ALL_DATASAMPLES // batch_size
@@ -228,7 +240,7 @@ STEPS_PER_EPOCH = SUM_OF_ALL_DATASAMPLES // batch_size
 print(type(STEPS_PER_EPOCH))
 
 
-history = model.fit(raw_train, label_train, epochs=epochs, verbose=1, steps_per_epoch=STEPS_PER_EPOCH)
+history = model.fit(raw_train, label_train, epochs=epochs, verbose=1, steps_per_epoch=STEPS_PER_EPOCH, callbacks=[tbCallBack])
 
 
 score = model.evaluate(raw_val, label_val, verbose=0, steps=2)
