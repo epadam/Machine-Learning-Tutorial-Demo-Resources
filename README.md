@@ -24,13 +24,35 @@ https://kknews.cc/code/34aja5o.html
 
 What if tool
 
+Kernel map visualization
 
+Intermiediate layer output 
 
-Visualize what convolutional kernals learn
-
-Know your data with Embedding Projector (t-SNE)
+Embedding Projector (t-SNE)
 
 https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
+
+TensorWatch
+
+# Theory
+
+## Regression
+
+## Enssemble Algorithms
+
+## Decision Tree
+
+## Support Vector Machine
+
+## Bayesian
+
+## Deep Learning
+
+### CNN
+
+### RNN
+
+### LSTM
 
 # Image Processing
 
@@ -42,7 +64,7 @@ ResNet, DenseNet, EfficientNet
 
 [YOLO](YOLO.ipynb)
 
-GAN
+Generative Adversarial Network (GAN)
 
 Facial Recognition
 
@@ -99,6 +121,10 @@ https://arxiv.org/abs/1807.09956
 https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176
 
 # Interpretable AI
+
+InterpretML
+
+Google TCAV
 
 
 # [Reinforcement Learning](reinforcement_learning.ipynb)
