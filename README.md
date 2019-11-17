@@ -1,6 +1,4 @@
-## [Implementation](https://epadam.github.io/machine-learning-with-jupyter-notebook-100-days/)
-
-[Learning Resources](learning_resources.md)
+# [Learning Resources](learning_resources.md)
 
 # Data pre-processing
 
@@ -71,7 +69,7 @@ Embedding Projector (t-SNE)
 
 ### Transfer Learning
 
-# Image Processing
+# Computer Vision
 
 ## Models and Architecture
 
@@ -149,6 +147,9 @@ Content automation
 
 (Bert as Service)[https://github.com/hanxiao/bert-as-service]
 
+# Integration of CV and NLP
+
+https://arxiv.org/abs/1907.09358
 
 # Interpretable AI
 
