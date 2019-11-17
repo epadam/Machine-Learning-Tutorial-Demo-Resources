@@ -1,50 +1,65 @@
-## [Machine learning in jupyter notebook 100 days](https://epadam.github.io/machine-learning-with-jupyter-notebook-100-days/)
+## [Implementation](https://epadam.github.io/machine-learning-with-jupyter-notebook-100-days/)
 
 [Learning Resources](learning_resources.md)
 
 # Data pre-processing
 
-automatically label
+## Big data
 
-https://buzzorange.com/techorange/2019/01/17/ai-design-ai/
+Spark
 
-data privacy
+Neo4j
 
-https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6
+## Data Labeling
 
-Web Scraping (Crawling)
+[Snorkel](https://www.snorkel.org/)
+
+[Snorkel DryBell](https://arxiv.org/abs/1812.00417)
+
+Other Papers:
+https://arxiv.org/abs/1908.01862
+
+## Data Privacy
+
+[Differential Privacy](https://github.com/google/differential-privacy)
+
+[Tensorflow Differential Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
 
 # Tools and Framework
 
-TF-Slim
+[Tensorflow Models](https://github.com/tensorflow/models)
 
-https://kknews.cc/code/34aja5o.html
+[TF-Slim](https://github.com/google-research/tf-slim)
 
-# Visualization
+[Magenta](https://magenta.tensorflow.org/)
 
-What if tool
-
-Kernel map visualization
-
-Intermiediate layer output 
-
-Embedding Projector (t-SNE)
+[LibROSA](https://librosa.github.io/librosa/)
 
 https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
-TensorWatch
+# Visualization
+
+[What If Tool](https://pair-code.github.io/what-if-tool/)
+
+Kernel Map Visualization
+
+Intermiediate Layer Output Visualization 
+
+Embedding Projector (t-SNE)
+
+[TensorWatch](https://github.com/microsoft/tensorwatch)
 
 # Theory
 
 ## Regression
 
-## Enssemble Algorithms
-
 ## Decision Tree
 
-## Support Vector Machine
-
 ## Bayesian
+
+## Enssemble Algorithms
+
+## Support Vector Machine
 
 ## Deep Learning
 
@@ -54,26 +69,37 @@ TensorWatch
 
 ### LSTM
 
+### Transfer Learning
+
 # Image Processing
 
-ImageNet, cifar-100 
+## Models and Architecture
 
-ResNet, DenseNet, EfficientNet
+ResNet
 
-[Morphnet](Morphnet.ipynb)
+DenseNet
 
-[YOLO](YOLO.ipynb)
+EfficientNet
+
+Morphnet
+
+YOLO
 
 Generative Adversarial Network (GAN)
 
-Facial Recognition
+## Applications
 
-Deepfake
+### Semantic Image Segmentation
 
-Fake Documents Detection
+(DeepLab)[http://liangchiehchen.com/projects/DeepLab.html]
+(Auto DeepLab)[https://arxiv.org/abs/1901.02985]
+(Detectron2)[https://github.com/facebookresearch/detectron2]
 
-3D reconstruction and SLAM (required real-time)
------------------------------------------------------
+### Facial Recognition
+
+### Deepfake
+
+### SLAM/3D Reconstruction
 
 https://arxiv.org/abs/1712.07122
 
@@ -87,86 +113,94 @@ https://zhuanlan.zhihu.com/p/60954106
 
 https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07
 
-Image and Video Depth Estimation
---------------------------------------
+### Image and Video Depth Estimation
 
 https://arxiv.org/abs/1411.6387
 
 https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
 
-Densepose
+[Densepose](https://github.com/facebookresearch/DensePose)
 
-# Natural Languages Processing
-
-SyntaxNet
-
-Bert 
-
-XLNet
-
-GPT-2
-
-https://spacy.io
-
-Content automation
-
-# Combine
-
-Generate art, sound, music
-
-Image adn Video Content Understanding and Reasoning
+### Image and Video Content Understanding and Reasoning
 
 https://arxiv.org/abs/1807.09956
 
 https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176
 
+# Natural Languages Processing
+
+## Models
+
+SyntaxNet
+
+Bert 
+
+TinyBert
+
+XLNet
+
+GPT-2
+
+## Applications
+
+https://spacy.io
+
+Content automation
+
+(Bert as Service)[https://github.com/hanxiao/bert-as-service]
+
+
 # Interpretable AI
 
-InterpretML
+(InterpretML)[https://github.com/interpretml/interpret]
 
-Google TCAV
+(Google TCAV)[https://github.com/tensorflow/tcav]
 
 
-# [Reinforcement Learning](reinforcement_learning.ipynb)
+# Reinforcement Learning
 
 Imitation Learning
 
+Q-Learning
 
 # Self-Supervised Learning
 
 
-# Techniques
-
-Transfer Learning
-
 # Deployment
 
-Tensorflow in production (MLflow, Estimator, Serving)
+Tensorflow in production (Estimator, Serving)
 
-Mobile device with tensorflow (tensorflow lite, mobileNet)
+Mobile device with tensorflow (tensorflow Lite, mobileNet)
 
-MLflow
+(MLflow)[https://mlflow.org/]
 
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 # Other Applications
 
-Speach to text
+(Tesseract OCR)[https://github.com/tesseract-ocr/tesseract]
 
-end-to-end speach to speach
+Generate art, sound, music
 
+Speech to text
 
-auto code generator
+end-to-end speech to speech
+
+Auto Code Generator
 https://github.com/tonybeltramelli/pix2code
 
 Maleware detection
 
 Code IntelliSense (code-completion)
 
+Finding and fixing software bugs
 https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/
+
+Fake Documents Detection
 
 # Self Driving
 
+## Platform
 Carla
 
 AirSim
@@ -175,6 +209,7 @@ Apollo
 
 https://getpocket.com/redirect?url=https%3A%2F%2Fmedium.com%2F%40maxdeutsch%2Fhow-to-build-a-self-driving-car-in-one-month-d52df48f5b07
 
-# Build Real Machine Learning Web App
 
+# Reference
 
+https://kknews.cc/code/34aja5o.html
