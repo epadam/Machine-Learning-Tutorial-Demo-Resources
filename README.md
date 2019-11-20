@@ -87,6 +87,10 @@ Generative Adversarial Network (GAN)
 
 ## Applications
 
+image processing, computer vision, speech recognition, machine translation, art,
+medical imaging, medical information processing, robotics and control, bioinformatics, natural
+language processing, cybersecurity
+
 ### Semantic Image Segmentation
 
 (DeepLab)[http://liangchiehchen.com/projects/DeepLab.html]
@@ -139,7 +143,7 @@ XLNet
 
 GPT-2
 
-## Applications
+## Other Applications
 
 https://spacy.io
 
