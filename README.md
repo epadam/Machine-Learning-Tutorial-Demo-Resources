@@ -49,23 +49,23 @@ Embedding Projector (t-SNE)
 
 # Theory
 
-## Regression
+### Regression
 
-## Decision Tree
+### Decision Tree
 
-## Bayesian
+### Bayesian
 
-## Enssemble Algorithms
+### Enssemble Algorithms
 
-## Support Vector Machine
+### Support Vector Machine
 
-## Deep Learning
+### Deep Learning
 
-### CNN
+#### CNN
 
-### RNN
+#### RNN
 
-### LSTM
+#### LSTM
 
 ### Transfer Learning
 
@@ -94,7 +94,9 @@ language processing, cybersecurity
 ### Semantic Image Segmentation
 
 (DeepLab)[http://liangchiehchen.com/projects/DeepLab.html]
+
 (Auto DeepLab)[https://arxiv.org/abs/1901.02985]
+
 (Detectron2)[https://github.com/facebookresearch/detectron2]
 
 ### Facial Recognition
