@@ -39,6 +39,8 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
 [What If Tool](https://pair-code.github.io/what-if-tool/)
 
+image heat map
+
 Kernel Map Visualization
 
 Intermiediate Layer Output Visualization 
