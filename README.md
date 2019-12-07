@@ -32,9 +32,9 @@ Transfer Learning
 
 # Interpretable AI
 
-(InterpretML)[https://github.com/interpretml/interpret]
+[InterpretML](https://github.com/interpretml/interpret)
 
-(Google TCAV)[https://github.com/tensorflow/tcav]
+[Google TCAV](https://github.com/tensorflow/tcav)
 
 # Data pre-processing
 
