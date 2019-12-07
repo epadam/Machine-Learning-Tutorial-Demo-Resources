@@ -30,6 +30,11 @@ LSTM
 
 Transfer Learning
 
+# Interpretable AI
+
+(InterpretML)[https://github.com/interpretml/interpret]
+
+(Google TCAV)[https://github.com/tensorflow/tcav]
 
 # Data pre-processing
 
@@ -80,7 +85,6 @@ Embedding Projector (t-SNE)
 
 [TensorWatch](https://github.com/microsoft/tensorwatch)
 
-
 # Computer Vision
 
 ## Architecture
@@ -92,6 +96,10 @@ DenseNet
 EfficientNet
 
 Morphnet
+
+MobileNet
+
+Generative Adversarial Network (GAN)
 
 ## Applications
 
@@ -108,8 +116,6 @@ Morphnet
 ### Facial Recognition
 
 ### Deepfake
-
-### Generative Adversarial Network (GAN)
 
 ### SLAM/3D Reconstruction
 
@@ -151,50 +157,27 @@ XLNet
 
 GPT-2
 
-## Other Applications
+## Framework and tools
+
+Huggingface
 
 https://spacy.io
 
-Content automation
-
 (Bert as Service)[https://github.com/hanxiao/bert-as-service]
+
+## Applications
+
+Text generation
 
 # Integration of CV and NLP
 
 https://arxiv.org/abs/1907.09358
 
-# Interpretable AI
-
-(InterpretML)[https://github.com/interpretml/interpret]
-
-(Google TCAV)[https://github.com/tensorflow/tcav]
-
-
-# Reinforcement Learning
-
-Imitation Learning
-
-Q-Learning
-
-
-# Self-Supervised Learning
-
-
-# Deployment
-
-Tensorflow in production (Estimator, Serving)
-
-Mobile device with tensorflow (tensorflow Lite, mobileNet)
-
-(MLflow)[https://mlflow.org/]
-
-https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
-
 # Other Applications
 
 (Tesseract OCR)[https://github.com/tesseract-ocr/tesseract]
 
-Generate art, sound, music
+Generate art, music
 
 Speech to text
 
@@ -212,6 +195,25 @@ https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-auto
 
 Fake Documents Detection
 
+# Deployment
+
+Tensorflow in production (Estimator, Serving)
+
+Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
+
+(MLflow)[https://mlflow.org/]
+
+https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
+
+
+# Reinforcement Learning
+
+Imitation Learning
+
+Q-Learning
+
+# Self-Supervised Learning
+
 # Self Driving
 
 ## Platform
@@ -222,7 +224,6 @@ AirSim
 Apollo
 
 https://getpocket.com/redirect?url=https%3A%2F%2Fmedium.com%2F%40maxdeutsch%2Fhow-to-build-a-self-driving-car-in-one-month-d52df48f5b07
-
 
 # Reference
 
