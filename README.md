@@ -1,8 +1,39 @@
 # [Learning Resources](learning_resources.md)
 
+What machine learning can be applied to?
+
+image processing, computer vision, speech recognition, machine translation, art,
+medical imaging, medical information processing, robotics and control, bioinformatics, natural
+language processing, cybersecurity
+
+# Theory
+
+Regression
+
+Decision Tree
+
+Bayesian
+
+Enssemble Algorithms
+
+Support Vector Machine
+
+### Deep Learning
+
+CNN
+
+RNN
+
+LSTM
+
+### Training
+
+Transfer Learning
+
+
 # Data pre-processing
 
-## Big data
+## Big data processing
 
 Spark
 
@@ -49,31 +80,10 @@ Embedding Projector (t-SNE)
 
 [TensorWatch](https://github.com/microsoft/tensorwatch)
 
-# Theory
-
-### Regression
-
-### Decision Tree
-
-### Bayesian
-
-### Enssemble Algorithms
-
-### Support Vector Machine
-
-### Deep Learning
-
-#### CNN
-
-#### RNN
-
-#### LSTM
-
-### Transfer Learning
 
 # Computer Vision
 
-## Models and Architecture
+## Architecture
 
 ResNet
 
@@ -83,15 +93,9 @@ EfficientNet
 
 Morphnet
 
-YOLO
-
-Generative Adversarial Network (GAN)
-
 ## Applications
 
-image processing, computer vision, speech recognition, machine translation, art,
-medical imaging, medical information processing, robotics and control, bioinformatics, natural
-language processing, cybersecurity
+### Object Detection
 
 ### Semantic Image Segmentation
 
@@ -104,6 +108,8 @@ language processing, cybersecurity
 ### Facial Recognition
 
 ### Deepfake
+
+### Generative Adversarial Network (GAN)
 
 ### SLAM/3D Reconstruction
 
@@ -137,8 +143,6 @@ https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-
 
 ## Models
 
-SyntaxNet
-
 Bert 
 
 TinyBert
@@ -171,6 +175,7 @@ https://arxiv.org/abs/1907.09358
 Imitation Learning
 
 Q-Learning
+
 
 # Self-Supervised Learning
 
