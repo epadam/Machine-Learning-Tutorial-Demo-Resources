@@ -107,11 +107,11 @@ Generative Adversarial Network (GAN)
 
 ### Semantic Image Segmentation
 
-(DeepLab)[http://liangchiehchen.com/projects/DeepLab.html]
+[DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
 
-(Auto DeepLab)[https://arxiv.org/abs/1901.02985]
+[Auto DeepLab](https://arxiv.org/abs/1901.02985)
 
-(Detectron2)[https://github.com/facebookresearch/detectron2]
+[Detectron2](https://github.com/facebookresearch/detectron2)
 
 ### Facial Recognition
 
@@ -177,16 +177,14 @@ https://arxiv.org/abs/1907.09358
 
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-Generate art, music
-
-Speech to text
+Art, Music Generation
 
 end-to-end speech to speech
 
+Maleware Detection
+
 Auto Code Generator
 https://github.com/tonybeltramelli/pix2code
-
-Maleware detection
 
 Code IntelliSense (code-completion)
 
@@ -194,6 +192,8 @@ Finding and fixing software bugs
 https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/
 
 Fake Documents Detection
+
+CodeGuru from AWS
 
 # Deployment
 
