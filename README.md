@@ -163,7 +163,7 @@ Huggingface
 
 https://spacy.io
 
-(Bert as Service)[https://github.com/hanxiao/bert-as-service]
+[Bert as Service](https://github.com/hanxiao/bert-as-service)
 
 ## Applications
 
@@ -175,7 +175,7 @@ https://arxiv.org/abs/1907.09358
 
 # Other Applications
 
-(Tesseract OCR)[https://github.com/tesseract-ocr/tesseract]
+[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
 Generate art, music
 
@@ -201,7 +201,7 @@ Tensorflow in production (Estimator, Serving)
 
 Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
-(MLflow)[https://mlflow.org/]
+[MLflow](https://mlflow.org/)
 
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
