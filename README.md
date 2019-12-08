@@ -145,7 +145,7 @@ https://arxiv.org/abs/1807.09956
 
 https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176
 
-# Natural Languages Processing
+# Natural Language Processing
 
 ## Models
 
