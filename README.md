@@ -91,7 +91,7 @@ Embedding Projector (t-SNE)
 
 # Computer Vision
 
-## Architecture
+## Object Detection
 
 ResNet
 
@@ -103,13 +103,7 @@ Morphnet
 
 MobileNet
 
-Generative Adversarial Network (GAN)
-
-## Applications
-
-### Object Detection
-
-### Semantic Image Segmentation
+## Semantic Image Segmentation
 
 [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
 
@@ -117,11 +111,13 @@ Generative Adversarial Network (GAN)
 
 [Detectron2](https://github.com/facebookresearch/detectron2)
 
-### Facial Recognition
+## Facial Recognition
 
-### Deepfake
+## Deepfake
 
-### SLAM/3D Reconstruction
+Generative Adversarial Network (GAN)
+
+## SLAM/3D Reconstruction
 
 https://arxiv.org/abs/1712.07122
 
@@ -135,7 +131,7 @@ https://zhuanlan.zhihu.com/p/60954106
 
 https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07
 
-### Image and Video Depth Estimation
+## Image and Video Depth Estimation
 
 https://arxiv.org/abs/1411.6387
 
@@ -143,7 +139,7 @@ https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
 
 [Densepose](https://github.com/facebookresearch/DensePose)
 
-### Image and Video Content Understanding and Reasoning
+## Image and Video Content Understanding and Reasoning
 
 https://arxiv.org/abs/1807.09956
 
@@ -151,13 +147,29 @@ https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-
 
 # Natural Language Processing
 
-## Models
+## Pre-trained Models
 
 Bert
 
 XLNet
 
 GPT-2
+
+## Applications
+
+Speech Recognition, Text to Speech / Speech Synthesis
+
+Part-of-speech tagging, Dependecy Parsing, Named entity recognition
+
+Text Classification, Text Generation
+
+Question Answering
+
+Machine Translation
+
+Automatic Summarization
+
+Textual Entailment
 
 ## Framework and tools
 
@@ -167,11 +179,7 @@ https://spacy.io
 
 [Bert as Service](https://github.com/hanxiao/bert-as-service)
 
-## Applications
-
-Text generation
-
-# Integration of CV and NLP
+# Combination of CV and NLP
 
 https://arxiv.org/abs/1907.09358
 
@@ -180,8 +188,6 @@ https://arxiv.org/abs/1907.09358
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
 Art, Music Generation
-
-end-to-end speech to speech
 
 Maleware Detection
 
