@@ -26,6 +26,10 @@ RNN
 
 LSTM
 
+Attention
+
+Transformer
+
 ### Training
 
 Transfer Learning
