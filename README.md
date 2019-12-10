@@ -113,7 +113,11 @@ MobileNet
 
 ## Facial Recognition
 
-## Deepfake
+## Image Generation / Deepfake
+
+Auto Encoder
+
+Variational Auto Encoder
 
 Generative Adversarial Network (GAN)
 
@@ -221,7 +225,7 @@ https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 # Imitation Learning
 
-# Self-Supervised Learning
+# Self-Supervised Learning (Unsupervised Learning)
 
 # Life Long Learning
 
