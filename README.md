@@ -115,9 +115,9 @@ MobileNet
 
 ## Image Generation / Deepfake
 
-Auto Encoder
+Autoencoder
 
-Variational Auto Encoder
+Variational Autoencoder
 
 Generative Adversarial Network (GAN)
 
@@ -217,6 +217,11 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
+
+# Self-Supervised Learning (Unsupervised Learning)
+
+# Semi-Supervised Learning
+
 # Anomaly Detection
 
 # ML Attack
@@ -224,8 +229,6 @@ https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 # Reinforcement Learning
 
 # Imitation Learning
-
-# Self-Supervised Learning (Unsupervised Learning)
 
 # Life Long Learning
 
