@@ -115,6 +115,8 @@ MobileNet
 
 ## Image Generation / Deepfake
 
+### Self-Supervised Learning (Unsupervised Learning)
+
 Autoencoder
 
 Variational Autoencoder
@@ -151,7 +153,9 @@ https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-
 
 # Natural Language Processing
 
-## Pre-trained Models
+## Self-Supervised Learning (Unsupervised Learning)
+
+### Pre-trained Models
 
 Bert
 
@@ -218,9 +222,7 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 
-# Self-Supervised Learning (Unsupervised Learning)
-
-# Semi-Supervised Learning
+# Semi-Supervised Learning (mix labeled and unlabeled data)
 
 # Anomaly Detection
 
