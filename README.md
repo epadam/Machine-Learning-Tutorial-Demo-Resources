@@ -225,7 +225,7 @@ https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 # Life Long Learning
 
-# One Shot Learning / Zero Shot Learning
+# Few Shot Learning / One Shot Learning / Zero Shot Learning
 
 # Meta Learning (Learn to learn)
 
