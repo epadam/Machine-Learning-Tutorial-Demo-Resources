@@ -209,16 +209,25 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
+# Anomaly Detection
+
+# ML Attack
 
 # Reinforcement Learning
 
-Imitation Learning
-
-Q-Learning
+# Imitation Learning
 
 # Self-Supervised Learning
 
-# Self Driving
+# Life Long Learning
+
+# One Shot Learning / Zero Shot Learning
+
+# Meta Learning 
+
+# Network Compression
+
+# Self Driving Car
 
 ## Platform
 Carla
