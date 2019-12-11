@@ -221,22 +221,21 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
-
 # Semi-Supervised Learning (mix labeled and unlabeled data)
 
-# Anomaly Detection
+# Few Shot Learning / One Shot Learning / Zero Shot Learning
 
-# ML Attack
+# Life Long Learning
+
+# Meta Learning (Learn to learn)
 
 # Reinforcement Learning
 
 # Imitation Learning
 
-# Life Long Learning
+# Anomaly Detection
 
-# Few Shot Learning / One Shot Learning / Zero Shot Learning
-
-# Meta Learning (Learn to learn)
+# ML Attack
 
 # Network Compression
 
