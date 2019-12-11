@@ -153,6 +153,8 @@ https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-
 
 # Natural Language Processing
 
+Temporal Convolutional Network
+
 ## Self-Supervised Learning (Unsupervised Learning)
 
 ### Pre-trained Models
@@ -162,6 +164,9 @@ Bert
 XLNet
 
 GPT-2
+
+
+## Knowledge Graph
 
 ## Applications
 
