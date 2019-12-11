@@ -165,6 +165,7 @@ XLNet
 
 GPT-2
 
+T5
 
 ## Knowledge Graph
 
