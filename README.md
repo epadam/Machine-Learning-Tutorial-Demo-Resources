@@ -1,4 +1,4 @@
-# [Learning Resources](learning_resources.md)
+### [Learning Resources](learning_resources.md)
 
 What machine learning can be applied to?
 
