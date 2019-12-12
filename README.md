@@ -199,19 +199,19 @@ https://arxiv.org/abs/1907.09358
 
 # Other applications of machine learning
 
-⋅⋅* [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-⋅⋅* Art and Music Generation
+Art and Music Generation
 
-⋅⋅* Maleware Detection
+Maleware Detection
 
-⋅⋅* Fake Documents Detection
+Fake Documents Detection
 
-⋅⋅* [Auto Code Generator](https://github.com/tonybeltramelli/pix2code)
+[Auto Code Generator](https://github.com/tonybeltramelli/pix2code)
 
-⋅⋅* Code IntelliSense (code-completion)
+Code IntelliSense (code-completion)
 
-⋅⋅* Finding and fixing software bugs
+Finding and fixing software bugs
 
 https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/
 
@@ -256,6 +256,7 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 # Self Driving Car
 
 ## Platform
+
 Carla
 
 AirSim
@@ -268,5 +269,5 @@ https://getpocket.com/redirect?url=https%3A%2F%2Fmedium.com%2F%40maxdeutsch%2Fho
 
 https://kknews.cc/code/34aja5o.html
 
-### [Learning Resources](learning_resources.md)
+# [Learning Resources](learning_resources.md)
 
