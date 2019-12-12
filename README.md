@@ -1,9 +1,3 @@
-What machine learning can be applied to?
-
-image processing, computer vision, speech recognition, machine translation, art,
-medical imaging, medical information processing, robotics and control, bioinformatics, natural
-language processing, cybersecurity
-
 # Theory
 
 Regression
@@ -89,7 +83,7 @@ Embedding Projector (t-SNE)
 [TensorWatch](https://github.com/microsoft/tensorwatch)
 
 
-# Computer Vision
+# Image Processing and Computer Vision
 
 ## Image Classification
 
@@ -104,6 +98,8 @@ Morphnet
 MobileNet
 
 ## Object Detection
+
+YOLO3
 
 ## Semantic Image Segmentation
 
@@ -169,6 +165,14 @@ T5
 
 ## Knowledge Graph
 
+## Framework and tools
+
+[Bert as Service](https://github.com/hanxiao/bert-as-service)
+
+Huggingface
+
+https://spacy.io
+
 ## Applications
 
 Speech Recognition, Text to Speech (Speech Synthesis)
@@ -185,14 +189,6 @@ Automatic Summarization
 
 Textual Entailment
 
-## Framework and tools
-
-[Bert as Service](https://github.com/hanxiao/bert-as-service)
-
-Huggingface
-
-https://spacy.io
-
 # Integration of CV and NLP
 
 https://arxiv.org/abs/1907.09358
@@ -206,6 +202,8 @@ Art and Music Generation
 Maleware Detection
 
 Fake Documents Detection
+
+Cybersecurity
 
 [Auto Code Generator](https://github.com/tonybeltramelli/pix2code)
 
