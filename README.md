@@ -174,7 +174,7 @@ T5
 
 [Bert as Service](https://github.com/hanxiao/bert-as-service)
 
-Huggingface
+[Huggingface](https://github.com/huggingface)
 
 https://spacy.io
 
