@@ -42,7 +42,7 @@ Transformer
 
 ## Transfer Learning
 
-# Few Shot Learning / One Shot Learning / Zero Shot Learning
+## Few Shot Learning / One Shot Learning / Zero Shot Learning
 
 
 # Data pre-processing
@@ -91,7 +91,7 @@ Embedding Projector (t-SNE)
 
 # Computer Vision
 
-## Object Detection
+## Image Classification
 
 ResNet
 
@@ -102,6 +102,8 @@ EfficientNet
 Morphnet
 
 MobileNet
+
+## Object Detection
 
 ## Semantic Image Segmentation
 
