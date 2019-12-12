@@ -10,7 +10,7 @@ Enssemble Algorithms
 
 Support Vector Machine
 
-## Deep Learning
+### Deep Learning
 
 CNN
 
@@ -24,9 +24,11 @@ Transformer
 
 # ML Training
 
-## Loss Function
+## Basic Methods
 
-## Optimization
+### Loss Function
+
+### Optimization
 
 ## Supervised Learning
 
