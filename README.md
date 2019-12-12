@@ -38,8 +38,6 @@ Transformer
 
 ## Transfer Learning
 
-## Few Shot Learning / One Shot Learning / Zero Shot Learning
-
 
 # Data pre-processing
 
@@ -250,6 +248,8 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 # Life Long Learning
 
 # Meta Learning (Learn to learn)
+
+## Few Shot Learning / One Shot Learning / Zero Shot Learning
 
 # Anomaly Detection
 
