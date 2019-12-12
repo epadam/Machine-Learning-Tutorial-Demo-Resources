@@ -176,7 +176,7 @@ T5
 
 [Huggingface](https://github.com/huggingface)
 
-https://spacy.io
+[spaCy](https://spacy.io)
 
 ## Applications
 
