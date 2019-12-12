@@ -247,7 +247,7 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
 # Life Long Learning
 
-# Meta Learning (Learn to learn)
+# Meta Learning (Learning to learn)
 
 ## Few Shot Learning / One Shot Learning / Zero Shot Learning
 
