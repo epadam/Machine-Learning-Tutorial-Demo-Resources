@@ -1,5 +1,3 @@
-### [Learning Resources](learning_resources.md)
-
 What machine learning can be applied to?
 
 image processing, computer vision, speech recognition, machine translation, art,
@@ -18,7 +16,7 @@ Enssemble Algorithms
 
 Support Vector Machine
 
-### Deep Learning
+## Deep Learning
 
 CNN
 
@@ -30,15 +28,22 @@ Attention
 
 Transformer
 
-### Training
+# ML Training
 
-Transfer Learning
+## Loss Function
 
-# Explainable ML
+## Optimization
 
-[InterpretML](https://github.com/interpretml/interpret)
+## Supervised Learning
 
-[Google TCAV](https://github.com/tensorflow/tcav)
+## Semi-Supervised Learning (mix labeled and unlabeled data)
+
+## Self-Supervised Learning (Unsupervised Learning)
+
+## Transfer Learning
+
+# Few Shot Learning / One Shot Learning / Zero Shot Learning
+
 
 # Data pre-processing
 
@@ -63,23 +68,17 @@ https://arxiv.org/abs/1908.01862
 
 [Tensorflow Differential Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
 
-# Tools and Framework
+# Explainable ML
 
-[Tensorflow Models](https://github.com/tensorflow/models)
+[InterpretML](https://github.com/interpretml/interpret)
 
-[TF-Slim](https://github.com/google-research/tf-slim)
+[Google TCAV](https://github.com/tensorflow/tcav)
 
-[Magenta](https://magenta.tensorflow.org/)
-
-[LibROSA](https://librosa.github.io/librosa/)
-
-https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
-
-# Visualization
+## Visualization
 
 [What If Tool](https://pair-code.github.io/what-if-tool/)
 
-image heat map
+Image heat map
 
 Kernel Map Visualization
 
@@ -88,6 +87,7 @@ Intermiediate Layer Output Visualization
 Embedding Projector (t-SNE)
 
 [TensorWatch](https://github.com/microsoft/tensorwatch)
+
 
 # Computer Vision
 
@@ -111,11 +111,17 @@ MobileNet
 
 [Detectron2](https://github.com/facebookresearch/detectron2)
 
+## Image and Video Depth Estimation
+
+https://arxiv.org/abs/1411.6387
+
+https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
+
+[Densepose](https://github.com/facebookresearch/DensePose)
+
 ## Facial Recognition
 
-## Image Generation / Deepfake
-
-### Self-Supervised Learning (Unsupervised Learning)
+## Image Generation
 
 Autoencoder
 
@@ -137,14 +143,6 @@ https://zhuanlan.zhihu.com/p/60954106
 
 https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07
 
-## Image and Video Depth Estimation
-
-https://arxiv.org/abs/1411.6387
-
-https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
-
-[Densepose](https://github.com/facebookresearch/DensePose)
-
 ## Image and Video Content Understanding and Reasoning
 
 https://arxiv.org/abs/1807.09956
@@ -153,11 +151,11 @@ https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-
 
 # Natural Language Processing
 
+## Models
+
 Temporal Convolutional Network
 
-## Self-Supervised Learning (Unsupervised Learning)
-
-### Pre-trained Models
+### Pre-trained Language Models
 
 Bert
 
@@ -171,7 +169,7 @@ T5
 
 ## Applications
 
-Speech Recognition, Text to Speech / Speech Synthesis
+Speech Recognition, Text to Speech (Speech Synthesis)
 
 Part-of-speech tagging, Dependecy Parsing, Named entity recognition
 
@@ -187,39 +185,37 @@ Textual Entailment
 
 ## Framework and tools
 
+[Bert as Service](https://github.com/hanxiao/bert-as-service)
+
 Huggingface
 
 https://spacy.io
 
-[Bert as Service](https://github.com/hanxiao/bert-as-service)
-
-# Combination of CV and NLP
+# Integration of CV and NLP
 
 https://arxiv.org/abs/1907.09358
 
-# Other Applications
+# Other applications of machine learning
 
-[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+⋅⋅* [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-Art, Music Generation
+⋅⋅* Art and Music Generation
 
-Maleware Detection
+⋅⋅* Maleware Detection
 
-Auto Code Generator
-https://github.com/tonybeltramelli/pix2code
+⋅⋅* Fake Documents Detection
 
-Code IntelliSense (code-completion)
+⋅⋅* [Auto Code Generator](https://github.com/tonybeltramelli/pix2code)
 
-Finding and fixing software bugs
+⋅⋅* Code IntelliSense (code-completion)
+
+⋅⋅* Finding and fixing software bugs
+
 https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/
-
-Fake Documents Detection
-
-CodeGuru from AWS
 
 # Deployment
 
-Tensorflow in production (Estimator, Serving)
+Tensorflow in production (TF Estimator, TF Serving)
 
 Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
@@ -227,23 +223,33 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
-# Semi-Supervised Learning (mix labeled and unlabeled data)
+# Tools and Framework
 
-# Few Shot Learning / One Shot Learning / Zero Shot Learning
+[Tensorflow Models](https://github.com/tensorflow/models)
+
+[TF-Slim](https://github.com/google-research/tf-slim)
+
+[Magenta](https://magenta.tensorflow.org/)
+
+[LibROSA](https://librosa.github.io/librosa/)
+
+https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
+
+
+# Network Compression
+
+# Reinforcement Learning
+
+## Imitation Learning
 
 # Life Long Learning
 
 # Meta Learning (Learn to learn)
 
-# Reinforcement Learning
-
-# Imitation Learning
-
 # Anomaly Detection
 
 # ML Attack
 
-# Network Compression
 
 # Self Driving Car
 
@@ -259,3 +265,6 @@ https://getpocket.com/redirect?url=https%3A%2F%2Fmedium.com%2F%40maxdeutsch%2Fho
 # Reference
 
 https://kknews.cc/code/34aja5o.html
+
+### [Learning Resources](learning_resources.md)
+
