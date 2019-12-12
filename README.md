@@ -82,8 +82,19 @@ Embedding Projector (t-SNE)
 
 [TensorWatch](https://github.com/microsoft/tensorwatch)
 
+# Image and Video Processing
 
-# Image Processing and Computer Vision
+## Image Generation
+
+Autoencoder
+
+Variational Autoencoder
+
+Generative Adversarial Network (GAN)
+
+## Video Compression
+
+# Computer Vision
 
 ## Image Classification
 
@@ -119,14 +130,6 @@ https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
 
 ## Facial Recognition
 
-## Image Generation
-
-Autoencoder
-
-Variational Autoencoder
-
-Generative Adversarial Network (GAN)
-
 ## SLAM/3D Reconstruction
 
 https://arxiv.org/abs/1712.07122
@@ -141,7 +144,7 @@ https://zhuanlan.zhihu.com/p/60954106
 
 https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07
 
-## Image and Video Content Understanding and Reasoning
+## Image and Video Content Understanding, Reasoning and Analysis
 
 https://arxiv.org/abs/1807.09956
 
