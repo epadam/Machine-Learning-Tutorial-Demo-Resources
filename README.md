@@ -238,7 +238,6 @@ https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
-
 # Network Compression
 
 # Reinforcement Learning
@@ -247,6 +246,8 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
 # Life Long Learning
 
+# Few Shot Learning / One Shot Learning / Zero Shot Learning
+
 # Meta Learning (Learning to learn)
 
 ## Metric-Based
@@ -254,8 +255,6 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 ## Model-Based
 
 ## Optimization-Based
-
-# Few Shot Learning / One Shot Learning / Zero Shot Learning
 
 # Anomaly Detection
 
