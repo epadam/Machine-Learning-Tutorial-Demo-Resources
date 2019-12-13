@@ -249,7 +249,13 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
 # Meta Learning (Learning to learn)
 
-## Few Shot Learning / One Shot Learning / Zero Shot Learning
+## Metric-Based
+
+## Model-Based
+
+## Optimization-Based
+
+# Few Shot Learning / One Shot Learning / Zero Shot Learning
 
 # Anomaly Detection
 
