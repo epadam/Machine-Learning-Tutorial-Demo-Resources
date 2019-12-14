@@ -1,4 +1,8 @@
-# Theory
+# Machine Learning All in One
+
+For people who don't have time but want to have a quick overview of the development in machine learning 
+
+## Theory
 
 Regression
 
