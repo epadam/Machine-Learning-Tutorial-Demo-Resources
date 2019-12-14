@@ -42,6 +42,7 @@ Transformer
 
 ## Transfer Learning
 
+## Federated Learning
 
 # Data pre-processing
 
