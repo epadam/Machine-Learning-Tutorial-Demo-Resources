@@ -165,11 +165,15 @@ Temporal Convolutional Network
 
 Bert
 
+UniLM
+
 XLNet
 
 GPT-2
 
 T5
+
+
 
 ## Knowledge Graph
 
