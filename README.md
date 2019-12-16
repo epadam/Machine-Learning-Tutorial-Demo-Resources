@@ -121,6 +121,8 @@ MobileNet
 
 ## Object Detection
 
+Feature Pyramid Networks
+
 YOLO3
 
 ## Semantic Image Segmentation
