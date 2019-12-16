@@ -40,9 +40,15 @@ Transformer
 
 ## Self-Supervised Learning (Unsupervised Learning)
 
+Self-supervised learning means training the models without labeled data. 
+
 ## Transfer Learning
 
+Transfer learning dominates the machine learning today. CV mostly benefit from supervised learning and transfer the features learned to similar tasks. NLP on the other hands benefit more from self-supervised learning. These pre-trained models show incredible performances in many tasks, such as Bert, GPT-2.
+
 ## Federated Learning
+
+Federated learning can train the model without upload the data to a single machine and keeps the data at local machine.
 
 # Data pre-processing
 
