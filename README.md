@@ -173,8 +173,6 @@ GPT-2
 
 T5
 
-
-
 ## Knowledge Graph
 
 ## Framework and tools
@@ -251,25 +249,27 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
 # Neural Architecture Search
 
-# Reinforcement Learning
-
-## Imitation Learning
-
-# Life Long Learning
-
-# Few Shot Learning / One Shot Learning / Zero Shot Learning
-
-# Meta Learning (Learning to learn)
-
-## Metric-Based
-
-## Model-Based
-
-## Optimization-Based
-
 # Anomaly Detection
 
 # ML Attack
+
+# Still in Research Phase
+
+## Reinforcement Learning
+
+### Imitation Learning (supervised learning)
+
+## Life Long Learning
+
+## Few Shot Learning / One Shot Learning / Zero Shot Learning
+
+## Meta Learning (Learning to learn)
+
+### Metric-Based
+
+### Model-Based
+
+### Optimization-Based
 
 
 # Self Driving Car
