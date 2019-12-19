@@ -60,6 +60,10 @@ Transformer
 
 Batch Normalization
 
+### Tools
+
+[gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing)
+
 ## Supervised Learning
 
 ## Semi-Supervised Learning (mix labeled and unlabeled data)
@@ -95,6 +99,8 @@ Papers and Blogs:
 [Semi-Automatic Labeling for Deep Learning in Robotics](https://arxiv.org/abs/1908.01862)
 
 ## Data Augmentation
+
+[Augmentor](https://github.com/mdbloice/Augmentor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 [DALI](https://github.com/NVIDIA/DALI)
 
@@ -138,22 +144,33 @@ Intermiediate Layer Output Visualization
 
 # Image and Video Processing
 
+## Image/Video Analysis
+
+[DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+
 ## 3D Rendering
 
 [TensorFlow Graphics](https://github.com/tensorflow/graphics)
-
 
 ## Image/Video Generation
 
 [deepfakes_faceswap](https://github.com/deepfakes/faceswap)
 
+[style2paints](https://github.com/lllyasviel/style2paints)
+
 [CycleGAN](https://junyanz.github.io/CycleGAN/)
 
 [pix2pix](https://phillipi.github.io/pix2pix/)
 
+[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
 [Super Resolution](https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5)
 
 [Super Resolution2](https://github.com/open-mmlab/mmsr)
+
+[Deep-Exemplar-based-Colorization](https://github.com/msracver/Deep-Exemplar-based-Colorization)
+
+[Deep image prior](https://dmitryulyanov.github.io/deep_image_prior)
 
 [video-object-removal](https://github.com/zllrunning/video-object-removal)
 
@@ -196,9 +213,13 @@ Faster R-CNN
 
 [YOLO3](https://pjreddie.com/darknet/yolo/)
 
+[DIoU-darknet](https://github.com/Zzh-tju/DIoU-darknet)
+
 [Google object detection api](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 [SNIPER](https://github.com/mahyarnajibi/SNIPER)
+
+[NCRF](https://github.com/baidu-research/NCRF)
 
 ## Semantic Image Segmentation
 
@@ -218,6 +239,8 @@ Faster R-CNN
 
 [ShapeMask](https://cloud.google.com/blog/products/ai-machine-learning/high-performance-large-scale-instance-segmentation-with-cloud-tpus) 
 
+[yolact](https://github.com/dbolya/yolact)
+
 ## Image and Video Depth Estimation
 
 [Densepose](https://github.com/facebookresearch/DensePose)
@@ -227,6 +250,10 @@ Papers:
 [Deep Convolutional Neural Fields for Depth Estimation from a Single Image](https://arxiv.org/abs/1411.6387)
 
 [Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction](https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html)
+
+## Pose Detection
+
+[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 ## All in One
 
@@ -248,8 +275,6 @@ Papers:
 [Face Recognition](https://github.com/ageitgey/face_recognition)
 
 ## SLAM/3D Reconstruction
-
-[Med3D: Transfer Learning for 3D Medical Image Analysis](https://github.com/Tencent/MedicalNet)
 
 Papers:
 
@@ -304,9 +329,11 @@ Automatic Summarization
 
 Textual Entailment
 
-Dialog System
+Dialog System:
 
 [DeepPavlov](https://github.com/deepmipt/DeepPavlov)
+
+[ParlAI](https://github.com/facebookresearch/ParlAI)
 
 ## Knowledge Graph
 
@@ -323,6 +350,10 @@ Papers:
 [DeepSpeech](https://github.com/mozilla/DeepSpeech)
 
 [Wav2letter++](https://github.com/facebookresearch/wav2letter)
+
+On-device wake word detection:
+
+[porcupine](https://github.com/Picovoice/porcupine)
 
 ## Speech Synthesis (TTS)
 
@@ -362,6 +393,8 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 [Mace](https://github.com/XiaoMi/mace)
 
+[SOD](https://github.com/symisc/sod)
+
 Blogs:
 
 [A scalable Keras + deep learning REST API](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
@@ -372,9 +405,13 @@ Blogs:
 
 [TF-Slim](https://github.com/google-research/tf-slim)
 
-[LibROSA](https://librosa.github.io/librosa/)
+[MMdnn](https://github.com/Microsoft/MMdnn)
 
 [tfpyth](https://github.com/BlackHC/tfpyth)
+
+# Hardware Acceleration
+
+[GLOW](https://github.com/pytorch/glow)
 
 # Other Applications of Machine Learning
 
@@ -383,6 +420,8 @@ Blogs:
 Emotion Recognition/Generation, Sentiment Analysis
 
 Art and Music Generation:
+
+[LibROSA](https://librosa.github.io/librosa/)
 
 [Magenta](https://magenta.tensorflow.org/)
 
@@ -406,7 +445,15 @@ Code IntelliSense (code-completion)
 
 [Deep universal probabilistic programming](https://github.com/pyro-ppl/pyro)
 
+Medical:
+
+[NiftyNet](https://github.com/NifTK/NiftyNet)
+
+[Med3D: Transfer Learning for 3D Medical Image Analysis](https://github.com/Tencent/MedicalNet)
+
 Construction
+
+[Virtual Assistant](https://github.com/DragonComputer/Dragonfire)
 
 # Network Compression
 
@@ -428,30 +475,16 @@ Papers:
 
 [Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
 
-# Still in Research Phase
 
-## Reinforcement Learning
+# Reinforcement Learning
 
 Traffic Control
 
-### Imitation Learning (supervised learning)
+## Imitation Learning (supervised learning)
 
 Papers:
 
 [Global overview of Imitation Learning](https://arxiv.org/abs/1801.06503)
-
-## Life Long Learning
-
-## Few Shot Learning / One Shot Learning / Zero Shot Learning
-
-## Meta Learning (Learning to learn)
-
-### Metric-Based
-
-### Model-Based
-
-### Optimization-Based
-
 
 # Robotics
 
@@ -475,11 +508,23 @@ Blogs:
 
 Carla
 
-AirSim
+[AirSim](https://github.com/Microsoft/AirSim)
 
 Apollo
 
+# Academic Focus
 
+## Life Long Learning
+
+## Few Shot Learning / One Shot Learning / Zero Shot Learning
+
+## Meta Learning (Learning to learn)
+
+### Metric-Based
+
+### Model-Based
+
+### Optimization-Based
 
 # Tips
 
@@ -490,5 +535,9 @@ https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 https://kknews.cc/code/34aja5o.html
 
 # [Learning Resources](learning_resources.md)
+
+[TensorFlow Hub](https://github.com/tensorflow/hub)
+
+[tensor2tensor](https://github.com/tensorflow/tensor2tensor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 # Dataset Resources
