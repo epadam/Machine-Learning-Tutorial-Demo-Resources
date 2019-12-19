@@ -153,7 +153,8 @@ MobileNet
 
 EfficientNet
 
-Pap
+Papers:
+
 
 
 ## Object Detection
@@ -313,7 +314,7 @@ Blogs:
 
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-Emotion Recognition
+Emotion Recognition/Generation
 
 Art and Music Generation:
 
@@ -350,6 +351,8 @@ Papers:
 # Anomaly Detection
 
 # ML Attack
+
+[Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
 
 # Still in Research Phase
 
