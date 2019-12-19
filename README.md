@@ -123,7 +123,9 @@ MobileNet
 
 Feature Pyramid Networks
 
-YOLO3
+[YOLO3](https://pjreddie.com/darknet/yolo/)
+
+[Google object detection api](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 ## Semantic Image Segmentation
 
