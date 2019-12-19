@@ -34,6 +34,8 @@ Variational Autoencoder
 
 Generative Adversarial Network (GAN)
 
+VAE-GAN
+
 [Graph Networks](https://arxiv.org/abs/1806.01261)
 
 RNN
@@ -54,13 +56,17 @@ Transformer
 
 ### Optimization
 
+### Regularization
+
+Batch Normalization
+
 ## Supervised Learning
 
 ## Semi-Supervised Learning (mix labeled and unlabeled data)
 
 ## Self-Supervised Learning (Unsupervised Learning)
 
-Self-supervised learning means training the models without labeled data. 
+Self-supervised learning means training the models without labeled data. AutoEncoder, GAN are examples in CV, while pre-trained model like Bert is example in NLP.
 
 ## Transfer Learning
 
@@ -207,6 +213,11 @@ Papers:
 
 [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
 
+## Object tracking
+
+## Action Recognition
+
+
 ## Facial Recognition
 
 [OpenFace](https://cmusatyalab.github.io/openface/)
@@ -330,7 +341,7 @@ Blogs:
 
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-Emotion Recognition/Generation
+Emotion Recognition/Generation, Sentiment Analysis
 
 Art and Music Generation:
 
