@@ -116,14 +116,14 @@ Intermiediate Layer Output Visualization
 
 # Image and Video Processing
 
-## Image Generation
+## Image/Video Generation
 
 [deepfakes_faceswap](https://github.com/deepfakes/faceswap)
 
 Papers:
 
 
-## Video Compression
+## Image/Video Compression
 
 Papers:
 
@@ -142,6 +142,8 @@ Morphnet
 MobileNet
 
 EfficientNet
+
+Pap
 
 
 ## Object Detection
@@ -187,6 +189,8 @@ Papers:
 [Face Recognition](https://github.com/ageitgey/face_recognition)
 
 ## SLAM/3D Reconstruction
+
+[Med3D: Transfer Learning for 3D Medical Image Analysis](https://github.com/Tencent/MedicalNet)
 
 Papers:
 
@@ -311,11 +315,15 @@ Code IntelliSense (code-completion)
 
 [Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
 
+Construction
+
 # Network Compression
 
 [Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
 
 # Neural Architecture Search (NAS)
+
+[AutoKeras](https://autokeras.com/)
 
 Papers:
 
@@ -329,7 +337,11 @@ Papers:
 
 ## Reinforcement Learning
 
-### Imitation Learning (supervised learning)
+Traffic Control
+
+### Imitation Learning (supervised learning
+
+Robotics
 
 ## Life Long Learning
 
