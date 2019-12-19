@@ -296,6 +296,8 @@ Papers:
 
 ## Image and Video Content Understanding, Reasoning and Analysis
 
+Recognize Text in image or Video
+
 Papers and Blogs:
 
 [Pythia v0.1: the Winning Entry to the VQA Challenge 2018](https://arxiv.org/abs/1807.09956)
@@ -376,8 +378,6 @@ Traffic Control
 
 ### Imitation Learning (supervised learning
 
-Robotics
-
 ## Life Long Learning
 
 ## Few Shot Learning / One Shot Learning / Zero Shot Learning
@@ -390,6 +390,12 @@ Robotics
 
 ### Optimization-Based
 
+
+# Robotics
+
+Papers:
+
+[End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702)
 
 # Self Driving Car
 
