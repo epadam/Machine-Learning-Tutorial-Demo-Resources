@@ -207,14 +207,19 @@ Textual Entailment
 
 ## Speech Recognition (ASR)
 
-Wav2letter++
+[DeepSpeech](https://github.com/mozilla/DeepSpeech)
+
+[Wav2letter++](https://github.com/facebookresearch/wav2letter)
 
 ## Speech Synthesis (TTS)
 
-WaveNet 
+[WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) 
 
+[FastSpeech](https://arxiv.org/abs/1905.09263)
 
 # Integration of CV and NLP
+
+Visual Question Answering
 
 [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358)
 
