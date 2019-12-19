@@ -32,6 +32,8 @@ Variational Autoencoder
 
 Generative Adversarial Network (GAN)
 
+[Graph Networks](https://arxiv.org/abs/1806.01261)
+
 RNN
 
 LSTM
@@ -119,6 +121,14 @@ Intermiediate Layer Output Visualization
 ## Image/Video Generation
 
 [deepfakes_faceswap](https://github.com/deepfakes/faceswap)
+
+[CycleGAN](https://junyanz.github.io/CycleGAN/)
+
+[pix2pix](https://phillipi.github.io/pix2pix/)
+
+[Super Resolution](https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5)
+
+[Super Resolution2](https://github.com/open-mmlab/mmsr)
 
 Papers:
 
@@ -263,6 +273,10 @@ Papers:
 
 [FastSpeech](https://arxiv.org/abs/1905.09263)
 
+## Voice Conversion
+
+[deep-voice-conversion](https://github.com/andabi/deep-voice-conversion)
+
 # Integration of CV and NLP
 
 ## Image and Video Content Understanding, Reasoning and Analysis
@@ -299,9 +313,13 @@ Blogs:
 
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
+Emotion Recognition
+
 Art and Music Generation:
 
 [Magenta](https://magenta.tensorflow.org/)
+
+Fraud Detection
 
 Maleware Detection
 
