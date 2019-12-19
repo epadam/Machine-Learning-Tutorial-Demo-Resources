@@ -181,19 +181,7 @@ GPT-2
 
 T5
 
-## Knowledge Graph
-
-## Framework and tools
-
-[Bert as Service](https://github.com/hanxiao/bert-as-service)
-
-[Huggingface](https://github.com/huggingface)
-
-[spaCy](https://spacy.io)
-
-## Applications
-
-Speech Recognition, Text to Speech (Speech Synthesis)
+#### Applications
 
 Part-of-speech tagging, Dependecy Parsing, Named entity recognition
 
@@ -207,9 +195,28 @@ Automatic Summarization
 
 Textual Entailment
 
+## Knowledge Graph
+
+## Framework and tools
+
+[Bert as Service](https://github.com/hanxiao/bert-as-service)
+
+[Huggingface](https://github.com/huggingface)
+
+[spaCy](https://spacy.io)
+
+## Speech Recognition (ASR)
+
+Wav2letter++
+
+## Speech Synthesis (TTS)
+
+WaveNet 
+
+
 # Integration of CV and NLP
 
-https://arxiv.org/abs/1907.09358
+[Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358)
 
 # Other applications of machine learning
 
