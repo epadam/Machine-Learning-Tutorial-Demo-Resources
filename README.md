@@ -72,6 +72,9 @@ Batch Normalization
 
 Self-supervised learning means training the models without labeled data. AutoEncoder, GAN are examples in CV, while pre-trained model like Bert is example in NLP.
 
+[UGATIT](https://github.com/taki0112/UGATIT?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
 ## Transfer Learning
 
 Transfer learning dominates the machine learning today. CV mostly benefit from supervised learning and transfer the features learned to similar tasks. NLP on the other hands benefit more from self-supervised learning. These pre-trained models show incredible performances in many tasks, such as Bert, GPT-2.
@@ -101,6 +104,8 @@ Papers and Blogs:
 ## Data Augmentation
 
 [Augmentor](https://github.com/mdbloice/Augmentor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+[albumentations](https://github.com/albumentations-team/albumentations)
 
 [DALI](https://github.com/NVIDIA/DALI)
 
@@ -307,13 +312,15 @@ GPT-2
 
 T5
 
-### Framework and tools
+### Framework and Tools
 
 [Bert as Service](https://github.com/hanxiao/bert-as-service)
 
 [Huggingface](https://github.com/huggingface)
 
 [spaCy](https://spacy.io)
+
+[nlp-architect](https://github.com/NervanaSystems/nlp-architect)
 
 ### Applications
 
@@ -350,6 +357,8 @@ Papers:
 [DeepSpeech](https://github.com/mozilla/DeepSpeech)
 
 [Wav2letter++](https://github.com/facebookresearch/wav2letter)
+
+[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 On-device wake word detection:
 
@@ -445,15 +454,19 @@ Code IntelliSense (code-completion)
 
 [Deep universal probabilistic programming](https://github.com/pyro-ppl/pyro)
 
-Medical:
+Construction
+
+[Virtual Assistant](https://github.com/DragonComputer/Dragonfire)
+
+[An implementation of a deep learning recommendation model (DLRM)](https://github.com/facebookresearch/dlrm?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+## Medical:
 
 [NiftyNet](https://github.com/NifTK/NiftyNet)
 
 [Med3D: Transfer Learning for 3D Medical Image Analysis](https://github.com/Tencent/MedicalNet)
 
-Construction
-
-[Virtual Assistant](https://github.com/DragonComputer/Dragonfire)
+[deepvariant](https://github.com/google/deepvariant)
 
 # Network Compression
 
