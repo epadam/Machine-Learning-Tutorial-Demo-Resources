@@ -96,6 +96,10 @@ Papers:
 
 [Google TCAV](https://github.com/tensorflow/tcav)
 
+Papers:
+
+[Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069)
+
 ## Visualization
 
 [What If Tool](https://pair-code.github.io/what-if-tool/)
@@ -238,6 +242,10 @@ Automatic Summarization
 Textual Entailment
 
 ## Knowledge Graph
+
+Papers:
+
+[Knowledge Graphs in Natural Language Processing @ACL 2019](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
 ## Speech Recognition (ASR)
 
