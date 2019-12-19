@@ -162,6 +162,7 @@ EfficientNet
 
 Papers:
 
+[Active Generative Adversarial Network for Image Classification](https://arxiv.org/abs/1906.07133)
 
 
 ## Object Detection
@@ -177,6 +178,8 @@ Papers:
 [DeepLab V3](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 ## Instance Segmentation
+
+[MMDetection](https://github.com/open-mmlab/mmdetection)
 
 [Mask R-CNN](https://github.com/matterport/Mask_RCNN)
 
