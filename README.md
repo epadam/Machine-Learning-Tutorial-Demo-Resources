@@ -78,10 +78,6 @@ Federated learning can train the model without upload the data to a single machi
 
 # Data pre-processing
 
-Spark
-
-Neo4j
-
 ## Data Labeling
 
 [Snorkel](https://www.snorkel.org/)
@@ -92,11 +88,19 @@ Papers:
 
 [Semi-Automatic Labeling for Deep Learning in Robotics](https://arxiv.org/abs/1908.01862)
 
+## Data Augmentation
+
 ## Data Privacy
 
 [Differential Privacy](https://github.com/google/differential-privacy)
 
 [Tensorflow Differential Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
+
+## Tools
+
+Spark
+
+Neo4j
 
 # Explainable ML
 
@@ -107,6 +111,8 @@ Papers:
 Papers:
 
 [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069)
+
+[TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing](https://arxiv.org/abs/1807.10875)
 
 ## Visualization
 
@@ -141,12 +147,15 @@ Intermiediate Layer Output Visualization
 
 [Super Resolution2](https://github.com/open-mmlab/mmsr)
 
-TensorFlow Graphics
+[TensorFlow Graphics](https://github.com/tensorflow/graphics)
 
 Papers:
 
+[Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1807.10875)
 
 ## Image/Video Compression
+
+[generative-compression](https://github.com/Justin-Tan/generative-compression)
 
 Papers:
 
@@ -287,6 +296,8 @@ Papers:
 
 [Knowledge Graphs in Natural Language Processing @ACL 2019](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
+## Speaker Diarization
+
 ## Speech Recognition (ASR)
 
 [DeepSpeech](https://github.com/mozilla/DeepSpeech)
@@ -308,6 +319,8 @@ Papers:
 ## Image and Video Content Understanding, Reasoning and Analysis
 
 Recognize Text in image or Video
+
+[text-to-video-generation](https://antonia.space/text-to-video-generation)
 
 Papers and Blogs:
 
@@ -355,6 +368,8 @@ Maleware Detection
 
 Fake Documents Detection
 
+[Defect Detection](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
+
 Cybersecurity
 
 [Auto Code Generator](https://github.com/tonybeltramelli/pix2code)
@@ -389,7 +404,11 @@ Papers:
 
 Traffic Control
 
-### Imitation Learning (supervised learning
+### Imitation Learning (supervised learning)
+
+Papers:
+
+[Global overview of Imitation Learning](https://arxiv.org/abs/1801.06503)
 
 ## Life Long Learning
 
@@ -410,7 +429,17 @@ Papers:
 
 [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702)
 
+[Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations](https://arxiv.org/abs/1805.07054)
+
 # Self Driving Car
+
+Blogs:
+
+[End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
+
+[Pixel-Perfect Perception: How AI Helps Autonomous Vehicles See Outside the Box](https://blogs.nvidia.com/blog/2019/10/23/drive-labs-panoptic-segmentation/)
+
+[How to build a self-driving car in one month](https://getpocket.com/redirect?url=https%3A%2F%2Fmedium.com%2F%40maxdeutsch%2Fhow-to-build-a-self-driving-car-in-one-month-d52df48f5b07)
 
 ## Platform
 
@@ -420,7 +449,7 @@ AirSim
 
 Apollo
 
-https://getpocket.com/redirect?url=https%3A%2F%2Fmedium.com%2F%40maxdeutsch%2Fhow-to-build-a-self-driving-car-in-one-month-d52df48f5b07
+
 
 # Tips
 
