@@ -200,6 +200,8 @@ Faster R-CNN
 
 [DeepLab V3](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
+[body-pix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
+
 ## Instance Segmentation
 
 [MMDetection](https://github.com/open-mmlab/mmdetection)
