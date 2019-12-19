@@ -153,8 +153,6 @@ Intermiediate Layer Output Visualization
 
 [Super Resolution2](https://github.com/open-mmlab/mmsr)
 
-[TensorFlow Graphics](https://github.com/tensorflow/graphics)
-
 Papers:
 
 [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1807.10875)
@@ -305,6 +303,8 @@ Papers:
 ## Speaker Diarization
 
 ## Speech Recognition (ASR)
+
+[Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech)
 
 [DeepSpeech](https://github.com/mozilla/DeepSpeech)
 
