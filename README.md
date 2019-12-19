@@ -84,7 +84,13 @@ Federated learning can train the model without upload the data to a single machi
 
 [Snorkel DryBell](https://arxiv.org/abs/1812.00417)
 
-Papers:
+Papers and Blogs:
+
+[Annotating Object Instances with a Polygon-RNN](http://www.cs.toronto.edu/polyrnn/poly_cvpr17/)
+
+[Fluid Annotation: An Exploratory Machine Learning–Powered Interface for Faster Image Annotation](https://ai.googleblog.com/2018/10/fluid-annotation-exploratory-machine.html)
+
+[Demo](https://fluidann.appspot.com/)
 
 [Semi-Automatic Labeling for Deep Learning in Robotics](https://arxiv.org/abs/1908.01862)
 
