@@ -131,7 +131,11 @@ YOLO3
 
 [Auto DeepLab](https://arxiv.org/abs/1901.02985)
 
-[Detectron2](https://github.com/facebookresearch/detectron2)
+## Instance Segmentation
+
+[Mask R-CNN](https://github.com/matterport/Mask_RCNN)
+
+[ShapeMask](https://cloud.google.com/blog/products/ai-machine-learning/high-performance-large-scale-instance-segmentation-with-cloud-tpus) 
 
 ## Image and Video Depth Estimation
 
@@ -140,6 +144,11 @@ https://arxiv.org/abs/1411.6387
 https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
 
 [Densepose](https://github.com/facebookresearch/DensePose)
+
+## All in One
+
+[Detectron2](https://github.com/facebookresearch/detectron2)
+
 
 ## Facial Recognition
 
