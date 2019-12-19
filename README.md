@@ -2,7 +2,7 @@
 
 For people who don't have time but want to have a quick overview of the development in machine learning 
 
-# Theory
+# Theory and Basic Models
 
 Regression
 
@@ -18,9 +18,23 @@ Support Vector Machine
 
 CNN
 
+Feature Pyramid Networks
+
+Graph Convolutional Networks
+
+Fully Convolutional Networks
+
+Autoencoder
+
+Variational Autoencoder
+
+Generative Adversarial Network (GAN)
+
 RNN
 
 LSTM
+
+Temporal Convolutional Network
 
 Attention
 
@@ -64,8 +78,9 @@ Neo4j
 
 [Snorkel DryBell](https://arxiv.org/abs/1812.00417)
 
-Other Papers:
-https://arxiv.org/abs/1908.01862
+Papers:
+
+[Semi-Automatic Labeling for Deep Learning in Robotics](https://arxiv.org/abs/1908.01862)
 
 ## Data Privacy
 
@@ -97,31 +112,33 @@ Embedding Projector (t-SNE)
 
 ## Image Generation
 
-Autoencoder
+[deepfakes_faceswap](https://github.com/deepfakes/faceswap)
 
-Variational Autoencoder
+Papers:
 
-Generative Adversarial Network (GAN)
 
 ## Video Compression
+
+Papers:
 
 # Computer Vision
 
 ## Image Classification
 
+VGG
+
 ResNet
 
 DenseNet
-
-EfficientNet
 
 Morphnet
 
 MobileNet
 
-## Object Detection
+EfficientNet
 
-Feature Pyramid Networks
+
+## Object Detection
 
 [YOLO3](https://pjreddie.com/darknet/yolo/)
 
@@ -131,7 +148,7 @@ Feature Pyramid Networks
 
 [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
 
-[Auto DeepLab](https://arxiv.org/abs/1901.02985)
+[DeepLab V3](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 ## Instance Segmentation
 
@@ -141,22 +158,35 @@ Feature Pyramid Networks
 
 ## Image and Video Depth Estimation
 
-https://arxiv.org/abs/1411.6387
-
-https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
-
 [Densepose](https://github.com/facebookresearch/DensePose)
+
+Papers:
+
+[Deep Convolutional Neural Fields for Depth Estimation from a Single Image](https://arxiv.org/abs/1411.6387)
+
+[Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction](https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html)
 
 ## All in One
 
 [Detectron2](https://github.com/facebookresearch/detectron2)
 
+Papers:
+
+[Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
 
 ## Facial Recognition
 
+[OpenFace](https://cmusatyalab.github.io/openface/)
+
+[Face Recognition](https://github.com/ageitgey/face_recognition)
+
 ## SLAM/3D Reconstruction
 
+Papers:
+
 https://arxiv.org/abs/1712.07122
+
+Resources:
 
 https://zhuanlan.zhihu.com/p/74085115
 
@@ -168,17 +198,8 @@ https://zhuanlan.zhihu.com/p/60954106
 
 https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07
 
-## Image and Video Content Understanding, Reasoning and Analysis
-
-https://arxiv.org/abs/1807.09956
-
-https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176
 
 # Natural Language Processing
-
-## Models
-
-Temporal Convolutional Network
 
 ### Pre-trained Language Models
 
@@ -192,9 +213,17 @@ GPT-2
 
 T5
 
-#### Applications
+### Framework and tools
 
-Part-of-speech tagging, Dependecy Parsing, Named entity recognition
+[Bert as Service](https://github.com/hanxiao/bert-as-service)
+
+[Huggingface](https://github.com/huggingface)
+
+[spaCy](https://spacy.io)
+
+### Applications
+
+Part-of-speech Tagging, Dependecy Parsing, Named Entity Recognition
 
 Text Classification, Text Generation
 
@@ -207,14 +236,6 @@ Automatic Summarization
 Textual Entailment
 
 ## Knowledge Graph
-
-## Framework and tools
-
-[Bert as Service](https://github.com/hanxiao/bert-as-service)
-
-[Huggingface](https://github.com/huggingface)
-
-[spaCy](https://spacy.io)
 
 ## Speech Recognition (ASR)
 
@@ -230,15 +251,43 @@ Textual Entailment
 
 # Integration of CV and NLP
 
-Visual Question Answering
+## Image and Video Content Understanding, Reasoning and Analysis
+
+Papers and Blogs:
+
+[Pythia v0.1: the Winning Entry to the VQA Challenge 2018](https://arxiv.org/abs/1807.09956)
 
 [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358)
 
-# Other applications of machine learning
+[Hello, World: Building an AI that understands the world through video](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
+
+# Deployment
+
+Tensorflow in production (TF Estimator, TF Serving)
+
+Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
+
+[MLflow](https://mlflow.org/)
+
+Blogs:
+
+[A scalable Keras + deep learning REST API](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
+
+# Tools and Frameworks
+
+[Tensorflow Models](https://github.com/tensorflow/models)
+
+[TF-Slim](https://github.com/google-research/tf-slim)
+
+[LibROSA](https://librosa.github.io/librosa/)
+
+# Other Applications of Machine Learning
 
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-Art and Music Generation
+Art and Music Generation:
+
+[Magenta](https://magenta.tensorflow.org/)
 
 Maleware Detection
 
@@ -250,35 +299,17 @@ Cybersecurity
 
 Code IntelliSense (code-completion)
 
-Finding and fixing software bugs
-
-https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/
-
-# Deployment
-
-Tensorflow in production (TF Estimator, TF Serving)
-
-Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
-
-[MLflow](https://mlflow.org/)
-
-https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
-
-# Tools and Framework
-
-[Tensorflow Models](https://github.com/tensorflow/models)
-
-[TF-Slim](https://github.com/google-research/tf-slim)
-
-[Magenta](https://magenta.tensorflow.org/)
-
-[LibROSA](https://librosa.github.io/librosa/)
-
-https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
+[Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
 
 # Network Compression
 
-# Neural Architecture Search
+[Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
+
+# Neural Architecture Search (NAS)
+
+Papers:
+
+[Auto DeepLab](https://arxiv.org/abs/1901.02985)
 
 # Anomaly Detection
 
@@ -314,6 +345,10 @@ AirSim
 Apollo
 
 https://getpocket.com/redirect?url=https%3A%2F%2Fmedium.com%2F%40maxdeutsch%2Fhow-to-build-a-self-driving-car-in-one-month-d52df48f5b07
+
+# Tips
+
+https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
 
 # Reference
 
