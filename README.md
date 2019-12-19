@@ -8,6 +8,8 @@ Regression
 
 Decision Tree
 
+Random Forest
+
 Bayesian
 
 Enssemble Algorithms
@@ -104,7 +106,7 @@ Kernel Map Visualization
 
 Intermiediate Layer Output Visualization 
 
-Embedding Projector (t-SNE)
+[Embedding Projector](https://towardsdatascience.com/visualizing-bias-in-data-using-embedding-projector-649bc65e7487)
 
 [TensorWatch](https://github.com/microsoft/tensorwatch)
 
