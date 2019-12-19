@@ -26,6 +26,8 @@ Graph Convolutional Networks
 
 Fully Convolutional Networks
 
+[Capsule Neural Network](https://github.com/Sarasra/models/tree/master/research/capsules)
+
 Autoencoder
 
 Variational Autoencoder
@@ -69,8 +71,6 @@ Transfer learning dominates the machine learning today. CV mostly benefit from s
 Federated learning can train the model without upload the data to a single machine and keeps the data at local machine.
 
 # Data pre-processing
-
-## Big data processing
 
 Spark
 
@@ -118,6 +118,11 @@ Intermiediate Layer Output Visualization
 
 # Image and Video Processing
 
+## 3D Rendering
+
+[TensorFlow Graphics](https://github.com/tensorflow/graphics)
+
+
 ## Image/Video Generation
 
 [deepfakes_faceswap](https://github.com/deepfakes/faceswap)
@@ -129,6 +134,8 @@ Intermiediate Layer Output Visualization
 [Super Resolution](https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5)
 
 [Super Resolution2](https://github.com/open-mmlab/mmsr)
+
+TensorFlow Graphics
 
 Papers:
 
