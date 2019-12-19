@@ -96,6 +96,8 @@ Papers and Blogs:
 
 ## Data Augmentation
 
+[DALI](https://github.com/NVIDIA/DALI)
+
 ## Data Privacy
 
 [Differential Privacy](https://github.com/google/differential-privacy)
@@ -153,6 +155,8 @@ Intermiediate Layer Output Visualization
 
 [Super Resolution2](https://github.com/open-mmlab/mmsr)
 
+[video-object-removal](https://github.com/zllrunning/video-object-removal)
+
 Papers:
 
 [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1807.10875)
@@ -194,6 +198,8 @@ Faster R-CNN
 
 [Google object detection api](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
+[SNIPER](https://github.com/mahyarnajibi/SNIPER)
+
 ## Semantic Image Segmentation
 
 [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
@@ -201,6 +207,8 @@ Faster R-CNN
 [DeepLab V3](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 [body-pix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
+
+[robosat](https://github.com/mapbox/robosat)
 
 ## Instance Segmentation
 
@@ -296,6 +304,10 @@ Automatic Summarization
 
 Textual Entailment
 
+Dialog System
+
+[DeepPavlov](https://github.com/deepmipt/DeepPavlov)
+
 ## Knowledge Graph
 
 Papers:
@@ -338,7 +350,7 @@ Papers and Blogs:
 
 [Hello, World: Building an AI that understands the world through video](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
 
-# Deployment
+# Training Tracking and Deployment
 
 Tensorflow in production (TF Estimator, TF Serving)
 
@@ -347,6 +359,8 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 [Polyaxon](https://polyaxon.com/)
 
 [MLflow](https://mlflow.org/)
+
+[Mace](https://github.com/XiaoMi/mace)
 
 Blogs:
 
@@ -359,6 +373,8 @@ Blogs:
 [TF-Slim](https://github.com/google-research/tf-slim)
 
 [LibROSA](https://librosa.github.io/librosa/)
+
+[tfpyth](https://github.com/BlackHC/tfpyth)
 
 # Other Applications of Machine Learning
 
@@ -384,7 +400,11 @@ Cybersecurity
 
 Code IntelliSense (code-completion)
 
+[python_autocomplete](https://github.com/vpj/python_autocomplete)
+
 [Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
+
+[Deep universal probabilistic programming](https://github.com/pyro-ppl/pyro)
 
 Construction
 
@@ -399,6 +419,8 @@ Construction
 Papers:
 
 [Auto DeepLab](https://arxiv.org/abs/1901.02985)
+
+[DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
 
 # Anomaly Detection
 
