@@ -468,6 +468,12 @@ Construction
 
 [deepvariant](https://github.com/google/deepvariant)
 
+# Model Protect
+
+Papers:
+
+[How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN](https://arxiv.org/abs/1903.01743)
+
 # Network Compression
 
 [Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
