@@ -137,7 +137,9 @@ Papers:
 
 [What If Tool](https://pair-code.github.io/what-if-tool/)
 
-Image heat map
+Image heat map:
+
+Saliency maps
 
 Kernel Map Visualization
 
