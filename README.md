@@ -137,9 +137,13 @@ Papers:
 
 [What If Tool](https://pair-code.github.io/what-if-tool/)
 
+[LIME](https://github.com/marcotcr/lime)
+
+Image Generator
+
 Image heat map:
 
-Saliency maps
+[Saliency maps](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
 
 Kernel Map Visualization
 
