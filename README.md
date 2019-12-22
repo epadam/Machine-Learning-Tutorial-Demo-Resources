@@ -541,7 +541,7 @@ Apollo
 
 ## Life Long Learning
 
-## Few Shot Learning / One Shot Learning / Zero Shot Learning
+## Solutions for Few Shot Learning / One Shot Learning / Zero Shot Learning
 
 ### Metric-Based
 
@@ -549,9 +549,9 @@ Siamese Network
 
 ### Meta Learning (Learning to learn)
 
-### Model-Based
+#### Model-Based
 
-### Optimization-Based
+#### Optimization-Based
 
 # Tips
 
