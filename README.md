@@ -541,6 +541,8 @@ Apollo
 
 ## Life Long Learning
 
+Knowledge Retention, Knowledge Transfer, Model Expansion
+
 ## Solutions for Few Shot Learning / One Shot Learning / Zero Shot Learning
 
 ### Metric-Based
