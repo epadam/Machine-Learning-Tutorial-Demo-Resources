@@ -543,13 +543,11 @@ Apollo
 
 ## Few Shot Learning / One Shot Learning / Zero Shot Learning
 
-Siamese Neural Networks
-
-## Meta Learning (Learning to learn)
-
 ### Metric-Based
 
 Siamese Network
+
+### Meta Learning (Learning to learn)
 
 ### Model-Based
 
