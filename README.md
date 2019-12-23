@@ -504,6 +504,10 @@ Papers:
 
 # Reinforcement Learning
 
+## Meta Reinforcement Learning
+
+## Deep Reinforcement Learning
+
 Traffic Control
 
 ## Imitation Learning (supervised learning)
@@ -544,7 +548,7 @@ Apollo
 
 Knowledge Retention, Knowledge Transfer, Model Expansion
 
-## Few Shot Learning / One Shot Learning / Zero Shot Learning  (Meta Learning)
+## Few Shot Learning / One Shot Learning / Zero Shot Learning
 
 ### Metric-Based
 
@@ -554,19 +558,27 @@ Match Network
 
 Relation Network
 
+Graphical Neural Network
+
 ### Model-Based
 
 Neural Turing Machine
 
 Meta Network
 
-Prototype Network
+Prototypical Networks
 
-### Optimization-Based
+### Optimization-Based (Meta Learning)
 
-MAML
+Memory-Augmented Neural Networks
+
+meta-learning LSTM
+
+Model-Agnostic (MAML)
 
 Reptile
+
+Meta Neural Architecture Search
 
 # Tips
 
