@@ -544,17 +544,29 @@ Apollo
 
 Knowledge Retention, Knowledge Transfer, Model Expansion
 
-## Solutions for Few Shot Learning / One Shot Learning / Zero Shot Learning
+## Few Shot Learning / One Shot Learning / Zero Shot Learning  (Meta Learning)
 
 ### Metric-Based
 
 Siamese Network
 
-### Meta Learning (Learning to learn)
+Match Network
 
-#### Model-Based
+Relation Network
 
-#### Optimization-Based
+### Model-Based
+
+Neural Turing Machine
+
+Meta Network
+
+Prototype Network
+
+### Optimization-Based
+
+MAML
+
+Reptile
 
 # Tips
 
