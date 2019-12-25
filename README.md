@@ -495,6 +495,8 @@ Papers:
 
 [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
 
+Reinforcement Learning for NAS
+
 # Anomaly Detection
 
 # ML Attack
@@ -504,9 +506,9 @@ Papers:
 
 # Reinforcement Learning
 
-## Meta Reinforcement Learning
-
 ## Deep Reinforcement Learning
+
+## Meta Reinforcement Learning
 
 Traffic Control
 
