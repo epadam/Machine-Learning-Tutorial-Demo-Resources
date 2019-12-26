@@ -279,7 +279,6 @@ Papers:
 
 ## Action Recognition
 
-
 ## Facial Recognition
 
 [OpenFace](https://cmusatyalab.github.io/openface/)
@@ -514,8 +513,6 @@ Quantization:
 Knowledge Distilling
 
 
-
-
 # Anomaly Detection
 
 # ML Attack
@@ -615,7 +612,28 @@ https://kknews.cc/code/34aja5o.html
 
 [tensor2tensor](https://github.com/tensorflow/tensor2tensor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-# Awesome paper list
+# Awesome ML List
+
+[Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
+[gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
+
+[awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
+
+[Awesome Pruning](https://github.com/he-y/Awesome-Pruning)
+
+[Awesome NAS](https://github.com/D-X-Y/Awesome-NAS)
+
+[Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
+
+[Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
+
+
 
 
 # Dataset Resources
+
+[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+
+
