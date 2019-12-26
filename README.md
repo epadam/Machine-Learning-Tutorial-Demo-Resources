@@ -579,6 +579,8 @@ Match Network
 
 Relation Network
 
+Graph Neural Network
+
 ### Model-Based
 
 Neural Turing Machine
@@ -588,8 +590,6 @@ Meta Network
 Prototypical Networks
 
 ### Optimization-Based (Meta Learning)
-
-Graph Neural Network
 
 Memory-Augmented Neural Networks
 
