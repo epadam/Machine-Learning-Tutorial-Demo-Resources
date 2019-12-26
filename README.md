@@ -481,10 +481,6 @@ Papers:
 
 [How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN](https://arxiv.org/abs/1903.01743)
 
-# Network Compression
-
-[Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
-
 # Neural Architecture Search (NAS)
 
 [AutoKeras](https://autokeras.com/)
@@ -496,6 +492,19 @@ Papers:
 [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
 
 Reinforcement Learning for NAS
+
+Meta Learning for NAS
+
+# Network Compression
+
+Pruning:
+
+[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
+
+Quantization:
+
+[Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
+
 
 # Anomaly Detection
 
@@ -595,5 +604,8 @@ https://kknews.cc/code/34aja5o.html
 [TensorFlow Hub](https://github.com/tensorflow/hub)
 
 [tensor2tensor](https://github.com/tensorflow/tensor2tensor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+# Awesome paper list
+
 
 # Dataset Resources
