@@ -501,9 +501,15 @@ Pruning:
 
 [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
 
+[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
+
 Quantization:
 
 [Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
+
+Knowledge Distilling
+
+
 
 
 # Anomaly Detection
