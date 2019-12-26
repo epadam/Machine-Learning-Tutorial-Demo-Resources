@@ -503,6 +503,8 @@ Pruning:
 
 [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
 
+Reinforcement Learning for pruning
+
 [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
 
 Quantization:
