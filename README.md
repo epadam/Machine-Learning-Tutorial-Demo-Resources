@@ -487,6 +487,8 @@ Papers:
 
 Papers:
 
+[Searching for MobileNetV3](https://arxiv.org/abs/1905.02244?context=cs)
+
 [Auto DeepLab](https://arxiv.org/abs/1901.02985)
 
 [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
