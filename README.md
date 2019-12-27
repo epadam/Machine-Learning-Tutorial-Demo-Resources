@@ -241,6 +241,8 @@ Faster R-CNN
 
 [DeepLab V3](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
+[Auto DeepLab](https://arxiv.org/abs/1901.02985)
+
 [body-pix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
 
 [robosat](https://github.com/mapbox/robosat)
@@ -492,13 +494,13 @@ Papers:
 
 [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244?context=cs)
 
-[Auto DeepLab](https://arxiv.org/abs/1901.02985)
-
 [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
 
 Reinforcement Learning for NAS
 
 Meta Learning for NAS
+
+[TOWARDS FAST ADAPTATION OF NEURAL ARCHITECTURES WITH META LEARNING]()
 
 # Network Compression
 
