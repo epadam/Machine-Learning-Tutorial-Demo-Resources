@@ -273,6 +273,8 @@ Papers:
 
 Papers:
 
+[Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446)
+
 [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
 
 ## Object tracking
