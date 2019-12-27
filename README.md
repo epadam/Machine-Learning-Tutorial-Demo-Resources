@@ -68,6 +68,8 @@ Batch Normalization
 
 ## Semi-Supervised Learning (mix labeled and unlabeled data)
 
+[MixMatch](https://github.com/google-research/mixmatch)
+
 ## Self-Supervised Learning (Unsupervised Learning)
 
 Self-supervised learning means training the models without labeled data. AutoEncoder, GAN are examples in CV, while pre-trained model like Bert is example in NLP.
