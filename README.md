@@ -36,7 +36,7 @@ Generative Adversarial Network (GAN)
 
 VAE-GAN
 
-Graph Networks:
+**Graph Networks:**
 
 Relational inductive biases, deep learning, and graph networks [<sup>arXiv<sup>](https://arxiv.org/abs/1806.01261)
 
@@ -100,7 +100,7 @@ Papers and Blogs:
 
 [Demo](https://fluidann.appspot.com/)
 
-[Semi-Automatic Labeling for Deep Learning in Robotics](https://arxiv.org/abs/1908.01862)
+Semi-Automatic Labeling for Deep Learning in Robotics[<sup>arXiv<sup>](https://arxiv.org/abs/1908.01862)
 
 ## Data Augmentation
 
