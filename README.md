@@ -36,7 +36,9 @@ Generative Adversarial Network (GAN)
 
 VAE-GAN
 
-[Graph Networks](https://arxiv.org/abs/1806.01261)
+Graph Networks:
+
+Relational inductive biases, deep learning, and graph networks [<sup>arXiv<sup>](https://arxiv.org/abs/1806.01261)
 
 RNN
 
