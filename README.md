@@ -621,6 +621,8 @@ https://kknews.cc/code/34aja5o.html
 
 [Awesome NAS](https://github.com/D-X-Y/Awesome-NAS)
 
+[Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
+
 [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 
 [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
