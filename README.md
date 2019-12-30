@@ -527,7 +527,6 @@ Knowledge Distilling
 
 [Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
 
-
 # Reinforcement Learning
 
 ## Deep Reinforcement Learning
@@ -568,15 +567,13 @@ Carla
 
 Apollo
 
-# Academic Focus
-
-## Life Long Learning
+# Life Long Learning
 
 Knowledge Retention, Knowledge Transfer, Model Expansion
 
-## Few Shot Learning / One Shot Learning / Zero Shot Learning
+# Few Shot Learning / One Shot Learning / Zero Shot Learning
 
-### Metric-Based
+## Metric-Based
 
 Siamese Network
 
@@ -586,7 +583,7 @@ Relation Network
 
 Graph Neural Network
 
-### Model-Based
+## Model-Based
 
 Neural Turing Machine
 
@@ -594,7 +591,7 @@ Meta Network
 
 Prototypical Networks
 
-### Optimization-Based (Meta Learning)
+## Optimization-Based (Meta Learning)
 
 Memory-Augmented Neural Networks
 
@@ -604,7 +601,6 @@ Model-Agnostic (MAML)
 
 Reptile
 
-Meta Neural Architecture Search
 
 # Tips
 
