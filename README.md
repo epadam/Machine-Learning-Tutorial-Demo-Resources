@@ -283,7 +283,7 @@ Papers:
 
 [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
 
-## Object tracking
+## Object Tracking
 
 ## Action Recognition
 
