@@ -581,26 +581,25 @@ Match Network
 
 Relation Network
 
+Prototypical Networks
+
 Graph Neural Network
 
 ## Model-Based
 
 Neural Turing Machine
 
-Meta Network
+Memory-Augmented Neural Networks
 
-Prototypical Networks
+Meta Networks
 
 ## Optimization-Based (Meta Learning)
-
-Memory-Augmented Neural Networks
 
 meta-learning LSTM
 
 Model-Agnostic (MAML)
 
 Reptile
-
 
 # Tips
 
@@ -632,6 +631,7 @@ https://kknews.cc/code/34aja5o.html
 
 [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 
+[Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
 
 
