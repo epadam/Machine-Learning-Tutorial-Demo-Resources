@@ -295,12 +295,6 @@ Papers:
 
 ## SLAM/3D Reconstruction
 
-Papers:
-
-https://arxiv.org/abs/1712.07122
-
-Resources:
-
 https://zhuanlan.zhihu.com/p/74085115
 
 https://zhuanlan.zhihu.com/p/64720052
