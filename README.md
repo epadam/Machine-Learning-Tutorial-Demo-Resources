@@ -149,19 +149,19 @@ Meta Learning for NAS
 
 # Network Compression
 
-Pruning:
+### Pruning:
 
 [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
 
-Reinforcement Learning for pruning
+Reinforcement Learning for pruning:
 
 AMC: AutoML for Model Compression and Acceleration on Mobile Devices [`arXiv`](https://arxiv.org/abs/1802.03494)
 
-Quantization:
+### Quantization:
 
 [Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
 
-Knowledge Distilling
+### Knowledge Distilling
 
 # Data pre-processing
 
