@@ -38,7 +38,7 @@ VAE-GAN
 
 Graph Convolutional Networks
 
-Relational inductive biases, deep learning, and graph networks [ <sup>arXiv<sup> ](https://arxiv.org/abs/1806.01261)
+Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
 
 RNN
 
@@ -92,7 +92,7 @@ Transfer learning dominates the machine learning today. CV mostly benefit from s
 
 ### Imitation Learning (supervised learning)
 
-Global overview of Imitation Learning [arXiv](https://arxiv.org/abs/1801.06503)
+Global overview of Imitation Learning [`arXiv`](https://arxiv.org/abs/1801.06503)
 
 ## Life Long Learning
 
@@ -131,7 +131,7 @@ Reptile
 
 # Model Security
 
-How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN[arXiv](https://arxiv.org/abs/1903.01743)
+How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
 
 # Neural Architecture Search (NAS)
 
@@ -139,7 +139,7 @@ How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Pro
 
 Searching for MobileNetV3 [`arXiv`](https://arxiv.org/abs/1905.02244?context=cs)
 
-DARTS: Differentiable Architecture Search [arXiv](https://arxiv.org/abs/1806.09055)
+DARTS: Differentiable Architecture Search [`arXiv`](https://arxiv.org/abs/1806.09055)
 
 Reinforcement Learning for NAS
 
@@ -155,7 +155,7 @@ Pruning:
 
 Reinforcement Learning for pruning
 
-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
+AMC: AutoML for Model Compression and Acceleration on Mobile Devices [`arXiv`](https://arxiv.org/abs/1802.03494)
 
 Quantization:
 
@@ -169,7 +169,7 @@ Knowledge Distilling
 
 [Snorkel](https://www.snorkel.org/)
 
-[Snorkel DryBell](https://arxiv.org/abs/1812.00417)
+Snorkel DryBell [`arXiv`](https://arxiv.org/abs/1812.00417)
 
 Papers and Blogs:
 
