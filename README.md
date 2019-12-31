@@ -133,7 +133,9 @@ Reptile
 
 How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
 
-# Neural Architecture Search (NAS)
+# AutoML
+
+## Neural Architecture Search (NAS)
 
 [AutoKeras](https://autokeras.com/)
 
@@ -147,9 +149,9 @@ Meta Learning for NAS
 
 [TOWARDS FAST ADAPTATION OF NEURAL ARCHITECTURES WITH META LEARNING]()
 
-# Network Compression
+## Network Compression
 
-### Pruning:
+#### Pruning:
 
 [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
 
@@ -157,11 +159,11 @@ Reinforcement Learning for pruning:
 
 AMC: AutoML for Model Compression and Acceleration on Mobile Devices [`arXiv`](https://arxiv.org/abs/1802.03494)
 
-### Quantization:
+#### Quantization:
 
 [Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
 
-### Knowledge Distilling
+#### Knowledge Distilling
 
 # Data pre-processing
 
