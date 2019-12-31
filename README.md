@@ -72,17 +72,96 @@ Batch Normalization
 
 [MixMatch](https://github.com/google-research/mixmatch)
 
+## Weakly Supervised Learning
+
 ## Self-Supervised Learning (Unsupervised Learning)
 
 Self-supervised learning means training the models without labeled data. AutoEncoder, GAN are examples in CV, while pre-trained model like Bert is example in NLP.
 
 [UGATIT](https://github.com/taki0112/UGATIT?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-
 ## Transfer Learning
 
 Transfer learning dominates the machine learning today. CV mostly benefit from supervised learning and transfer the features learned to similar tasks. NLP on the other hands benefit more from self-supervised learning. These pre-trained models show incredible performances in many tasks, such as Bert, GPT-2.
 
+## Reinforcement Learning
+
+### Deep Reinforcement Learning
+
+### Meta Reinforcement Learning
+
+### Imitation Learning (supervised learning)
+
+Global overview of Imitation Learning[arXiv](https://arxiv.org/abs/1801.06503)
+
+## Life Long Learning
+
+Knowledge Retention, Knowledge Transfer, Model Expansion
+
+## Meta Learning / Few Shot Learning / One Shot Learning / Zero Shot Learning
+
+### Metric-Based
+
+Siamese Network
+
+Match Network
+
+Relation Network
+
+Prototypical Networks
+
+Graph Neural Network
+
+### Model-Based
+
+Neural Turing Machine
+
+Memory-Augmented Neural Networks
+
+Meta Networks
+
+### Optimization-Based (Meta Learning)
+
+meta-learning LSTM
+
+Model-Agnostic (MAML)
+
+Reptile
+
+
+# Model Security
+
+How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN[arXiv](https://arxiv.org/abs/1903.01743)
+
+# Neural Architecture Search (NAS)
+
+[AutoKeras](https://autokeras.com/)
+
+Searching for MobileNetV3 [arXiv](https://arxiv.org/abs/1905.02244?context=cs)
+
+DARTS: Differentiable Architecture Search[arXiv](https://arxiv.org/abs/1806.09055)
+
+Reinforcement Learning for NAS
+
+Meta Learning for NAS
+
+[TOWARDS FAST ADAPTATION OF NEURAL ARCHITECTURES WITH META LEARNING]()
+
+# Network Compression
+
+Pruning:
+
+[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
+
+Reinforcement Learning for pruning
+
+[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
+
+Quantization:
+
+[Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
+
+Knowledge Distilling
 
 # Data pre-processing
 
@@ -157,6 +236,14 @@ Intermiediate Layer Output Visualization
 [Embedding Projector](https://towardsdatascience.com/visualizing-bias-in-data-using-embedding-projector-649bc65e7487)
 
 [TensorWatch](https://github.com/microsoft/tensorwatch)
+
+
+# Anomaly Detection
+
+# ML Attack
+
+[Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
+
 
 # Image and Video Processing
 
@@ -277,11 +364,9 @@ Papers:
 
 [Detectron2](https://github.com/facebookresearch/detectron2)
 
-Papers:
+Panoptic Feature Pyramid Networks[arXiv](https://arxiv.org/abs/1901.02446)
 
-[Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446)
-
-[Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
+Panoptic Segmentation[arXiv](https://arxiv.org/abs/1801.00868)
 
 ## Object Tracking
 
@@ -352,9 +437,7 @@ Dialog System:
 
 ## Knowledge Graph
 
-Papers:
-
-[Knowledge Graphs in Natural Language Processing @ACL 2019](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
+Knowledge Graphs in Natural Language Processing @ACL 2019[arXiv](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
 ## Speaker Diarization
 
@@ -468,6 +551,8 @@ Construction
 
 [An implementation of a deep learning recommendation model (DLRM)](https://github.com/facebookresearch/dlrm?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
+Traffic Control
+
 ## Medical:
 
 [NiftyNet](https://github.com/NifTK/NiftyNet)
@@ -476,64 +561,6 @@ Construction
 
 [deepvariant](https://github.com/google/deepvariant)
 
-# Model Protect
-
-Papers:
-
-[How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN](https://arxiv.org/abs/1903.01743)
-
-# Neural Architecture Search (NAS)
-
-[AutoKeras](https://autokeras.com/)
-
-Papers:
-
-[Searching for MobileNetV3](https://arxiv.org/abs/1905.02244?context=cs)
-
-[DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
-
-Reinforcement Learning for NAS
-
-Meta Learning for NAS
-
-[TOWARDS FAST ADAPTATION OF NEURAL ARCHITECTURES WITH META LEARNING]()
-
-# Network Compression
-
-Pruning:
-
-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
-
-Reinforcement Learning for pruning
-
-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
-
-Quantization:
-
-[Post-training quantization](https://www.tensorflow.org/lite/performance/post_training_quantization)
-
-Knowledge Distilling
-
-
-# Anomaly Detection
-
-# ML Attack
-
-[Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
-
-# Reinforcement Learning
-
-## Deep Reinforcement Learning
-
-## Meta Reinforcement Learning
-
-Traffic Control
-
-## Imitation Learning (supervised learning)
-
-Papers:
-
-[Global overview of Imitation Learning](https://arxiv.org/abs/1801.06503)
 
 # Robotics
 
@@ -561,47 +588,6 @@ Carla
 
 Apollo
 
-# Life Long Learning
-
-Knowledge Retention, Knowledge Transfer, Model Expansion
-
-# Few Shot Learning / One Shot Learning / Zero Shot Learning
-
-## Metric-Based
-
-Siamese Network
-
-Match Network
-
-Relation Network
-
-Prototypical Networks
-
-Graph Neural Network
-
-## Model-Based
-
-Neural Turing Machine
-
-Memory-Augmented Neural Networks
-
-Meta Networks
-
-## Optimization-Based (Meta Learning)
-
-meta-learning LSTM
-
-Model-Agnostic (MAML)
-
-Reptile
-
-# Tips
-
-https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
-
-# Reference
-
-https://kknews.cc/code/34aja5o.html
 
 # [Learning Resources](learning_resources.md)
 
@@ -630,10 +616,15 @@ https://kknews.cc/code/34aja5o.html
 [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
 
-
 # Dataset Resources
 
 [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
+
+# Reference and Tips
+
+https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
+
+https://kknews.cc/code/34aja5o.html
 
 
