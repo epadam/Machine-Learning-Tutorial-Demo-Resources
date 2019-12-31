@@ -34,7 +34,7 @@ Generative Adversarial Network (GAN)
 
 VAE-GAN
 
-**Graph Networks:**
+### Graph Networks:
 
 Graph Convolutional Networks
 
@@ -207,15 +207,13 @@ Neo4j
 
 # Explainable ML
 
-[InterpretML](https://github.com/interpretml/interpret)
+InterpretML [`Repo`](https://github.com/interpretml/interpret)
 
-[Google TCAV](https://github.com/tensorflow/tcav)
+Google TCAV [`Repo`](https://github.com/tensorflow/tcav)
 
-Papers:
+Explaining Explanations: An Overview of Interpretability of Machine Learning [`arXiv`](https://arxiv.org/abs/1806.00069)
 
-[Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069)
-
-[TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing](https://arxiv.org/abs/1807.10875)
+TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
 
 ## Visualization
 
@@ -277,15 +275,14 @@ Intermiediate Layer Output Visualization
 
 [video-object-removal](https://github.com/zllrunning/video-object-removal)
 
-Papers:
+Large Scale GAN Training for High Fidelity Natural Image Synthesis [`arXiv`](https://arxiv.org/abs/1807.10875)
 
-[Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1807.10875)
+### RL for GAN
 
 ## Image/Video Compression
 
 [generative-compression](https://github.com/Justin-Tan/generative-compression)
 
-Papers:
 
 # Computer Vision
 
@@ -303,9 +300,9 @@ MobileNet
 
 EfficientNet
 
-Papers:
+Active Generative Adversarial Network for Image Classification [`arXiv`](https://arxiv.org/abs/1906.07133)
 
-[Active Generative Adversarial Network for Image Classification](https://arxiv.org/abs/1906.07133)
+### Few shot/ One shot / Zero shot
 
 
 ## Object Detection
@@ -364,9 +361,9 @@ Papers:
 
 [Detectron2](https://github.com/facebookresearch/detectron2)
 
-Panoptic Feature Pyramid Networks[arXiv](https://arxiv.org/abs/1901.02446)
+Panoptic Feature Pyramid Networks [`arXiv`](https://arxiv.org/abs/1901.02446)
 
-Panoptic Segmentation[arXiv](https://arxiv.org/abs/1801.00868)
+Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1801.00868)
 
 ## Object Tracking
 
@@ -437,9 +434,7 @@ Dialog System:
 
 ## Knowledge Graph
 
-Knowledge Graphs in Natural Language Processing @ACL 2019[arXiv](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
-
-## Speaker Diarization
+Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
 ## Speech Recognition (ASR)
 
@@ -455,11 +450,13 @@ On-device wake word detection:
 
 [porcupine](https://github.com/Picovoice/porcupine)
 
+## Speaker Diarization
+
 ## Speech Synthesis (TTS)
 
 [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) 
 
-[FastSpeech](https://arxiv.org/abs/1905.09263)
+FastSpeech [`arXiv`](https://arxiv.org/abs/1905.09263)
 
 ## Voice Conversion
 
@@ -566,9 +563,9 @@ Traffic Control
 
 Papers:
 
-[End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702)
+End-to-End Training of Deep Visuomotor Policies [`arXiv`](https://arxiv.org/abs/1504.00702)
 
-[Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations](https://arxiv.org/abs/1805.07054)
+Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations [`arXiv`](https://arxiv.org/abs/1805.07054)
 
 # Self Driving Car
 
