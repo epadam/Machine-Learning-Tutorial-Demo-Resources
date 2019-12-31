@@ -269,7 +269,7 @@ Intermiediate Layer Output Visualization
 
 [Super Resolution](https://towardsdatascience.com/deep-learning-based-super-resolution-without-using-a-gan-11c9bb5b6cd5)
 
-[Super Resolution2](https://github.com/open-mmlab/mmsr)
+[MMSR](https://github.com/open-mmlab/mmsr)
 
 [Deep-Exemplar-based-Colorization](https://github.com/msracver/Deep-Exemplar-based-Colorization)
 
