@@ -129,7 +129,7 @@ Model-Agnostic (MAML)
 Reptile
 
 
-# Model Security
+# Model IP Protection
 
 How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
 
