@@ -606,13 +606,11 @@ Apollo
 
 [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
 
-
-
-[Awesome Pruning](https://github.com/he-y/Awesome-Pruning)
+[Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
 
 [Awesome NAS](https://github.com/D-X-Y/Awesome-NAS)
 
-[Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
+[Awesome Pruning](https://github.com/he-y/Awesome-Pruning)
 
 [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 
