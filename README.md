@@ -38,7 +38,7 @@ VAE-GAN
 
 Graph Convolutional Networks
 
-Relational inductive biases, deep learning, and graph networks [<sup>arXiv<sup>](https://arxiv.org/abs/1806.01261)
+Relational inductive biases, deep learning, and graph networks [ <sup>arXiv<sup> ](https://arxiv.org/abs/1806.01261)
 
 RNN
 
@@ -92,7 +92,7 @@ Transfer learning dominates the machine learning today. CV mostly benefit from s
 
 ### Imitation Learning (supervised learning)
 
-Global overview of Imitation Learning[arXiv](https://arxiv.org/abs/1801.06503)
+Global overview of Imitation Learning [arXiv](https://arxiv.org/abs/1801.06503)
 
 ## Life Long Learning
 
@@ -137,9 +137,9 @@ How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Pro
 
 [AutoKeras](https://autokeras.com/)
 
-Searching for MobileNetV3 [arXiv](https://arxiv.org/abs/1905.02244?context=cs)
+Searching for MobileNetV3 [`arXiv`](https://arxiv.org/abs/1905.02244?context=cs)
 
-DARTS: Differentiable Architecture Search[arXiv](https://arxiv.org/abs/1806.09055)
+DARTS: Differentiable Architecture Search [arXiv](https://arxiv.org/abs/1806.09055)
 
 Reinforcement Learning for NAS
 
