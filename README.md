@@ -357,7 +357,7 @@ Papers:
 
 [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-## All in One
+## Panoptic Segmentation
 
 [Detectron2](https://github.com/facebookresearch/detectron2)
 
