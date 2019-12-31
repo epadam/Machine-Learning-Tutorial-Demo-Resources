@@ -22,8 +22,6 @@ CNN
 
 Feature Pyramid Networks
 
-Graph Convolutional Networks
-
 Fully Convolutional Networks
 
 [Capsule Neural Network](https://github.com/Sarasra/models/tree/master/research/capsules)
@@ -37,6 +35,8 @@ Generative Adversarial Network (GAN)
 VAE-GAN
 
 **Graph Networks:**
+
+Graph Convolutional Networks
 
 Relational inductive biases, deep learning, and graph networks [<sup>arXiv<sup>](https://arxiv.org/abs/1806.01261)
 
