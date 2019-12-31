@@ -596,11 +596,17 @@ Apollo
 
 # Awesome ML List
 
+[Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision)
+
+[awesome-computer-vision-models](https://github.com/nerox8664/awesome-computer-vision-models)
+
 [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
 
 [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
+
+
 
 [Awesome Pruning](https://github.com/he-y/Awesome-Pruning)
 
