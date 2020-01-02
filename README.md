@@ -80,7 +80,7 @@ Self-supervised learning means training the models without labeled data. AutoEnc
 
 [UGATIT](https://github.com/taki0112/UGATIT?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-## Transfer Learning
+## Domain Adaptation / Transfer Learning
 
 Transfer learning dominates the machine learning today. CV mostly benefit from supervised learning and transfer the features learned to similar tasks. NLP on the other hands benefit more from self-supervised learning. These pre-trained models show incredible performances in many tasks, such as Bert, GPT-2.
 
