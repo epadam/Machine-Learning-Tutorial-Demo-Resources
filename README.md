@@ -36,9 +36,9 @@ Support Vector Machine
 
 #### Graph Networks:
 
-* Graph Convolutional Networks
+##### Graph Convolutional Networks
 
-* Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
+** Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
 
 * RNN
 
