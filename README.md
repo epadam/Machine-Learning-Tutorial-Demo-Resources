@@ -88,11 +88,11 @@ Transfer learning dominates the machine learning today. CV mostly benefit from s
 
 ### Deep Reinforcement Learning
 
-### Meta Reinforcement Learning
-
 ### Imitation Learning (supervised learning)
 
 Global overview of Imitation Learning [`arXiv`](https://arxiv.org/abs/1801.06503)
+
+### Meta Reinforcement Learning
 
 ## Life Long Learning
 
@@ -128,7 +128,6 @@ Model-Agnostic (MAML)
 
 Reptile
 
-
 # Model IP Protection
 
 How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
@@ -143,21 +142,23 @@ Searching for MobileNetV3 [`arXiv`](https://arxiv.org/abs/1905.02244?context=cs)
 
 DARTS: Differentiable Architecture Search [`arXiv`](https://arxiv.org/abs/1806.09055)
 
-Reinforcement Learning for NAS
+Reinforcement Learning for NAS:
 
-Meta Learning for NAS
+Meta Learning for NAS:
 
-[TOWARDS FAST ADAPTATION OF NEURAL ARCHITECTURES WITH META LEARNING]()
+[TOWARDS FAST ADAPTATION OF NEURAL ARCHITECTURES WITH META LEARNING](https://openreview.net/forum?id=r1eowANFvr)
 
 ## Network Compression
 
 #### Pruning:
 
-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
-
 Reinforcement Learning for pruning:
 
 AMC: AutoML for Model Compression and Acceleration on Mobile Devices [`arXiv`](https://arxiv.org/abs/1802.03494)
+
+Meta Learning for pruning:
+
+[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
 
 #### Quantization:
 
@@ -171,7 +172,7 @@ AMC: AutoML for Model Compression and Acceleration on Mobile Devices [`arXiv`](h
 
 [Snorkel](https://www.snorkel.org/)
 
-Snorkel DryBell [`arXiv`](https://arxiv.org/abs/1812.00417)
+Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale [`arXiv`](https://arxiv.org/abs/1812.00417)
 
 Papers and Blogs:
 
@@ -181,7 +182,7 @@ Papers and Blogs:
 
 [Demo](https://fluidann.appspot.com/)
 
-Semi-Automatic Labeling for Deep Learning in Robotics[<sup>arXiv<sup>](https://arxiv.org/abs/1908.01862)
+Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.org/abs/1908.01862)
 
 ## Data Augmentation
 
@@ -201,6 +202,8 @@ Semi-Automatic Labeling for Deep Learning in Robotics[<sup>arXiv<sup>](https://a
 
 Federated learning can train the model without upload the data to a single machine and keeps the data at local machine.
 
+[Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+
 ## Tools
 
 Spark
@@ -217,7 +220,7 @@ Explaining Explanations: An Overview of Interpretability of Machine Learning [`a
 
 TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
 
-## Visualization
+### Visualization
 
 [What If Tool](https://pair-code.github.io/what-if-tool/)
 
@@ -329,7 +332,7 @@ Faster R-CNN
 
 [DeepLab V3](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
-[Auto DeepLab](https://arxiv.org/abs/1901.02985)
+Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation [`arXiv`](https://arxiv.org/abs/1901.02985)
 
 [body-pix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
 
@@ -349,11 +352,9 @@ Faster R-CNN
 
 [Densepose](https://github.com/facebookresearch/DensePose)
 
-Papers:
-
-[Deep Convolutional Neural Fields for Depth Estimation from a Single Image](https://arxiv.org/abs/1411.6387)
-
 [Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction](https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html)
+
+Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXiv`](https://arxiv.org/abs/1411.6387)
 
 ## Pose Detection
 
@@ -404,6 +405,10 @@ GPT-2
 
 T5
 
+### Knowledge Graph
+
+Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
+
 ### Framework and Tools
 
 [Bert as Service](https://github.com/hanxiao/bert-as-service)
@@ -434,9 +439,6 @@ Dialog System:
 
 [ParlAI](https://github.com/facebookresearch/ParlAI)
 
-## Knowledge Graph
-
-Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
 ## Speech Recognition (ASR)
 
