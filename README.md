@@ -18,37 +18,37 @@ Support Vector Machine
 
 ### Deep Learning
 
-* CNN
+CNN
 
-* Feature Pyramid Networks
+Feature Pyramid Networks
 
-* Fully Convolutional Networks
+Fully Convolutional Networks
 
-* [Capsule Neural Network](https://github.com/Sarasra/models/tree/master/research/capsules)
+[Capsule Neural Network](https://github.com/Sarasra/models/tree/master/research/capsules)
 
-* Autoencoder
+Autoencoder
 
-* Variational Autoencoder
+Variational Autoencoder
 
-* Generative Adversarial Network (GAN)
+Generative Adversarial Network (GAN)
 
-* VAE-GAN
+VAE-GAN
 
 #### Graph Networks:
 
+* Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
+
 ##### Graph Convolutional Networks
 
-** Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
+RNN
 
-* RNN
+LSTM
 
-* LSTM
+Temporal Convolutional Network
 
-* Temporal Convolutional Network
+Attention
 
-* Attention
-
-* Transformer
+Transformer
 
 # ML Training
 
