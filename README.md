@@ -445,6 +445,7 @@ Dialog System:
 
 [ParlAI](https://github.com/facebookresearch/ParlAI)
 
+Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
 
 ## Speech Recognition (ASR)
 
