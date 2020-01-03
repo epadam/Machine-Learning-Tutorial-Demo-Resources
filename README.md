@@ -565,7 +565,9 @@ Traffic Control
 
 End-to-End Training of Deep Visuomotor Policies [`arXiv`](https://arxiv.org/abs/1504.00702)
 
-Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations [`arXiv`](https://arxiv.org/abs/1805.07054)
+### One shot imitation learning
+
+* Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations [`arXiv`](https://arxiv.org/abs/1805.07054)
 
 # Self Driving Car
 
