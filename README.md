@@ -628,6 +628,12 @@ Apollo
 
 [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
+# Video Lectures
+
+## DL
+
+## RL
+
 
 # Dataset Resources
 
