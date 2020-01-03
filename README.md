@@ -18,37 +18,37 @@ Support Vector Machine
 
 ### Deep Learning
 
-CNN
+* CNN
 
-Feature Pyramid Networks
+* Feature Pyramid Networks
 
-Fully Convolutional Networks
+* Fully Convolutional Networks
 
-[Capsule Neural Network](https://github.com/Sarasra/models/tree/master/research/capsules)
+* [Capsule Neural Network](https://github.com/Sarasra/models/tree/master/research/capsules)
 
-Autoencoder
+* Autoencoder
 
-Variational Autoencoder
+* Variational Autoencoder
 
-Generative Adversarial Network (GAN)
+* Generative Adversarial Network (GAN)
 
-VAE-GAN
+* VAE-GAN
 
-### Graph Networks:
+#### Graph Networks:
 
-Graph Convolutional Networks
+* Graph Convolutional Networks
 
-Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
+* Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
 
-RNN
+* RNN
 
-LSTM
+* LSTM
 
-Temporal Convolutional Network
+* Temporal Convolutional Network
 
-Attention
+* Attention
 
-Transformer
+* Transformer
 
 # ML Training
 
@@ -474,9 +474,9 @@ Recognize Text in image or Video
 
 Papers and Blogs:
 
-[Pythia v0.1: the Winning Entry to the VQA Challenge 2018](https://arxiv.org/abs/1807.09956)
+Pythia v0.1: the Winning Entry to the VQA Challenge 2018 [`arXiv`](https://arxiv.org/abs/1807.09956)
 
-[Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358)
+Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods [`arXiv`](https://arxiv.org/abs/1907.09358)
 
 [Hello, World: Building an AI that understands the world through video](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
 
@@ -554,16 +554,18 @@ Traffic Control
 
 ## Medical:
 
-[NiftyNet](https://github.com/NifTK/NiftyNet)
+* [NiftyNet](https://github.com/NifTK/NiftyNet)
 
-[Med3D: Transfer Learning for 3D Medical Image Analysis](https://github.com/Tencent/MedicalNet)
+* [Med3D: Transfer Learning for 3D Medical Image Analysis](https://github.com/Tencent/MedicalNet)
 
-[deepvariant](https://github.com/google/deepvariant)
+* [deepvariant](https://github.com/google/deepvariant)
 
 
 # Robotics
 
-End-to-End Training of Deep Visuomotor Policies [`arXiv`](https://arxiv.org/abs/1504.00702)
+### Policy Gradient
+
+* End-to-End Training of Deep Visuomotor Policies [`arXiv`](https://arxiv.org/abs/1504.00702)
 
 ### One shot imitation learning
 
