@@ -370,6 +370,10 @@ Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1801.00868)
 
 An End-to-End Network for Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1903.05027)
 
+Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.10194)
+
+Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arXiv`](https://arxiv.org/abs/1809.04184)
+
 ## Object Tracking
 
 ## Action Recognition
