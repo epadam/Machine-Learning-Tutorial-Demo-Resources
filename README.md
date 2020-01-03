@@ -368,6 +368,8 @@ Panoptic Feature Pyramid Networks [`arXiv`](https://arxiv.org/abs/1901.02446)
 
 Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1801.00868)
 
+An End-to-End Network for Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1903.05027)
+
 ## Object Tracking
 
 ## Action Recognition
