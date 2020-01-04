@@ -463,15 +463,17 @@ On-device wake word detection:
 
 ## Speaker Diarization
 
+Joint Speech Recognition and Speaker Diarization via Sequence Transduction [`arXiv`](https://arxiv.org/abs/1907.05337) 
+
+## Voice Conversion
+
+[deep-voice-conversion](https://github.com/andabi/deep-voice-conversion)
+
 ## Speech Synthesis (TTS)
 
 [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) 
 
 FastSpeech [`arXiv`](https://arxiv.org/abs/1905.09263)
-
-## Voice Conversion
-
-[deep-voice-conversion](https://github.com/andabi/deep-voice-conversion)
 
 # Integration of CV and NLP
 
