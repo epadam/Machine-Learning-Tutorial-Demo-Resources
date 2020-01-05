@@ -635,7 +635,22 @@ Apollo
 
 ## DL
 
+[Stanford Lecture Collection Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+[Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+[MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+[MIT 6.S094](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+
+[UC Berkeley CS294-158 Deep Unsupervised Learning SP19](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)
+
+[fast.ai](https://www.youtube.com/user/howardjeremyp/videos)
+
 ## RL
+
+[Standford CS234: Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
 
 
 # Dataset Resources
