@@ -35,4 +35,4 @@ tfpyth
 GLOW
 
 ## Reference
-* [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
+* A Guide to Production Level Deep Learning [`github`](https://github.com/alirezadir/Production-Level-Deep-Learning)
