@@ -1,23 +1,46 @@
 # Computer Vision
 
-## Image Classification
+## Applications
 
-### Applications
+### Image Classification
 
-#### Dog Breed Classification
+#### GAN for Image Classification
 
-#### Plants Classification
+#### Few Shot
 
-## Object Detection
+#### Applications
 
-## Semantic Segmentation
+* Dog Breed Classification
 
-## Instance Segmentation
+* Plants Classification
 
-## Panoptic Segmentation
+* Bread Classification
 
-## Depth Estimation
+### Object Detection
 
-## Pose Estimation
+#### Few Shot
 
+### Semantic Segmentation
+
+### Instance Segmentation
+
+### Panoptic Segmentation
+
+### Depth Estimation
+
+### Pose Estimation
+
+### Object Tracking
+
+#### Reinforcement Learning for Object Tracking
+
+### Facial Recognition
+
+## Security
+
+### Anomaly Detection
+
+### Model Attack
+
+### IP protection
 
