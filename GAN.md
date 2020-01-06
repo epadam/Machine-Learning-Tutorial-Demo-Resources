@@ -23,3 +23,5 @@ Super Resolution
 ### GAN for Network Compression
 
 ### GAN for Image Classification
+
+## [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
