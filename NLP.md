@@ -12,11 +12,11 @@ GPT-2
 
 T5
 
-### Meta Learning for NLP
+## Meta Learning for NLP
 
-### Reinforcement Learning for NLP 
+## Reinforcement Learning for NLP 
 
-### Knowledge Graph
+## Knowledge Graph
 
 ## Applications
 
