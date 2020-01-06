@@ -1,6 +1,6 @@
 # Integration of CV and NLP
 
-## Image and Video Content Understanding
+## Image and Video Content Understanding, Reasoning and Analysis
 
 ### Image/Video Captioning
 
