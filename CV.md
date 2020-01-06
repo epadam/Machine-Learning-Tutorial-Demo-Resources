@@ -36,6 +36,8 @@
 
 ### Facial Recognition
 
+### Emotion Detection
+
 ### Action Recognition
 
 #### Sports tracking
