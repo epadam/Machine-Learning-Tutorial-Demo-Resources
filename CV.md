@@ -42,6 +42,10 @@
 
 #### Sports tracking
 
+### Recognize Text in Image
+
+#### OCR
+
 ## Security
 
 ### Anomaly Detection
