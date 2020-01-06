@@ -4,7 +4,9 @@
 
 ### VAE-GAN
 
-### Reinforcement Learning for GAN
+## Reinforcement Learning for GAN
+
+## GAN with Meta Learning
 
 ## Applications
 
@@ -14,8 +16,8 @@ Super Resolution
 
 ### GAN for NLP
 
-
-### GAN for Meta Learning
-
 ### GAN for ML Attack
 
+### GAN for Image/Video Compression
+
+### GAN for Network Compression
