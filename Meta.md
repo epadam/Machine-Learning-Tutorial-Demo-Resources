@@ -35,3 +35,7 @@ Reptile
 
 ## Meta Transfer Learning
 
+## [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
+
+[Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+
