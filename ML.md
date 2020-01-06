@@ -1,64 +1,68 @@
+# Machine Learning
+
+## Traditional Algorithms
 
 ### Regression
 
 ### Decision Tree
 
-Random Forest
+### Random Forest
 
-Bayesian
+### Bayesian
 
-Enssemble Algorithms
+### Enssemble Algorithms
 
-Support Vector Machine
+### Support Vector Machine (SVM)
 
-Deep Learning
-CNN
+## Deep Learning
 
-Feature Pyramid Networks
+### CNN
 
-Fully Convolutional Networks
+### Feature Pyramid Networks
 
-Capsule Neural Network
+### Fully Convolutional Networks
 
-Autoencoder
+### Capsule Neural Network
 
-Variational Autoencoder
+### Autoencoder
 
-Generative Adversarial Network (GAN)
+### Variational Autoencoder
 
-VAE-GAN
+### Generative Adversarial Network (GAN)
 
-Graph Networks:
+### VAE-GAN
 
-Relational inductive biases, deep learning, and graph networks arXiv
+### Graph Networks
 
-Graph Convolutional Networks
+* Graph Convolutional Networks
 
-RNN
+### RNN
 
-LSTM
+### LSTM
 
-Temporal Convolutional Network
+### Temporal Convolutional Network
 
-Attention
+### Attention
 
-Transformer
+### Transformer
 
 ## ML Training
 
-Basic Methods
-Loss Function
-Optimization
-Regularization
-Batch Normalization
+### Loss Function
 
-### Supervised Learning
+### Optimization
 
-### Semi-Supervised Learning (mix labeled and unlabeled data)
+### Regularization
 
-### Weakly Supervised Learning
+### Batch Normalization
 
-### Self-Supervised Learning (Unsupervised Learning)
+## Supervised Learning
+
+## Semi-Supervised Learning (mix labeled and unlabeled data)
+
+## Weakly Supervised Learning
+
+## Self-Supervised Learning (Unsupervised Learning)
 
 Self-supervised learning means training the models without labeled data. AutoEncoder, GAN are examples in CV, while pre-trained model like Bert is example in NLP.
 
