@@ -66,5 +66,7 @@
 
 Self-supervised learning means training the models without labeled data. AutoEncoder, GAN are examples in CV, while pre-trained model like Bert is example in NLP.
 
+### [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
+
 
 
