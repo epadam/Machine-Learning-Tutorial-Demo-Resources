@@ -1,7 +1,7 @@
 
-Regression
+### Regression
 
-Decision Tree
+### Decision Tree
 
 Random Forest
 
@@ -43,3 +43,22 @@ Temporal Convolutional Network
 Attention
 
 Transformer
+
+## ML Training
+
+Basic Methods
+Loss Function
+Optimization
+Regularization
+Batch Normalization
+
+### Supervised Learning
+
+### Semi-Supervised Learning (mix labeled and unlabeled data)
+
+### Weakly Supervised Learning
+
+### Self-Supervised Learning (Unsupervised Learning)
+
+Self-supervised learning means training the models without labeled data. AutoEncoder, GAN are examples in CV, while pre-trained model like Bert is example in NLP.
+
