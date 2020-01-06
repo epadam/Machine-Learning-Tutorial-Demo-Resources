@@ -1,6 +1,8 @@
 # Integration of CV and NLP
 
-## Image/Video Captioning
+## Image and Video Content Understanding
+
+### Image/Video Captioning
 
 ## Visual Question Answering (VQA)
 
