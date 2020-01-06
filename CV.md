@@ -36,6 +36,10 @@
 
 ### Facial Recognition
 
+### Action Recognition
+
+#### Sports tracking
+
 ## Security
 
 ### Anomaly Detection
