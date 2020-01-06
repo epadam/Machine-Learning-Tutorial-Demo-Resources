@@ -30,8 +30,14 @@ Attention
 
 Transformer
 
+## Explainable ML
+
+### Visualization
+
+
+
 ## Domain Adaptation / Transfer Learning
 
 Transfer learning dominates the machine learning today. CV mostly benefit from supervised learning and transfer the features learned to similar tasks. NLP on the other hands benefit more from self-supervised learning. These pre-trained models show incredible performances in many tasks, such as Bert, GPT-2.
 
-
+## 
