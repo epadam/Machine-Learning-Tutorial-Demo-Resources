@@ -24,6 +24,8 @@ T5
 
 ### Text Classification
 
+### Sentiment Analysis
+
 ### Question Answering
 
 ### Machine Translation
