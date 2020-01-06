@@ -54,3 +54,13 @@
 
 ### IP protection
 
+## Awesome CV List
+
+* [Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision)
+
+* [awesome-computer-vision-models](https://github.com/nerox8664/awesome-computer-vision-models)
+
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
+
+
