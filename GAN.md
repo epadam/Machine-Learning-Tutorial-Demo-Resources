@@ -21,3 +21,5 @@ Super Resolution
 ### GAN for Image/Video Compression
 
 ### GAN for Network Compression
+
+### GAN for Image Classification
