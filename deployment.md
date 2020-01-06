@@ -20,7 +20,7 @@ Mace
 
 SOD
 
-# Tools and Frameworks
+## Tools and Frameworks
 
 Tensorflow Models
 
@@ -30,6 +30,6 @@ MMdnn
 
 tfpyth
 
-# Hardware Acceleration
+## Hardware Acceleration
 
 GLOW
