@@ -17,3 +17,13 @@
 ### Quantization
 
 ### Knowledge Distilling
+
+## Awesome autoML List
+* [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
+
+* [Awesome NAS](https://github.com/D-X-Y/Awesome-NAS)
+
+* [Awesome Pruning](https://github.com/he-y/Awesome-Pruning)
+
+
+
