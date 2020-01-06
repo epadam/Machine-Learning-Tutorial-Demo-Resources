@@ -48,6 +48,4 @@ T5
 
 ## Speech Synthesis (TTS)
 
-
-
-
+## [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
