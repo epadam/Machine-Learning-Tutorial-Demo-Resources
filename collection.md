@@ -1,42 +1,58 @@
 # Machine Learning Applications Collections
 
+## Art
+
 Art and Music Generation:
 
 LibROSA
 
 Magenta
 
-Fraud Detection
+## Security
 
-Maleware Detection
+* Fraud Detection
 
-Fake Documents Detection
+* Maleware Detection
 
-Defect Detection
+* Fake Documents Detection
 
-Cybersecurity
+* Cybersecurity
 
-Auto Code Generator
+## Manufacutring
 
-Code IntelliSense (code-completion)
+* Defect Detection
 
-python_autocomplete
+## Programming
 
-Finding and fixing software bugs
+* Auto Code Generator
 
-Deep universal probabilistic programming
+* Code IntelliSense (code-completion)
 
-Construction
+* python_autocomplete
 
-Virtual Assistant
+* Finding and fixing software bugs
 
-An implementation of a deep learning recommendation model (DLRM)
+* Deep universal probabilistic programming
 
-Traffic Control
+## Construction
 
-Medical:
-NiftyNet
+## Architecture
 
-Med3D: Transfer Learning for 3D Medical Image Analysis
+## Life
 
-deepvariant
+* Virtual Assistant
+
+## Business
+
+* An implementation of a deep learning recommendation model (DLRM)
+
+## Traffic Control
+
+
+## Bio & Medical
+
+* NiftyNet
+
+* Med3D: Transfer Learning for 3D Medical Image Analysis
+
+* deepvariant
