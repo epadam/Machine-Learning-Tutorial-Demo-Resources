@@ -1,4 +1,4 @@
-# Deployment
+# Training and Deployment
 
 ## Tools
 
@@ -29,6 +29,10 @@ TF-Slim
 MMdnn
 
 tfpyth
+
+## Distributed Training
+
+* Horovod
 
 ## Hardware Acceleration
 
