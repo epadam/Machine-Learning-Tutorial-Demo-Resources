@@ -20,7 +20,10 @@
 
 #### NAS for Object Detection
 
+* NAS-FCOS: Fast Neural Architecture Search for Object Detection [`arXiv`](https://arxiv.org/abs/1906.04423)
+
 #### Few Shot
+
 
 ### Semantic Segmentation
 
