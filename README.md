@@ -166,6 +166,7 @@ Meta Learning for pruning:
 
 #### Knowledge Distilling
 
+
 # Data pre-processing
 
 ## Data Labeling
@@ -512,8 +513,6 @@ Blogs:
 # Tools and Frameworks
 
 [Tensorflow Models](https://github.com/tensorflow/models)
-
-[TF-Slim](https://github.com/google-research/tf-slim)
 
 [MMdnn](https://github.com/Microsoft/MMdnn)
 
