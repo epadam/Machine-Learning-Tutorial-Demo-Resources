@@ -123,6 +123,8 @@ Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXi
 
 #### OCR
 
+* [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+
 ## Image and Video Processing
 
 ### Image/Video Analysis
