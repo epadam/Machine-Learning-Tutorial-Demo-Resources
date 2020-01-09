@@ -12,31 +12,31 @@ Tensorflow in production (TF Estimator, TF Serving)
 
 Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
-Polyaxon
+[Polyaxon](https://polyaxon.com/)
 
-MLflow
+[MLflow](https://mlflow.org/)
 
-Mace
+[Mace](https://github.com/XiaoMi/mace)
 
-SOD
+[SOD](https://github.com/symisc/sod)
 
 ## Tools and Frameworks
 
-Tensorflow Models
+[Tensorflow Models](https://github.com/tensorflow/models)
 
-TF-Slim
+[MMdnn](https://github.com/Microsoft/MMdnn)
 
-MMdnn
-
-tfpyth
+[tfpyth](https://github.com/BlackHC/tfpyth)
 
 ## Distributed Training
 
 * Horovod
 
+* Tensorflow Estimator
+
 ## Hardware Acceleration
 
-GLOW
+[GLOW](https://github.com/pytorch/glow)
 
 ## Reference
 * A Guide to Production Level Deep Learning [`github`](https://github.com/alirezadir/Production-Level-Deep-Learning)
