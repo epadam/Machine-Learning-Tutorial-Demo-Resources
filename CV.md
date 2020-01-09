@@ -131,6 +131,8 @@ Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXi
 
 ### IP protection
 
+How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
+
 ## Awesome CV List
 
 * [Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision)
