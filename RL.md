@@ -8,6 +8,8 @@ Model based model free
 
 ### Imitation Learning
 
+* Global overview of Imitation Learning [`arXiv`](https://arxiv.org/abs/1801.06503)
+
 ### Self-supervised Reinforcement Learning
 
 ## Meta Reinforcement Learning
