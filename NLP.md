@@ -84,7 +84,7 @@ Joint Speech Recognition and Speaker Diarization via Sequence Transduction [`arX
 
 [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) 
 
-FastSpeech [`arXiv`](https://arxiv.org/abs/1905.09263)
+FastSpeech: Fast, Robust and Controllable Text to Speech [`arXiv`](https://arxiv.org/abs/1905.09263)
 
 ## Reference
 
