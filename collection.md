@@ -2,11 +2,9 @@
 
 ## Art
 
-Art and Music Generation:
+[LibROSA](https://librosa.github.io/librosa/)
 
-LibROSA
-
-Magenta
+[Magenta](https://magenta.tensorflow.org/)
 
 ## Security
 
@@ -16,7 +14,10 @@ Magenta
 
 * Fake Documents Detection
 
+* [Defect Detection](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
+
 * Cybersecurity
+
 
 ## Manufacutring
 
@@ -24,15 +25,15 @@ Magenta
 
 ## Programming
 
-* Auto Code Generator
+* [Auto Code Generator](https://github.com/tonybeltramelli/pix2code)
 
 * Code IntelliSense (code-completion)
 
-* python_autocomplete
+* [python_autocomplete](https://github.com/vpj/python_autocomplete)
 
-* Finding and fixing software bugs
+* [Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
 
-* Deep universal probabilistic programming
+* [Deep universal probabilistic programming](https://github.com/pyro-ppl/pyro)
 
 ## Construction
 
@@ -40,11 +41,11 @@ Magenta
 
 ## Life
 
-* Virtual Assistant
+* [Virtual Assistant](https://github.com/DragonComputer/Dragonfire)
 
 ## Business
 
-* An implementation of a deep learning recommendation model (DLRM)
+* [An implementation of a deep learning recommendation model (DLRM)](https://github.com/facebookresearch/dlrm?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ## Traffic Control
 
@@ -52,8 +53,8 @@ Magenta
 
 ## Bio & Medical
 
-* NiftyNet
+* [NiftyNet](https://github.com/NifTK/NiftyNet)
 
-* Med3D: Transfer Learning for 3D Medical Image Analysis
+* [Med3D: Transfer Learning for 3D Medical Image Analysis](https://github.com/Tencent/MedicalNet)
 
-* deepvariant
+* [deepvariant](https://github.com/google/deepvariant)
