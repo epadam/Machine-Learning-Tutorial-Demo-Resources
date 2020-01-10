@@ -85,8 +85,11 @@ Self-supervised learning means training the models without labeled data. AutoEnc
 
 ## How to add new class to a trained model
 
+* Life Long Learning
+
 ## How to improve the model when more data is available
 
+* Incremental Training
 
 ## Reference
 * [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
