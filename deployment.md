@@ -34,6 +34,8 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 * Tensorflow Estimator
 
+## Deployment on MCU
+
 ## Hardware Acceleration
 
 [GLOW](https://github.com/pytorch/glow)
