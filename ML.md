@@ -83,6 +83,10 @@ Self-supervised learning means training the models without labeled data. AutoEnc
 
 [UGATIT](https://github.com/taki0112/UGATIT?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
+## How to add new class to a trained model
+
+## How to improve the model when more data is available
+
 
 ## Reference
 * [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
