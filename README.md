@@ -16,7 +16,7 @@ Enssemble Algorithms
 
 Support Vector Machine
 
-### Deep Learning
+### [Deep Learning](DL.md)
 
 CNN
 
@@ -84,7 +84,7 @@ Self-supervised learning means training the models without labeled data. AutoEnc
 
 Transfer learning dominates the machine learning today. CV mostly benefit from supervised learning and transfer the features learned to similar tasks. NLP on the other hands benefit more from self-supervised learning. These pre-trained models show incredible performances in many tasks, such as Bert, GPT-2.
 
-## Reinforcement Learning
+## [Reinforcement Learning](RL.md)
 
 ### Deep Reinforcement Learning
 
@@ -98,7 +98,7 @@ Global overview of Imitation Learning [`arXiv`](https://arxiv.org/abs/1801.06503
 
 Knowledge Retention, Knowledge Transfer, Model Expansion
 
-## Meta Learning / Few Shot Learning / One Shot Learning / Zero Shot Learning
+## [Meta Learning / Few Shot Learning / One Shot Learning / Zero Shot Learning](Meta.md)
 
 ### Metric-Based
 
@@ -132,7 +132,7 @@ Reptile
 
 How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
 
-# AutoML
+# [AutoML](autoML.md)
 
 ## Neural Architecture Search (NAS)
 
@@ -167,7 +167,7 @@ Meta Learning for pruning:
 #### Knowledge Distilling
 
 
-# Data pre-processing
+# [Data pre-processing](data.md)
 
 ## Data Labeling
 
@@ -259,7 +259,7 @@ Intermiediate Layer Output Visualization
 
 [TensorFlow Graphics](https://github.com/tensorflow/graphics)
 
-## Image/Video Generation
+## [Image/Video Generation](GAN.md)
 
 [deepfakes_faceswap](https://github.com/deepfakes/faceswap)
 
@@ -290,7 +290,7 @@ Large Scale GAN Training for High Fidelity Natural Image Synthesis [`arXiv`](htt
 [generative-compression](https://github.com/Justin-Tan/generative-compression)
 
 
-# Computer Vision
+# [Computer Vision](CV.md)
 
 ## Image Classification
 
@@ -398,7 +398,7 @@ https://zhuanlan.zhihu.com/p/60954106
 https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07
 
 
-# Natural Language Processing
+# [Natural Language Processing](NLP.md)
 
 ### Pre-trained Language Models
 
@@ -476,7 +476,7 @@ Joint Speech Recognition and Speaker Diarization via Sequence Transduction [`arX
 
 FastSpeech [`arXiv`](https://arxiv.org/abs/1905.09263)
 
-# Integration of CV and NLP
+# [Integration of CV and NLP](Multimodel.md)
 
 ## Image and Video Content Understanding, Reasoning and Analysis
 
@@ -492,7 +492,7 @@ Trends in Integration of Vision and Language Research: A Survey of Tasks, Datase
 
 [Hello, World: Building an AI that understands the world through video](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
 
-# Training Tracking and Deployment
+# [Training Tracking and Deployment](deployment.md)
 
 Tensorflow in production (TF Estimator, TF Serving)
 
@@ -522,7 +522,7 @@ Blogs:
 
 [GLOW](https://github.com/pytorch/glow)
 
-# Other Applications of Machine Learning
+# [Other Applications of Machine Learning](collections.md)
 
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
@@ -571,7 +571,7 @@ Traffic Control
 * [deepvariant](https://github.com/google/deepvariant)
 
 
-# Robotics
+# [Robotics](Robotics.md)
 
 ### Policy Gradient
 
