@@ -2,7 +2,7 @@
 
 For people who want to have a quick overview of the development in machine learning 
 
-# Theory and Basic Models
+# [Theory and Basic Models](ML.md)
 
 Regression
 
