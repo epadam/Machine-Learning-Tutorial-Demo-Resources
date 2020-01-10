@@ -30,6 +30,12 @@ EfficientNet
 
 * Bread Classification
 
+#### Dataset
+
+* ImageNet
+
+* CIFAR10 / CIFAR100
+
 ### Object Detection
 
 SSD
@@ -51,6 +57,10 @@ Faster R-CNN
 * NAS-FCOS: Fast Neural Architecture Search for Object Detection [`arXiv`](https://arxiv.org/abs/1906.04423)
 
 #### Few Shot
+
+#### Dataset
+
+* MS COCO
 
 
 ### Semantic Segmentation
