@@ -36,6 +36,8 @@ EfficientNet
 
 * CIFAR10 / CIFAR100
 
+### Image Retrieval
+
 ### Object Detection
 
 SSD
