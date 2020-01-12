@@ -38,6 +38,8 @@ EfficientNet
 
 ### Image Retrieval
 
+### Fine-Grained Image Classification
+
 ### Object Detection
 
 SSD
@@ -120,6 +122,10 @@ Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXi
 #### Reinforcement Learning for Object Tracking
 
 ### Facial Recognition
+
+Face Identification
+
+Face Verification
 
 [OpenFace](https://cmusatyalab.github.io/openface/)
 
