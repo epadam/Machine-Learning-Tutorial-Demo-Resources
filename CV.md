@@ -4,6 +4,8 @@
 
 ### Image Classification
 
+#### Models
+
 VGG
 
 ResNet
@@ -16,11 +18,13 @@ MobileNet
 
 EfficientNet
 
+#### Autoencoder for Image Classification
+
 #### GAN for Image Classification
 
 * Active Generative Adversarial Network for Image Classification [`arXiv`](https://arxiv.org/abs/1906.07133)
 
-#### Few Shot
+#### Few Shot Image Classification
 
 #### Applications
 
@@ -36,9 +40,9 @@ EfficientNet
 
 * CIFAR10 / CIFAR100
 
-### Image Retrieval
-
 ### Fine-Grained Image Classification
+
+### Image Retrieval
 
 ### Object Detection
 
