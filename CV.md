@@ -26,7 +26,9 @@ EfficientNet
 
 #### Few Shot Image Classification
 
-#### Applications
+#### NAS for Image Classification
+
+#### Example Applications
 
 * Dog Breed Classification
 
