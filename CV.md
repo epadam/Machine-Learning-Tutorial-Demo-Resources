@@ -24,9 +24,11 @@ EfficientNet
 
 * Active Generative Adversarial Network for Image Classification [`arXiv`](https://arxiv.org/abs/1906.07133)
 
-#### Few Shot Image Classification
-
 #### NAS for Image Classification
+
+#### Few Shot Image Classification Solutions
+
+* Meta Learning
 
 #### Example Applications
 
@@ -66,12 +68,11 @@ Faster R-CNN
 
 * NAS-FCOS: Fast Neural Architecture Search for Object Detection [`arXiv`](https://arxiv.org/abs/1906.04423)
 
-#### Few Shot
+#### Few Shot Object Detection Solutions
 
 #### Dataset
 
 * MS COCO
-
 
 ### Semantic Segmentation
 
@@ -110,6 +111,10 @@ An End-to-End Network for Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/
 Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.10194)
 
 Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arXiv`](https://arxiv.org/abs/1809.04184)
+
+#### Few Shot Panoptic Segmentation Solutions
+
+* Single-Shot Panoptic Segmentation
 
 ### Depth Estimation
 
