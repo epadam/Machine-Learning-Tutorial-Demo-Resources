@@ -101,3 +101,5 @@ FastSpeech: Fast, Robust and Controllable Text to Speech [`arXiv`](https://arxiv
 * [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
 
 * [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+* [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
