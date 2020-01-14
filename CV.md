@@ -188,5 +188,8 @@ How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Pro
 
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
+* [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
+
+
 
 
