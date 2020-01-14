@@ -154,14 +154,15 @@ Face Verification
 
 * [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
-## R
+## RL for CV
 
 
 ## Image and Video Processing
 
 ### Image/Video Analysis
 
-[DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+* [DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+
 
 ### 3D Rendering
 
