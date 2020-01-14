@@ -13,3 +13,9 @@ Model based model free
 ### Self-supervised Reinforcement Learning
 
 ## Meta Reinforcement Learning
+
+## RL for CV
+
+## RL for NLP
+
+## RL for Robotics
