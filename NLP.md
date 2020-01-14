@@ -48,6 +48,10 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 ### Automatic Summarization
 
+#### Extractive Summarization
+
+#### Abstractive Summarization
+
 ### Dialog System
 
 * [DeepPavlov](http://deeppavlov.ai/)
@@ -57,6 +61,12 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 ### Natural Language Understanding
 
 ### Natural Language Generation 
+
+### Other Applications
+
+* Code Generation
+
+* NLP to SQL query
 
 ## Speech Recognition (ASR)
 
