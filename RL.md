@@ -16,6 +16,8 @@ Model based model free
 
 ## RL for CV
 
+### RL for Object Tracking
+
 ## RL for NLP
 
 ## RL for Robotics
