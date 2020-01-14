@@ -132,7 +132,7 @@ Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXi
 
 #### Reinforcement Learning for Object Tracking
 
-### Facial Recognition
+### Face Recognition
 
 Face Identification
 
@@ -146,13 +146,16 @@ Face Verification
 
 ### Action Recognition
 
-#### Sports tracking
+#### Sports tracking and move prediction
 
 ### Recognize Text in Image
 
 #### OCR
 
 * [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+
+## R
+
 
 ## Image and Video Processing
 
@@ -164,6 +167,7 @@ Face Verification
 
 [TensorFlow Graphics](https://github.com/tensorflow/graphics)
 
+
 ## Security
 
 ### Anomaly Detection
@@ -173,6 +177,7 @@ Face Verification
 ### IP protection
 
 How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
+
 
 ## Awesome CV List
 
