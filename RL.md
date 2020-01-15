@@ -14,10 +14,20 @@ Model based model free
 
 ## Meta Reinforcement Learning
 
-## RL for CV
+## Applications
 
-### RL for Object Tracking
+### Image/Video Processing
 
-## RL for NLP
+### CV
 
-## RL for Robotics
+#### Object Tracking
+
+### NLP
+
+### Robotics
+
+### Chemistry
+
+### Business
+
+#### Recommendation
