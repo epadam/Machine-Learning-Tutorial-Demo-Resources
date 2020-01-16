@@ -2,6 +2,14 @@
 
 For people who want to have a quick overview of the development in machine learning 
 
+## Deep Learning 2020
+
+* Robustness
+* Multi-Modal
+
+
+
+
 # [Theory and Basic Models](ML.md)
 
 Regression
