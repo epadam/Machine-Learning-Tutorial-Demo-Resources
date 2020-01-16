@@ -1,4 +1,4 @@
-# Integration of CV and NLP
+# Multi-Modal Learning 
 
 ## Image and Video Content Understanding, Reasoning and Analysis
 
@@ -17,3 +17,7 @@ Trends in Integration of Vision and Language Research: A Survey of Tasks, Datase
 [text-to-video-generation](https://antonia.space/text-to-video-generation)
 
 ## Audio and Video
+
+## Reference
+
+* [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
