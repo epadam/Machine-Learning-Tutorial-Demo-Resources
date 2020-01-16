@@ -2,8 +2,6 @@
 
 ## Art
 
-[LibROSA](https://librosa.github.io/librosa/)
-
 [Magenta](https://magenta.tensorflow.org/)
 
 ## Security
