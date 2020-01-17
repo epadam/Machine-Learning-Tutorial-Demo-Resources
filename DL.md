@@ -36,6 +36,10 @@ InterpretML [`Repo`](https://github.com/interpretml/interpret)
 
 Google TCAV [`Repo`](https://github.com/tensorflow/tcav)
 
+Neural Tangents [`Repo`](https://github.com/google/neural-tangents)
+
+XAI - An eXplainability toolbox for machine learning [`Repo`](https://github.com/EthicalML/xai)
+
 Explaining Explanations: An Overview of Interpretability of Machine Learning [`arXiv`](https://arxiv.org/abs/1806.00069)
 
 TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
