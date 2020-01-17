@@ -68,6 +68,10 @@ Transfer learning dominates the machine learning today. CV mostly benefit from s
 
 ## Anomaly Detection
 
+### AutoEncoder for Anomaly Detection
+
+### GAN for Anomaly Detection
+
 ## ML Attack
 
 [Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
