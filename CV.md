@@ -174,6 +174,10 @@ Face Verification
 
 ### Anomaly Detection
 
+* Autoencoder for Anomaly Detection
+
+* GAN for Anomaly Detection
+
 ### Model Attack
 
 ### IP protection
