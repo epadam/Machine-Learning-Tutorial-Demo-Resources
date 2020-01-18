@@ -163,6 +163,7 @@ Face Verification
 
 * [DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 
+### Video Classification
 
 ### 3D Rendering
 
