@@ -134,13 +134,14 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 ### Face Recognition
 
-Face Identification
+Face Identification:
+
+* [OpenFace](https://cmusatyalab.github.io/openface/)
+
+* Face Recognition [`github`](https://github.com/ageitgey/face_recognition)
 
 Face Verification
 
-[OpenFace](https://cmusatyalab.github.io/openface/)
-
-Face Recognition [`github`](https://github.com/ageitgey/face_recognition)
 
 ### Emotion Detection
 
@@ -158,6 +159,10 @@ Face Recognition [`github`](https://github.com/ageitgey/face_recognition)
 
 
 ## Image and Video Processing
+
+### Image/Video Compression
+
+generative-compression [`github`](https://github.com/Justin-Tan/generative-compression)
 
 ### Image/Video Analysis
 
