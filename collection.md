@@ -18,22 +18,9 @@
 
 * Side-Channel Attack
 
-
 ## Manufacutring
 
 * Defect Detection
-
-## Programming
-
-* [Auto Code Generator](https://github.com/tonybeltramelli/pix2code)
-
-* Code IntelliSense (code-completion)
-
-* [python_autocomplete](https://github.com/vpj/python_autocomplete)
-
-* [Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
-
-* [Deep universal probabilistic programming](https://github.com/pyro-ppl/pyro)
 
 ## Construction
 
@@ -46,6 +33,8 @@
 ## Business
 
 * [An implementation of a deep learning recommendation model (DLRM)](https://github.com/facebookresearch/dlrm?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+* [Deep Neural Networks for YouTube Recommendations](https://research.google/pubs/pub45530/)
 
 ## Traffic Control
 
