@@ -62,7 +62,13 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 #### Law
 
-### Applications on Source Code 
+### Applications on Source Code
+
+#### Program Synthesis
+
+* NLP to SQL query
+
+#### Code Suggestion and Completion
 
 * Auto Code Generator [`github`](https://github.com/tonybeltramelli/pix2code)
 
@@ -70,11 +76,15 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 * python_autocomplete [`github`](https://github.com/vpj/python_autocomplete)
 
+#### Source Code Analysis
+
+#### Program Repair and Bug Detection
+
 * [Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
 
 * Deep universal probabilistic programming [`github`](https://github.com/pyro-ppl/pyro)
 
-* NLP to SQL query
+#### Clone Detection
 
 ## Speech Recognition (ASR)
 
