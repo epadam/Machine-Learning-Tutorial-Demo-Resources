@@ -56,7 +56,7 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 * [DeepPavlov](http://deeppavlov.ai/)
 
-* [ParlAI] [`github`](https://github.com/facebookresearch/ParlAI)
+* ParlAI [`github`](https://github.com/facebookresearch/ParlAI)
 
 ### Natural Language Understanding and Generation
 
