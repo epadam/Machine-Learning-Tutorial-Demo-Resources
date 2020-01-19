@@ -20,6 +20,8 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 [SOD](https://github.com/symisc/sod)
 
+[A scalable Keras + deep learning REST API](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
+
 ## Tools and Frameworks
 
 [Tensorflow Models](https://github.com/tensorflow/models)
