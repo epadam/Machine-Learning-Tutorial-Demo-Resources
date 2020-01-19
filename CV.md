@@ -165,6 +165,8 @@ Face Recognition [`github`](https://github.com/ageitgey/face_recognition)
 
 ### Video Classification
 
+### Image/Video Retrieval
+
 ### 3D Rendering
 
 TensorFlow Graphics [`github`](https://github.com/tensorflow/graphics)
