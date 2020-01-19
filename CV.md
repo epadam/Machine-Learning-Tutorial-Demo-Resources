@@ -56,13 +56,13 @@ Faster R-CNN
 
 [YOLO3](https://pjreddie.com/darknet/yolo/)
 
-[DIoU-darknet](https://github.com/Zzh-tju/DIoU-darknet)
+DIoU-darknet [`github`](https://github.com/Zzh-tju/DIoU-darknet)
 
-[Google object detection api](https://github.com/tensorflow/models/tree/master/research/object_detection)
+Google object detection api [`github`](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
-[SNIPER](https://github.com/mahyarnajibi/SNIPER)
+SNIPER [`github`](https://github.com/mahyarnajibi/SNIPER)
 
-[NCRF](https://github.com/baidu-research/NCRF)
+NCRF [`github`](https://github.com/baidu-research/NCRF)
 
 #### NAS for Object Detection
 
@@ -78,11 +78,11 @@ Faster R-CNN
 
 [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
 
-[DeepLab V3](https://github.com/tensorflow/models/tree/master/research/deeplab)
+DeepLab V3 [`github`](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
-[body-pix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
+body-pix [`github`](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
 
-[robosat](https://github.com/mapbox/robosat)
+robosat [`github`](https://github.com/mapbox/robosat)
 
 #### NAS for Semantic Image Segmentation
 
@@ -90,17 +90,17 @@ Faster R-CNN
 
 ### Instance Segmentation
 
-[MMDetection](https://github.com/open-mmlab/mmdetection)
+MMDetection [`github`](https://github.com/open-mmlab/mmdetection)
 
-[Mask R-CNN](https://github.com/matterport/Mask_RCNN)
+Mask R-CNN [`github`](https://github.com/matterport/Mask_RCNN)
 
 [ShapeMask](https://cloud.google.com/blog/products/ai-machine-learning/high-performance-large-scale-instance-segmentation-with-cloud-tpus) 
 
-[yolact](https://github.com/dbolya/yolact)
+yolact [`github`](https://github.com/dbolya/yolact)
 
 ### Panoptic Segmentation
 
-[Detectron2](https://github.com/facebookresearch/detectron2)
+Detectron2 [`github`](https://github.com/facebookresearch/detectron2)
 
 Panoptic Feature Pyramid Networks [`arXiv`](https://arxiv.org/abs/1901.02446)
 
@@ -114,11 +114,11 @@ Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`a
 
 #### Few Shot Panoptic Segmentation Solutions
 
-* Single-Shot Panoptic Segmentation
+* Single-Shot Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.00764)
 
 ### Depth Estimation
 
-[Densepose](https://github.com/facebookresearch/DensePose)
+Densepose [`github`](https://github.com/facebookresearch/DensePose)
 
 [Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction](https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html)
 
@@ -126,7 +126,7 @@ Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXi
 
 ### Pose Estimation
 
-[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 ### Object Tracking
 
@@ -140,7 +140,7 @@ Face Verification
 
 [OpenFace](https://cmusatyalab.github.io/openface/)
 
-[Face Recognition](https://github.com/ageitgey/face_recognition)
+Face Recognition [`github`](https://github.com/ageitgey/face_recognition)
 
 ### Emotion Detection
 
@@ -152,7 +152,7 @@ Face Verification
 
 #### OCR
 
-* [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+* Tesseract OCR [`github`](https://github.com/tesseract-ocr/tesseract)
 
 ## RL for CV
 
@@ -161,13 +161,13 @@ Face Verification
 
 ### Image/Video Analysis
 
-* [DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+* DeepVideoAnalytics [`github`](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 
 ### Video Classification
 
 ### 3D Rendering
 
-[TensorFlow Graphics](https://github.com/tensorflow/graphics)
+TensorFlow Graphics [`github`](https://github.com/tensorflow/graphics)
 
 
 ## Security
