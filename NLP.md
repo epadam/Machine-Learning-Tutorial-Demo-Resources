@@ -64,15 +64,15 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 ### Applications on Source Code 
 
-* [Auto Code Generator] [`github`](https://github.com/tonybeltramelli/pix2code)
+* Auto Code Generator [`github`](https://github.com/tonybeltramelli/pix2code)
 
 * Code IntelliSense (code-completion)
 
-* [python_autocomplete] [`github`](https://github.com/vpj/python_autocomplete)
+* python_autocomplete [`github`](https://github.com/vpj/python_autocomplete)
 
 * [Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
 
-* [Deep universal probabilistic programming] [`github`](https://github.com/pyro-ppl/pyro)
+* Deep universal probabilistic programming [`github`](https://github.com/pyro-ppl/pyro)
 
 * NLP to SQL query
 
@@ -80,15 +80,15 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 [Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech)
 
-[DeepSpeech](https://github.com/mozilla/DeepSpeech)
+DeepSpeech [`github`](https://github.com/mozilla/DeepSpeech)
 
-[Wav2letter++](https://github.com/facebookresearch/wav2letter)
+Wav2letter++ [`github`](https://github.com/facebookresearch/wav2letter)
 
-[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+Real-Time-Voice-Cloning [`github`](https://github.com/CorentinJ/Real-Time-Voice-Cloning?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ### On-device wake word detection:
 
-[porcupine](https://github.com/Picovoice/porcupine)
+porcupine [`github`](https://github.com/Picovoice/porcupine)
 
 ## Speaker Diarization
 
@@ -96,7 +96,7 @@ Joint Speech Recognition and Speaker Diarization via Sequence Transduction [`arX
 
 ## Voice Conversion
 
-[deep-voice-conversion](https://github.com/andabi/deep-voice-conversion)
+deep-voice-conversion [`github`](https://github.com/andabi/deep-voice-conversion)
 
 ## Speech Synthesis (TTS)
 
