@@ -58,6 +58,8 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 * ParlAI [`github`](https://github.com/facebookresearch/ParlAI)
 
+* [Comparison of Transfer-Learning Approaches for Response Selection in Multi-Turn Conversations](http://workshop.colips.org/dstc7/papers/17.pdf)
+
 ### Natural Language Understanding and Generation
 
 #### Law
