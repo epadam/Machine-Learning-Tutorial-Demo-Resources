@@ -78,7 +78,7 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 ## Speech Recognition (ASR)
 
-[Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech)
+Alibaba-MIT-Speech [`github`](https://github.com/alibaba/Alibaba-MIT-Speech)
 
 DeepSpeech [`github`](https://github.com/mozilla/DeepSpeech)
 
