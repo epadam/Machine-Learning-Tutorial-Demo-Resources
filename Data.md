@@ -2,7 +2,7 @@
 
 ## Data Labeling
 
-* [Snorkel](https://www.snorkel.org/)
+[Snorkel](https://www.snorkel.org/)
 
 Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale [`arXiv`](https://arxiv.org/abs/1812.00417)
 
@@ -16,17 +16,17 @@ Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.or
 
 ## Data Augmentation
 
-[Augmentor](https://github.com/mdbloice/Augmentor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+Augmentor [`Github`](https://github.com/mdbloice/Augmentor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-[albumentations](https://github.com/albumentations-team/albumentations)
+albumentations [`Github`](https://github.com/albumentations-team/albumentations)
 
-[DALI](https://github.com/NVIDIA/DALI)
+DALI [`Github`](https://github.com/NVIDIA/DALI)
 
 ## Data Privacy
 
 ### Differential Privacy
 
-* [Differential Privacy](https://github.com/google/differential-privacy)
+* Differential Privacy [`Github`](https://github.com/google/differential-privacy)
 
 * [Tensorflow Differential Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
 
