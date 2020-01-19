@@ -8,41 +8,41 @@ For people who want to have a quick overview of the development in machine learn
 * Multi-Modal
 
 
-# [Machine Learning Overview](ML.md)
+## [Machine Learning Overview](ML.md)
 
-# [Data pre-processing](data.md)
+## [Data pre-processing](data.md)
 
-# [Deep Learning](DL.md)
+## [Deep Learning](DL.md)
 
-## [Graphic Network](GNN.md)
+### [Graphic Network](GNN.md)
 
-# [GAN](GAN.md)
+## [GAN](GAN.md)
 
-# [AutoML](autoML.md)
+## [AutoML](autoML.md)
 
-# [Reinforcement Learning](RL.md)
+## [Reinforcement Learning](RL.md)
 
-# [Meta Learning / Few Shot Learning / One Shot Learning / Zero Shot Learning](Meta.md)
+## [Meta Learning](Meta.md)
 
-# [Life Long Learning](LLL.md)
+## [Life Long Learning](LLL.md)
 
-# [Computer Vision](CV.md)
+## [Computer Vision](CV.md)
 
-## [3D](3D.md)
+### [3D](3D.md)
 
-# [Natural Language Processing](NLP.md)
+## [Natural Language Processing](NLP.md)
 
-# [Multimodal Learning](Multimodal.md)
+## [Multimodal Learning](Multimodal.md)
 
-# [Robotics](Robotics.md)
+## [Robotics](Robotics.md)
 
-# [Training Tracking and Deployment](deployment.md)
+## [Training Tracking and Deployment](deployment.md)
 
-# [Other Applications of Machine Learning](collections.md)
+## [Other Applications of Machine Learning](collections.md)
 
-# [Learning Resources](learning_resources.md)
+## [Learning Resources](learning_resources.md)
 
-# Awesome ML List
+## Awesome ML List
 
 [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
@@ -68,9 +68,9 @@ For people who want to have a quick overview of the development in machine learn
 
 [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
-# Video Lectures
+## Video Lectures
 
-## DL
+### DL
 
 [Stanford Lecture Collection Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
@@ -84,7 +84,7 @@ For people who want to have a quick overview of the development in machine learn
 
 [fast.ai](https://www.youtube.com/user/howardjeremyp/videos)
 
-## RL
+### RL
 
 [Standford CS234: Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
