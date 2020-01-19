@@ -56,15 +56,23 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 * [DeepPavlov](http://deeppavlov.ai/)
 
-* [ParlAI](https://github.com/facebookresearch/ParlAI)
+* [ParlAI] [`github`](https://github.com/facebookresearch/ParlAI)
 
-### Natural Language Understanding
+### Natural Language Understanding and Generation
 
-### Natural Language Generation 
+#### Law
 
-### Other Applications
+### Applications on Source Code 
 
-* Code Generation
+* [Auto Code Generator] [`github`](https://github.com/tonybeltramelli/pix2code)
+
+* Code IntelliSense (code-completion)
+
+* [python_autocomplete] [`github`](https://github.com/vpj/python_autocomplete)
+
+* [Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
+
+* [Deep universal probabilistic programming] [`github`](https://github.com/pyro-ppl/pyro)
 
 * NLP to SQL query
 
