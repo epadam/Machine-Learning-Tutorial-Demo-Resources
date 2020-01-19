@@ -26,7 +26,7 @@
 
 #### Meta Learning for pruning
 
-* [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://github.com/liuzechun/MetaPruning)
+* MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning [`Github`](https://github.com/liuzechun/MetaPruning)
 
 ### Quantization
 
