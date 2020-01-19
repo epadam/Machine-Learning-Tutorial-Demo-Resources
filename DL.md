@@ -6,7 +6,7 @@ Feature Pyramid Networks
 
 Fully Convolutional Networks
 
-Capsule Neural Network
+Capsule Neural Network [`Github`](https://github.com/Sarasra/models/tree/master/research/capsules)
 
 Autoencoder
 
@@ -18,7 +18,11 @@ VAE-GAN
 
 Graph Networks:
 
-Graph Convolutional Networks
+Graph Convolutional Networks:
+
+* Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
+
+* Graph Convolutional Networks
 
 RNN
 
@@ -32,13 +36,13 @@ Transformer
 
 ## Explainable ML
 
-InterpretML [`Repo`](https://github.com/interpretml/interpret)
+InterpretML [`Github`](https://github.com/interpretml/interpret)
 
-Google TCAV [`Repo`](https://github.com/tensorflow/tcav)
+Google TCAV [`Github`](https://github.com/tensorflow/tcav)
 
-Neural Tangents [`Repo`](https://github.com/google/neural-tangents)
+Neural Tangents [`Github`](https://github.com/google/neural-tangents)
 
-XAI - An eXplainability toolbox for machine learning [`Repo`](https://github.com/EthicalML/xai)
+XAI - An eXplainability toolbox for machine learning [`Github`](https://github.com/EthicalML/xai)
 
 Explaining Explanations: An Overview of Interpretability of Machine Learning [`arXiv`](https://arxiv.org/abs/1806.00069)
 
