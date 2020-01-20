@@ -130,6 +130,8 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 ### Object Tracking
 
+* PySOT [`github`](https://github.com/STVIR/pysot)
+
 #### Reinforcement Learning for Object Tracking
 
 ### Face Recognition
