@@ -2,11 +2,13 @@
 
 ## Image and Video Content Understanding, Reasoning and Analysis
 
-Pythia v0.1: the Winning Entry to the VQA Challenge 2018 [`arXiv`](https://arxiv.org/abs/1807.09956)
+* Audio-Visual Scene-Aware Dialog [`github`](https://github.com/batra-mlp-lab/avsd)
 
-Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods [`arXiv`](https://arxiv.org/abs/1907.09358)
+* Pythia v0.1: the Winning Entry to the VQA Challenge 2018 [`arXiv`](https://arxiv.org/abs/1807.09956)
 
-[Hello, World: Building an AI that understands the world through video](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
+* Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods [`arXiv`](https://arxiv.org/abs/1907.09358)
+
+* [Hello, World: Building an AI that understands the world through video](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
 
 ### Image/Video Captioning
 
