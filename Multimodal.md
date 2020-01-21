@@ -1,5 +1,7 @@
 # Multi-Modal Learning 
 
+* Multimodal Machine Learning: A Survey and Taxonomy [`arXiv`](https://arxiv.org/abs/1705.09406)
+
 ## Representation Learning
 
 ## Multimodal Alignment
