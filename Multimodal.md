@@ -1,6 +1,16 @@
 # Multi-Modal Learning 
 
-## Image and Video Content Understanding, Reasoning and Analysis
+## Representation Learning
+
+## Multimodal Alignment
+
+## Multimodal Translation
+
+## Multimodal Fusion
+
+## Applications
+
+### Image and Video Content Understanding, Reasoning and Analysis
 
 * Audio-Visual Scene-Aware Dialog [`github`](https://github.com/batra-mlp-lab/avsd)
 
@@ -10,7 +20,7 @@
 
 * [Hello, World: Building an AI that understands the world through video](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
 
-### Image/Video Captioning
+#### Image/Video Captioning
 
 ## Visual Question Answering (VQA)
 
