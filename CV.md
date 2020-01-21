@@ -44,7 +44,7 @@ EfficientNet
 
 * CIFAR10 / CIFAR100
 
-### Fine-Grained Image Classification
+### Fine-Grained Image Analysis
 
 ### Image Retrieval
 
