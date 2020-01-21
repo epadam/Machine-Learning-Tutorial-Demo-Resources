@@ -8,7 +8,7 @@
 
 ### Random Forest
 
-### K-
+### K-means
 
 ### Bayesian
 
