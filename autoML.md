@@ -4,9 +4,14 @@
 
 * Searching for MobileNetV3 [`arXiv`](https://arxiv.org/abs/1905.02244?context=cs)
 
-* DARTS: Differentiable Architecture Search [`arXiv`](https://arxiv.org/abs/1806.09055)
 
-### Reinforcement Learning for NAS
+### Reinforcement Learning
+
+### Evolutionary Algorithm
+
+### Gradient Based
+
+* DARTS: Differentiable Architecture Search [`arXiv`](https://arxiv.org/abs/1806.09055)
 
 ### Meta Learning for NAS
 
