@@ -27,6 +27,8 @@ Model based model free
 
 #### Object Tracking
 
+#### Visual Relationship Detection
+
 ### NLP
 
 ### Robotics
