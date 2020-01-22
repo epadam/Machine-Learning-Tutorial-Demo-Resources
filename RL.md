@@ -1,6 +1,10 @@
 # Reinforcement Learning
 
-Model based model free
+## Model based 
+
+## Model free
+
+### Policy Gradient
 
 ## Deep Reinforcement Learning
 
@@ -28,6 +32,10 @@ Model based model free
 #### Object Tracking
 
 #### Visual Relationship Detection
+
+#### Video Understanding
+
+### NAS
 
 ### NLP
 
