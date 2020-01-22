@@ -17,6 +17,8 @@
 
 * [TOWARDS FAST ADAPTATION OF NEURAL ARCHITECTURES WITH META LEARNING](https://openreview.net/forum?id=r1eowANFvr)
 
+### Bayesian Optimization
+
 ### Tools
 
 * [AutoKeras](https://autokeras.com/)
