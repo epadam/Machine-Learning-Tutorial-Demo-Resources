@@ -10,6 +10,11 @@ Model based model free
 
 * Global overview of Imitation Learning [`arXiv`](https://arxiv.org/abs/1801.06503)
 
+#### Dagger
+
+#### Inverse-RL
+
+
 ### Self-supervised Reinforcement Learning
 
 ## Meta Reinforcement Learning
