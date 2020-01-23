@@ -19,8 +19,6 @@
 
 ### Bayesian Optimization
 
-### Tools
-
 * [AutoKeras](https://autokeras.com/)
 
 ## Network Compression
