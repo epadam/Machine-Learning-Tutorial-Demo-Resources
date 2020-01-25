@@ -8,6 +8,8 @@
 
 ### Random Forest
 
+### Gradient Boosting
+
 ### K-means
 
 ### Bayesian
