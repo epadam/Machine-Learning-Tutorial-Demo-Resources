@@ -11,7 +11,7 @@ For people who want to have a quick overview of the development in machine learn
 
 ## [Machine Learning Overview](ML.md)
 
-## [Data pre-processing](data.md)
+## [Data pre-processing](Data.md)
 
 ## [Deep Learning](DL.md)
 
