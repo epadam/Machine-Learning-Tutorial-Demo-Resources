@@ -46,6 +46,8 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 * Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
 
+* OpenKiwi [`github`](https://github.com/Unbabel/OpenKiwi)
+
 ### Automatic Summarization
 
 #### Extractive Summarization
