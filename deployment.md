@@ -16,6 +16,8 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 [MLflow](https://mlflow.org/)
 
+[Metaflow](https://metaflow.org/)
+
 [Mace](https://github.com/XiaoMi/mace)
 
 [SOD](https://github.com/symisc/sod)
@@ -36,7 +38,9 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 * Tensorflow Estimator
 
-## Deployment on MCU
+## Edge Deployment
+
+### MCU
 
 ## Hardware Acceleration
 
