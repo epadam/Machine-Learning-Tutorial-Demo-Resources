@@ -66,7 +66,7 @@ Intermiediate Layer Output Visualization
 
 [Embedding Projector](https://towardsdatascience.com/visualizing-bias-in-data-using-embedding-projector-649bc65e7487)
 
-[TensorWatch](https://github.com/microsoft/tensorwatch)
+TensorWatch [`Github`](https://github.com/microsoft/tensorwatch)
 
 ## Domain Adaptation / Transfer Learning
 
@@ -77,6 +77,8 @@ Transfer learning dominates the machine learning today. CV mostly benefit from s
 How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
 
 ## Anomaly Detection
+
+* Anomaly Detection Learning Resources [`Github`](https://github.com/yzhao062/anomaly-detection-resources)
 
 ### AutoEncoder for Anomaly Detection
 
