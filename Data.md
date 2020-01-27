@@ -32,6 +32,8 @@ DALI [`Github`](https://github.com/NVIDIA/DALI)
 
 ### Federated Learning
 
+* [FedAI](https://www.fedai.org/)
+
 * Federated Learning: Collaborative Machine Learning without Centralized Training Data [`arXiv`](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 
 * Advances and Open Problems in Federated Learning [`arXiv`](https://arxiv.org/abs/1912.04977)
