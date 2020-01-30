@@ -8,6 +8,8 @@
 
 ## Security
 
+* Machine Learning and Security [`github`](https://github.com/13o-bbr-bbq/machine_learning_security)
+
 * Fraud Detection
 
 * Maleware Detection
@@ -30,7 +32,7 @@
 
 ## Life
 
-* [Virtual Assistant](https://github.com/DragonComputer/Dragonfire)
+* [Virtual Assistant] [`github`](https://github.com/DragonComputer/Dragonfire)
 
 ## Business
 
