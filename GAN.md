@@ -36,6 +36,8 @@ Large Scale GAN Training for High Fidelity Natural Image Synthesis [`arXiv`](htt
 
 ### GAN for NLP
 
+* Code Generation
+
 ### GAN for ML Attack
 
 ### GAN for Image/Video Compression
