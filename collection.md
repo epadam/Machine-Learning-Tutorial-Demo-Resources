@@ -6,6 +6,8 @@
 
 ## Programming
 
+* Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge [`github`](https://github.com/nicholaslocascio/deep-regex)
+
 ## Security
 
 * Machine Learning and Security [`github`](https://github.com/13o-bbr-bbq/machine_learning_security)
