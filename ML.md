@@ -2,7 +2,9 @@
 
 ## Traditional Algorithms
 
-### Regression
+### Linear Regression
+
+### Logic Regression
 
 ### Decision Tree
 
