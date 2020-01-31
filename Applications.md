@@ -6,7 +6,11 @@
 
 ## Programming
 
+### RegEx
+
 * Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge [`github`](https://github.com/nicholaslocascio/deep-regex)
+
+### Data Structure
 
 ## VR/AR
 
