@@ -30,17 +30,26 @@
 
 * Side-Channel Attack
 
-## Manufacutring
+## Engineering
+
+### Mechenical Engineering
+
+### Electrical Engineering
+
+### Manufacutring
 
 * Defect Detection
 
-## Construction
+### Construction
 
-## Architecture
+### Architecture
+
 
 ## Life
 
 * [Virtual Assistant] [`github`](https://github.com/DragonComputer/Dragonfire)
+
+## Law
 
 ## Business
 
