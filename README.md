@@ -39,7 +39,7 @@ For people who want to have a quick overview of the development in machine learn
 
 ## [Training Tracking and Deployment](deployment.md)
 
-## [Other Applications of Machine Learning](collections.md)
+## [Other Applications of Machine Learning](Applications.md)
 
 ## [Learning Resources](learning_resources.md)
 
