@@ -46,3 +46,7 @@
 ### Business
 
 #### Recommendation
+
+## Reference
+
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
