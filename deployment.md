@@ -16,6 +16,8 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 [MLflow](https://mlflow.org/)
 
+[Kubeflow](https://www.kubeflow.org/)
+
 [Metaflow](https://metaflow.org/)
 
 [Mace](https://github.com/XiaoMi/mace)
