@@ -6,20 +6,20 @@
 
 ### Policy Gradient
 
-## Deep Reinforcement Learning
+### Q Learning
 
-### Deep Q Learning
+#### Deep Q Learning
 
-### Imitation Learning
+## Imitation Learning
 
 * Global overview of Imitation Learning [`arXiv`](https://arxiv.org/abs/1801.06503)
 
-#### Dagger
+### Dagger
 
-#### Inverse-RL
+### Inverse-RL
 
 
-### Self-supervised Reinforcement Learning
+## Self-supervised Reinforcement Learning
 
 ## Meta Reinforcement Learning
 
