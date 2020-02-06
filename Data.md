@@ -14,7 +14,7 @@ Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale 
 
 Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.org/abs/1908.01862)
 
-[VoTT (Visual Object Tagging Tool)](https://github.com/microsoft/VoTT)
+VoTT (Visual Object Tagging Tool) [`Github`](https://github.com/microsoft/VoTT)
 
 ## Data Augmentation
 
