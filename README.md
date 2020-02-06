@@ -63,6 +63,8 @@ For people who want to have a quick overview of the development in machine learn
 
 [Awesome Pruning](https://github.com/he-y/Awesome-Pruning)
 
+[Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+
 [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 
 [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
