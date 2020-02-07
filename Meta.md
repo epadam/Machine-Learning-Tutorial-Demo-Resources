@@ -35,7 +35,9 @@ Reptile
 
 ## Meta Transfer Learning
 
-## [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
+## Reference
+
+* [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 
 
 
