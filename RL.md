@@ -16,7 +16,7 @@
 
 ### Behavior Cloning
 
-#### Dagger
+* Dagger
 
 ### Inverse-RL
 
