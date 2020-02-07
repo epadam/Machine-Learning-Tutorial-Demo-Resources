@@ -1,6 +1,6 @@
 # Life Long Learning
 
-## Life Lon
+## Life Long Learning VS Incremental Learning
 
 ## Incremental Learning VS Online Learning
 
