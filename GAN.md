@@ -46,4 +46,6 @@ Large Scale GAN Training for High Fidelity Natural Image Synthesis [`arXiv`](htt
 
 ### GAN for Image Classification
 
-## [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
+## Reference
+
+* [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
