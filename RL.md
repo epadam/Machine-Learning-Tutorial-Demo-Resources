@@ -14,10 +14,13 @@
 
 * Global overview of Imitation Learning [`arXiv`](https://arxiv.org/abs/1801.06503)
 
-### Dagger
+### Behavior Cloning
+
+#### Dagger
 
 ### Inverse-RL
 
+### GAN for Imitation Learning
 
 ## Self-supervised Reinforcement Learning
 
