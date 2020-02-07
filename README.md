@@ -15,7 +15,7 @@ For people who want to have a quick overview of the development in machine learn
 
 ## [Deep Learning](DL.md)
 
-### [Graphic Network](GNN.md)
+### [Graph Network](GNN.md)
 
 ## [GAN](GAN.md)
 
