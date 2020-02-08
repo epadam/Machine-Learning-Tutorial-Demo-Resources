@@ -82,6 +82,8 @@ How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Pro
 
 * Awesome Anomaly Detection [`Github`](https://github.com/zhuyiche/awesome-anomaly-detection)
 
+* awesome anomaly detection [`Github`](https://github.com/hoya012/awesome-anomaly-detection)
+
 ### Autoencoder for Anomaly Detection
 
 ### GAN for Anomaly Detection
