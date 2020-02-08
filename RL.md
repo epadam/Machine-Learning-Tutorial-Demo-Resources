@@ -14,9 +14,9 @@
 
 * Global overview of Imitation Learning [`arXiv`](https://arxiv.org/abs/1801.06503)
 
-* [ICML2018 Imitation Learning](https://sites.google.com/view/icml2018-imitation-learning/)
+* [ICML2018 Imitation Learning Tutorial](https://sites.google.com/view/icml2018-imitation-learning/)
 
-### Behavior Cloning
+### Behavioral Cloning
 
 * Dagger
 
