@@ -24,8 +24,6 @@
 
 * Fake Documents Detection
 
-* [Defect Detection](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
-
 * Cybersecurity
 
 * Side-Channel Attack
@@ -38,7 +36,7 @@
 
 ### Manufacutring
 
-* Defect Detection
+* [Defect Detection](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
 
 ### Construction
 
