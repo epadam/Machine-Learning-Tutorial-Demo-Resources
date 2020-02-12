@@ -54,15 +54,19 @@ SSD
 
 Faster R-CNN
 
-[YOLO3](https://pjreddie.com/darknet/yolo/)
+Feature Pyramid Network (FPN)
 
-DIoU-darknet [`github`](https://github.com/Zzh-tju/DIoU-darknet)
+#### Tools
 
-Google object detection api [`github`](https://github.com/tensorflow/models/tree/master/research/object_detection)
+* [YOLO3](https://pjreddie.com/darknet/yolo/)
 
-SNIPER [`github`](https://github.com/mahyarnajibi/SNIPER)
+* DIoU-darknet [`github`](https://github.com/Zzh-tju/DIoU-darknet)
 
-NCRF [`github`](https://github.com/baidu-research/NCRF)
+* Google object detection api [`github`](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+* SNIPER [`github`](https://github.com/mahyarnajibi/SNIPER)
+
+* NCRF [`github`](https://github.com/baidu-research/NCRF)
 
 #### NAS for Object Detection
 
