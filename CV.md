@@ -80,6 +80,8 @@ Feature Pyramid Network (FPN)
 
 ### Semantic Segmentation
 
+Full Convolutional Networks(FCN)
+
 [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
 
 DeepLab V3 [`github`](https://github.com/tensorflow/models/tree/master/research/deeplab)
