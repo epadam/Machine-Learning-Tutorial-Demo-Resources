@@ -45,7 +45,7 @@
 
 ## Life
 
-* [Virtual Assistant] [`github`](https://github.com/DragonComputer/Dragonfire)
+* Virtual Assistant [`github`](https://github.com/DragonComputer/Dragonfire)
 
 ## Law
 
