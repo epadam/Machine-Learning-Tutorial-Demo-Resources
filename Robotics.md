@@ -26,3 +26,15 @@ Carla
 [AirSim](https://github.com/Microsoft/AirSim)
 
 Apollo
+
+## Reference
+
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+
+* [awesome-robotics](https://github.com/ahundt/awesome-robotics)
+
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+
+* [Awesome Self-Driving Cars](https://github.com/daohu527/awesome-self-driving-car)
+
+* [Awesome Autonomous Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
