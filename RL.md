@@ -56,4 +56,6 @@
 
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 
+* [Awesome-Imitation-Learning](https://github.com/kristery/Awesome-Imitation-Learning)
+
 * https://github.com/dennybritz/reinforcement-learning
