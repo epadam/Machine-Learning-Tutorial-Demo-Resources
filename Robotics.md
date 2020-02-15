@@ -21,11 +21,19 @@
 
 ### Platform
 
-Carla
+* Apollo [`github`](https://github.com/ApolloAuto/apollo)
 
-[AirSim](https://github.com/Microsoft/AirSim)
+* Comma ai openpilot [`github`](https://github.com/commaai/openpilot)
 
-Apollo
+
+
+### Simulator
+
+* Carla [`github`](https://github.com/carla-simulator/carla)
+
+* AirSim [`github`](https://github.com/Microsoft/AirSim)
+
+
 
 ## Reference
 
