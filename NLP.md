@@ -14,9 +14,13 @@ GPT-2
 
 T5
 
+## GAN for NLP
+
 ## Meta Learning for NLP
 
 ## Reinforcement Learning for NLP 
+
+* Imitation Learning for NLP
 
 ## Knowledge Graph
 
