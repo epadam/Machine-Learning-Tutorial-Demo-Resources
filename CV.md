@@ -78,6 +78,8 @@ Feature Pyramid Network (FPN)
 
 * MS COCO
 
+
+
 ### Semantic Segmentation
 
 Full Convolutional Networks(FCN)
@@ -137,6 +139,12 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 ### Object Tracking
 
 * PySOT [`github`](https://github.com/STVIR/pysot)
+
+* Awesome Interaction-aware Behavior and Trajectory Prediction [`github`](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
+
+* Awesome-Trajectory-Prediction [`github`](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction)
+
+
 
 #### Reinforcement Learning for Object Tracking
 
