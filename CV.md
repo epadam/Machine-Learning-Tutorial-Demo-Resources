@@ -144,6 +144,9 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 * Awesome-Trajectory-Prediction [`github`](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction)
 
+* Deep-Learning-for-Tracking-and-Detection [`github`](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+
+
 
 
 #### Reinforcement Learning for Object Tracking
