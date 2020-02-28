@@ -1,10 +1,10 @@
 # Life Long Learning
 
-## Life Long Learning VS Incremental Learning
+## Life Long Learning vs Incremental Learning
 
-## Incremental Learning VS Online Learning
+## Incremental Learning vs Online Learning
 
-## Online Learning VS Active Learning
+## Online Learning vs Active Learning
 
 
 
