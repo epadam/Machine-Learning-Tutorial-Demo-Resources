@@ -2,4 +2,6 @@
 
 ## Online Learning
 
-### Deep Reinforcement Learning
+### Online Reinforcement Learning
+
+### Online Deep Learning
