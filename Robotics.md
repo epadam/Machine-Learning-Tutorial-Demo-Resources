@@ -1,4 +1,4 @@
-# Robotics and Self-Driving Car
+# Robotics
 
 ## Robotics
 
@@ -8,12 +8,17 @@
 
 ### Imitation Learning
 
+When the complexity is too large, imitation learning can help the agent learn fast. 
+
 * End-to-End Training of Deep Visuomotor Policies [`arXiv`](https://arxiv.org/abs/1504.00702)
 
 #### One shot imitation learning
 
 * Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations [`arXiv`](https://arxiv.org/abs/1805.07054)
 
+### Robot Navigation
+
+### Robot Controlling
 
 ## Reference
 
