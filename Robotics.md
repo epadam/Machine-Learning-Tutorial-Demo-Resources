@@ -6,7 +6,9 @@
 
 ### Reinforcement Learning
 
-### Robot Controlling
+### Deep Learning
+
+## Robot Controlling
 
 ### Imitation Learning
 
