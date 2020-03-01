@@ -31,7 +31,7 @@
 
 ### Mapping Occupancy Grids
 
-### Path Searching
+### Path Planning
 
 ### Behaviour planning with dynamic objects
 
