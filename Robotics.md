@@ -1,10 +1,12 @@
 # Robotics
 
-## Robotics
+## Robot Navigation
+
+### SLAM
 
 ### Reinforcement Learning
 
-#### Policy Gradient
+### Robot Controlling
 
 ### Imitation Learning
 
@@ -16,9 +18,6 @@ When the complexity is too large, imitation learning can help the agent learn fa
 
 * Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations [`arXiv`](https://arxiv.org/abs/1805.07054)
 
-### Robot Navigation
-
-### Robot Controlling
 
 ## Reference
 
