@@ -24,9 +24,14 @@
 
 ### GAN for Imitation Learning
 
+* Generative adversarial imitation learning [`github`](https://arxiv.org/abs/1606.03476)
+
 ## Self-supervised Reinforcement Learning
 
 ## Meta Reinforcement Learning
+
+## Curriculum Learning
+
 
 ## Applications
 
