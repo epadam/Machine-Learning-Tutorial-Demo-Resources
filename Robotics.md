@@ -2,11 +2,18 @@
 
 ## Robot Navigation
 
-### SLAM
+### Visual Only
 
-### Reinforcement Learning
+#### Deep Reinforcement Learning
 
-### Deep Learning
+* Learning to Navigate in Cities Without a Map [`github`](https://arxiv.org/abs/1804.00168)
+
+#### Imitation Learning(supervised learning)
+
+### SLAM available
+
+
+
 
 ## Robot Controlling
 
@@ -20,10 +27,9 @@
 
 When the complexity is too large, imitation learning can help the agent learn fast. 
 
-#### One shot imitation learning
+#### One shot imitation learning (meta learning)
 
 * Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations [`arXiv`](https://arxiv.org/abs/1805.07054)
-
 
 ## Reference
 
