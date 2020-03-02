@@ -6,7 +6,7 @@
 
 ## Online Learning vs Active Learning
 
-
+## Incremental Learning vs Meta Learning
 
 ## Reference 
 
