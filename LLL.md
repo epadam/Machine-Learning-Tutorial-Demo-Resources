@@ -1,12 +1,20 @@
+# Online Learning
+
+## Reinforcement Learning
+
+## Deep Learning
+
+* Online Deep Learning: Learning Deep Neural Networks on the Fly [`github`](https://arxiv.org/abs/1711.03705)
+
+# Active Learning
+
+Include experts in the loop. The model selects valuable data and ask experts to annotate it.
+
+# Incremental Learning
+
 # Life Long Learning
 
-## Life Long Learning vs Incremental Learning
 
-## Incremental Learning vs Online Learning
-
-## Online Learning vs Active Learning
-
-## Incremental Learning vs Meta Learning
 
 ## Reference 
 
