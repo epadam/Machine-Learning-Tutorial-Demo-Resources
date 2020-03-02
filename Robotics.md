@@ -10,11 +10,15 @@
 
 ## Robot Controlling
 
+### Reinforcement Learning
+
+#### Deep Reinforcement Learning
+
+* End-to-End Training of Deep Visuomotor Policies [`arXiv`](https://arxiv.org/abs/1504.00702)
+
 ### Imitation Learning
 
 When the complexity is too large, imitation learning can help the agent learn fast. 
-
-* End-to-End Training of Deep Visuomotor Policies [`arXiv`](https://arxiv.org/abs/1504.00702)
 
 #### One shot imitation learning
 
