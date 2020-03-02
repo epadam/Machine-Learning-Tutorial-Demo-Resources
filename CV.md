@@ -106,6 +106,10 @@ Mask R-CNN [`github`](https://github.com/matterport/Mask_RCNN)
 
 yolact [`github`](https://github.com/dbolya/yolact)
 
+#### Unknown Classes Detection
+
+* Detecting the Unexpected via Image Resynthesis [`github`](https://arxiv.org/abs/1904.07595)
+
 ### Panoptic Segmentation
 
 Detectron2 [`github`](https://github.com/facebookresearch/detectron2)
@@ -120,9 +124,12 @@ Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Seg
 
 Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arXiv`](https://arxiv.org/abs/1809.04184)
 
-#### Few Shot Panoptic Segmentation Solutions
+Single-Shot Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.00764)
 
-* Single-Shot Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.00764)
+#### Unknown Classes Detection
+
+UPSNet: A Unified Panoptic Segmentation Network [`github`](https://arxiv.org/abs/1901.03784)
+
 
 ### Depth Estimation
 
