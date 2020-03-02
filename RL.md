@@ -1,5 +1,7 @@
 # Reinforcement Learning
 
+## Self-supervised Reinforcement Learning
+
 ## Model based 
 
 ## Model free
@@ -24,9 +26,11 @@
 
 ### GAN for Imitation Learning
 
-* Generative adversarial imitation learning [`github`](https://arxiv.org/abs/1606.03476)
+* Generative adversarial imitation learning [`arXiv`](https://arxiv.org/abs/1606.03476)
 
-## Self-supervised Reinforcement Learning
+## Comparison of RL and IL
+
+* Off-Policy Deep Reinforcement Learning Without Exploration [`arXiv`](https://arxiv.org/abs/1812.02900)
 
 ## Meta Reinforcement Learning
 
