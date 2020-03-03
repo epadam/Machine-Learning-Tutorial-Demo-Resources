@@ -4,16 +4,17 @@
 
 ## Deep Learning
 
-* Online Deep Learning: Learning Deep Neural Networks on the Fly [`github`](https://arxiv.org/abs/1711.03705)
+* Online Deep Learning: Learning Deep Neural Networks on the Fly [`arXiv`](https://arxiv.org/abs/1711.03705)
 
 # Active Learning
 
 Include experts in the loop. The model selects valuable data and ask experts to annotate it.
 
-# Incremental Learning
+* Fine-tuning Convolutional Neural Networks for Biomedical Image Analysis Actively and Incrementally [`arXiv`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf)
 
-# Life Long Learning
+# Incremental Learning and Life Long Learning
 
+*  Fine-tuning Deep Neural Networks in Continuous Learning Scenarios [`arXiv`](https://pub.inf-cv.uni-jena.de/pdf/Kaeding16_FDN.pdf)
 
 
 ## Reference 
