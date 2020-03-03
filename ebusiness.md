@@ -14,6 +14,8 @@
 
 * Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology [`arXiv`](https://arxiv.org/abs/1606.07792)
 
+* Top-K Off-Policy Correction for a REINFORCE Recommender System [`arXiv`](https://arxiv.org/abs/1812.02353)
+
 
 ### GAN
 
