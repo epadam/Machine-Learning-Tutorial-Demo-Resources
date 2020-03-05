@@ -39,9 +39,9 @@
 
 ## Applications
 
-### Image/Video Processing
+### RL for Image/Video Processing
 
-### Computer Vision
+### RL for Computer Vision
 
 #### Object Tracking
 
