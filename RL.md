@@ -41,7 +41,7 @@
 
 ### Image/Video Processing
 
-### CV
+### Computer Vision
 
 #### Object Tracking
 
@@ -49,17 +49,21 @@
 
 #### Video Understanding
 
-### NAS
+### RL for NAS
 
-### NLP
+### RL for NLP
 
-### Robotics
+### RL for Robotics
 
-### Chemistry
+### RL for Chemistry
 
-### Business
+### RL for Business
 
 #### Recommendation
+
+### RL for IoT
+
+
 
 ## Reference
 
