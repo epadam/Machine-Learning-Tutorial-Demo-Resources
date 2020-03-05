@@ -72,3 +72,7 @@
 * [Awesome-Imitation-Learning](https://github.com/kristery/Awesome-Imitation-Learning)
 
 * https://github.com/dennybritz/reinforcement-learning
+
+* [Standford CS234: Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+* [UC Berkeley Reinforcement Learning (CS 294)](https://www.youtube.com/playlist?list=PLkkkPGkyjEBk3RB2USEC_ZbCw-8ZoR5AJ)
