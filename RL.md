@@ -36,6 +36,12 @@
 
 ## Curriculum Learning
 
+## Platform and Tools
+
+* Open AI gym
+
+* TF-agent
+
 
 ## Applications
 
