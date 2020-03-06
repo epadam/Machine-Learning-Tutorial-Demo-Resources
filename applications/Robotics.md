@@ -31,6 +31,13 @@ When the complexity is too large, imitation learning can help the agent learn fa
 
 * Synthetically Trained Neural Networks for Learning Human-Readable Plans from Real-World Demonstrations [`arXiv`](https://arxiv.org/abs/1805.07054)
 
+## Platform and Tools
+
+* ROS
+
+* Gazebo
+
+
 ## Reference
 
 * [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
