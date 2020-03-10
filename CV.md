@@ -26,7 +26,7 @@ EfficientNet
 
 #### NAS for Image Classification
 
-#### Few Shot Image Classification Solutions
+#### Few Shot Image Classification
 
 * Meta Learning
 
@@ -38,15 +38,12 @@ EfficientNet
 
 * Bread Classification
 
-#### Dataset
-
-* ImageNet
-
-* CIFAR10 / CIFAR100
-
 ### Fine-Grained Image Analysis
 
+
+
 ### Image Retrieval
+
 
 ### Object Detection
 
@@ -72,12 +69,7 @@ Feature Pyramid Network (FPN)
 
 * NAS-FCOS: Fast Neural Architecture Search for Object Detection [`arXiv`](https://arxiv.org/abs/1906.04423)
 
-#### Few Shot Object Detection Solutions
-
-#### Dataset
-
-* MS COCO
-
+#### Few Shot Object Detection
 
 
 ### Semantic Segmentation
@@ -153,20 +145,18 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 * Deep-Learning-for-Tracking-and-Detection [`github`](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
-
-
-
 #### Reinforcement Learning for Object Tracking
+
 
 ### Face Recognition
 
-Face Identification:
+#### Face Identification:
 
 * [OpenFace](https://cmusatyalab.github.io/openface/)
 
 * Face Recognition [`github`](https://github.com/ageitgey/face_recognition)
 
-Face Verification
+#### Face Verification
 
 
 ### Emotion Detection
@@ -180,6 +170,7 @@ Face Verification
 #### OCR
 
 * Tesseract OCR [`github`](https://github.com/tesseract-ocr/tesseract)
+
 
 ## RL for CV
 
@@ -196,8 +187,6 @@ generative-compression [`github`](https://github.com/Justin-Tan/generative-compr
 
 ### Video Classification
 
-### Image/Video Retrieval
-
 ### 3D Rendering
 
 TensorFlow Graphics [`github`](https://github.com/tensorflow/graphics)
@@ -211,7 +200,7 @@ TensorFlow Graphics [`github`](https://github.com/tensorflow/graphics)
 
 * GAN for Anomaly Detection
 
-### Model Attack
+### Adversarial Attack
 
 ### IP protection
 
