@@ -28,13 +28,21 @@
 
 #### OCR
 
+### Image Retrieval
+
+### Image Generation
+
+### Adversarial Attack and Defense
+
+
+
 ### Case Study
 
 #### Fine Grained Image
 
 #### Medical Images
 
-### Adversarial Attack and Defense
+
 
 
 ## Video
@@ -46,6 +54,8 @@
 #### Shots Classification
 
 * DEEP-NET FUSION TO CLASSIFY SHOTS IN CONCERT VIDEOS [`arXiv`](https://www.iis.sinica.edu.tw/papers/liutyng/20663-F.pdf)
+
+### Action Recognition
 
 ### Object Tracking
 
