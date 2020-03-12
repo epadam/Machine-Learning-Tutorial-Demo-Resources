@@ -38,13 +38,6 @@ EfficientNet
 
 * Bread Classification
 
-### Fine-Grained Image Analysis
-
-
-
-### Image Retrieval
-
-
 ### Object Detection
 
 SSD
@@ -100,7 +93,7 @@ yolact [`github`](https://github.com/dbolya/yolact)
 
 #### Unknown Classes Detection
 
-* Detecting the Unexpected via Image Resynthesis [`github`](https://arxiv.org/abs/1904.07595)
+* Detecting the Unexpected via Image Resynthesis [`arXiv`](https://arxiv.org/abs/1904.07595)
 
 ### Panoptic Segmentation
 
@@ -170,6 +163,14 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 #### OCR
 
 * Tesseract OCR [`github`](https://github.com/tesseract-ocr/tesseract)
+
+### Fine-Grained Image Analysis
+
+
+
+### Image Retrieval
+
+
 
 
 ## RL for CV
