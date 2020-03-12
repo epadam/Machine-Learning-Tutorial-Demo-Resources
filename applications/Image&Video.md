@@ -16,7 +16,7 @@
 
 ### Anomaly Detection
 
-### Novalty Discovery
+### Novelty Discovery
 
 ### Emotion Detection
 
