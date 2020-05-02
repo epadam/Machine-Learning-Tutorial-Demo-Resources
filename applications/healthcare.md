@@ -2,4 +2,4 @@
 
 ## Medical Image Analysis
 
-## Live Action Monitoring
+## Living Activities Monitoring
