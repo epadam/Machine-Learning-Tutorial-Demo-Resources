@@ -1,8 +1,6 @@
-# Machine Learning for Source Code
+# Machine Learning for Programming 
 
 ## Source Code Analysis
-
-### Maleware Detection
 
 ## Source Code Recommendation
 
@@ -17,3 +15,9 @@
 * Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge [`github`](https://github.com/nicholaslocascio/deep-regex)
 
 ## Data Structure
+
+## Cybersecurity
+
+* Maleware Detection
+
+* Side-Channel Attack
