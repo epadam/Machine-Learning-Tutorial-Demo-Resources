@@ -28,8 +28,12 @@
 
 * Energy Prediction
 
-### Process Optimization
+### Process Optimization/Autonomation
 
 * Manufacturing
 
 * Smart Grid
+
+* Self Driving Car
+
+* Robots
