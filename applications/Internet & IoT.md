@@ -2,6 +2,8 @@
 
 ## Network Data Analysis
 
+### Localization
+
 ### Network Control
 
 ### Routing
@@ -22,11 +24,15 @@
 
 ### Anomaly Detection
 
+* Health care
+
 * Home care
+
+* Monitoring/Security
 
 ### Prediction
 
-* Energy Prediction
+* Energy Demand Prediction
 
 ### Process Optimization/Autonomation
 
