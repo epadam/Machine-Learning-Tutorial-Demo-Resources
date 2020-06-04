@@ -38,6 +38,10 @@
 
 ### Adversarial Attack and Defense
 
+## Application 
+
+* Quality Control, Defect Inspection
+
 
 
 
