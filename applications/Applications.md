@@ -4,14 +4,6 @@
 
 [Magenta](https://magenta.tensorflow.org/)
 
-## Programming
-
-### RegEx
-
-* Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge [`github`](https://github.com/nicholaslocascio/deep-regex)
-
-### Data Structure
-
 ## VR/AR
 
 ## Security
@@ -20,13 +12,7 @@
 
 * Fraud Detection
 
-* Maleware Detection
-
 * Fake Documents Detection
-
-* Cybersecurity
-
-* Side-Channel Attack
 
 ## Engineering
 
@@ -68,5 +54,3 @@
 * [deepvariant](https://github.com/google/deepvariant)
 
 # Commercial Products
-
-## Health Care
