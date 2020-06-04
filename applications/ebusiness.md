@@ -10,11 +10,11 @@
 
 * [Deep Neural Networks for YouTube Recommendations](https://research.google/pubs/pub45530/)
 
-## Deep Learning
+### Deep Learning
 
 * Wide & Deep Learning for Recommender Systems [`arXiv`](https://arxiv.org/abs/1606.07792)
 
-## Reinforcement Learning
+### Reinforcement Learning
 
 * Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology [`arXiv`](https://arxiv.org/abs/1606.07792)
 
