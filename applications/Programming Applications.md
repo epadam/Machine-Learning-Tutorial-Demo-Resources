@@ -23,3 +23,5 @@
 * Maleware Detection
 
 * Side-Channel Attack
+
+* Machine Learning and Security [`github`](https://github.com/13o-bbr-bbq/machine_learning_security)
