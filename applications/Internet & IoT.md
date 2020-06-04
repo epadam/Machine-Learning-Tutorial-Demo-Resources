@@ -34,9 +34,11 @@
 
 * Energy Demand Prediction
 
+* Predictive Maintenance
+
 ### Process Optimization/Autonomation
 
-* Manufacturing
+* Manufacturing Autonomation
 
 * Smart Grid
 
