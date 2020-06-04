@@ -6,6 +6,10 @@
 
 ### Object Detection
 
+#### Fine Grained Image
+
+#### Medical Images
+
 ### Segmentation (Semantic, Instance, Panoptic)
 
 ### Depth Estimation
@@ -36,12 +40,6 @@
 
 
 
-### Case Study
-
-#### Fine Grained Image
-
-#### Medical Images
-
 
 
 
@@ -58,4 +56,20 @@
 ### Object Tracking
 
 ### Anomaly Detection
+
+## Applications
+
+* Health Care
+
+* Medical Image Analysis
+
+* Monitoring/Security
+
+* Traffic Monitoring
+
+* Robotics
+
+
+
+
 
