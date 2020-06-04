@@ -1,12 +1,14 @@
 # Machine Learning for Programming 
 
-## Source Code Analysis
+## Code Recommendation
 
-## Source Code Recommendation
+## Code Analysis
 
-## Source Code Repair
+## Code Review
 
-## Source Code Generation
+## Code Repair
+
+## Code Generation
 
 ## Database application
 
