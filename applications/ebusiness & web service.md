@@ -26,5 +26,8 @@
 * Generative Adversarial User Model for Reinforcement Learning Based Recommendation System [`arXiv`](https://arxiv.org/abs/1812.10613)
 
 
+## Security
 
+* Fraud Detection
 
+* Fake Documents Detection
