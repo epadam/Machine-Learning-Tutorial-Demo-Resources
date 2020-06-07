@@ -2,10 +2,6 @@
 
 ## Electrical Engineering
 
-## Manufacturing
-
-* [Defect Detection](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
-
 ## Construction
 
 ## Architecture
