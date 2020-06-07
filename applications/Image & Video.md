@@ -40,7 +40,7 @@
 
 * Quality Control, Defect Inspection
 
-
+* Medical Image Analysis
 
 
 
@@ -64,15 +64,11 @@
 
 * Health Care
 
-* Medical Image Analysis
-
 * Monitoring/Security
 
 * Traffic Monitoring
 
 * Robotics
-
-## Application 
 
 * AR/VR
 
