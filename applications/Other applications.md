@@ -6,6 +6,9 @@
 
 ## Architecture
 
+## Art & Music
+
+* [Magenta](https://magenta.tensorflow.org/)
 
 ## Assistant
 
