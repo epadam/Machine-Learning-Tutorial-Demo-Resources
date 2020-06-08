@@ -8,7 +8,7 @@
 
 ## Qaulity Control
 
-* [Defect Detection](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
+* [Nvidia Defect Detection Platform](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
 
 ## Process Automation and Optimization
 
