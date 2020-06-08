@@ -19,12 +19,11 @@
 
 * Online and incremental machine learning approaches for IC yield improvement
 
+### Federated Learning
+
 ## Process Automation and Optimization
 
 * A deep learning-based approach to material removal rate prediction in polishing
-
-
-### Federated Learning
 
 ## Schdedule Optimization
 
