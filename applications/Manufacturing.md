@@ -13,9 +13,11 @@
 
 ## Qaulity Control
 
+### U-Net
+
 * [Nvidia Defect Detection Platform](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
 
-#### Decision Tree & Class Imbalance & Online Learning & Incremental Learning
+### Decision Tree & Class Imbalance & Online Learning & Incremental Learning
 
 * Online and incremental machine learning approaches for IC yield improvement
 
