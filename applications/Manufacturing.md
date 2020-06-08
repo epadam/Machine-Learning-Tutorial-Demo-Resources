@@ -2,7 +2,7 @@
 
 * Deep Learning for Smart Manufacturing Methods and Applications
 
-## Prediction Maintenance
+## Prediction Maintenance/Anomaly Detection
 
 ### Autoencoder
 
@@ -10,15 +10,18 @@
 
 ### Class Imbalance
 
+
 ## Qaulity Control
 
 * [Nvidia Defect Detection Platform](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
+
+* Online and incremental machine learning approaches for IC yield improvement
+
 
 ## Process Automation and Optimization
 
 * A deep learning-based approach to material removal rate prediction in polishing
 
-* Online and incremental machine learning approaches for IC yield improvement
 
 ### Federated Learning
 
