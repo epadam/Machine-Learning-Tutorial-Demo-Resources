@@ -15,8 +15,9 @@
 
 * [Nvidia Defect Detection Platform](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
 
-* Online and incremental machine learning approaches for IC yield improvement
+### Incremental Learning
 
+* Online and incremental machine learning approaches for IC yield improvement
 
 ## Process Automation and Optimization
 
