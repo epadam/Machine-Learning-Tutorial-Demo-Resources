@@ -37,6 +37,8 @@
 
 ## Schdedule Optimization
 
+### Reinforcement Learning
+
 * Optimization of global production scheduling with deep reinforcement learning
 
 ### Time series forcasting
