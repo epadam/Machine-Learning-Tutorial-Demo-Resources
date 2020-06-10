@@ -2,17 +2,21 @@
 
 ## Thoery
 
-### Models
+### Basic
 
-Bert
+* RNN
 
-UniLM
+* GRN
 
-XLNet
+* LSTM
 
-GPT-2
+### Advanced
 
-T5
+* Attention
+
+* Bert
+
+* GPT-2
 
 ## GAN for NLP
 
@@ -20,21 +24,12 @@ T5
 
 ## Reinforcement Learning for NLP 
 
-* Imitation Learning for NLP
+### Imitation Learning for NLP
 
 ## Knowledge Graph
 
 Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
-## Tools
-
-[Bert as Service](https://github.com/hanxiao/bert-as-service)
-
-[Huggingface](https://github.com/huggingface)
-
-[spaCy](https://spacy.io)
-
-[nlp-architect](https://github.com/NervanaSystems/nlp-architect)
 
 ## Applications
 
@@ -72,28 +67,6 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 #### Law
 
-### Applications on Source Code
-
-#### Program Synthesis
-
-* NLP to SQL query
-
-#### Code Suggestion and Completion
-
-* Auto Code Generator [`github`](https://github.com/tonybeltramelli/pix2code)
-
-* Code IntelliSense (code-completion)
-
-* python_autocomplete [`github`](https://github.com/vpj/python_autocomplete)
-
-#### Source Code Analysis
-
-#### Program Repair and Bug Detection
-
-* [Finding and fixing software bugs](https://engineering.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/)
-
-* Deep universal probabilistic programming [`github`](https://github.com/pyro-ppl/pyro)
-
 #### Clone Detection
 
 ## Speech Recognition (ASR)
@@ -123,6 +96,16 @@ deep-voice-conversion [`github`](https://github.com/andabi/deep-voice-conversion
 [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) 
 
 FastSpeech: Fast, Robust and Controllable Text to Speech [`arXiv`](https://arxiv.org/abs/1905.09263)
+
+## Tools
+
+[Bert as Service](https://github.com/hanxiao/bert-as-service)
+
+[Huggingface](https://github.com/huggingface)
+
+[spaCy](https://spacy.io)
+
+[nlp-architect](https://github.com/NervanaSystems/nlp-architect)
 
 ## Reference
 
