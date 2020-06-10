@@ -1,6 +1,10 @@
 # Manufacturing
 
+## Overall
+
 * Deep Learning for Smart Manufacturing Methods and Applications
+
+* Machine learning in manufacturing advantages challenges and applications
 
 ## Prediction Maintenance/Anomaly Detection
 
