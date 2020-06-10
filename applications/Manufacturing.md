@@ -8,24 +8,28 @@
 
 ## Prediction Maintenance/Anomaly Detection
 
-### Autoencoder
+### Supervised Learning
+
+#### Autoencoder
 
 * A Novel Autoencoder with Dynamic Feature Enhanced Factor for Fault Diagnosis of Wind Turbine
 
-### Class Imbalance
+#### Class Imbalance
 
 
 ## Qaulity Control
 
-### U-Net
+### Supervised Learning
+
+#### U-Net
 
 * [Nvidia Defect Detection Platform](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
 
-### Decision Tree & Class Imbalance & Online Learning & Incremental Learning
+#### Decision Tree & Class Imbalance & Online Learning & Incremental Learning
 
 * Online and incremental machine learning approaches for IC yield improvement
 
-### Federated Learning
+#### Federated Learning
 
 ## Process Automation and Optimization
 
