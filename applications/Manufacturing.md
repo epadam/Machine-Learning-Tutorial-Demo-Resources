@@ -33,6 +33,8 @@
 
 ## Process Automation and Optimization
 
+### Supervised Learning
+
 * A deep learning-based approach to material removal rate prediction in polishing
 
 ## Schdedule Optimization
