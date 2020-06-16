@@ -1,18 +1,18 @@
 # Training and Deployment
 
-## Tools
 
-Spark
 
-Neo4j
+## Training
 
-## Training Tracking and Deployment
+### Distributed Training
 
-Tensorflow in production (TF Estimator, TF Serving)
+* Horovod
 
-Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
+* Tensorflow Estimator
 
-[Polyaxon](https://polyaxon.com/)
+* [Polyaxon](https://polyaxon.com/)
+
+### Tracking
 
 [MLflow](https://mlflow.org/)
 
@@ -34,15 +34,24 @@ Mobile device with tensorflow (tensorflow Lite, tensorflow.js)
 
 [tfpyth](https://github.com/BlackHC/tfpyth)
 
-## Distributed Training
+Spark
 
-* Horovod
+Neo4j
 
-* Tensorflow Estimator
+### Visualization
+
 
 ## Edge Deployment
 
+Tensorflow Lite
+
 ### MCU
+
+### web
+
+Tensorflow.js
+
+
 
 ## Hardware Acceleration
 
