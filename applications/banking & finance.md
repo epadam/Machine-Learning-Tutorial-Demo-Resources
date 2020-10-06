@@ -8,7 +8,7 @@
 
 * Insurance Underwriting
 
-* Chatbot
+* Customer Service (Chatbot)
 
 * Document Analysis
 
