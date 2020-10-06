@@ -32,6 +32,8 @@
 
 * Fake Documents Detection
 
-# Web Business
+# Commercials and Business Analysis
 
-## Social Media Comments Analysis
+## Comments Analysis
+
+## Business Analysis and Predictions
