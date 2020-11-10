@@ -63,12 +63,6 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 * [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 
-### Natural Language Understanding and Generation
-
-#### Law
-
-#### Clone Detection
-
 ## Speech Recognition (ASR)
 
 Alibaba-MIT-Speech [`github`](https://github.com/alibaba/Alibaba-MIT-Speech)
