@@ -24,6 +24,8 @@
 
 ### Inverse-RL
 
+### One shot imitation learning
+
 ### GAN for Imitation Learning
 
 * Generative adversarial imitation learning [`arXiv`](https://arxiv.org/abs/1606.03476)
