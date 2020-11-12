@@ -45,6 +45,4 @@
 
 ### Time series forcasting
 
-### Reinforcement learning
-
 ### Unsupervised Learning
