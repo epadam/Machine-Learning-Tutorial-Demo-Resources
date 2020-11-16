@@ -1,6 +1,10 @@
 # Training and Deployment
 
+## Platform
 
+Uber Michelangelo, TFX
+
+[Kubeflow](https://www.kubeflow.org/)
 
 ## Training
 
@@ -16,17 +20,17 @@
 
 [MLflow](https://mlflow.org/)
 
-[Kubeflow](https://www.kubeflow.org/)
-
 [Metaflow](https://metaflow.org/)
 
 [Mace](https://github.com/XiaoMi/mace)
 
 [SOD](https://github.com/symisc/sod)
 
+Tensorboard
+
 [A scalable Keras + deep learning REST API](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
 
-## Tools and Frameworks
+## Models and Tools
 
 [Tensorflow Models](https://github.com/tensorflow/models)
 
@@ -34,7 +38,7 @@
 
 [tfpyth](https://github.com/BlackHC/tfpyth)
 
-Spark
+### Knowledge Graph
 
 Neo4j
 
@@ -48,7 +52,11 @@ Intermiediate Layer Output Visualization
 
 TensorWatch [`Github`](https://github.com/microsoft/tensorwatch)
 
-## Edge Deployment
+## Deployment
+
+Cortex, Graphpipe, TF serving, KF serving, Mleap, Clipper
+
+### Edge Deployment
 
 Tensorflow Lite
 
@@ -58,8 +66,13 @@ Tensorflow Lite
 
 Tensorflow.js
 
+## Format
+
+ONNX
 
 ## Hardware Acceleration
+
+TensorRT
 
 [GLOW](https://github.com/pytorch/glow)
 
