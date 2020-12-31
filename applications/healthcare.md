@@ -6,6 +6,8 @@
 
 * [Med3D: Transfer Learning for 3D Medical Image Analysis](https://github.com/Tencent/MedicalNet)
 
+* NCRF [`github`](https://github.com/baidu-research/NCRF)
+
 ## Gene Analysis
 
 * [deepvariant](https://github.com/google/deepvariant)
