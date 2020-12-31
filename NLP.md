@@ -12,7 +12,7 @@
 
 ### Advanced
 
-* Attention
+* Transformer
 
 * Bert
 
