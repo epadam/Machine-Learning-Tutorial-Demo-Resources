@@ -11,7 +11,7 @@ For people who want to have a quick overview of the development in machine learn
 
 ## [Machine Learning Overview](ML.md)
 
-## [Data pre-processing](Data.md)
+## [Data Processing](DataProcessing.md)
 
 ## [Deep Learning](DL.md)
 
@@ -26,6 +26,10 @@ For people who want to have a quick overview of the development in machine learn
 ## [Meta Learning](Meta.md)
 
 ## [Life Long Learning](LLL.md)
+
+## [Data Privacy](privacy.md)
+
+## [Explainable AI](ExplainableAI.md)
 
 ## [Computer Vision](CV.md)
 
