@@ -30,13 +30,6 @@ EfficientNet
 
 * Meta Learning
 
-#### Example Applications
-
-* Dog Breed Classification
-
-* Plants Classification
-
-* Bread Classification
 
 ### Object Detection
 
