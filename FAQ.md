@@ -1,6 +1,6 @@
 # FAQ
 
-### How to handle imbalanced dataset?
+## How to handle imbalanced dataset?
 
 ### 
 
