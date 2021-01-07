@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-## Thoery
+## Thoery and Models
 
 ### Basic
 
@@ -18,15 +18,15 @@
 
 * GPT-2
 
-## GAN for NLP
+### GAN for NLP
 
-## Meta Learning for NLP
+### Meta Learning for NLP
 
-## Reinforcement Learning for NLP 
+### Reinforcement Learning for NLP 
 
-### Imitation Learning for NLP
+#### Imitation Learning for NLP
 
-## Knowledge Graph
+### Knowledge Graph
 
 Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
@@ -62,6 +62,15 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 * [Comparison of Transfer-Learning Approaches for Response Selection in Multi-Turn Conversations](http://workshop.colips.org/dstc7/papers/17.pdf)
 
 * [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+
+#### NLU
+
+#### Dialog State Tracking
+
+#### Dialog Policy
+
+#### NLG
+
 
 ## Speech Recognition (ASR)
 
