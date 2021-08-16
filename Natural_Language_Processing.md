@@ -1,8 +1,20 @@
 # Natural Language Processing
 
-### Word2Vec
+
+
 
 ## Language Models
+
+Statistical Language Models
+
+## N-grams
+
+Neural Language Models
+
+#
+
+### Word2Vec
+CBOW & Skip-Gram
 
 ### RNN
 
@@ -36,7 +48,7 @@ code in tensorflow/pytorch
 
 Use case
 
-### Bert 
+### Bert, XLNet
 
 model architecture 
 
