@@ -149,9 +149,23 @@ notebook  Demo
 
 notebook  Demo
 
-#### Dialog System
+### Document Level Tasks
 
-notebook  Demo
+### Ducument Classification
+
+#### TD-IDF
+
+atent Dirichlet Allocation (LDA)
+
+Cosine similar
+
+
+
+
+### Dialog System (Chatbot)
+
+Chatbot is probably the most challenging application in NLP. It includes multiple NLP tasks, mostly NLU and NLG related tasks.
+It ranges from simple Q&A chatbot, task specific cahtbot to open domain chatbot
 
 ##### NLU
 
@@ -161,7 +175,11 @@ notebook  Demo
 
 ##### NLG
 
+notebook  Demo
 
+Check also some other examples here
+
+小冰
 
 ##### Open Source Tools
 
@@ -182,17 +200,6 @@ Related Research
 * [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 
 Chatbot with Knowledg Graph
-
-### Document Level Tasks
-
-### Ducument Classification
-
-#### TD-IDF
-
-atent Dirichlet Allocation (LDA)
-
-Cosine similar
-
 
 
 
