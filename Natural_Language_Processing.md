@@ -1,24 +1,102 @@
 # Natural Language Processing
 
+### Word2Vec
+
+## Language Models
+
+### RNN
+
+model architecture 
+
+code in tensorflow/pytorch
+
+Use case
+
+### GRN
+
+model architecture 
+
+code in tensorflow/pytorch
+
+Use case
+
+### LSTM
+
+model architecture 
+
+code in tensorflow/pytorch
+
+Use case
+
+### Transformer, T5
+
+model architecture 
+
+code in tensorflow/pytorch
+
+Use case
+
+### Bert 
+
+model architecture 
+
+code in tensorflow/pytorch
+
+Use case
+
+### GPT-2
+
+model architecture 
+
+code in tensorflow/pytorch
+
+Use case
+
 ## Tasks 
 
 ### Word Level Tasks
 
 #### Part-of-speech Tagging 
+
+notebook  Demo
+
+Open Dataset
+
 #### Named Entity Recognition
+
+notebook  Demo
+
+Open Dataset
+
 #### Dependecy Parsing
-#### Textual Entailment
+
+notebook  Demo
+
+Open Dataset
 
 
 
-
-### Sentence Level Tasks
+### Sentence/Paragrah Level Tasks
 
 #### Text Classification
 
+notebook  Demo
+
 #### Sentiment Analysis
 
+notebook  Demo
+
+#### Textual Entailment
+
+notebook  Demo
+
+Open Dataset
+
+#### Paraphrase
+
 #### Question Answering
+
+notebook  Demo
 
 #### Machine Translation
 
@@ -30,18 +108,15 @@
 
 ##### Extractive Summarization
 
+notebook  Demo
+
 ##### Abstractive Summarization
 
+notebook  Demo
 
 #### Dialog System
 
-* [DeepPavlov](http://deeppavlov.ai/)
-
-* ParlAI [`github`](https://github.com/facebookresearch/ParlAI)
-
-* [Comparison of Transfer-Learning Approaches for Response Selection in Multi-Turn Conversations](http://workshop.colips.org/dstc7/papers/17.pdf)
-
-* [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+notebook  Demo
 
 ##### NLU
 
@@ -50,6 +125,36 @@
 ##### Dialog Policy
 
 ##### NLG
+
+
+
+##### Open Source Tools
+
+* [DeepPavlov](http://deeppavlov.ai/)
+
+* ParlAI [`github`](https://github.com/facebookresearch/ParlAI)
+
+* [Rasa](https://rasa.com/)
+
+* Nemo
+
+Related Research
+
+#### Open Domain Chatbot
+
+* [Comparison of Transfer-Learning Approaches for Response Selection in Multi-Turn Conversations](http://workshop.colips.org/dstc7/papers/17.pdf)
+
+* [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+
+Chatbot with Knowledg Graph
+
+### Document Level Tasks
+
+### Ducument Classification
+
+#### TD-IDF
+
+Cosine similar
 
 
 
@@ -68,7 +173,44 @@
 Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
 
+## Open Source Tools
 
+### Multi functional (Preprocessing, training)
+
+[spaCy](https://spacy.io)
+
+[AllenNLP]
+
+[nlp-architect](https://github.com/NervanaSystems/nlp-architect)
+
+### Data Augmentation
+
+### pre-trained models
+
+[Huggingface](https://github.com/huggingface)
+
+### Model training
+
+[FARM]
+
+### Model Inspection
+
+[LIT](https://github.com/PAIR-code/lit) Check the tutorial
+
+
+
+[Bert as Service](https://github.com/hanxiao/bert-as-service)
+
+
+
+
+## Resources
+
+* [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
+
+* [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+* [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
 
 
@@ -106,20 +248,4 @@ FastSpeech: Fast, Robust and Controllable Text to Speech [`arXiv`](https://arxiv
 
 
 
-## Open Source Tools
 
-[Bert as Service](https://github.com/hanxiao/bert-as-service)
-
-[Huggingface](https://github.com/huggingface)
-
-[spaCy](https://spacy.io)
-
-[nlp-architect](https://github.com/NervanaSystems/nlp-architect)
-
-## Reference
-
-* [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
-
-* [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-
-* [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
