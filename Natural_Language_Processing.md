@@ -1,22 +1,59 @@
 # Natural Language Processing
 
-## Thoery and Models
+## Tasks 
 
-### Basic
+### Word Level Tasks
 
-* RNN
+#### Part-of-speech Tagging 
+#### Named Entity Recognition
+#### Dependecy Parsing
+#### Textual Entailment
 
-* GRN
 
-* LSTM
 
-### Advanced
 
-* Transformer
+### Sentence Level Tasks
 
-* Bert
+#### Text Classification
 
-* GPT-2
+#### Sentiment Analysis
+
+#### Question Answering
+
+#### Machine Translation
+
+* Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
+
+* OpenKiwi [`github`](https://github.com/Unbabel/OpenKiwi)
+
+#### Automatic Summarization
+
+##### Extractive Summarization
+
+##### Abstractive Summarization
+
+
+#### Dialog System
+
+* [DeepPavlov](http://deeppavlov.ai/)
+
+* ParlAI [`github`](https://github.com/facebookresearch/ParlAI)
+
+* [Comparison of Transfer-Learning Approaches for Response Selection in Multi-Turn Conversations](http://workshop.colips.org/dstc7/papers/17.pdf)
+
+* [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+
+##### NLU
+
+##### Dialog State Tracking
+
+##### Dialog Policy
+
+##### NLG
+
+
+
+
 
 ### GAN for NLP
 
@@ -31,48 +68,13 @@
 Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
 
-## Applications
-
-### Part-of-speech Tagging, Dependecy Parsing, Named Entity Recognition, Textual Entailment
-
-### Text Classification
-
-### Sentiment Analysis
-
-### Question Answering
-
-### Machine Translation
-
-* Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
-
-* OpenKiwi [`github`](https://github.com/Unbabel/OpenKiwi)
-
-### Automatic Summarization
-
-#### Extractive Summarization
-
-#### Abstractive Summarization
-
-### Dialog System
-
-* [DeepPavlov](http://deeppavlov.ai/)
-
-* ParlAI [`github`](https://github.com/facebookresearch/ParlAI)
-
-* [Comparison of Transfer-Learning Approaches for Response Selection in Multi-Turn Conversations](http://workshop.colips.org/dstc7/papers/17.pdf)
-
-* [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
-
-#### NLU
-
-#### Dialog State Tracking
-
-#### Dialog Policy
-
-#### NLG
 
 
-## Speech Recognition (ASR)
+
+
+## Audiio
+
+### Speech Recognition (ASR)
 
 Alibaba-MIT-Speech [`github`](https://github.com/alibaba/Alibaba-MIT-Speech)
 
@@ -82,15 +84,15 @@ Wav2letter++ [`github`](https://github.com/facebookresearch/wav2letter)
 
 Real-Time-Voice-Cloning [`github`](https://github.com/CorentinJ/Real-Time-Voice-Cloning?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-### On-device wake word detection:
+#### On-device wake word detection:
 
 porcupine [`github`](https://github.com/Picovoice/porcupine)
 
-## Speaker Diarization
+### Speaker Diarization
 
 Joint Speech Recognition and Speaker Diarization via Sequence Transduction [`arXiv`](https://arxiv.org/abs/1907.05337) 
 
-## Voice Conversion
+### Voice Conversion
 
 deep-voice-conversion [`github`](https://github.com/andabi/deep-voice-conversion)
 
@@ -100,7 +102,11 @@ deep-voice-conversion [`github`](https://github.com/andabi/deep-voice-conversion
 
 FastSpeech: Fast, Robust and Controllable Text to Speech [`arXiv`](https://arxiv.org/abs/1905.09263)
 
-## Tools
+
+
+
+
+## Open Source Tools
 
 [Bert as Service](https://github.com/hanxiao/bert-as-service)
 
