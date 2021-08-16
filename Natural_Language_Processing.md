@@ -129,6 +129,9 @@ Open Dataset
 
 #### Paraphrase
 
+QQP Classification with Siamese Network
+
+
 #### Question Answering
 
 notebook  Demo
@@ -148,6 +151,8 @@ notebook  Demo
 ##### Abstractive Summarization
 
 notebook  Demo
+
+Please check this post to see how to use summerizer using different models
 
 ### Document Level Tasks
 
