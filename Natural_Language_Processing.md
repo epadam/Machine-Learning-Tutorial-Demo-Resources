@@ -1,17 +1,20 @@
 # Natural Language Processing
 
+You can either check NLP models or NLP tasks first to get an overview of what NLP is dealing with.
 
 
-
-## Language Models
+## Language Models (Word Embedding)
 
 Statistical Language Models
 
+## Glove
+
 ## N-grams
+
+## FastText
 
 Neural Language Models
 
-#
 
 ### Word2Vec
 CBOW & Skip-Gram
@@ -32,7 +35,7 @@ code in tensorflow/pytorch
 
 Use case
 
-### LSTM
+### LSTM, ELMo
 
 model architecture 
 
@@ -47,6 +50,10 @@ model architecture
 code in tensorflow/pytorch
 
 Use case
+Transformer is not only used in NLP
+but also used in chemistry and biology research
+
+
 
 ### Bert, XLNet
 
@@ -54,15 +61,22 @@ model architecture
 
 code in tensorflow/pytorch
 
+Model Pretraining (Self supervised)
+
+Variation of Bert ()
+SciBert, BioBert
+
 Use case
 
-### GPT-2
+### GPT-2/GPT-3
 
 model architecture 
 
 code in tensorflow/pytorch
 
 Use case
+
+### Multi-Task models
 
 ## Tasks 
 
@@ -86,13 +100,22 @@ notebook  Demo
 
 Open Dataset
 
+### Relation Extraction
 
+notebook  Demo
+
+Open Dataset
 
 ### Sentence/Paragrah Level Tasks
 
 #### Text Classification
 
+Clustering (PCA)
+
+Toxic Comment Classification
 notebook  Demo
+
+
 
 #### Sentiment Analysis
 
@@ -166,6 +189,8 @@ Chatbot with Knowledg Graph
 
 #### TD-IDF
 
+atent Dirichlet Allocation (LDA)
+
 Cosine similar
 
 
@@ -187,7 +212,7 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 ## Open Source Tools
 
-### Multi functional (Preprocessing, training)
+### Multi functional (Preprocessing, Training)
 
 [spaCy](https://spacy.io)
 
@@ -196,6 +221,8 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 [nlp-architect](https://github.com/NervanaSystems/nlp-architect)
 
 ### Data Augmentation
+
+Snorkel
 
 ### pre-trained models
 
@@ -208,7 +235,6 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 ### Model Inspection
 
 [LIT](https://github.com/PAIR-code/lit) Check the tutorial
-
 
 
 [Bert as Service](https://github.com/hanxiao/bert-as-service)
