@@ -1,6 +1,10 @@
 # Deep Learning
 
-CNN
+Here list most important nueral network architecture 
+
+## CNN
+
+# RNN/LSTM/GRN
 
 Feature Pyramid Networks
 
@@ -24,9 +28,7 @@ Graph Convolutional Networks:
 
 * Graph Convolutional Networks
 
-RNN
 
-LSTM
 
 Temporal Convolutional Network
 
@@ -34,25 +36,10 @@ Attention
 
 Transformer
 
-### Visualization
+Bert, T5
 
-[What If Tool](https://pair-code.github.io/what-if-tool/)
+Elmo, GPT/GPT-2/GPT-3
 
-[LIME](https://github.com/marcotcr/lime)
-
-Image Generator
-
-Image heat map:
-
-[Saliency maps](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
-
-Kernel Map Visualization
-
-Intermiediate Layer Output Visualization 
-
-[Embedding Projector](https://towardsdatascience.com/visualizing-bias-in-data-using-embedding-projector-649bc65e7487)
-
-TensorWatch [`Github`](https://github.com/microsoft/tensorwatch)
 
 ## Domain Adaptation / Transfer Learning
 
