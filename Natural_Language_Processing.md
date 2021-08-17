@@ -69,7 +69,7 @@ SciBert, BioBert
 
 Use case
 
-### GPT-2/GPT-3
+### GPT/GPT-2/GPT-3
 
 model architecture 
 
