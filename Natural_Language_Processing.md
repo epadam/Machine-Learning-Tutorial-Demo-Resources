@@ -17,6 +17,7 @@ Neural Language Models
 
 
 ### Word2Vec
+
 CBOW & Skip-Gram
 
 ### RNN
@@ -115,11 +116,9 @@ Clustering (PCA)
 Toxic Comment Classification
 notebook  Demo
 
+#### Grammer correction
 
 
-#### Sentiment Analysis
-
-notebook  Demo
 
 #### Textual Entailment/Inference
 
@@ -132,9 +131,15 @@ Open Dataset
 QQP Classification with Siamese Network
 
 
+#### Sentiment Analysis
+
+notebook  Demo
+
 #### Question Answering
 
 notebook  Demo
+
+#### Reading Comprehension
 
 #### Machine Translation
 
@@ -153,6 +158,13 @@ notebook  Demo
 notebook  Demo
 
 Please check this post to see how to use summerizer using different models
+
+#### Information retrieval
+
+#### Natural Language Generation
+
+News writing, article gneration
+
 
 ### Document Level Tasks
 
@@ -178,7 +190,7 @@ It ranges from simple Q&A chatbot, task specific cahtbot to open domain chatbot.
 
 ##### Dialog Policy
 
-##### NLG
+##### NLG for Chatobt
 
 notebook  Demo
 
