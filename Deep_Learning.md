@@ -4,7 +4,12 @@ Here list most important nueral network architecture
 
 ## CNN
 
+How to calculate the parameters of CNN
+
 # RNN/LSTM/GRN
+
+How to calculate the parameters of RNN
+
 
 Feature Pyramid Networks
 
