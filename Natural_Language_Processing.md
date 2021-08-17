@@ -163,6 +163,8 @@ Please check this post to see how to use summerizer using different models
 
 #### Natural Language Generation
 
+Utterance Generation (which can be seen as a data augmentation)
+
 News writing, article gneration
 
 
