@@ -22,33 +22,25 @@ CBOW & Skip-Gram
 
 ### RNN
 
-model architecture 
-
-code in tensorflow/pytorch
+Check deep learning.md
 
 Use case
 
 ### GRN
 
-model architecture 
-
-code in tensorflow/pytorch
+Check deep learning.md
 
 Use case
 
 ### LSTM, ELMo
 
-model architecture 
-
-code in tensorflow/pytorch
+Check deep learning.md
 
 Use case
 
 ### Transformer, T5
 
-model architecture 
-
-code in tensorflow/pytorch
+Check deep learning.md
 
 Use case
 Transformer is not only used in NLP
@@ -58,11 +50,7 @@ but also used in chemistry and biology research
 
 ### Bert, XLNet
 
-model architecture 
-
-code in tensorflow/pytorch
-
-Model Pretraining (Self supervised)
+Check deep learning.md, Model Pretraining (Self supervised)
 
 Variation of Bert ()
 SciBert, BioBert
@@ -71,9 +59,7 @@ Use case
 
 ### GPT/GPT-2/GPT-3
 
-model architecture 
-
-code in tensorflow/pytorch
+Model Pretraining (Self supervised)
 
 Use case
 
