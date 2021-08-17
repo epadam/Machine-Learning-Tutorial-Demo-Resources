@@ -102,9 +102,13 @@ Clustering (PCA)
 Toxic Comment Classification
 notebook  Demo
 
+Open Dataset
+
 #### Grammer correction
 
+notebook  Demo
 
+Open Dataset
 
 #### Textual Entailment/Inference
 
@@ -116,16 +120,25 @@ Open Dataset
 
 QQP Classification with Siamese Network
 
+notebook  Demo
 
 #### Sentiment Analysis
 
 notebook  Demo
 
+Open Dataset
+
 #### Question Answering
 
 notebook  Demo
 
+Open Dataset
+
 #### Reading Comprehension
+
+notebook  Demo
+
+Open Dataset
 
 #### Machine Translation
 
@@ -133,19 +146,32 @@ notebook  Demo
 
 * OpenKiwi [`github`](https://github.com/Unbabel/OpenKiwi)
 
+notebook  Demo
+
+Open Dataset
+
 #### Automatic Summarization
+
 
 ##### Extractive Summarization
 
 notebook  Demo
 
+Open Dataset
+
 ##### Abstractive Summarization
 
 notebook  Demo
 
+Open Dataset
+
 Please check this post to see how to use summerizer using different models
 
 #### Information retrieval
+
+notebook  Demo
+
+Open Dataset
 
 #### Natural Language Generation
 
@@ -158,7 +184,7 @@ News writing, article gneration
 
 ### Ducument Classification
 
-#### TD-IDF
+#### TF-IDF
 
 atent Dirichlet Allocation (LDA)
 
