@@ -1,6 +1,6 @@
-# Machine Learning All in One
+# Machine Learning Learning Center
 
-For people who want to have a quick overview of the development in machine learning 
+If you want to learn what machine learning can do, please check this repository. It covers from basic knowledge, to modern research and also pratical applications.
 
 ## Deep Learning 2020
 
