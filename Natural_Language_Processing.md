@@ -121,7 +121,7 @@ notebook  Demo
 
 notebook  Demo
 
-#### Textual Entailment
+#### Textual Entailment/Inference
 
 notebook  Demo
 
@@ -170,7 +170,7 @@ Cosine similar
 ### Dialog System (Chatbot)
 
 Chatbot is probably the most challenging application in NLP. It includes multiple NLP tasks, mostly NLU and NLG related tasks.
-It ranges from simple Q&A chatbot, task specific cahtbot to open domain chatbot
+It ranges from simple Q&A chatbot, task specific cahtbot to open domain chatbot. Google Assitant and Alexa are multi-task chatbot.
 
 ##### NLU
 
@@ -204,8 +204,9 @@ Related Research
 
 * [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 
-Chatbot with Knowledg Graph
+#### Chatbot with Knowledg Graph
 
+Knowledge grpah gives the power of chatbot. Please check here 
 
 
 
@@ -217,7 +218,7 @@ Chatbot with Knowledg Graph
 
 #### Imitation Learning for NLP
 
-### Knowledge Graph
+
 
 Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
