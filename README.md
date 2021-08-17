@@ -1,6 +1,8 @@
 # Machine Learning Learning Center
 
 If you want to learn what machine learning can do, please check this repository. It covers from basic knowledge, to modern research and also pratical applications.
+You can also find collections of most useful frameworks and tools for machine learning in this repo.
+
 
 ## Deep Learning 2020
 
