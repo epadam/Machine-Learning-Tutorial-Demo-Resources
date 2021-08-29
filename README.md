@@ -97,7 +97,7 @@ You can also find collections of most useful frameworks and tools for machine le
 
 [Standford CS234: Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
-
+### AI platform
 
 
 
