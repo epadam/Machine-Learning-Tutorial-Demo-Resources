@@ -48,6 +48,10 @@ Spacy
 Flair
 fastText
 
+### Indexing
+
+txtai
+
 ## MultiModal
 
 Facebook MMF
