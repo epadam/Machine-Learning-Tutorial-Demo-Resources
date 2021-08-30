@@ -1,6 +1,20 @@
 # Libraries and Frameworks
 
+## Pre-trained Model
+
+Tensorflow Hub
+
+Pytorch Hub
+
+HuggingFace
+
+Keras
+
 ## Computer Vision
+
+### Media Processing Pipeline
+
+Mediapipe
 
 ### Object Detection
 
@@ -8,17 +22,100 @@ mmDetection
 
 Detectron2
 
-### Media Processing Pipelin
+Tensorflow object Detection API
 
-Mediapipe
+### Video Analysis
+
+### 3D
+
+
 
 ## Natural Language Processing
 
+
+Spacy
+
+### Model Building and Training
+
 Farm
+AllenNLP
+HuggingFace also provide trainder API for transformer
+
+
+## MultiModal
+
+Facebook MMF
+
+
+## Data Visualization and Exploration
+
+Facet
+
+## Data Analysis
+
+Google AutoML Tables
+
+Google TabNet
+
+
+
+## Explainable AI
+
+What If
+
+Manifold
+
+LIT
+
+LIME
+
+pytorch version of exAI
+
+
+## Responsible AI
+
+## Model Training and Tracking
+
+MLflow
+
+## Model Deployment
+
+TF Serving
+
+## MLOps
+
+Kubeflow
+TFX
+
+## AI platform
+
+Lugwig
+
+H2O
+
+## Privacy
+
+## AutoML
+
+AdaNet
+
+
+## Knoewledge Graph
 
 
 ## Application Specific
 
 ### Medical Images
 
+Monai
+
+
 ### Conversational System
+
+RASA
+Deepavlov
+Nemo
+
+### Music Creation
+
+JukeBox
