@@ -32,8 +32,11 @@ Tensorflow object Detection API
 
 ## Natural Language Processing
 
-
+NLTK
 Spacy
+Flair
+Pytext
+fastText
 
 ### Model Building and Training
 
