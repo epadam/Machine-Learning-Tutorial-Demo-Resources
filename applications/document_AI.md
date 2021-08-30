@@ -8,6 +8,6 @@
 
 ## Text Recognition
 
-## Open Source T
+## Open Source
 
 ## Commercial Examples
