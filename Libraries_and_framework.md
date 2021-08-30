@@ -32,18 +32,21 @@ Tensorflow object Detection API
 
 ## Natural Language Processing
 
-NLTK
-Spacy
-Flair
-Pytext
-fastText
+
 
 ### Model Building and Training
 
 Farm
 AllenNLP
 HuggingFace also provide trainder API for transformer
+Pytext
 
+### Sentence processing
+
+NLTK
+Spacy
+Flair
+fastText
 
 ## MultiModal
 
@@ -99,11 +102,23 @@ Lugwig
 
 H2O
 
-## Privacy
+Analytics Zoo
+
+## Privacy and Ethics
 
 ## AutoML
 
 AdaNet
+
+MLBox
+
+Auto-Sklearn
+
+TPOT
+
+AutoKeras
+
+TransmogrifAI
 
 
 ## Knoewledge Graph
