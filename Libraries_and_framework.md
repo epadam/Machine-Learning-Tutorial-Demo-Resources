@@ -8,6 +8,10 @@ mmDetection
 
 Detectron2
 
+### Media Processing Pipelin
+
+Mediapipe
+
 ## Natural Language Processing
 
 Farm
