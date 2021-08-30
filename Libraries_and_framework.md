@@ -77,6 +77,9 @@ pytorch version of exAI
 
 ## Responsible AI
 
+### Fairness
+AI Fairness 360 
+
 ## Model Training and Tracking
 
 MLflow
