@@ -5,7 +5,7 @@ You can either check NLP models or NLP tasks first to get an overview of what NL
 
 ## Language Models (Word Embedding)
 
-Statistical Language Models
+## Statistical Language Models
 
 ## Glove
 
@@ -13,8 +13,9 @@ Statistical Language Models
 
 ## FastText
 
-Neural Language Models
+## Neural Language Models
 
+### Data Processing and Augmentation for Neural Language Models Training
 
 ### Word2Vec
 
@@ -46,8 +47,6 @@ Use case
 Transformer is not only used in NLP
 but also used in chemistry and biology research
 
-
-
 ### Bert, XLNet
 
 Check deep learning.md, Model Pretraining (Self supervised)
@@ -75,7 +74,7 @@ notebook  Demo
 
 Open Dataset
 
-#### Named Entity Recognition
+#### Named Entity Recognition (NER)
 
 notebook  Demo
 
@@ -167,7 +166,7 @@ Open Dataset
 
 Please check this post to see how to use summerizer using different models
 
-#### Information retrieval
+#### Information Retrieval
 
 notebook  Demo
 
@@ -191,6 +190,9 @@ atent Dirichlet Allocation (LDA)
 Cosine similar
 
 
+### NLP Benchmark
+
+SuperGlun
 
 
 ### Dialog System (Chatbot)
@@ -222,7 +224,7 @@ Check also some other examples here
 
 * Nemo
 
-Related Research
+### Related Research
 
 #### Open Domain Chatbot
 
@@ -230,7 +232,7 @@ Related Research
 
 * [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 
-#### Chatbot with Knowledg Graph
+#### Chatbot with Knowledge Graph
 
 Knowledge grpah gives the power of chatbot. Please check here 
 
@@ -271,10 +273,11 @@ Snorkel
 
 [FARM]
 
-### Model Inspection
+### Data and Model Inspection
 
 [LIT](https://github.com/PAIR-code/lit) Check the tutorial
 
+### Deployment
 
 [Bert as Service](https://github.com/hanxiao/bert-as-service)
 
