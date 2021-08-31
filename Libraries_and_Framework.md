@@ -36,7 +36,8 @@ Tensorflow object Detection API
 
 ### Model Building and Training
 
-Farm
+Spacy
+Farm - A lightweight library that makes NLP tasks training simpler
 AllenNLP
 HuggingFace also provide trainder API for transformer
 Pytext
