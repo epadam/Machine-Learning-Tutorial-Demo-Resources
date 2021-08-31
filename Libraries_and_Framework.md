@@ -46,6 +46,7 @@ Pytext
 NLTK
 Spacy
 Flair
+Tensorflow Text
 fastText
 
 ### Indexing
@@ -94,6 +95,9 @@ MLflow
 ## Model Deployment
 
 TF Serving
+
+TorchServe
+
 
 ## MLOps
 
