@@ -22,7 +22,11 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 ## Neural Language Models
 
-### Data Processing and Augmentation for Neural Language Models Training
+### Data Processing and Augmentation
+
+Neural Network requires many data for training. Therefore, just like image task, data augmentation is very helpful.
+
+#### snorkel
 
 ### Word2Vec
 
@@ -226,7 +230,7 @@ SuperGlun
 
 ## Conversational AI
 
-Please check this tutorial
+Please check this tutorial 
 
 
 ## Open Source Tools for NLP
