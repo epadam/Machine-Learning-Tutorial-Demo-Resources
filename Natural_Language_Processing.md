@@ -236,7 +236,7 @@ SuperGlun
 
 ## Conversational AI
 
-Please check this tutorial 
+Please check this [tutorial](applications/chat_bot.md) 
 
 
 ## Open Source Tools for NLP
