@@ -1,6 +1,8 @@
 # Document AI
 
-## Dewarping
+## Image Preprocessing
+
+### Dewarping
 
 ## Table Recognition
 
