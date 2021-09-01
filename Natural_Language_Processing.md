@@ -20,6 +20,7 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 ## FastText
 
+
 ## Neural Language Models
 
 ### Data Processing and Augmentation
@@ -207,6 +208,8 @@ News writing, article gneration
 ### Ducument Classification
 
 #### TF-IDF
+
+FastText
 
 atent Dirichlet Allocation (LDA)
 
