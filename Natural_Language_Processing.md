@@ -219,6 +219,8 @@ Cosine similar
 
 ### Meta Learning for NLP
 
+### Few Shot Learning for NLP
+
 ### Reinforcement Learning for NLP 
 
 #### Imitation Learning for NLP
