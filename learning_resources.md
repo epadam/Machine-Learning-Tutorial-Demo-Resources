@@ -178,6 +178,7 @@ https://kknews.cc/code/34aja5o.html
 
 * H2O
 * Amazon SageMaker
-* SalesForce
-* Databricks
-* ModelArts
+* SalesForce (with Tableau)
+* Databricks 
+* Huawei ModelArts
+
