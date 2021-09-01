@@ -58,7 +58,7 @@ Use case
 Transformer is not only used in NLP
 but also used in chemistry and biology research
 
-### Bert, XLNet
+### Bert and its variation
 
 Check deep learning.md, Model Pretraining (Self supervised)
 
@@ -66,6 +66,10 @@ Variation of Bert ()
 SciBert, BioBert
 
 Use case
+
+#### XLNet
+#### Megatron-LM
+
 
 ### GPT/GPT-2/GPT-3
 
