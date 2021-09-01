@@ -22,49 +22,40 @@ Machine Learning is all about data processing.
 
 Deep learning dominates computer vision and Nature Language Processing, this tutorial gives you the theory of Deep Learning
 
-## [Training Tracking and Deployment](deployment.md)
+## [Data Analysis with Machine Learning]()
+
+## [MLOps](deployment.md)
 
 ## [Computer Vision](CV.md)
 
 ## [Natural Language Processing](NLP.md)
 
-## 
-
-### [Graph Network](GNN.md)
+Important Paths of Machine Learning Research
 
 ## [GAN](GAN.md)
 
+## [Graph Network](GNN.md)
+
+## [Reinforcement Learning](RL.md)
+
 ## [AutoML](autoML.md)
-
-
-
 
 ## [Meta Learning](Meta.md)
 
 ## [Life Long Learning](LLL.md)
 
+## [Multimodal Learning](Multimodal.md)
+
 ## [Data Privacy](privacy.md)
 
 ## [Explainable AI](ExplainableAI.md)
 
+Specific Domain of Machine Learning
 
+## [3D Machine Learning](3D.md)
 
-### [3D Machine Learning](3D.md)
-
-
-
-## [Multimodal Learning](Multimodal.md)
-
-
-## [Reinforcement Learning](RL.md)
-
-## [Robotics](Robotics.md)
+## [Robotics with Machine Learning](Robotics.md)
 
 ## [Other Applications of Machine Learning](Applications.md)
 
 ## [Other Learning Resources](learning_resources.md)
-
-
-
-
-
