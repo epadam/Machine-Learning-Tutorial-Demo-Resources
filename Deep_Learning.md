@@ -1,5 +1,57 @@
 # Deep Learning
 
+### CNN
+
+### Feature Pyramid Networks
+
+### Fully Convolutional Networks
+
+### Capsule Neural Network
+
+* [Capsule Neural Network](https://github.com/Sarasra/models/tree/master/research/capsules)
+
+### Autoencoder
+
+### Variational Autoencoder
+
+### Generative Adversarial Network (GAN)
+
+### VAE-GAN
+
+### Graph Networks
+
+* Relational inductive biases, deep learning, and graph networks [`arXiv`](https://arxiv.org/abs/1806.01261)
+
+* Graph Convolutional Networks
+
+### RNN
+
+### LSTM
+
+### Temporal Convolutional Network
+
+### Attention
+
+### Transformer
+
+
+
+## ML Training
+
+### Loss Function
+
+### Optimization
+
+### Regularization
+
+### Batch Normalization
+
+### Tools
+
+[gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing)
+
+
+
 Here list most important nueral network architecture 
 
 ## CNN
