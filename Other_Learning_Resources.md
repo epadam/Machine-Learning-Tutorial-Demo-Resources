@@ -177,6 +177,7 @@ https://kknews.cc/code/34aja5o.html
 ### AI platform
 
 * H2O
+* ElasticSearch Machine Learning
 * DataRobot
 * Analytics Zoo
 * Amazon SageMaker
