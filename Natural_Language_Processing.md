@@ -1,6 +1,10 @@
 # Natural Language Processing
 
-You can either check NLP models or NLP tasks first to get an overview of what NLP is dealing with.
+This is a tutorial helps you understand the NLP world, from basic knowledge to build a real application, also gives resources to become an advanced researcher.
+
+If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application.
+
+I would also give links of other learning resources and libraries. But it is better to focus on one resource first since other tools offer very similar functions. 
 
 
 ## Language Models (Word Embedding)
