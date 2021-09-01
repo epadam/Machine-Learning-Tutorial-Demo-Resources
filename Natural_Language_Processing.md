@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-This is a tutorial helps you understand the NLP world, from basic knowledge to building a real application, also gives resources to become an advanced researcher. Please audio processing is not included in this tutorial.
+This is a tutorial helps you understand the NLP world, from basic knowledge to building a real application, also gives resources to become an advanced researcher. Please notice that audio processing is not included in this tutorial.
 
 If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer text preprocessing, cleansing and model training.
 
@@ -10,7 +10,7 @@ You can either check the language models section first or NLP tasks section.
 
 ## Language Models (Word Embedding)
 
-Language models take the text as input and 
+Language models take the text as input and generate a prediction, a word, a sentence or even an article. 
 
 ## Statistical Language Models
 
@@ -73,7 +73,11 @@ Use case
 
 
 
+
+
 ## NLP Tasks 
+
+The goal of all NLP tasks is to understand the text(each word, relation between words, sentiment or the topic) and generate the text we want. The tasks below try to understand the text from word level, sentence level and document level. 
 
 ### Word Level Tasks
 
@@ -201,6 +205,20 @@ atent Dirichlet Allocation (LDA)
 Cosine similar
 
 
+## Other research topics to improve performance of NLP
+
+### GAN for NLP
+
+### Meta Learning for NLP
+
+### Reinforcement Learning for NLP 
+
+#### Imitation Learning for NLP
+
+### Knowledge Graph for Chatbot
+
+* Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
+
 ### NLP Benchmark
 
 SuperGlun
@@ -208,8 +226,10 @@ SuperGlun
 
 ### Dialog System (Chatbot)
 
-Chatbot is probably the most challenging application in NLP. It includes multiple NLP tasks, mostly NLU and NLG related tasks.
-It ranges from simple Q&A chatbot, task specific cahtbot to open domain chatbot. Google Assitant and Alexa are multi-task chatbot.
+Chatbot is probably the most challenging application in NLP. It requires almost all tasks above to give smooth communicating experience.
+It can be simple Q&A chatbot, task specific cahtbot to open domain chatbot or all-in-one chatbot. 
+
+A standard pipeline of chatbot is showing below. There are also research on end-to-end chatbot, however, it is harder to control currently. 
 
 ##### NLU
 
@@ -225,17 +245,24 @@ Check also some other examples here
 
 小冰
 
-##### Open Source Tools
+##### Open Source Tools for building chatbot
+
+* [Rasa](https://rasa.com/)
 
 * [DeepPavlov](http://deeppavlov.ai/)
 
 * ParlAI [`github`](https://github.com/facebookresearch/ParlAI)
 
-* [Rasa](https://rasa.com/)
+* [Nemo]()
 
-* Nemo
+##### Commercial platform for chatbot
 
-### Related Research
+
+### Related Research of chatbot
+
+#### Chatbot with Knowledge Graph
+
+Knowledge grpah gives the power of chatbot. Please check here 
 
 #### Open Domain Chatbot
 
@@ -243,102 +270,48 @@ Check also some other examples here
 
 * [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 
-#### Chatbot with Knowledge Graph
-
-Knowledge grpah gives the power of chatbot. Please check here 
 
 
 
-### GAN for NLP
-
-### Meta Learning for NLP
-
-### Reinforcement Learning for NLP 
-
-#### Imitation Learning for NLP
-
-
-
-Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
-
-
-## Open Source Tools
+## Open Source Tools for NLP
 
 ### Multi functional (Preprocessing, Training)
 
 [spaCy](https://spacy.io)
 
-[AllenNLP]
+[AllenNLP]()
+
+[GlounNLP]()
+
+[FARM]()
+
+[Fast.ai]()
 
 [nlp-architect](https://github.com/NervanaSystems/nlp-architect)
 
 [Check the comparison between libraries](https://luckytoilet.wordpress.com/2018/12/29/deep-learning-for-nlp-spacy-vs-pytorch-vs-allennlp/)
 
-You can choose the library based on which framework they are using(tensorflow, pytorch or both), running speed, support of distributed training or special preprocessing functions.
-
-
-
+You can choose the library based on which framework they are using(tensorflow, pytorch or both), running speed, support of distributed training or special processing functions.
 
 ### pre-trained models
 
 [Huggingface](https://github.com/huggingface)
 
-### Model training
-
-[FARM]
-
 ### Data and Model Inspection
 
 [LIT](https://github.com/PAIR-code/lit) Check the tutorial
 
-### Deployment
+### Other Resources
 
-[Bert as Service](https://github.com/hanxiao/bert-as-service)
-
-
-
-
-## Other Learning Resources
+* [Bert as Service](https://github.com/hanxiao/bert-as-service)
 
 * [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
 
 * [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
+### Other Applications using NLP
+
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
-
-
-
-## Audiio
-
-### Speech Recognition (ASR)
-
-Alibaba-MIT-Speech [`github`](https://github.com/alibaba/Alibaba-MIT-Speech)
-
-DeepSpeech [`github`](https://github.com/mozilla/DeepSpeech)
-
-Wav2letter++ [`github`](https://github.com/facebookresearch/wav2letter)
-
-Real-Time-Voice-Cloning [`github`](https://github.com/CorentinJ/Real-Time-Voice-Cloning?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-
-#### On-device wake word detection:
-
-porcupine [`github`](https://github.com/Picovoice/porcupine)
-
-### Speaker Diarization
-
-Joint Speech Recognition and Speaker Diarization via Sequence Transduction [`arXiv`](https://arxiv.org/abs/1907.05337) 
-
-### Voice Conversion
-
-deep-voice-conversion [`github`](https://github.com/andabi/deep-voice-conversion)
-
-## Speech Synthesis (TTS)
-
-[WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) 
-
-FastSpeech: Fast, Robust and Controllable Text to Speech [`arXiv`](https://arxiv.org/abs/1905.09263)
-
-
 
 
 
