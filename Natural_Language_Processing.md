@@ -1,13 +1,16 @@
 # Natural Language Processing
 
-This is a tutorial helps you understand the NLP world, from basic knowledge to build a real application, also gives resources to become an advanced researcher.
+This is a tutorial helps you understand the NLP world, from basic knowledge to building a real application, also gives resources to become an advanced researcher.
 
 If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application.
 
-I would also give links of other learning resources and libraries. But it is better to focus on one resource first since other tools offer very similar functions. 
+I would also give links of other learning resources and libraries. But it is better to focus on one resource first and you will realize it would be also very easy to use other tools. 
 
+You can check the 
 
 ## Language Models (Word Embedding)
+
+
 
 ## Statistical Language Models
 
@@ -265,9 +268,13 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 [nlp-architect](https://github.com/NervanaSystems/nlp-architect)
 
+[Check the comparison between libraries](https://luckytoilet.wordpress.com/2018/12/29/deep-learning-for-nlp-spacy-vs-pytorch-vs-allennlp/)
+
+
 ### Data Augmentation
 
 Snorkel
+
 
 ### pre-trained models
 
