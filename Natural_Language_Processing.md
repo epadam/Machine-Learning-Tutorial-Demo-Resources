@@ -1,16 +1,16 @@
 # Natural Language Processing
 
-This is a tutorial helps you understand the NLP world, from basic knowledge to building a real application, also gives resources to become an advanced researcher.
+This is a tutorial helps you understand the NLP world, from basic knowledge to building a real application, also gives resources to become an advanced researcher. Please audio processing is not included in this tutorial.
 
-If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application.
+If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer text preprocessing, cleansing and model training.
 
 I would also give links of other learning resources and libraries. But it is better to focus on one resource first and you will realize it would be also very easy to use other tools. 
 
-You can check the 
+You can either check the language models section first or NLP tasks section. 
 
 ## Language Models (Word Embedding)
 
-
+Language models take the text as input and 
 
 ## Statistical Language Models
 
@@ -71,7 +71,9 @@ Use case
 
 ### Multi-Task models
 
-## Tasks 
+
+
+## NLP Tasks 
 
 ### Word Level Tasks
 
@@ -127,6 +129,8 @@ Open Dataset
 QQP Classification with Siamese Network
 
 notebook  Demo
+
+#### Sentence Segmentation
 
 #### Sentiment Analysis
 
@@ -270,10 +274,9 @@ Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medi
 
 [Check the comparison between libraries](https://luckytoilet.wordpress.com/2018/12/29/deep-learning-for-nlp-spacy-vs-pytorch-vs-allennlp/)
 
+You can choose the library based on which framework they are using(tensorflow, pytorch or both), running speed, support of distributed training or special preprocessing functions.
 
-### Data Augmentation
 
-Snorkel
 
 
 ### pre-trained models
@@ -295,7 +298,7 @@ Snorkel
 
 
 
-## Resources
+## Other Learning Resources
 
 * [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
 
