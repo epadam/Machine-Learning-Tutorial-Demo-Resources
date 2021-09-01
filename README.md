@@ -10,7 +10,7 @@ I hope you can get good ideas of different machine learning challenges not just 
 
 You can follow the order to learn machine learning or select the topic you are interested below:
 
-## [Machine Learning Overview](ML.md)
+## [Machine Learning Overview](Machine_Learning_Overview.md)
 
 Gives the general idea of machine learning
 
@@ -18,7 +18,7 @@ Gives the general idea of machine learning
 
 Machine Learning is all about data processing.
 
-## [Deep Learning](DL.md)
+## [Deep Learning](Deep_Learning.md)
 
 Deep learning dominates computer vision and Nature Language Processing, this tutorial gives you the theory of Deep Learning
 
