@@ -236,11 +236,12 @@ Cosine similar
 
 SuperGlun
 
+## Deployment of NLP models
+
 
 ## Conversational AI
 
-Please check this [tutorial](applications/chat_bot.md) 
-
+Since this is an huge topic, please check this [tutorial](applications/chat_bot.md) 
 
 ## Open Source Tools for NLP
 
