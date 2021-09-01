@@ -1,6 +1,6 @@
 # Machine Learning
 
-## Traditional Algorithms
+## Supervised Learning
 
 ### Linear Regression
 
@@ -12,22 +12,28 @@
 
 ### Gradient Boosting
 
-### KNN
-
-### K-means
+## KNN
 
 ### Naive Bayes
 
 ### Bayesian
 
+### Support Vector Machine (SVM)
+
 ### Enssemble Algorithms
 
-### Support Vector Machine (SVM)
+
+## unsupervised Learning
+
+### K-means
+
+
 
 ## Deep Learning
 
+Deep learning please check this [tutorial](Deep_Learning.md)
 
-## Supervised Learning
+
 
 
 
