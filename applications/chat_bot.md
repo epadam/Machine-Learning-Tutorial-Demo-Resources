@@ -35,6 +35,7 @@ Check also some other examples here
 
 ##### Commercial platform for chatbot
 
+* Microsoft Bot Framework
 
 ### Related Research of chatbot
 
