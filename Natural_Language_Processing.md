@@ -66,8 +66,10 @@ Check deep learning.md, Model Pretraining (Self supervised)
 Variation of Bert ()
 SciBert, BioBert
 
-Use case
 * Bert
+
+Build your own Bert from scratch
+
 * XLNet
 * Megatron-LM
 
