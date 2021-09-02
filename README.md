@@ -49,19 +49,19 @@ Deep learning dominates computer vision and Nature Language Processing, this tut
 ## [Quick List of Libraries and Frameworks](Libraries_and_Frameworks.md)
 
 
-## [Other Applications of Machine Learning](Applications.md)
 
-The rest topics may be updated in the future
 
-## [Graph Network](Graph_Network.md)
+## The rest topics may be updated in the future
 
-## [Meta Learning](Meta_Learning.md)
+### [Graph Network](Graph_Network.md)
 
-## [Life Long Learning](Life_Long_Learning.md)
+### [Meta Learning](Meta_Learning.md)
 
-## [3D Machine Learning](3D_Machine_Learning.md)
+### [Life Long Learning](Life_Long_Learning.md)
 
-## [Robotics with Machine Learning](Robotics.md)
+### [3D Machine Learning](3D_Machine_Learning.md)
+
+### [Robotics with Machine Learning](Robotics.md)
 
 
 
