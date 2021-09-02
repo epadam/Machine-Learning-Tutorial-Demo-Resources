@@ -1,5 +1,6 @@
 # Production Level Machine Learning (MLOps)
 
+
 ## Platform
 
 TFX
@@ -26,7 +27,7 @@ For Tensorflow
 
 ## Training
 
-### Resource Management (Distributed Training)
+### Distributed Training
 
 #### Tensorflow
 
@@ -36,10 +37,12 @@ For Tensorflow
 
 * [Polyaxon](https://polyaxon.com/)
 
+* Ray
+
 #### Pytorch
 
 
-### Tracking
+### Training Management and Tracking
 
 [MLflow](https://mlflow.org/)
 
@@ -63,7 +66,7 @@ TensorWatch [`Github`](https://github.com/microsoft/tensorwatch)
 
 ### Model Inspection
 
-Please refer to [Responsible AI]()
+Please refer to [Responsible AI](Responsible_AI.md)
 
 ## Model Format
 
@@ -80,7 +83,12 @@ ONNX
 
 ## Deployment Tools
 
-Cortex, Graphpipe, TF serving, KF serving, Mleap, Clipper
+Cortex
+Graphpipe
+TF serving
+KF serving
+Mleap
+Clipper
 
 ### Edge Deployment
 
