@@ -28,36 +28,40 @@ Deep learning dominates computer vision and Nature Language Processing, this tut
 
 ## [Computer Vision](Computer_Vision.md)
 
-## [Natural Language Processing](Natural_Language_Processing.md)
-
-Important Paths of Machine Learning Research
-
 ## [GAN](Generative_Adversarial_Network.md)
 
-## [Graph Network](Graph_Network.md)
+## [Natural Language Processing](Natural_Language_Processing.md)
 
-## [Reinforcement Learning](Reinforcement_Learning.md)
-
-## [AutoML](autoML.md)
-
-## [Meta Learning](Meta_Learning.md)
-
-## [Life Long Learning](Life_Long_Learning.md)
+## [Knowledge Grpah](Knowledge_Graph.md)
 
 ## [Multimodal Learning](Multimodal.md)
+
+## [AutoML](autoML.md)
 
 ## [Data Privacy](Data_Privacy.md)
 
 ## [Responsible AI](Responsible_AI.md)
 
-Specific Domain of Machine Learning
+## [Reinforcement Learning](Reinforcement_Learning.md)
+
+## [Other Learning Resources](Other_Learning_Resources.md)
+
+## [Quick List of Libraries and Frameworks](Libraries_and_Frameworks.md)
+
+
+## [Other Applications of Machine Learning](Applications.md)
+
+The rest topics may be updated in the future
+
+## [Graph Network](Graph_Network.md)
+
+## [Meta Learning](Meta_Learning.md)
+
+## [Life Long Learning](Life_Long_Learning.md)
 
 ## [3D Machine Learning](3D_Machine_Learning.md)
 
 ## [Robotics with Machine Learning](Robotics.md)
 
-## [Other Applications of Machine Learning](Applications.md)
 
-## [Other Learning Resources](Other_Learning_Resources.md)
 
-## [Quick List of Libraries and Frameworks](Libraries_and_Frameworks.md)
