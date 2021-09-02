@@ -41,6 +41,18 @@
 
 ## Open Source Tools for AutoML
 
+MLBox
+
+Auto-Sklearn
+
+TPOT
+
+H2OAutoML 
+
+AutoKeras
+
+TransmogrifAI
+
 ## Reference
 * [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
 
