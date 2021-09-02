@@ -12,6 +12,7 @@ InterpretML [`Github`](https://github.com/interpretml/interpret)
 
 Google TCAV [`Github`](https://github.com/tensorflow/tcav)
 
+Shapley
 
 ### Computer Vision
 
@@ -29,6 +30,8 @@ Kernel Map Visualization
 
 Intermiediate Layer Output Visualization 
 
+Grad-CAM
+
 [DeepLift]()
 
 ### Natural Language Processing
@@ -40,3 +43,7 @@ Intermiediate Layer Output Visualization
 Explaining Explanations: An Overview of Interpretability of Machine Learning [`arXiv`](https://arxiv.org/abs/1806.00069)
 
 TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
+
+### Other Resource
+
+[https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources)
