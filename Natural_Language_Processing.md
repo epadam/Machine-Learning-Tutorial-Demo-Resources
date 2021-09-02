@@ -72,6 +72,7 @@ Build your own Bert from scratch
 
 * XLNet
 * Megatron-LM
+* (DeBERTa)[https://github.com/microsoft/DeBERTa]
 
 #### Decoder
 
