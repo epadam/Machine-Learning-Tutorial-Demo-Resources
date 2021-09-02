@@ -2,14 +2,17 @@
 
 ## Data Pipeline
 
+Data Collection, Labeling, Storage, Processing
+
 ### ETL
 
 ## Data Collection
 
 How to use python crawling web data.
 
+## Data Processing
 
-## Data Labeling
+### Data Labeling
 
 [Snorkel](https://www.snorkel.org/)
 
@@ -25,13 +28,10 @@ Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.or
 
 VoTT (Visual Object Tagging Tool) [`Github`](https://github.com/microsoft/VoTT)
 
-## Data Augmentation
 
-Augmentor [`Github`](https://github.com/mdbloice/Augmentor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+## Data Storage and Versioning
 
-albumentations [`Github`](https://github.com/albumentations-team/albumentations)
 
-DALI [`Github`](https://github.com/NVIDIA/DALI)
 
 
 ## Dataset Resources
