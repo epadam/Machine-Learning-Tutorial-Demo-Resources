@@ -8,6 +8,9 @@ In this tutorial we will go give general ideas of analysis for tabular data. For
 
 When data is not sufficient, we can apply data augmentation. Please check [Data Engineering](Data_Engineering.md) for more information.
 
+* Principle Component Analysis (PCA)
+
+
 ## Model Selection and Training
 
 Basic theory of models please check [Machine Learning Overview](Machine_Learning_Overview.md)
