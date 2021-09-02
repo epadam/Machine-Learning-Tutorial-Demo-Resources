@@ -1,4 +1,4 @@
-# Training and Deployment
+# MLOps
 
 ## Platform
 
@@ -9,6 +9,10 @@ TFX
 ### Articles
 
 Uber Michelangelo
+
+## Data Preprcocessing
+
+Please check [Data Engineering Tutorial](Data_Engineering.md)
 
 
 ## Training
@@ -54,7 +58,9 @@ Please refer to [Responsible AI]()
 
 ## Model Format
 
-PortBuffer
+Saved Model
+
+protobuf
 
 ONNX
 
