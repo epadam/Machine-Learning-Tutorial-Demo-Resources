@@ -36,9 +36,10 @@
 
 ### Adversarial Attack and Defense
 
-## Application 
+## Use Case
 
-* Quality Control, Defect Inspection
+* Quality Control
+- (Defect Inspection)
 
 * Medical Image Analysis
 
@@ -60,7 +61,7 @@
 
 ### Anomaly Detection
 
-## Applications
+## Use Case
 
 * Health Care
 
