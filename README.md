@@ -59,3 +59,5 @@ Specific Domain of Machine Learning
 ## [Other Applications of Machine Learning](Applications.md)
 
 ## [Other Learning Resources](Other_Learning_Resources.md)
+
+## [Quick List of Libraries and Frameworks](Libraries_and_Frameworks.md)
