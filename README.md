@@ -14,7 +14,7 @@ You can follow the order to learn machine learning or select the topic you are i
 
 Gives the general idea of machine learning
 
-## [Data Processing](DataProcessing.md)
+## [Data Engineering](Data_Engineering.md)
 
 Machine Learning is all about data processing.
 
@@ -22,40 +22,40 @@ Machine Learning is all about data processing.
 
 Deep learning dominates computer vision and Nature Language Processing, this tutorial gives you the theory of Deep Learning
 
-## [Data Analysis with Machine Learning]()
+## [Data Analysis with Machine Learning](Data_Analysis.md)
 
-## [MLOps](deployment.md)
+## [MLOps](MLOps.md)
 
-## [Computer Vision](CV.md)
+## [Computer Vision](Computer_Vision.md)
 
-## [Natural Language Processing](NLP.md)
+## [Natural Language Processing](Natural_Language_Processing.md)
 
 Important Paths of Machine Learning Research
 
-## [GAN](GAN.md)
+## [GAN](Generative_Adversarial_Network.md)
 
-## [Graph Network](GNN.md)
+## [Graph Network](Graph_Network.md)
 
-## [Reinforcement Learning](RL.md)
+## [Reinforcement Learning](Reinforcement_Learning.md)
 
 ## [AutoML](autoML.md)
 
-## [Meta Learning](Meta.md)
+## [Meta Learning](Meta_Learning.md)
 
-## [Life Long Learning](LLL.md)
+## [Life Long Learning](Life_Long_Learning.md)
 
 ## [Multimodal Learning](Multimodal.md)
 
-## [Data Privacy](privacy.md)
+## [Data Privacy](Data_Privacy.md)
 
-## [Explainable AI](ExplainableAI.md)
+## [Responsible AI](Responsible_AI.md)
 
 Specific Domain of Machine Learning
 
-## [3D Machine Learning](3D.md)
+## [3D Machine Learning](3D_Machine_Learning.md)
 
 ## [Robotics with Machine Learning](Robotics.md)
 
 ## [Other Applications of Machine Learning](Applications.md)
 
-## [Other Learning Resources](learning_resources.md)
+## [Other Learning Resources](Other_Learning_Resources.md)
