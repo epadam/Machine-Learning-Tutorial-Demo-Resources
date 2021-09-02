@@ -21,7 +21,7 @@
 
 * [AutoKeras](https://autokeras.com/)
 
-## Network Compression
+## AutoML for Network Compression
 
 ### Pruning
 
