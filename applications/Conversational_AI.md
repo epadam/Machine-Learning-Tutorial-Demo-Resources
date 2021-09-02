@@ -6,22 +6,38 @@ It can be simple Q&A chatbot, task specific cahtbot to open domain chatbot or al
 
 A standard pipeline of chatbot is showing below. There are also research on end-to-end chatbot, however, it is harder to control currently. 
 
-##### NLU
+## Simple Q&A Chatbot
+
+
+## Open Domain Chatbot
+
+* [Comparison of Transfer-Learning Approaches for Response Selection in Multi-Turn Conversations](http://workshop.colips.org/dstc7/papers/17.pdf)
+
+* [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+
+Demo
+
+## Conversational AI Pipeline
+
+### NLU
 
 It requires NLU, which include intent extraction, Name Entity Recognition, Relation Extraction, Enitity Linking
 
+### Dialog State Tracking
 
-##### Dialog State Tracking
+### Dialog Policy
 
-##### Dialog Policy
+### NLG for Chatobt
 
-##### NLG for Chatobt
-
-notebook  Demo
+notebook  
 
 Check also some other examples here
 
 小冰
+
+Multitask Chatbot demo
+
+
 
 ##### Open Source Tools for building chatbot
 
@@ -43,10 +59,6 @@ Check also some other examples here
 
 Knowledge grpah gives the power of chatbot. Please check here 
 
-#### Open Domain Chatbot
 
-* [Comparison of Transfer-Learning Approaches for Response Selection in Multi-Turn Conversations](http://workshop.colips.org/dstc7/papers/17.pdf)
-
-* [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 
 
