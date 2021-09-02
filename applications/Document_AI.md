@@ -16,3 +16,9 @@
 
 
 ## Commercial Examples
+
+Microsoft
+
+Huawei
+
+Baidu
