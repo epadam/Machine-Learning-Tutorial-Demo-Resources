@@ -51,15 +51,15 @@ Check deep learning.md
 
 Use case
 
-### Transformer, T5
+### Transformer 
 
-Check deep learning.md
+Model Pretraining (Self supervised)
 
 Use case
 Transformer is not only used in NLP
 but also used in chemistry and biology research
 
-### Bert and its variation
+#### Encoder
 
 Check deep learning.md, Model Pretraining (Self supervised)
 
@@ -67,14 +67,13 @@ Variation of Bert ()
 SciBert, BioBert
 
 Use case
+* Bert
+* XLNet
+* Megatron-LM
 
-#### XLNet
-#### Megatron-LM
+#### Decoder
 
-
-### GPT/GPT-2/GPT-3
-
-Model Pretraining (Self supervised)
+GPT/GPT-2/GPT-3
 
 Use case
 
@@ -90,7 +89,7 @@ The goal of all NLP tasks is to understand the text(each word, relation between 
 
 ### Word Level Tasks
 
-#### Part-of-speech Tagging 
+#### Part-of-speech Tagging (POS)
 
 notebook  Demo
 
@@ -194,6 +193,13 @@ Please check this post to see how to use summerizer using different models
 
 #### Information Retrieval
 
+Query
+
+Ranking
+
+Recall
+
+
 notebook  Demo
 
 Open Dataset
@@ -236,7 +242,9 @@ Cosine similar
 
 ### NLP Benchmark
 
-SuperGlun
+Glue
+
+SuperGlue
 
 ## Deployment of NLP models
 
@@ -244,6 +252,7 @@ SuperGlun
 ## Conversational AI
 
 Since this is an huge topic, please check this [tutorial](applications/chat_bot.md) 
+
 
 ## Open Source Tools for NLP
 
@@ -306,7 +315,9 @@ You can choose the library based on which framework they are using(tensorflow, p
 
 ### Data and Model Inspection
 
-[LIT](https://github.com/PAIR-code/lit) Check the tutorial
+[LIT](https://github.com/PAIR-code/lit) 
+
+Check the tutorial see how to use this for the model we just trained
 
 ### Other Resources
 
