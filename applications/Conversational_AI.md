@@ -33,7 +33,7 @@ notebook
 
 Check also some other examples here
 
-小冰
+
 
 Multitask Chatbot demo
 
@@ -53,7 +53,12 @@ Multitask Chatbot demo
 
 * Microsoft Bot Framework
 
+* 小冰
+
 ### Related Research of chatbot
+
+* Few-shot learning for chatbot
+* active learning
 
 #### Chatbot with Knowledge Graph
 
