@@ -4,20 +4,26 @@ In this tutorial we will go give general ideas of analysis for tabular data. For
 
 
 
-## Explore Data Analysis
+## Explore Data Analysis(EDA)
 
 When data is not sufficient, we can apply data augmentation. Please check [Data Engineering](Data_Engineering.md) for more information.
 
-## Model Selection
+## Model Selection and Training
 
 Basic theory of models please check [Machine Learning Overview](Machine_Learning_Overview.md)
 
-## Deep Learning for Tabular Data Analysis
+### How to acchieve high accuracy
+
+* Model Fusion
+* Data Augmentation
+
+### Deep Learning for Tabular Data Analysis
+
+### AutoML for Tabular Data Analysis
 
 ## Model Evaluation and Inspection
 
 
 ## Model Deployment and Monitoring
 
-## AutoML for Tabular Data Analysis
 
