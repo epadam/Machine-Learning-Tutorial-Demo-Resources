@@ -1,10 +1,9 @@
-# Data Processing
+# Data Analysis
+
 
 ## Data Visualization
 
 [Embedding Projector](https://towardsdatascience.com/visualizing-bias-in-data-using-embedding-projector-649bc65e7487)
-
-
 
 ## Data Labeling
 
