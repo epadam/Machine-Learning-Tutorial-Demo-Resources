@@ -1,5 +1,11 @@
 # Data Processing
 
+## Data Visualization
+
+[Embedding Projector](https://towardsdatascience.com/visualizing-bias-in-data-using-embedding-projector-649bc65e7487)
+
+
+
 ## Data Labeling
 
 [Snorkel](https://www.snorkel.org/)
