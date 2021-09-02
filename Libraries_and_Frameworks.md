@@ -2,11 +2,15 @@
 
 ## Pre-trained Model
 
-Tensorflow Model G
+Model Zoo
+
+Tensorflow Model Gardon
 
 Tensorflow Hub
 
 Pytorch Hub
+
+TorchVision
 
 HuggingFace
 
