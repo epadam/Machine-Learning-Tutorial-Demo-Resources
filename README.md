@@ -24,11 +24,11 @@ Deep learning dominates computer vision and Nature Language Processing, this tut
 
 ## [Data Analysis with Machine Learning](Data_Analysis.md)
 
-## [MLOps](MLOps.md)
+## [Production Level Machine Learning(MLOps)](MLOps.md)
 
 ## [Computer Vision](Computer_Vision.md)
 
-## [GAN](Generative_Adversarial_Network.md)
+## [Generative Adversarial Network](Generative_Adversarial_Network.md)
 
 ## [Natural Language Processing](Natural_Language_Processing.md)
 
