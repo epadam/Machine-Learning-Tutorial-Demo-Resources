@@ -10,6 +10,9 @@
 
 ## Text Recognition
 
+## Information Extraction
+
 ## Open Source
+
 
 ## Commercial Examples
