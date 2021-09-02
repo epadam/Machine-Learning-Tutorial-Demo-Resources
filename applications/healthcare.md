@@ -13,3 +13,7 @@
 * [deepvariant](https://github.com/google/deepvariant)
 
 ## Living Activities Monitoring
+
+## Natural Language Processing for Health Care
+
+## Data Analysis for Health Care
