@@ -1,4 +1,4 @@
-# MLOps
+# Production Level Machine Learning (MLOps)
 
 ## Platform
 
@@ -9,6 +9,8 @@ TFX
 ### Articles
 
 Uber Michelangelo
+
+## Data Storage
 
 ## Data Preprcocessing
 
@@ -24,7 +26,7 @@ For Tensorflow
 
 ## Training
 
-### Distributed Training
+### Resource Management (Distributed Training)
 
 #### Tensorflow
 
