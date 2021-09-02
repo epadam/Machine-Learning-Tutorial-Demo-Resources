@@ -1,12 +1,13 @@
 # Machine Learning Tutorial, Demo and Resources
 
-The best way to learn machine learning is to build tutorials and notes yourself. That is the reason why this repositiry exist.
+The best way to learn machine learning is to build tutorials and notes yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also pratical applications. 
 
-If you want to learn machine learning, please check this repository. It covers from basic knowledge to modern research and also pratical applications. 
-
-It includes many jupyter notebooks and real demo. It also answers common questions of machine learning. You can collections of most useful frameworks and tools for machine learning in this repo as well.
+It includes many jupyter notebooks and real demo. It also answers common questions of machine learning. 
+You can find collections of most useful frameworks and tools for machine learning in this repo as well.
 
 I hope you can get good ideas of different machine learning challenges not just model build but also  and find the resources you need in this repo.
+
+A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or data engineer from AM.ai is also very helpful guideline to check.
 
 You can follow the order to learn machine learning or select the topic you are interested below:
 
