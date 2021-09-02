@@ -12,7 +12,14 @@ Uber Michelangelo
 
 ## Data Preprcocessing
 
-Please check [Data Engineering Tutorial](Data_Engineering.md)
+Please also check [Data Engineering Tutorial](Data_Engineering.md)
+
+### Data Format 
+
+For Tensorflow
+* TFRecord allows you store the data in binary formate, which reduce the size and increase the training efficiency  
+[TFRecorder](https://github.com/google/tensorflow-recorder)
+
 
 
 ## Training
