@@ -15,21 +15,27 @@ How to use python crawling web data.
 ### Data Labeling
 
 [Label Studio](https://github.com/heartexlabs/label-studio)
-Web based with python backend that can label different data type ()
+
+Web based with python backend that can label different data type
 
 [Computer Vision Annotation Tool (CVAT)](https://github.com/openvinotoolkit/cvat)
+
 Web based with python backend for video and image annotation
 
 [makesense.ai](https://github.com/SkalskiP/make-sense)
+
 Web based labeling tool with no backend. They use tensorflow.js models to help you achieve labeling faster
 
 [VoTT (Visual Object Tagging Tool)](https://github.com/microsoft/VoTT)
+
 Web based labeling tool with no backend. For images or video frames labeling
 
 [labelme](https://github.com/wkentaro/labelme)
+
 Python Desktop app using QT for image labeling
 
 [MONAI Label](https://github.com/Project-MONAI/MONAILabel/tree/main/monailabel)
+
 Python backend with 3D Slicer as interdace for medical images annotation
 
 
