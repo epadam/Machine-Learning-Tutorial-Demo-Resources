@@ -174,14 +174,4 @@ https://kknews.cc/code/34aja5o.html
 [Standford CS234: Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 
-## AI platform
-
-* H2O
-* ElasticSearch Machine Learning
-* DataRobot
-* Analytics Zoo
-* Amazon SageMaker
-* SalesForce (with Tableau)
-* Databricks 
-* Huawei ModelArts
 
