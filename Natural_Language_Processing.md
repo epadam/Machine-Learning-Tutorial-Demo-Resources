@@ -251,6 +251,9 @@ atent Dirichlet Allocation (LDA)
 Cosine similar
 
 
+If you are interested in all tasks of NLP, paper with code is definitely the good place.
+[https://paperswithcode.com/area/natural-language-processing](https://paperswithcode.com/area/natural-language-processing)
+
 ## Other research topics to improve performance of NLP
 
 ### GAN for NLP
