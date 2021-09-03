@@ -64,15 +64,33 @@ but also used in chemistry and biology research
 Check deep learning.md, Model Pretraining (Self supervised)
 
 Variation of Bert ()
-SciBert, BioBert
+
 
 * Bert
 
-Build your own Bert from scratch
+Build your own Bert from scratch!
 
-* XLNet
-* Megatron-LM
-* (DeBERTa)[https://github.com/microsoft/DeBERTa]
+How is Bert pre-trained?
+
+
+Here are some pretrained Bert models  with other Data set:
+BioBert
+SciBert
+
+One application of these pretrained models are as follows:
+
+[Covid-19 Semantic Browser](https://github.com/gsarti/covid-papers-browser)
+It can give you semantic search of Covid-19 & SARS-CoV-2 Scientific Papers
+
+
+There are many other models based on Bert:
+* [XLNet]()
+* [Megatron-LM from Nvidia]()
+* [DeBERTa](https://github.com/microsoft/DeBERTa)
+
+Now it's your turn:
+
+Train a Bert model with one of the following dataset.
 
 #### Decoder
 
@@ -322,7 +340,11 @@ You can choose the library based on which framework they are using(tensorflow, p
 
 Check the tutorial see how to use this for the model we just trained
 
-### Other Resources
+### Other Applications using NLP
+
+* [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+
+### More Resources
 
 * [Bert as Service](https://github.com/hanxiao/bert-as-service)
 
@@ -330,9 +352,9 @@ Check the tutorial see how to use this for the model we just trained
 
 * [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
-### Other Applications using NLP
 
-* [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+
+
 
 
 
