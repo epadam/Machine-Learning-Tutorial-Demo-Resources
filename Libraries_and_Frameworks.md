@@ -42,7 +42,7 @@ Tensorflow object Detection API
 
 ### Model Building and Training
 
-Spacy
+SpaCy
 Farm - A lightweight library that makes NLP tasks training simpler
 AllenNLP
 HuggingFace also provide trainder API for transformer
@@ -84,6 +84,7 @@ What If
 Manifold
 
 LIT
+Tools for NLP
 
 LIME
 
@@ -155,3 +156,16 @@ Nemo
 ### Music Creation
 
 JukeBox
+
+
+## AI platform
+
+* H2O
+* ElasticSearch Machine Learning
+* DataRobot
+* Analytics Zoo
+* Amazon SageMaker
+* SalesForce (with Tableau)
+* Databricks 
+* Huawei ModelArts
+* [OpenPanel](https://github.com/onepanelio/onepanel)
