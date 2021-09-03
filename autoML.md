@@ -41,6 +41,8 @@
 
 ## Open Source Tools for AutoML
 
+Kubeflow Knaive
+
 MLBox
 
 Auto-Sklearn
@@ -52,6 +54,8 @@ H2OAutoML
 AutoKeras
 
 TransmogrifAI
+
+[Microsoft NNI](https://github.com/microsoft/nni) 
 
 ## Reference
 * [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
