@@ -39,6 +39,8 @@ For Tensorflow
 
 * Ray
 
+* OpenPAI
+
 #### Pytorch
 
 
