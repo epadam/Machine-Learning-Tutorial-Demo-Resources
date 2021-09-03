@@ -1,5 +1,7 @@
 # Data Engineering
 
+
+
 ## Data Pipeline
 
 Data Collection, Labeling, Storage, Processing
@@ -8,7 +10,7 @@ Data Collection, Labeling, Storage, Processing
 
 ## Data Collection
 
-How to use python crawling web data.
+How to use python for web crawling.
 
 ## Data Processing
 
@@ -55,7 +57,5 @@ Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.or
 
 
 
-## Dataset Resources
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
