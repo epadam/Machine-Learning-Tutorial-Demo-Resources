@@ -103,6 +103,11 @@ Use case
 
 
 
+You might be curious which model has the most parameters and how's their performance?
+
+Here is the comparison:
+
+
 
 ## NLP Tasks 
 
