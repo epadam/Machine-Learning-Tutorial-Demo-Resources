@@ -76,6 +76,7 @@ How is Bert pre-trained?
 Here are some pretrained Bert models  with other Data set:
 BioBert
 SciBert
+ClinicalBERT 
 
 One application of these pretrained models are as follows:
 
