@@ -118,11 +118,14 @@ A tool box lets you train and test deep learning models without writing code. It
 * ElasticSearch Machine Learning
 * DataRobot
 * [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo)
+Big data AI platform for scaling end-to-end AI to distributed Big Data
 * Amazon SageMaker
 * SalesForce (with Tableau)
 * Databricks 
 * Huawei ModelArts
 * [OpenPanel](https://github.com/onepanelio/onepanel)
+End-to-end computer vision platform
+
 
 
 ## Reference
