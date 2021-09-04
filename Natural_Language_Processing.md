@@ -64,6 +64,7 @@ but also used in chemistry and biology research
 * UniLM
 * Turing-LG 17b
 * Deberta 1.5b
+* Bart
 
 #### Encoder
 
