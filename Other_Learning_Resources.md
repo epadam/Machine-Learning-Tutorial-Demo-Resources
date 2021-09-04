@@ -120,11 +120,5 @@ This page lists machine learning resources including video courses, Online books
 
 [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-# Reference and Tips
-
-https://buzzorange.com/techorange/2019/03/14/4-tips-of-shell/
-
-https://kknews.cc/code/34aja5o.html
-
 
 
