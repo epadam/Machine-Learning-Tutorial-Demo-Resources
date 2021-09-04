@@ -158,14 +158,4 @@ Nemo
 JukeBox
 
 
-## AI platform
 
-* H2O
-* ElasticSearch Machine Learning
-* DataRobot
-* Analytics Zoo
-* Amazon SageMaker
-* SalesForce (with Tableau)
-* Databricks 
-* Huawei ModelArts
-* [OpenPanel](https://github.com/onepanelio/onepanel)
