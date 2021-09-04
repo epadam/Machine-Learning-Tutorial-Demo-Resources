@@ -77,6 +77,11 @@ How is Bert pre-trained?
 
 How to accelerate training of Bert?
 
+How to make Bert smaller?
+
+mobileBert
+
+
 Here are some pretrained Bert models  with other Data set:
 BioBert
 SciBert
