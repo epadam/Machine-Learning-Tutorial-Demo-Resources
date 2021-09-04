@@ -59,24 +59,29 @@ Use case
 Transformer is not only used in NLP
 but also used in chemistry and biology research
 
+* transformer-XL
+* T5+Meena
+* UniLM
+* Turing-LG 17b
+* Deberta 1.5b
+
 #### Encoder
 
-Check deep learning.md, Model Pretraining (Self supervised)
-
-Variation of Bert ()
-
-
 * Bert
+
+Bert is the 
 
 Build your own Bert from scratch!
 
 How is Bert pre-trained?
 
+How to accelerate training of Bert?
 
 Here are some pretrained Bert models  with other Data set:
 BioBert
 SciBert
 ClinicalBERT 
+
 
 One application of these pretrained models are as follows:
 
@@ -88,6 +93,16 @@ There are many other models based on Bert:
 * [XLNet]()
 * [Megatron-LM from Nvidia]()
 * [DeBERTa](https://github.com/microsoft/DeBERTa)
+* M-BERT
+* RoBERTa
+
+
+
+
+
+
+
+
 
 Now it's your turn:
 
@@ -96,6 +111,9 @@ Train a Bert model with one of the following dataset.
 #### Decoder
 
 GPT/GPT-2/GPT-3
+
+* gpt-3 175b
+* Jurrasic
 
 Use case
 
@@ -360,6 +378,9 @@ Check the tutorial see how to use this for the model we just trained
 * [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
 
 * [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+
+
 
 
 
