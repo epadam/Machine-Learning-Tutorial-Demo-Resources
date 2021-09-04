@@ -112,6 +112,8 @@ TensorRT
 
 ## AI Platform
 
+* [Ludwig](https://github.com/ludwig-ai/ludwig)
+A tool box lets you train and test deep learning models without writing code. It supports distributed training with Horovod and integrates with mlflow.
 * H2O
 * ElasticSearch Machine Learning
 * DataRobot
