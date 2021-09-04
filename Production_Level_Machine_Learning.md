@@ -110,6 +110,17 @@ TensorRT
 [GLOW](https://github.com/pytorch/glow)
 
 
+## AI Platform
+
+* H2O
+* ElasticSearch Machine Learning
+* DataRobot
+* [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo)
+* Amazon SageMaker
+* SalesForce (with Tableau)
+* Databricks 
+* Huawei ModelArts
+* [OpenPanel](https://github.com/onepanelio/onepanel)
 
 
 ## Reference
