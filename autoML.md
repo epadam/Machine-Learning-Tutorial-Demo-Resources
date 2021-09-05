@@ -55,7 +55,12 @@ AutoKeras
 
 TransmogrifAI
 
+[Google Model Search](https://github.com/google/model_search)
+
+[Google AutoML-Zero](https://github.com/google-research/google-research/tree/master/automl_zero)
+
 [Microsoft NNI](https://github.com/microsoft/nni) 
+
 
 ## Reference
 * [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
