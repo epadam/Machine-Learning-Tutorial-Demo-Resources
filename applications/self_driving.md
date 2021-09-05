@@ -27,7 +27,7 @@
 
 
 
-## Motion Planning and Control
+## Motion Planning
 
 ### Mapping Occupancy Grids
 
