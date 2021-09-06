@@ -15,10 +15,17 @@ Language models take the text as input and generate a prediction, a word, a sent
 ## Statistical Language Models
 
 ## Glove
+Create word vectors that capture meaning in vector space
+Takes advantage of global count statistics instead of only local information
+
+The source code can be found here.
+
 
 ## N-grams
 
 ## FastText
+
+
 
 
 ## Neural Language Models
@@ -27,21 +34,15 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 CBOW & Skip-Gram
 
-### RNN
+![Exploiting Similarities among Languages for Machine Translation](https://miro.medium.com/max/700/1*cuOmGT7NevP9oJFJfVpRKA.png)
 
-Check deep learning.md
 
-Use case
-
-### GRN
-
-Check deep learning.md
+### RNN/GRN/LSTM
 
 Use case
 
-### LSTM, ELMo
+### ELMo
 
-Check deep learning.md
 
 Use case
 
@@ -49,7 +50,8 @@ Use case
 
 Model Pretraining (Self supervised)
 
-Use case
+Let's train
+
 Transformer is not only used in NLP
 but also used in chemistry and biology research
 
@@ -64,7 +66,6 @@ but also used in chemistry and biology research
 * MegatronLM 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
 * ELECTRA
 * Microsoft MT-DNN
-
 * [XLNet]()
 * [Megatron-LM from Nvidia]()
 * [DeBERTa](https://github.com/microsoft/DeBERTa)
