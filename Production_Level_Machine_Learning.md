@@ -125,6 +125,7 @@ Big data AI platform for scaling end-to-end AI to distributed Big Data
 * Huawei ModelArts
 * [OpenPanel](https://github.com/onepanelio/onepanel)
 End-to-end computer vision platform
+* [igel](https://github.com/nidhaloff/igel)
 
 
 
