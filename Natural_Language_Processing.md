@@ -23,12 +23,6 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 ## Neural Language Models
 
-### Data Processing and Augmentation
-
-Neural Network requires many data for training. Therefore, just like image task, data augmentation is very helpful.
-
-#### snorkel
-
 ### Word2Vec
 
 CBOW & Skip-Gram
@@ -246,14 +240,16 @@ Please check this post to see how to use summerizer using different models
 
 Query
 
+retriever
+
 Ranking
 
-Recall
 
+Let's use some dataset here
 
 notebook  Demo
 
-Open Dataset
+There are some other dataset you can use
 
 #### Natural Language Generation
 
@@ -274,9 +270,24 @@ atent Dirichlet Allocation (LDA)
 
 Cosine similar
 
-
 If you are interested in all tasks of NLP, paper with code is definitely the good place.
 [https://paperswithcode.com/area/natural-language-processing](https://paperswithcode.com/area/natural-language-processing)
+
+## How to train your own Data?
+
+Let's try crawl some data from the web.
+
+
+
+
+If you only have few data:
+
+### Data Processing and Augmentation
+
+Neural Network requires many data for training. Therefore, just like image task, data augmentation is very helpful.
+
+#### snorkel
+
 
 ## Other research topics to improve performance of NLP
 
