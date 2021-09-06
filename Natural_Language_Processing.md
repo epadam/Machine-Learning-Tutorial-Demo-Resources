@@ -54,15 +54,25 @@ Transformer is not only used in NLP
 but also used in chemistry and biology research
 
 * transformer-XL
-* T5+Meena
+* T5
+* Meena
+* Blender
 * UniLM
 * Turing-LG 17b
 * Deberta 1.5b
 * Bart
+* MegatronLM 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
+* ELECTRA
+* Microsoft MT-DNN
+
+* [XLNet]()
+* [Megatron-LM from Nvidia]()
+* [DeBERTa](https://github.com/microsoft/DeBERTa)
 
 #### Encoder
 
 * Bert
+
 
 Bert is the 
 
@@ -80,7 +90,14 @@ mobileBert
 Here are some pretrained Bert models  with other Data set:
 BioBert
 SciBert
-ClinicalBERT 
+ClinicalBERT
+
+* M-BERT (multi lingual)
+* RoBERTa
+* Deberta 1.5b (https://github.com/microsoft/DeBERTa/tree/master/DeBERTa)
+* BigBird
+* ERINE
+* Albert
 
 
 One application of these pretrained models are as follows:
@@ -90,16 +107,6 @@ It can give you semantic search of Covid-19 & SARS-CoV-2 Scientific Papers
 
 
 There are many other models based on Bert:
-* [XLNet]()
-* [Megatron-LM from Nvidia]()
-* [DeBERTa](https://github.com/microsoft/DeBERTa)
-* M-BERT
-* RoBERTa
-
-
-
-
-
 
 
 
