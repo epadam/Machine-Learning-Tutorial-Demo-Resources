@@ -39,7 +39,11 @@ CBOW & Skip-Gram
 
 ### RNN/GRN/LSTM
 
-Use case
+RNN pytorch code
+
+```
+from torch import nn
+```
 
 ### ELMo
 
@@ -140,15 +144,22 @@ Here is the comparison:
 
 The goal of all NLP tasks is to understand the text(each word, relation between words, sentiment or the topic) and generate the text we want. The tasks below try to understand the text from word level, sentence level and document level. 
 
-### Word Level Tasks
+### Sequence Tagging
 
 #### Part-of-speech Tagging (POS)
 
-notebook  Demo
+POS can be used for grammer checking. There are statitical and deep learning solutions
 
-Open Dataset
+Let's use this (Penn Treebank Dataset)[https://deepai.org/dataset/penn-treebank]
+
+And practice in this notebook  
+
+Build a Streamlit demo!
+
 
 #### Named Entity Recognition (NER)
+
+NER 
 
 notebook  Demo
 
@@ -309,7 +320,9 @@ Neural Network requires many data for training. Therefore, just like image task,
 
 #### Imitation Learning for NLP
 
-### Knowledge Graph for Chatbot
+### Knowledge Graph
+
+* Entity Linking
 
 * Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
 
