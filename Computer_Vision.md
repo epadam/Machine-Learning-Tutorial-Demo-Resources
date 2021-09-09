@@ -6,17 +6,21 @@
 
 #### Models
 
-VGG
+Check the Streamlit [demo]()
 
-ResNet
+* VGG
 
-DenseNet
+* ResNet
 
-Morphnet
+* DenseNet
 
-MobileNet
+* Morphnet
 
-EfficientNet
+Model Compression:
+
+* MobileNet
+
+* EfficientNet
 
 #### Autoencoder for Image Classification
 
@@ -33,6 +37,8 @@ EfficientNet
 
 ### Object Detection
 
+Check the demo
+
 SSD
 
 Faster R-CNN
@@ -41,15 +47,7 @@ Feature Pyramid Network (FPN)
 
 [YOLO4]()
 
-#### Tools
 
-* [YOLO3](https://pjreddie.com/darknet/yolo/)
-
-* DIoU-darknet [`github`](https://github.com/Zzh-tju/DIoU-darknet)
-
-* Google object detection api [`github`](https://github.com/tensorflow/models/tree/master/research/object_detection)
-
-* SNIPER [`github`](https://github.com/mahyarnajibi/SNIPER)
 
 #### NAS for Object Detection
 
@@ -201,9 +199,17 @@ TensorFlow Graphics [`github`](https://github.com/tensorflow/graphics)
 How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
 
 
-## Tools 
+## Useful Tools 
 
-Mediapipe
+* [YOLO3](https://pjreddie.com/darknet/yolo/)
+
+* DIoU-darknet [`github`](https://github.com/Zzh-tju/DIoU-darknet)
+
+* Google object detection api [`github`](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+* SNIPER [`github`](https://github.com/mahyarnajibi/SNIPER)
+
+* [Mediapipe](https://mediapipe.dev/)
 
 ## Awesome CV List
 
