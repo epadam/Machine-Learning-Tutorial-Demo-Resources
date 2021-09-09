@@ -90,17 +90,17 @@ but also used in chemistry and biology research
 * Bert
 
 
-Bert is the 
+Build your own Bert from scratch![notebook]()
 
-Build your own Bert from scratch!
+How is Bert pre-trained?[notebook]()
 
-How is Bert pre-trained?
+How to accelerate training of Bert?[medium]()
 
-How to accelerate training of Bert?
+How to make Bert smaller?[notebook]()
 
-How to make Bert smaller?
-
+D
 mobileBert
+TinyBert
 
 
 Here are some pretrained Bert models  with other Data set:
