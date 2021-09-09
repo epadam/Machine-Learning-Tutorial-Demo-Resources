@@ -41,6 +41,7 @@ Deep learning please check this [tutorial](Deep_Learning.md)
 
 ## More Resources
 
+[https://jakevdp.github.io/PythonDataScienceHandbook/](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 
