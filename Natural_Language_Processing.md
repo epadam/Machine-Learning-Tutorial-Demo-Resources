@@ -1,5 +1,16 @@
 # Natural Language Processing
 
+If you are in a hurry:
+
+You can play with these demo apps to see what can NLP do.
+
+* NLP task overview
+
+
+Here are the [links]() to all the notebooks to help you , and [here]() are all my medium aritcles. 
+
+If you have time, check the theories and the tasks in detail below: 
+
 This is a tutorial helps you understand the NLP world, from basic knowledge to building a real application, also gives resources to become an advanced researcher. Please notice that audio processing is not included in this tutorial.
 
 If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer text preprocessing, cleansing and model training.
