@@ -2,17 +2,24 @@
 
 ## Explainability
 
-### Data Analysis
+### For Tabular Data
+
+* Shapley
+
+* XAI - An eXplainability toolbox for machine learning [`Github`](https://github.com/EthicalML/xai)
+
+* [LIME](https://github.com/marcotcr/lime)
+
+
+* [Manifold]()
 
 * [What If Tool](https://pair-code.github.io/what-if-tool/)
-* XAI - An eXplainability toolbox for machine learning [`Github`](https://github.com/EthicalML/xai)
-* [Manifold]
 
 InterpretML [`Github`](https://github.com/interpretml/interpret)
 
 Google TCAV [`Github`](https://github.com/tensorflow/tcav)
 
-Shapley
+
 
 ### Computer Vision
 
@@ -22,7 +29,7 @@ Check the streamlit ap
 
 * [LIME](https://github.com/marcotcr/lime)
 
-
+Grad-CAM
 
 Image Generator
 
@@ -32,13 +39,17 @@ Kernel Map Visualization
 
 Intermiediate Layer Output Visualization 
 
-Grad-CAM
-
 [DeepLift]()
+
 
 ### Natural Language Processing
 
 [LIT]()
+
+* [LIME](https://github.com/marcotcr/lime)
+
+
+
 
 ### Research Papers
 
