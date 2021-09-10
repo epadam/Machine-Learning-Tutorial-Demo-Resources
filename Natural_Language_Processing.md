@@ -211,7 +211,11 @@ notebook  Demo
 
 Open Dataset
 
-#### Text Matching
+#### Text Matching/Similarity
+
+Siamese Bert 
+
+Dual BERT
 
 #### Paraphrase
 
