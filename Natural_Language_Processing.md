@@ -211,7 +211,7 @@ notebook  Demo
 
 Open Dataset
 
-#### Text Matching/Similarity
+#### Text Matching/Semantic Similarity
 
 Siamese Bert 
 
