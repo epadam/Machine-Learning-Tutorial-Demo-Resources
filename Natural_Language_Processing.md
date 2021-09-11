@@ -32,6 +32,7 @@ Please enjoy!!
 
 Language models take the text as input and generate a prediction, a word, a sentence or even an article. 
 
+- [Tokenization](#Tokenization)
 - [Statistical Language Models](#Statistical-Language-Models)
   - [Glove](#glove)
   - [N-grams](#N-grams)
@@ -69,7 +70,6 @@ RNN pytorch code
 from torch import nn
 ```
 
-### Tokenization
 
 ### ELMo
 
