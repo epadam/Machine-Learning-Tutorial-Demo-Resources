@@ -26,7 +26,7 @@ Please enjoy!!
     <li><a href="#simple-project">A Simploe Project</a></li>
     <li><a href="#nlp-benchmarks">NLP Benchmarks</a></li>
     <li><a href="#Open-Source-Tools-for-NLP">Open Source Tools for NLP</a></li>
-    <li><a href="#Other-research-topics-to-improve-performance-of-NLP">Open Source Tools for NLP</a></li>
+    <li><a href="#Other-research-topics-in-NLP">Other Research Topics in NLP</a></li>
    
 </ul>
 
@@ -471,7 +471,7 @@ Check the tutorial see how to use this for the model we just trained
 * [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 
-## Other research topics to improve performance of NLP
+## Other Research Topics in NLP
 
 ### GAN for NLP
 
