@@ -174,11 +174,11 @@ Use case
 # NLP Tasks
 
 - [Sequence Tagging](#Sequence-Tagging)
-  -[Part-of-speech Tagging (POS)](#Part-of-speech-Tagging-(POS))
-  -[Named Entity Recognition (NER)](#Named-Entity-Recognition-(NER))
-  -[Dependecy Parsing](#Dependecy-Parsing)
-  -[Relation Extraction](#Relation-Extraction)
-  -[Grammer correction](#Grammer-correction)
+   -[Part-of-speech Tagging (POS)](#Part-of-speech-Tagging-(POS))
+   -[Named Entity Recognition (NER)](#Named-Entity-Recognition-(NER))
+   -[Dependecy Parsing](#Dependecy-Parsing)
+   -[Relation Extraction](#Relation-Extraction)
+   -[Grammer correction](#Grammer-correction)
 -[Sentence/Paragrah/Document Level Tasks](#Sentence/Paragrah/Document-Level-Tasks)
   - [Classification tasks](#Classification-tasks)
     -[Ducument Classification](#Ducument-Classification)
