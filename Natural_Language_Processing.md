@@ -1,4 +1,4 @@
-# Natural Language Processing
+# Dive into Natural Language Processing
 
 If you are in a hurry:
 
@@ -21,7 +21,7 @@ If you are already a python programmer, I would suggest you also read through th
 
 You can either check the language models section first or NLP tasks section. 
 
-## Language Models (Word Embedding)
+# Language Models
 
 Language models take the text as input and generate a prediction, a word, a sentence or even an article. 
 
@@ -58,6 +58,8 @@ from torch import nn
 It uses LSTM 
 
 ### Transformer 
+
+#### Tokenization
 
 Model Pretraining (Self supervised)
 
@@ -139,7 +141,7 @@ Use case
 ### Multi-Task models
 
 
-## NLP Tasks 
+# NLP Tasks 
 
 The goal of all NLP tasks is to understand the text(each word, relation between words, sentiment or the topic) and generate the text we want. The tasks below try to understand the text from word level, sentence level and document level. 
 
