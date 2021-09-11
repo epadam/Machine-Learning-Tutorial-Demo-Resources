@@ -174,9 +174,9 @@ Use case
 # NLP Tasks
 
 - [Sequence Tagging](#Sequence-Tagging)
-   - [Part-of-speech Tagging (POS)](#Part-of-speech-Tagging-(POS))
-   - [Named Entity Recognition (NER)](#Named-Entity-Recognition-(NER))
-   - [Dependecy Parsing](#Dependecy-Parsing)
+   - [Part-of-speech Tagging](#Part-of-speech-Tagging)
+   - [Named Entity Recognition](#Named-Entity-Recognition)
+   - [Dependency Parsing](#Dependency-Parsing)
    - [Relation Extraction](#Relation-Extraction)
    - [Grammer correction](#Grammer-correction)
 - [Sentence/Paragrah/Document Level Tasks](#Sentence/Paragrah/Document-Level-Tasks)
@@ -202,7 +202,7 @@ The goal of all NLP tasks is to understand the text(each word, relation between 
 
 ### Sequence Tagging
 
-#### Part-of-speech Tagging (POS)
+#### Part-of-speech Tagging 
 
 POS can be used for grammer checking. There are statitical and deep learning solutions
 
@@ -213,13 +213,12 @@ And practice in this notebook
 Build a Streamlit demo!
 
 
-#### Named Entity Recognition (NER)
+#### Named Entity Recognition 
 
-NER 
 
 notebook  Demo
 
-#### Dependecy Parsing
+#### Dependency Parsing
 
 notebook  Demo
 
