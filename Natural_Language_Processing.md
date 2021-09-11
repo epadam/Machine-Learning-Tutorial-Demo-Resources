@@ -23,6 +23,11 @@ Please enjoy!!
 <ul>
     <li><a href="#language-models">Language Models</a></li>
     <li><a href="#nlp-tasks">NLP Tasks</a></li>
+    <li><a href="#simple-project">A Simploe Project</a></li>
+    <li><a href="#nlp-benchmarks">NLP Benchmarks</a></li>
+    <li><a href="#Open-Source-Tools-for-NLP">Open Source Tools for NLP</a></li>
+    <li><a href="#Other-research-topics-to-improve-performance-of-NLP">Open Source Tools for NLP</a></li>
+   
 </ul>
 
 
@@ -40,6 +45,14 @@ Language models take the text as input and generate a prediction, a word, a sent
 - [Neural Language Models](#Neural-Language-Models)
   - [Word2Vec](#Word2Vec) 
   - [RNN/GRN/LSTM](#RNN/GRN/LSTM)
+  - [ELMo](#Elmo)
+  - [Transformer](#Transformer)
+    -[Attention](#Attention)
+    -[Encoder](#Encoder)
+    -[Decoer](#Decoder)
+  - [Multitask Models](#multitask-models)
+
+## Tokenization
 
 
 ## Statistical Language Models
@@ -159,7 +172,32 @@ Use case
 ### Multi-Task models
 
 
-# NLP Tasks 
+# NLP Tasks
+
+- [Sequence Tagging](#Sequence-Tagging)
+  -[Part-of-speech Tagging (POS)](#Part-of-speech-Tagging-(POS))
+  -[Named Entity Recognition (NER)](#Named-Entity-Recognition-(NER))
+  -[Dependecy Parsing](#Dependecy-Parsing)
+  -[Relation Extraction](#Relation-Extraction)
+  -[Grammer correction](#Grammer-correction)
+-[Sentence/Paragrah/Document Level Tasks](#Sentence/Paragrah/Document-Level-Tasks)
+  - [Classification tasks](#Classification-tasks)
+    -[Ducument Classification](#Ducument-Classification)
+    -[Textual Entailment/Natural Language Inference](#Textual-Entailment/Natural-Language-Inference)
+    -[Sentiment Analysis](#Sentiment-Analysis)
+    -[Sentence Segmentation](#Sentence-Segmentation)
+    -[Paraphrase indentification](#Paraphrase-indentification)
+    -[Reading Comprehension](#reading-comprehension)
+    -[Extractive Summarization](#Extractive-Summarization)
+    -[Text Matching/Semantic Similarity](#Text-Matching/Semantic-Similarity)
+      -[Information Retrieval](#information-retrieval)
+   - [Natural Language Generation](#natural-language-generation)
+     -[Machine Translation](#Machine-Translation)
+     -[Abstractive Summarization](#Abstractive-Summarization)
+     -[Paraphrase Generation](#Paraphrase-Generation)
+     -[Code-Generation](#Code-Generation)
+   - [Question Anwsering](#question-answering)
+ 
 
 The goal of all NLP tasks is to understand the text(each word, relation between words, sentiment or the topic) and generate the text we want. The tasks below try to understand the text from word level, sentence level and document level. 
 
@@ -218,18 +256,12 @@ notebook  Demo
 
 notebook  Demo
 
-##### Text Matching/Semantic Similarity
-
-Siamese Bert 
-
-Dual BERT
 
 #### Sentiment Analysis
 
 notebook  Demo
 
 Open Dataset
-
 
 #### Sentence Segmentation
 
@@ -245,7 +277,26 @@ notebook  Demo
 
 Open Dataset
 
-#### Information Retrieval/Semantic Search
+#### Extractive Summarization
+
+notebook  Demo
+
+Open Dataset
+
+Let's use some dataset here
+
+notebook  Demo
+
+There are some other dataset you can use
+
+##### Text Matching/Semantic Similarity
+
+Siamese Bert 
+
+Dual BERT
+
+
+###### Information Retrieval/Semantic Search
 
 The future of information retrieval will evolve to more like question answering system
 
@@ -264,17 +315,8 @@ Hystack
 Sentence Transformer
 
 
-#### Extractive Summarization
 
-notebook  Demo
 
-Open Dataset
-
-Let's use some dataset here
-
-notebook  Demo
-
-There are some other dataset you can use
 
 #### Natural Language Generation
 
@@ -320,6 +362,17 @@ It is similar to Information Retrieval but use natural language for processing
 
 -- Covid-19 question answering
 
+
+## A Simple Project
+Let's try crawl some data from the web.
+
+If you only have few data:
+
+* Data Processing and Augmentation
+
+Neural Network requires many data for training. Therefore, just like image task, data augmentation is very helpful.
+
+
 ### NLP Benchmark
 
 Glue
@@ -333,23 +386,16 @@ Turing
 You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchmarks in NLP.
 
 
-## CHALLENGE!! How to train your own Data?
-
-Let's try crawl some data from the web.
-
-If you only have few data:
-
-### Data Processing and Augmentation
-
-Neural Network requires many data for training. Therefore, just like image task, data augmentation is very helpful.
-
-* snorkel
 
 
 
 
 
 ## Open Source Tools for NLP
+
+### Data Augmentation
+
+[snorkel]()
 
 ### Multi functional including Text Preprocessing, Model Training)
 
