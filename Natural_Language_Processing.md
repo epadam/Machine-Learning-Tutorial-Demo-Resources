@@ -190,12 +190,13 @@ Use case
     - [Extractive Summarization](#Extractive-Summarization)
     - [Text Matching/Semantic Similarity](#Text-Matching/Semantic-Similarity)
       - [Information Retrieval](#information-retrieval)
+      - [Question Anwsering](#question-answering)
    - [Natural Language Generation](#natural-language-generation)
      - [Machine Translation](#Machine-Translation)
      - [Abstractive Summarization](#Abstractive-Summarization)
      - [Paraphrase Generation](#Paraphrase-Generation)
      - [Code-Generation](#Code-Generation)
-   - [Question Anwsering](#question-answering)
+
  
 
 The goal of all NLP tasks is to understand the text(each word, relation between words, sentiment or the topic) and generate the text we want. The tasks below try to understand the text from word level, sentence level and document level. 
@@ -314,6 +315,24 @@ Sentence Transformer
 
 
 
+#### Question Answering
+
+There are actually many types of question ansewring
+
+* simple question answering
+
+One model to trained with all data
+
+* Open Domain 
+
+You may need Knowledge Graph, please check this [guide]() for more information.
+
+* Close Domain 
+
+It is similar to Information Retrieval but use natural language for processing
+
+-- Covid-19 question answering
+
 
 
 ## Natural Language Generation
@@ -341,24 +360,6 @@ Please check this post to see how to use summerizer using different models
 
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
-
-## Question Answering
-
-There are actually many types of question ansewring
-
-* simple question answering
-
-One model to trained with all data
-
-* Open Domain 
-
-You may need Knowledge Graph, please check this [guide]() for more information.
-
-* Close Domain 
-
-It is similar to Information Retrieval but use natural language for processing
-
--- Covid-19 question answering
 
 
 ## A Simple Project
