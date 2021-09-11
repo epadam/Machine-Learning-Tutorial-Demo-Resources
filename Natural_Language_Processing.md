@@ -179,8 +179,8 @@ Use case
    - [Dependency Parsing](#Dependency-Parsing)
    - [Relation Extraction](#Relation-Extraction)
    - [Grammer correction](#Grammer-correction)
-- [Sentence/Paragrah/Document Level Tasks](#Sentence/Paragrah/Document-Level-Tasks)
-  - [Classification tasks](#Classification-tasks)
+- [Sentence/Paragraph/Document Level Tasks](#Sentence/Paragrah/Document-Level-Tasks)
+  - [Classification Tasks](#Classification-tasks)
     - [Ducument Classification](#Ducument-Classification)
     - [Textual Entailment/Natural Language Inference](#Textual-Entailment/Natural-Language-Inference)
     - [Sentiment Analysis](#Sentiment-Analysis)
@@ -233,11 +233,11 @@ notebook  Demo
 notebook  Demo
 
 
-## Sentence/Paragrah/Document Level Tasks
+## Sentence/Paragraph/Document Level Tasks
 
-### Classification tasks
+## Classification tasks
 
-#### Ducument Classification
+## Ducument Classification
 
 * TF-IDF
 
