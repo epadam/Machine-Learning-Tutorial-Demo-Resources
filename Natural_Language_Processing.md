@@ -200,9 +200,9 @@ Use case
 
 The goal of all NLP tasks is to understand the text(each word, relation between words, sentiment or the topic) and generate the text we want. The tasks below try to understand the text from word level, sentence level and document level. 
 
-### Sequence Tagging
+## Sequence Tagging
 
-#### Part-of-speech Tagging 
+### Part-of-speech Tagging 
 
 POS can be used for grammer checking. There are statitical and deep learning solutions
 
@@ -213,12 +213,12 @@ And practice in this notebook
 Build a Streamlit demo!
 
 
-#### Named Entity Recognition 
+### Named Entity Recognition 
 
 
 notebook  Demo
 
-#### Dependency Parsing
+### Dependency Parsing
 
 notebook  Demo
 
@@ -228,7 +228,7 @@ notebook  Demo
 notebook  Demo
 
 
-#### Grammer correction
+### Grammer correction
 
 notebook  Demo
 
