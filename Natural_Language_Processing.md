@@ -237,7 +237,7 @@ notebook  Demo
 
 ## Classification tasks
 
-## Ducument Classification
+### Ducument Classification
 
 * TF-IDF
 
@@ -250,32 +250,32 @@ notebook  Demo
 Toxic Comment Classification
 notebook  Demo
 
-#### Textual Entailment/Natural Language Inference
+### Textual Entailment/Natural Language Inference
 
 notebook  Demo
 
 
-#### Sentiment Analysis
+### Sentiment Analysis
 
 notebook  Demo
 
 Open Dataset
 
-#### Sentence Segmentation
+### Sentence Segmentation
 
-#### Paraphrase indentification
+### Paraphrase indentification
 
 QQP Classification with Siamese Network
 
 notebook  Demo
 
-#### Reading Comprehension
+### Reading Comprehension
 
 notebook  Demo
 
 Open Dataset
 
-#### Extractive Summarization
+### Extractive Summarization
 
 notebook  Demo
 
@@ -287,14 +287,14 @@ notebook  Demo
 
 There are some other dataset you can use
 
-#### Text Matching/Semantic Similarity
+### Text Matching/Semantic Similarity
 
 Siamese Bert 
 
 Dual BERT
 
 
-##### Information Retrieval/Semantic Search
+#### Information Retrieval/Semantic Search
 
 The future of information retrieval will evolve to more like question answering system
 
@@ -316,33 +316,33 @@ Sentence Transformer
 
 
 
-### Natural Language Generation
+## Natural Language Generation
 
 Utterance Generation (which can be seen as a data augmentation)
 
 News writing, article gneration
 
-#### Machine Translation
+### Machine Translation
 
 * Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
 
 * OpenKiwi [`github`](https://github.com/Unbabel/OpenKiwi)
 
-#### Abstractive Summarization
+### Abstractive Summarization
 
 notebook  Demo
 
 Please check this post to see how to use summerizer using different models
 
-#### Paraphrase Generation
+### Paraphrase Generation
 
 
-#### Code Generation
+### Code Generation
 
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
 
-### Question Answering
+## Question Answering
 
 There are actually many types of question ansewring
 
