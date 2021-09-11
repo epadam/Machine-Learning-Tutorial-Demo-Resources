@@ -6,16 +6,18 @@ You can play with these demo apps to see what can NLP do.
 
 * [NLP interactive tasks overview]()
 
-
 Here are the [links]() to all the notebooks to help you , and [here]() are all my medium aritcles. 
+
+If you are interested in all tasks of NLP, paper with code is definitely the good place.
+[https://paperswithcode.com/area/natural-language-processing](https://paperswithcode.com/area/natural-language-processing)
+
+You can also check [Conversational AI](applications/chat_bot.md) and [Knowledge Graph]() in another guide. 
 
 If you have time, check the theories and the tasks in detail below: 
 
 This is a tutorial helps you understand the NLP world, from basic knowledge to building a real application, also gives resources to become an advanced researcher. Please notice that audio processing is not included in this tutorial.
 
-If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer text preprocessing, cleansing and model training.
-
-I would also give links of other learning resources and libraries. But it is better to focus on one resource first and you will realize it would be also very easy to use other tools. 
+If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer text preprocessing, cleansing and model training. To see the comparison between frameworks and tools, please check [here](). It is better to focus on one resource first and you will realize it would be also very easy to use other tools. 
 
 You can either check the language models section first or NLP tasks section. 
 
@@ -31,13 +33,9 @@ Takes advantage of global count statistics instead of only local information
 
 The source code can be found here.
 
-
 ## N-grams
 
 ## FastText
-
-
-
 
 ## Neural Language Models
 
@@ -46,7 +44,6 @@ The source code can be found here.
 CBOW & Skip-Gram
 
 ![Exploiting Similarities among Languages for Machine Translation](https://miro.medium.com/max/700/1*cuOmGT7NevP9oJFJfVpRKA.png)
-
 
 ### RNN/GRN/LSTM
 
@@ -58,8 +55,7 @@ from torch import nn
 
 ### ELMo
 
-
-Use case
+It uses LSTM 
 
 ### Transformer 
 
@@ -143,14 +139,6 @@ Use case
 ### Multi-Task models
 
 
-
-
-You might be curious which model has the most parameters and how's their performance?
-
-Here is the comparison:
-
-
-
 ## NLP Tasks 
 
 The goal of all NLP tasks is to understand the text(each word, relation between words, sentiment or the topic) and generate the text we want. The tasks below try to understand the text from word level, sentence level and document level. 
@@ -174,56 +162,47 @@ NER
 
 notebook  Demo
 
-Open Dataset
-
 #### Dependecy Parsing
 
 notebook  Demo
 
-Open Dataset
 
 ### Relation Extraction
 
 notebook  Demo
 
-Open Dataset
-
-### Sentence/Paragrah Level Tasks
-
-#### Text Classification
-
-Clustering (PCA)
-
-Toxic Comment Classification
-notebook  Demo
-
-Open Dataset
 
 #### Grammer correction
 
 notebook  Demo
 
-Open Dataset
 
-#### Textual Entailment/Inference
+### Sentence/Paragrah/Document Level Tasks
+
+#### Classification tasks
+
+##### Ducument Classification
+
+* TF-IDF
+
+* FastText
+
+* Latent Dirichlet Allocation (LDA)
+
+* Clustering (PCA)
+
+Toxic Comment Classification
+notebook  Demo
+
+##### Textual Entailment/Natural Language Inference
 
 notebook  Demo
 
-Open Dataset
-
-#### Text Matching/Semantic Similarity
+##### Text Matching/Semantic Similarity
 
 Siamese Bert 
 
 Dual BERT
-
-#### Paraphrase
-
-QQP Classification with Siamese Network
-
-notebook  Demo
-
-#### Sentence Segmentation
 
 #### Sentiment Analysis
 
@@ -231,11 +210,14 @@ notebook  Demo
 
 Open Dataset
 
-#### Question Answering
+
+#### Sentence Segmentation
+
+##### Paraphrase indentification
+
+QQP Classification with Siamese Network
 
 notebook  Demo
-
-Open Dataset
 
 #### Reading Comprehension
 
@@ -243,34 +225,9 @@ notebook  Demo
 
 Open Dataset
 
-#### Machine Translation
+#### Information Retrieval/Semantic Search
 
-* Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
-
-* OpenKiwi [`github`](https://github.com/Unbabel/OpenKiwi)
-
-notebook  Demo
-
-Open Dataset
-
-#### Automatic Summarization
-
-
-##### Extractive Summarization
-
-notebook  Demo
-
-Open Dataset
-
-##### Abstractive Summarization
-
-notebook  Demo
-
-Open Dataset
-
-Please check this post to see how to use summerizer using different models
-
-#### Information Retrieval
+The future of information retrieval will evolve to more like question answering system
 
 Query
 
@@ -278,6 +235,20 @@ retriever
 
 Ranking
 
+Embeding the documents and then use Cosine to calculate the similarity
+
+Facebook RAG
+
+Hystack
+
+Sentence Transformer
+
+
+#### Extractive Summarization
+
+notebook  Demo
+
+Open Dataset
 
 Let's use some dataset here
 
@@ -291,28 +262,48 @@ Utterance Generation (which can be seen as a data augmentation)
 
 News writing, article gneration
 
+##### Machine Translation
 
-### Document Level Tasks
+* Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
 
-### Ducument Classification
+* OpenKiwi [`github`](https://github.com/Unbabel/OpenKiwi)
 
-#### TF-IDF
+##### Abstractive Summarization
 
-FastText
+notebook  Demo
 
-atent Dirichlet Allocation (LDA)
+Please check this post to see how to use summerizer using different models
 
-Cosine similar
+##### Paraphrase Generation
 
-If you are interested in all tasks of NLP, paper with code is definitely the good place.
-[https://paperswithcode.com/area/natural-language-processing](https://paperswithcode.com/area/natural-language-processing)
 
-## How to train your own Data?
+##### Code Generation
+
+* [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+
+
+#### Question Answering
+
+There are actually many types of question ansewring
+
+* simple question answering
+
+One model to trained with all data
+
+* Open Domain 
+
+You may need Knowledge Graph, please check this [guide]() for more information.
+
+* Close Domain 
+
+It is similar to Information Retrieval but use natural language for processing
+
+-- Covid-19 question answering
+
+
+## CHALLENGE!! How to train your own Data?
 
 Let's try crawl some data from the web.
-
-
-
 
 If you only have few data:
 
@@ -320,7 +311,7 @@ If you only have few data:
 
 Neural Network requires many data for training. Therefore, just like image task, data augmentation is very helpful.
 
-#### snorkel
+* snorkel
 
 
 ## Other research topics to improve performance of NLP
@@ -335,29 +326,19 @@ Neural Network requires many data for training. Therefore, just like image task,
 
 #### Imitation Learning for NLP
 
-### Knowledge Graph
-
-* Entity Linking
-
-* Knowledge Graphs in Natural Language Processing @ACL 2019 [`arXiv`](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
-
 ### NLP Benchmark
 
 Glue
 
 SuperGlue
 
-## Deployment of NLP models
+EXTREME
 
-
-## Conversational AI
-
-Since this is an huge topic, please check this [tutorial](applications/chat_bot.md) 
-
+Turing
 
 ## Open Source Tools for NLP
 
-### Multi functional (Preprocessing, Training)
+### Multi functional including Text Preprocessing, Model Training)
 
 [spaCy](https://spacy.io)
 
@@ -420,13 +401,11 @@ You can choose the library based on which framework they are using(tensorflow, p
 
 Check the tutorial see how to use this for the model we just trained
 
-### Other Applications using NLP
-
-* [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
-
-### More Resources
+### For Productions
 
 * [Bert as Service](https://github.com/hanxiao/bert-as-service)
+
+### More Learning Resources
 
 * [awesome-nlp](https://github.com/keon/awesome-nlp#research-summaries-and-trends)
 
