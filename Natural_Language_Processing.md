@@ -43,15 +43,15 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 ## Statistical Language Models
 
-## Glove
+### Glove
 Create word vectors that capture meaning in vector space
 Takes advantage of global count statistics instead of only local information
 
 The source code can be found here.
 
-## N-grams
+### N-grams
 
-## FastText
+### FastText
 
 ## Neural Language Models
 
