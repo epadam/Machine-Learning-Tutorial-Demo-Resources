@@ -300,6 +300,18 @@ It is similar to Information Retrieval but use natural language for processing
 
 -- Covid-19 question answering
 
+### NLP Benchmark
+
+Glue
+
+SuperGlue
+
+EXTREME
+
+Turing
+
+You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchmarks in NLP.
+
 
 ## CHALLENGE!! How to train your own Data?
 
@@ -314,27 +326,8 @@ Neural Network requires many data for training. Therefore, just like image task,
 * snorkel
 
 
-## Other research topics to improve performance of NLP
 
-### GAN for NLP
 
-### Meta Learning for NLP
-
-### Few Shot Learning for NLP
-
-### Reinforcement Learning for NLP 
-
-#### Imitation Learning for NLP
-
-### NLP Benchmark
-
-Glue
-
-SuperGlue
-
-EXTREME
-
-Turing
 
 ## Open Source Tools for NLP
 
@@ -412,6 +405,17 @@ Check the tutorial see how to use this for the model we just trained
 * [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 
+## Other research topics to improve performance of NLP
+
+### GAN for NLP
+
+### Meta Learning for NLP
+
+### Few Shot Learning for NLP
+
+### Reinforcement Learning for NLP 
+
+#### Imitation Learning for NLP
 
 
 
