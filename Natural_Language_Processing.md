@@ -48,7 +48,7 @@ Language models take the text as input and generate a prediction, a word, a sent
   - [Transformer](#Transformer)
     - [Attention](#Attention)
     - [Encoder](#Encoder)
-    - [Decoer](#Decoder)
+    - [Decoder](#Decoder)
   - [Multitask Models](#multitask-models)
 
 ## Tokenization
