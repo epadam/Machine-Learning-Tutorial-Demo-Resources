@@ -19,7 +19,19 @@ This is a tutorial helps you understand the NLP world, from basic knowledge to b
 
 If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer text preprocessing, cleansing and model training. To see the comparison between frameworks and tools, please check [here](). It is better to focus on one resource first and you will realize it would be also very easy to use other tools. 
 
-You can either check the language models section first or NLP tasks section. 
+Please enjoy!!
+<ul>
+    <li><a href="#Language Models">Language Models</a></li>
+    <li><a href="#NLP Tasks ">NLP </a></li>
+    <li><a href="#generation-based-applications">Generation based Applications</a></li>
+    <li><a href="#clustering-based-applications">Clustering based Applications</a></li>
+    <li><a href="#question-answering-based-applications">Question-Answering based Applications</a></li>
+    <li><a href="#ranking-based-applications">Ranking based Applications</a></li>
+    <li><a href="#recommendation-based-applications">Recommendation based Applications</a></li>
+</ul>
+
+
+
 
 # Language Models
 
@@ -53,13 +65,15 @@ RNN pytorch code
 from torch import nn
 ```
 
+### Tokenization
+
 ### ELMo
 
 It uses LSTM 
 
 ### Transformer 
 
-#### Tokenization
+
 
 Model Pretraining (Self supervised)
 
