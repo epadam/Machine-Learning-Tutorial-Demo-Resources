@@ -21,13 +21,11 @@ If you are already a python programmer, I would suggest you also read through th
 
 Please enjoy!!
 <ul>
-    <li><a href="#language-models">Language Models</a></li>
+    <li><a href="#language-models">Language Models
+                       <li>test</li> </a></li>
+    
+      
     <li><a href="#nlp-tasks">NLP Tasks</a></li>
-    <li><a href="#generation-based-applications">Generation based Applications</a></li>
-    <li><a href="#clustering-based-applications">Clustering based Applications</a></li>
-    <li><a href="#question-answering-based-applications">Question-Answering based Applications</a></li>
-    <li><a href="#ranking-based-applications">Ranking based Applications</a></li>
-    <li><a href="#recommendation-based-applications">Recommendation based Applications</a></li>
 </ul>
 
 
