@@ -32,6 +32,15 @@ Please enjoy!!
 
 Language models take the text as input and generate a prediction, a word, a sentence or even an article. 
 
+- [Statistical Language Models](#Statistical-Language-Models)
+  - [Glove](#glove)
+  - [N-grams](#N-grams)
+  - [FastText](#FastText)
+- [Neural Language Models](#Neural-Language-Models)
+  - [Word2Vec](#Word2Vec) 
+  - [RNN/GRN/LSTM](#RNN/GRN/LSTM)
+
+
 ## Statistical Language Models
 
 ## Glove
