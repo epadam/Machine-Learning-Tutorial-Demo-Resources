@@ -24,8 +24,7 @@ Please enjoy!!
     <li><a href="#language-models">Language Models</a></li>
     <li><a href="#nlp-tasks">NLP Tasks</a></li>
     <li><a href="#simple-project">A Simploe Project</a></li>
-    <li><a href="#nlp-benchmarks">NLP Benchmarks</a></li>
-    <li><a href="#Open-Source-Tools-for-NLP">Open Source Tools for NLP</a></li>
+    <li><a href="#Resouces-for-NLP">More Resources for NLP</a></li>
     <li><a href="#Other-research-topics-in-NLP">Other Research Topics in NLP</a></li>
    
 </ul>
@@ -373,6 +372,11 @@ If you only have few data:
 Neural Network requires many data for training. Therefore, just like image task, data augmentation is very helpful.
 
 
+
+
+
+## More Resourcesfor NLP
+
 ### NLP Benchmark
 
 Glue
@@ -384,14 +388,6 @@ EXTREME
 Turing
 
 You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchmarks in NLP.
-
-
-
-
-
-
-
-## Open Source Tools for NLP
 
 ### Data Augmentation
 
