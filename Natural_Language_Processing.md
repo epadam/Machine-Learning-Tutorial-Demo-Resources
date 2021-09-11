@@ -21,10 +21,7 @@ If you are already a python programmer, I would suggest you also read through th
 
 Please enjoy!!
 <ul>
-    <li><a href="#language-models">Language Models
-                       <li>test</li> </a></li>
-    
-      
+    <li><a href="#language-models">Language Models</a></li>
     <li><a href="#nlp-tasks">NLP Tasks</a></li>
 </ul>
 
