@@ -17,6 +17,8 @@ We can first start with handling the data.
 
 Machine Learning is all about data processing.
 
+## [Data Privacy](Data_Privacy.md)
+
 ## [Machine Learning](Machine_Learning.md)
 
 Gives the general idea of machine learning
@@ -37,13 +39,11 @@ Deep learning dominates computer vision and Nature Language Processing, this tut
 
 ## [Knowledge Grpah](Knowledge_Graph.md)
 
+## [Responsible AI](Responsible_AI.md)
+
 ## [Multimodal Learning](Multimodal.md)
 
 ## [AutoML](autoML.md)
-
-## [Data Privacy](Data_Privacy.md)
-
-## [Responsible AI](Responsible_AI.md)
 
 ## [Other Learning Resources](Other_Learning_Resources.md)
 
