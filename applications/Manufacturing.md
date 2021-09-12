@@ -14,7 +14,7 @@
 
 * A Novel Autoencoder with Dynamic Feature Enhanced Factor for Fault Diagnosis of Wind Turbine
 
-#### Class Imbalance
+How to solve Class Imbalance
 
 
 ## Qaulity Control
