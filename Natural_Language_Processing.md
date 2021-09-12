@@ -76,12 +76,12 @@ CBOW & Skip-Gram
 
 ### RNN/GRN/LSTM
 
-RNN pytorch code
+* RNN 
+Check the RNN source cod in a [notebook]()
 
-```
-from torch import nn
-```
+* GRN
 
+* LSTM
 
 ### ELMo
 
