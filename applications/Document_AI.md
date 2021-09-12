@@ -4,6 +4,8 @@
 
 ### Dewarping
 
+## Layout Analysis
+
 ## Table Recognition
 
 ## Text Detection
@@ -12,7 +14,7 @@
 
 ## Information Extraction
 
-## Open Source
+## Open Source Resources
 
 
 ## Commercial Examples
