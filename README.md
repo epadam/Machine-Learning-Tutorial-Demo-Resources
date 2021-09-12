@@ -60,7 +60,7 @@ Deep learning dominates computer vision and Nature Language Processing, this tut
 
 ### [Life Long Learning](Life_Long_Learning.md)
 
-### [3D Machine Learning](3D_Machine_Learning.md)
+### [3D Computer Vision](3D_Computer_Vision.md)
 
 ### [Robotics with Machine Learning](Robotics.md)
 
