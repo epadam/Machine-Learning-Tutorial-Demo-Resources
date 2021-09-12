@@ -1,6 +1,5 @@
 # Health Care
 
-
 ## Medical Image Analysis
 
 ### Medical Image Data Format
