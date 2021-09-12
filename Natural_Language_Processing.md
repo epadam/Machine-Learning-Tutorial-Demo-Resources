@@ -2,32 +2,28 @@
 
 If you are in a hurry:
 
-You can play with these demo apps to see what can NLP do.
+You can play with a Streamlit demo to see what can NLP do.
 
 * [NLP interactive tasks overview]()
 
 Here are the [links]() to all the notebooks in this guide.
 
-If you are interested in all tasks of NLP, [papers with code](https://paperswithcode.com/area/natural-language-processing) is definitely the good place.
-
-
 You can also check [Conversational AI](applications/chat_bot.md) and [Knowledge Graph](Knowledge_Graph.md) in another guide. 
 
-If you have time, check the theories and the tasks in detail below: 
+If you are interested in all tasks of NLP, [PapersWithCode](https://paperswithcode.com/area/natural-language-processing) is definitely the good place.
 
-This is a tutorial helps you understand the NLP world, from basic knowledge to building a real application, also gives resources to become an advanced researcher. Please notice that audio processing is not included in this tutorial.
-
-If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer text preprocessing, cleansing and model training. To see the comparison between frameworks and tools, please check [here](). It is better to focus on one resource first and you will realize it would be also very easy to use other tools. 
+This is a guide that helps you understand the NLP world, from basic knowledge to building a real application.
+If you are already a python programmer, I suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer from text preprocessing, cleansing to model training.
 
 Enjoy!!
 <ul>
     <li><a href="#language-models">Language Models</a></li>
     <li><a href="#nlp-tasks">NLP Tasks</a></li>
     <li><a href="#Resouces-for-NLP">More Resources for NLP</a></li>
+    <li><a href="#Simple-project">How to develop a production level NLP service</a></li>
     <li><a href="#Other-research-topics-in-NLP">Other Research Topics in NLP</a></li>
    
 </ul>
-
 
 
 
@@ -76,14 +72,24 @@ CBOW & Skip-Gram
 
 ![Exploiting Similarities among Languages for Machine Translation](https://miro.medium.com/max/700/1*cuOmGT7NevP9oJFJfVpRKA.png)
 
-### RNN/GRN/LSTM
+### RNN/GRU/LSTM
 
 * RNN 
+![Architeccture of RNN](http://blog.peddy.ai/assets/2019-05-26-Recurrent-Neural-Networks/rnn_rnn_unrolled.png)
+
+![Detail Structure of RNN](https://pica.zhimg.com/80/v2-b45f69904d546edde41d9539e4c5548c_720w.jpg?source=1940ef5c)
+As you can see, if input is a sentence, each word is turned into a vector and fed into a neural netork.
+
 Check the RNN source cod in a [notebook]()
 
-* GRN
+* GRU
+
+![Architeccture of GRU](https://www.researchgate.net/publication/331848495/figure/fig3/AS:738004381466626@1552965364778/Gated-Recurrent-Unit-GRU.ppm)
 
 * LSTM
+![Architeccture of LSTM](https://i.stack.imgur.com/RHNrZ.jpg)
+
+The downside of RNN/GRN/LSTM is the first input element can't see the information after it. Also, they can't be computed in parallel, so it is replaced by transformer in many NLP tasks.
 
 ### ELMo
 
@@ -189,9 +195,9 @@ Let's fine-tune a GPT-2 model. [notebook]()
    - [Grammer correction](#Grammer-correction)
 - [Sentence/Paragraph/Document Level Tasks](#Sentence/Paragrah/Document-Level-Tasks)
   - [Classification Tasks](#Classification-tasks)
+    - [Sentiment Analysis](#Sentiment-Analysis)
     - [Ducument Classification](#Ducument-Classification)
     - [Textual Entailment/Natural Language Inference](#Textual-Entailment/Natural-Language-Inference)
-    - [Sentiment Analysis](#Sentiment-Analysis)
     - [Sentence Segmentation](#Sentence-Segmentation)
     - [Paraphrase indentification](#Paraphrase-indentification)
     - [Reading Comprehension](#reading-comprehension)
@@ -239,6 +245,16 @@ notebook
 
 ## Classification tasks
 
+### Sentiment Analysis
+
+Sentiment analysis is especially useful in customer services, understanding the feedback of the product or services.
+
+Here you can check the movie review using different models.
+
+* [RNN for movie review]()
+
+* [Bert for movie review]()
+
 ### Ducument Classification
 
 * TF-IDF
@@ -257,9 +273,7 @@ notebook
 notebook 
 
 
-### Sentiment Analysis
 
-notebook  
 
 ### Sentence Segmentation
 
@@ -348,6 +362,11 @@ notebook
 ### Code Generation
 
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+
+
+## How to develop a production level NLP services
+
+1. Data Labeling and 
 
 
 ## More Resourcesfor NLP
