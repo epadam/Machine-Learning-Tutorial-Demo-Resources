@@ -54,10 +54,9 @@ Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.or
 
 ## Data Storage and Versioning
 
-### Database
+## Data Lake
 
-* [Milvus](https://github.com/milvus-io/milvus/)
-open-source vector database
+## Data Warehouse
 
 
 
