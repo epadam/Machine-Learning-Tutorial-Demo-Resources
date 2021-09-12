@@ -89,71 +89,77 @@ It uses LSTM
 
 ### Transformer 
 
+Transformer is proposed in 2017 by google in the paper "Attention is all you need". 
+
+Below is the architecture of the transformer:
+![Transformer Model Architecture](https://www.researchgate.net/publication/342045332/figure/fig2/AS:900500283215874@1591707406300/Transformer-Model-Architecture-Transformer-Architecture-26-is-parallelized-for-seq2seq.png)
+
+Check the code of transformer!
+
+How to train a transformer?
 
 
-Model Pretraining (Self supervised)
-
-Let's train
-
-Transformer is not only used in NLP
-but also used in chemistry and biology research
-
-* transformer-XL
-* T5
-* Meena
-* Blender
-* UniLM
-* Turing-LG 17b
-* Deberta 1.5b
-* Bart
-* MegatronLM 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
-* ELECTRA
-* Microsoft MT-DNN
-* [XLNet]()
-* [Megatron-LM from Nvidia]()
-* [DeBERTa](https://github.com/microsoft/DeBERTa)
+There are many improved transformer models
+* [Transformer-XL]():
+* [XLNet]():
+* [T5]():
+* [UniLM]():
+* [Turing-LG](): 17b
+* [Bart]():
+* [MegatronLM]() 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
+* [ELECTRA]():
+* [Microsoft MT-DNN]():
+* [Megatron-LM from Nvidia]():
+* [DeBERTa](https://github.com/microsoft/DeBERTa): 1.5B parameters
+* [Meena](): Open domain chatbot by Google based on Transformer.
+* [Blender](): Open domain chatbot by Facebook based on Transformer.
+* [BlenderBot2](): Open domain chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
 
 #### Encoder
 
+Transformer is a seq2seq model which can do NLU and NLG tasks. Only Encoder itself can mostly do NLU jobs.
+
 * Bert
 
+![Bert Pretraining and Fine-Tuning](https://miro.medium.com/max/1200/1*p4LFBwyHtCw_Qq9paDampA.png)
 
-Build your own Bert from scratch![notebook]()
 
-How is Bert pre-trained?[notebook]()
 
-How to accelerate training of Bert?[medium]()
+
+
+The most famous encoder is Bert proposed by Google. You can check the original paper here. Although it is not the first one introducing pre-train and finetune paradime
+
+Now let's build our own Bert from scratch![notebook]()
+
+How is Bert pre-trained?[notebook](). There are two tasks
+
+How to fine-tune Bert for downstream tasks? [notebook]()
 
 How to make Bert smaller?[notebook]()
 
-D
-mobileBert
-TinyBert
+There are many examples here
+[mobileBert]():
+[TinyBert]():
+[DistillBert]():
 
 
-Here are some pretrained Bert models  with other Data set:
-BioBert
-SciBert
-ClinicalBERT
-
-* M-BERT (multi lingual)
-* RoBERTa
-* Deberta 1.5b (https://github.com/microsoft/DeBERTa/tree/master/DeBERTa)
-* BigBird
-* ERINE
-* Albert
-
+There are also some pretrained Bert models with domain specific text, which can perform better :
+[BioBert]():
+[SciBert]():
+[ClinicalBERT]():
 
 One application of these pretrained models are as follows:
 
 [Covid-19 Semantic Browser](https://github.com/gsarti/covid-papers-browser)
-It can give you semantic search of Covid-19 & SARS-CoV-2 Scientific Papers
+Semantic search of Covid-19 & SARS-CoV-2 Scientific Papers
 
 
-There are many other models based on Bert:
-
-
-
+Also improved version of Bert:
+* [M-BERT (multi lingual)]():
+* [RoBERTa]():
+* [BigBird]():
+* [ERINE]():
+* [Albert]():
 
 Now it's your turn:
 
@@ -161,15 +167,15 @@ Train a Bert model with one of the following dataset.
 
 #### Decoder
 
-GPT/GPT-2/GPT-3
+* GPT/GPT-2/GPT-3
 
-* gpt-3 175b
-* Jurrasic
+Decoder itself is better at generation tasks. The most famous one is GPT-2.
 
-Use case
+Let's fine-tune a GPT-2 model. [notebook]()
+
+
 
 ### Multi-Task models
-
 
 # NLP Tasks
 
@@ -211,27 +217,20 @@ Let's use this (Penn Treebank Dataset)[https://deepai.org/dataset/penn-treebank]
 
 And practice in this notebook  
 
-Build a Streamlit demo!
+### Grammer correction
 
+notebook 
 
 ### Named Entity Recognition 
-
-
-notebook  Demo
+notebook 
 
 ### Dependency Parsing
 
-notebook  Demo
-
+notebook 
 
 ### Relation Extraction
 
-notebook  Demo
-
-
-### Grammer correction
-
-notebook  Demo
+notebook  
 
 
 ## Sentence/Paragraph/Document Level Tasks
@@ -249,18 +248,16 @@ notebook  Demo
 * Clustering (PCA)
 
 Toxic Comment Classification
-notebook  Demo
+notebook  
 
 ### Textual Entailment/Natural Language Inference
 
-notebook  Demo
+notebook 
 
 
 ### Sentiment Analysis
 
-notebook  Demo
-
-Open Dataset
+notebook  
 
 ### Sentence Segmentation
 
@@ -268,25 +265,16 @@ Open Dataset
 
 QQP Classification with Siamese Network
 
-notebook  Demo
+notebook 
 
 ### Reading Comprehension
 
-notebook  Demo
-
-Open Dataset
+notebook  
 
 ### Extractive Summarization
 
-notebook  Demo
+notebook 
 
-Open Dataset
-
-Let's use some dataset here
-
-notebook  Demo
-
-There are some other dataset you can use
 
 ### Text Matching/Semantic Similarity
 
@@ -317,7 +305,7 @@ Sentence Transformer
 
 #### Question Answering
 
-There are actually many types of question ansewring
+There are actually many types of question answering
 
 * simple question answering
 
@@ -349,9 +337,8 @@ News writing, article gneration
 
 ### Abstractive Summarization
 
-notebook  Demo
+notebook  
 
-Please check this post to see how to use summerizer using different models
 
 ### Paraphrase Generation
 
@@ -361,33 +348,19 @@ Please check this post to see how to use summerizer using different models
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
 
-
-## A Simple Project
-Let's try crawl some data from the web.
-
-If you only have few data:
-
-* Data Processing and Augmentation
-
-Neural Network requires many data for training. Therefore, just like image task, data augmentation is very helpful.
-
-
-
-
-
 ## More Resourcesfor NLP
 
 ### NLP Benchmark
 
-Glue
+[Glue]()
 
-SuperGlue
+[SuperGlue]()
 
-EXTREME
+[EXTREME]()
 
-Turing
+[Turing Machine]()
 
-You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchmarks in NLP.
+You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchmarks and dataset in NLP.
 
 ### Data Augmentation
 
@@ -478,12 +451,4 @@ Check the tutorial see how to use this for the model we just trained
 ### Reinforcement Learning for NLP 
 
 #### Imitation Learning for NLP
-
-
-
-
-
-
-
-
 
