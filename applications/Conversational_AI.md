@@ -6,7 +6,7 @@ It can be simple Q&A chatbot, task specific cahtbot to open domain chatbot or al
 
 A standard pipeline of chatbot is showing below. There are also research on end-to-end chatbot, however, it is harder to control currently. 
 
-## Simple Q&A Chatbot
+## Classfication Q&A Chatbot
 
 
 ## Open Domain Chatbot
@@ -17,7 +17,7 @@ A standard pipeline of chatbot is showing below. There are also research on end-
 
 Demo
 
-## Conversational AI Pipeline
+## Task Oriented Chatbot 
 
 ### NLU
 
@@ -27,19 +27,22 @@ It requires NLU, which include intent extraction, Name Entity Recognition, Relat
 
 ### Dialog Policy
 
-### NLG for Chatobt
+### NLG
 
 notebook  
 
 Check also some other examples here
 
 
+## Chatbot with Knowledge Graph
 
-Multitask Chatbot demo
+Knowledge grpah gives the power of chatbot. Please check here 
+
+## Multitask Chatbot
 
 
 
-##### Open Source Tools for building chatbot
+## Open Source Tools for building chatbot
 
 * [Rasa](https://rasa.com/)
 
@@ -47,22 +50,20 @@ Multitask Chatbot demo
 
 * ParlAI [`github`](https://github.com/facebookresearch/ParlAI)
 
-* [Nemo]()
+* [NeMo]()
 
-##### Commercial platform for chatbot
+## Commercial platform for chatbot
 
 * Microsoft Bot Framework
 
 * 小冰
 
-### Related Research of chatbot
+## Related Research of chatbot
 
 * Few-shot learning for chatbot
 * active learning
 
-#### Chatbot with Knowledge Graph
 
-Knowledge grpah gives the power of chatbot. Please check here 
 
 
 
