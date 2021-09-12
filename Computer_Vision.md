@@ -120,19 +120,6 @@ Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXi
 
 openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-## Object Tracking
-
-* PySOT [`github`](https://github.com/STVIR/pysot)
-
-* Awesome Interaction-aware Behavior and Trajectory Prediction [`github`](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
-
-* Awesome-Trajectory-Prediction [`github`](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction)
-
-* Deep-Learning-for-Tracking-and-Detection [`github`](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
-
-### Reinforcement Learning for Object Tracking
-
-
 ## Face Recognition
 
 ### Face Identification:
@@ -143,6 +130,11 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 ### Face Verification
 
+## Scene Understanding
+
+## Anomaly Detection
+
+## Novelty Discovery
 
 ## Emotion Detection
 
@@ -155,18 +147,23 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 Please check [Document_AI.md](applications/Document_AI.md)
 
 
-
-
-
 ## Image Retrieval
 
 
 
-## Image and Video Processing
+##  Video Processing
 
-### Image/Video Compression
+### Object Tracking
 
-generative-compression [`github`](https://github.com/Justin-Tan/generative-compression)
+* PySOT [`github`](https://github.com/STVIR/pysot)
+
+* Awesome Interaction-aware Behavior and Trajectory Prediction [`github`](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
+
+* Awesome-Trajectory-Prediction [`github`](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction)
+
+* Deep-Learning-for-Tracking-and-Detection [`github`](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+
+#### Reinforcement Learning for Object Tracking
 
 ### Image/Video Analysis
 
@@ -174,9 +171,15 @@ generative-compression [`github`](https://github.com/Justin-Tan/generative-compr
 
 ### Video Classification
 
+### Shots Classification
 
-## Adversarial Attack
+* DEEP-NET FUSION TO CLASSIFY SHOTS IN CONCERT VIDEOS [`arXiv`](https://www.iis.sinica.edu.tw/papers/liutyng/20663-F.pdf)
 
+### Image/Video Compression
+
+generative-compression [`github`](https://github.com/Justin-Tan/generative-compression)
+
+## Adversarial Attack of Computer Vision
 
 
 ## Reinforcement Learning for Computer Vision
