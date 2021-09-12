@@ -1,6 +1,6 @@
 # Image and Video Analysis
 
-## Image
+## Image Tasks
 
 ### Classification
 
@@ -26,23 +26,11 @@
 
 ### Face Recognition
 
-### Recognize Text in Image
-
-#### OCR
-
 ### Image Retrieval
 
 ### Image Generation
 
 ### Adversarial Attack and Defense
-
-## Use Case
-
-* Quality Control
-- (Defect Inspection)
-
-* Medical Image Analysis
-
 
 
 
@@ -61,17 +49,7 @@
 
 ### Anomaly Detection
 
-## Use Case
 
-* Health Care
-
-* Monitoring/Security
-
-* Traffic Monitoring
-
-* Robotics
-
-* AR/VR
 
 
 
