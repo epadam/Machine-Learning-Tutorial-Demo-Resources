@@ -17,7 +17,7 @@ We can first start with handling the data.
 
 Machine Learning is all about data processing.
 
-## [Machine Learning Overview](Machine_Learning_Overview.md)
+## [Machine Learning](Machine_Learning.md)
 
 Gives the general idea of machine learning
 
