@@ -1,6 +1,8 @@
 # Data Analysis
 
-In this tutorial we will go give general ideas of analysis for tabular data. For images and texts please refer to [Computer Vision](Computer_Vision.md) and [Natural Language Processing](Natural_Language_Processing.md)
+In this guide we will give general ideas of analysis for tabular data. For data engineering, please check [here](Data_Engineering.md).
+
+For images and texts please refer to [Computer Vision](Computer_Vision.md) and [Natural Language Processing](Natural_Language_Processing.md)
 
 
 
