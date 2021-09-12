@@ -18,14 +18,15 @@
 
 ##### Depth Estimation
 
+### Sensor Fusion
+
+
+## Localization
 
 
 ## Prediction
 
 ### Motion Prediction
-
-
-
 
 ## Motion Planning
 
@@ -35,13 +36,6 @@
 
 ### Behaviour planning with dynamic objects
 
-### Deep Reinforcement Learning
-
-### Imitation Learning
-
-[End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
-
-[Pixel-Perfect Perception: How AI Helps Autonomous Vehicles See Outside the Box](https://blogs.nvidia.com/blog/2019/10/23/drive-labs-panoptic-segmentation/)
 
 
 ## Control
