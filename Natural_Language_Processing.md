@@ -6,12 +6,12 @@ You can play with these demo apps to see what can NLP do.
 
 * [NLP interactive tasks overview]()
 
-Here are the [links]() to all the notebooks to help you , and [here]() are all my medium aritcles. 
+Here are the [links]() to all the notebooks in this guide.
 
 If you are interested in all tasks of NLP, [papers with code](https://paperswithcode.com/area/natural-language-processing) is definitely the good place.
 
 
-You can also check [Conversational AI](applications/chat_bot.md) and [Knowledge Graph]() in another guide. 
+You can also check [Conversational AI](applications/chat_bot.md) and [Knowledge Graph](Knowledge_Graph.md) in another guide. 
 
 If you have time, check the theories and the tasks in detail below: 
 
@@ -19,11 +19,10 @@ This is a tutorial helps you understand the NLP world, from basic knowledge to b
 
 If you are already a python programmer, I would suggest you also read through the guide from [AllenNLP](https://guide.allennlp.org/) and [spaCy](https://course.spacy.io/en). First go through it fast to get the general idea of NLP. Then check [spaCy 101](https://spacy.io/usage/spacy-101) to see what the a NLP library offers to build a NLP application. Most libraries offer text preprocessing, cleansing and model training. To see the comparison between frameworks and tools, please check [here](). It is better to focus on one resource first and you will realize it would be also very easy to use other tools. 
 
-Please enjoy!!
+Enjoy!!
 <ul>
     <li><a href="#language-models">Language Models</a></li>
     <li><a href="#nlp-tasks">NLP Tasks</a></li>
-    <li><a href="#simple-project">A Simploe Project</a></li>
     <li><a href="#Resouces-for-NLP">More Resources for NLP</a></li>
     <li><a href="#Other-research-topics-in-NLP">Other Research Topics in NLP</a></li>
    
