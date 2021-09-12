@@ -85,7 +85,7 @@ from torch import nn
 
 ### ELMo
 
-It uses LSTM 
+It uses bidirectional LSTM in the seq2seq model
 
 ### Transformer 
 
@@ -115,7 +115,7 @@ There are many improved transformer models
 * [Blender](): Open domain chatbot by Facebook based on Transformer.
 * [BlenderBot2](): Open domain chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
 
-#### Encoder
+### Encoder
 
 Transformer is a seq2seq model which can do NLU and NLG tasks. Only Encoder itself can mostly do NLU jobs.
 
@@ -129,15 +129,15 @@ Transformer is a seq2seq model which can do NLU and NLG tasks. Only Encoder itse
 
 The most famous encoder is Bert proposed by Google. You can check the original paper here. Although it is not the first one introducing pre-train and finetune paradime
 
-Now let's build our own Bert from scratch![notebook]()
+Now let's build our own Bert from scratch! [notebook]()
 
-How is Bert pre-trained?[notebook](). There are two tasks
+How is Bert pre-trained? [notebook](). There are two tasks
 
 How to fine-tune Bert for downstream tasks? [notebook]()
 
 How to make Bert smaller?[notebook]()
 
-There are many examples here
+There are many examples here:
 [mobileBert]():
 [TinyBert]():
 [DistillBert]():
@@ -165,7 +165,7 @@ Now it's your turn:
 
 Train a Bert model with one of the following dataset.
 
-#### Decoder
+### Decoder
 
 * GPT/GPT-2/GPT-3
 
