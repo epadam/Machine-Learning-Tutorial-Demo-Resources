@@ -138,18 +138,18 @@ How is Bert pre-trained? [notebook](). There are two tasks
 
 How to fine-tune Bert for downstream tasks? [notebook]()
 
-How to make Bert smaller?[notebook]()
+How to make Bert smaller? [notebook]()
 
 There are many examples here:
-[mobileBert]():
-[TinyBert]():
-[DistillBert]():
+* [mobileBert]():
+* [TinyBert]():
+* [DistillBert]():
 
 
 There are also some pretrained Bert models with domain specific text, which can perform better :
-[BioBert]():
-[SciBert]():
-[ClinicalBERT]():
+* [BioBert]():
+* [SciBert]():
+* [ClinicalBERT]():
 
 One application of these pretrained models are as follows:
 
