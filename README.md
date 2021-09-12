@@ -11,13 +11,15 @@ A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or
 
 You can follow the order to learn machine learning or select the topic you are interested below:
 
-## [Machine Learning Overview](Machine_Learning_Overview.md)
-
-Gives the general idea of machine learning
+We can first start with handling the data.
 
 ## [Data Engineering](Data_Engineering.md)
 
 Machine Learning is all about data processing.
+
+## [Machine Learning Overview](Machine_Learning_Overview.md)
+
+Gives the general idea of machine learning
 
 ## [Deep Learning](Deep_Learning.md)
 
@@ -43,26 +45,7 @@ Deep learning dominates computer vision and Nature Language Processing, this tut
 
 ## [Responsible AI](Responsible_AI.md)
 
-## [Reinforcement Learning](Reinforcement_Learning.md)
-
 ## [Other Learning Resources](Other_Learning_Resources.md)
 
 ## [Quick List of Libraries and Frameworks](Libraries_and_Frameworks.md)
-
-
-
-
-## The rest topics may be updated in the future
-
-### [Graph Network](Graph_Network.md)
-
-### [Meta Learning](Meta_Learning.md)
-
-### [Life Long Learning](Life_Long_Learning.md)
-
-### [3D Computer Vision](3D_Computer_Vision.md)
-
-### [Robotics with Machine Learning](Robotics.md)
-
-
 
