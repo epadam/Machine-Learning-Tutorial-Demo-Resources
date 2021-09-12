@@ -358,7 +358,7 @@ notebook
 
 [SuperGlue]()
 
-[EXTREME]()
+[XTREME]()
 
 [Turing Machine]()
 
