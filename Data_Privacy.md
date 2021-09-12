@@ -1,14 +1,12 @@
-# Privacy
+# Data Privacy
 
-## Data Privacy
-
-### Differential Privacy
+## Differential Privacy
 
 * Differential Privacy [`Github`](https://github.com/google/differential-privacy)
 
 * [Tensorflow Differential Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
 
-### Federated Learning
+## Federated Learning
 
 * [FedAI](https://www.fedai.org/)
 
