@@ -2,13 +2,15 @@
 
 ## Banking
 
-* Process Automation
+* Process Automation (RPA)
 
-* Security (Fraud Detection)
+* Security 
+   * Fraud Detection
 
 * Insurance Underwriting
 
-* Customer Service (Chatbot)
+* Customer Service 
+   * Chatbot
 
 * Document Analysis
 
