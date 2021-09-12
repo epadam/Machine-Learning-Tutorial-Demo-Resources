@@ -10,7 +10,7 @@
 
 #### Imitation Learning(supervised learning)
 
-### SLAM available
+
 
 
 
