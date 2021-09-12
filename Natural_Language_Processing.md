@@ -53,6 +53,9 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 ## Tokenization
 
+You can check some tools here:
+
+[SentencePiece](https://github.com/google/sentencepiece)
 
 ## Statistical Language Models
 
@@ -213,7 +216,7 @@ The goal of all NLP tasks is to understand the text(each word, relation between 
 
 POS can be used for grammer checking. There are statitical and deep learning solutions
 
-Let's use this (Penn Treebank Dataset)[https://deepai.org/dataset/penn-treebank]
+Let's use this [Penn Treebank Dataset](https://deepai.org/dataset/penn-treebank)
 
 And practice in this notebook  
 
