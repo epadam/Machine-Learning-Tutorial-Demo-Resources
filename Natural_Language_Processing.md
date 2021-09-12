@@ -8,8 +8,8 @@ You can play with these demo apps to see what can NLP do.
 
 Here are the [links]() to all the notebooks to help you , and [here]() are all my medium aritcles. 
 
-If you are interested in all tasks of NLP, paper with code is definitely the good place.
-[https://paperswithcode.com/area/natural-language-processing](https://paperswithcode.com/area/natural-language-processing)
+If you are interested in all tasks of NLP, [papers with code](https://paperswithcode.com/area/natural-language-processing) is definitely the good place.
+
 
 You can also check [Conversational AI](applications/chat_bot.md) and [Knowledge Graph]() in another guide. 
 
