@@ -1,10 +1,9 @@
 # Computer Vision
 
-## Applications
 
-### Image Classification
+## Image Classification
 
-#### Models
+### Models
 
 Check the Streamlit [demo]()
 
@@ -22,20 +21,22 @@ Model Compression:
 
 * EfficientNet
 
-#### Autoencoder for Image Classification
+### Fine-Grained Image Classification
 
-#### GAN for Image Classification
+### Autoencoder for Image Classification
+
+### GAN for Image Classification
 
 * Active Generative Adversarial Network for Image Classification [`arXiv`](https://arxiv.org/abs/1906.07133)
 
-#### NAS for Image Classification
+### NAS for Image Classification
 
-#### Few Shot Image Classification
+### Few Shot Image Classification
 
 * Meta Learning
 
 
-### Object Detection
+## Object Detection
 
 Check the demo
 
@@ -49,14 +50,14 @@ Feature Pyramid Network (FPN)
 
 
 
-#### NAS for Object Detection
+### NAS for Object Detection
 
 * NAS-FCOS: Fast Neural Architecture Search for Object Detection [`arXiv`](https://arxiv.org/abs/1906.04423)
 
-#### Few Shot Object Detection
+### Few Shot Object Detection
 
 
-### Semantic Segmentation
+## Semantic Segmentation
 
 Full Convolutional Networks(FCN)
 
@@ -68,11 +69,11 @@ body-pix [`github`](https://github.com/tensorflow/tfjs-models/tree/master/body-p
 
 robosat [`github`](https://github.com/mapbox/robosat)
 
-#### NAS for Semantic Image Segmentation
+### NAS for Semantic Image Segmentation
 
 * Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation [`arXiv`](https://arxiv.org/abs/1901.02985)
 
-### Instance Segmentation
+## Instance Segmentation
 
 MMDetection [`github`](https://github.com/open-mmlab/mmdetection)
 
@@ -82,11 +83,11 @@ Mask R-CNN [`github`](https://github.com/matterport/Mask_RCNN)
 
 yolact [`github`](https://github.com/dbolya/yolact)
 
-#### Unknown Classes Detection
+### Unknown Classes Detection
 
 * Detecting the Unexpected via Image Resynthesis [`arXiv`](https://arxiv.org/abs/1904.07595)
 
-### Panoptic Segmentation
+## Panoptic Segmentation
 
 Detectron2 [`github`](https://github.com/facebookresearch/detectron2)
 
@@ -102,12 +103,12 @@ Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`a
 
 Single-Shot Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.00764)
 
-#### Unknown Classes Detection
+### Unknown Classes Detection
 
 UPSNet: A Unified Panoptic Segmentation Network [`github`](https://arxiv.org/abs/1901.03784)
 
 
-### Depth Estimation
+## Depth Estimation
 
 Densepose [`github`](https://github.com/facebookresearch/DensePose)
 
@@ -115,11 +116,11 @@ Densepose [`github`](https://github.com/facebookresearch/DensePose)
 
 Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXiv`](https://arxiv.org/abs/1411.6387)
 
-### Pose Estimation
+## Pose Estimation
 
 openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-### Object Tracking
+## Object Tracking
 
 * PySOT [`github`](https://github.com/STVIR/pysot)
 
@@ -129,42 +130,36 @@ openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 * Deep-Learning-for-Tracking-and-Detection [`github`](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
 
-#### Reinforcement Learning for Object Tracking
+### Reinforcement Learning for Object Tracking
 
 
-### Face Recognition
+## Face Recognition
 
-#### Face Identification:
+### Face Identification:
 
 * [OpenFace](https://cmusatyalab.github.io/openface/)
 
 * Face Recognition [`github`](https://github.com/ageitgey/face_recognition)
 
-#### Face Verification
+### Face Verification
 
 
-### Emotion Detection
+## Emotion Detection
 
-### Action Recognition
+## Action Recognition
 
-#### Sports tracking and move prediction
+### Sports tracking and move prediction
 
-### Recognize Text in Image
+## OCR
 
-#### OCR
-
-* Tesseract OCR [`github`](https://github.com/tesseract-ocr/tesseract)
-
-### Fine-Grained Image Analysis
-
-
-
-### Image Retrieval
+Please check [Document_AI.md](applications/Document_AI.md)
 
 
 
 
-## RL for CV
+
+## Image Retrieval
+
 
 
 ## Image and Video Processing
@@ -179,24 +174,12 @@ generative-compression [`github`](https://github.com/Justin-Tan/generative-compr
 
 ### Video Classification
 
-### 3D Rendering
 
-TensorFlow Graphics [`github`](https://github.com/tensorflow/graphics)
+## Adversarial Attack
 
 
-## Security
 
-### Anomaly Detection
-
-* Autoencoder for Anomaly Detection
-
-* GAN for Anomaly Detection
-
-### Adversarial Attack
-
-### IP protection
-
-How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
+## Reinforcement Learning for Computer Vision
 
 
 ## Useful Tools 
