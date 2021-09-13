@@ -184,8 +184,6 @@ Decoder itself is better at generation tasks. The most famous one is GPT-2.
 
 Let's fine-tune a GPT-2 model. [notebook]()
 
-
-
 ### Multi-Task models
 
 # NLP Tasks
@@ -313,6 +311,7 @@ Squad 2.0
 
 * [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
+* [GPT-2 for SQuAD]()
 
 ### Extractive Summarization
 
