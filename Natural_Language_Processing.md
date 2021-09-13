@@ -55,6 +55,8 @@ WordPiece
 
 [SentencePiece](https://github.com/google/sentencepiece)
 
+BPE
+
 ## Statistical Language Models
 
 ### Bag of Words
