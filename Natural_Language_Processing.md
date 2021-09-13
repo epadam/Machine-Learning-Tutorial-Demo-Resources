@@ -452,11 +452,15 @@ You can choose the library based on which framework they are using(tensorflow, p
 
 ### pre-trained models
 
-[Huggingface](https://github.com/huggingface)
+* [Huggingface](https://github.com/huggingface)
+
+### DataSet 
+
+* [https://huggingface.co/datasets/viewer/](https://huggingface.co/datasets/viewer/)
 
 ### Data and Model Inspection
 
-[LIT](https://github.com/PAIR-code/lit) 
+* [LIT](https://github.com/PAIR-code/lit) 
 
 Check the tutorial see how to use this for the model we just trained
 
