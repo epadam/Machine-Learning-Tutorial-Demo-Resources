@@ -442,11 +442,11 @@ You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchm
 
 ### Text Processing
 
-* [Pytext]()
-
-* [Torchtext]()
+* [Torchtext](): Include data processing utilities and popular datasets 
 
 ### Multi functional including Text Preprocessing, Model Training)
+
+* [Pytext](): Deep-learning based NLP modeling framework, including training and export models to Caffe2 format
 
 * [spaCy](https://spacy.io)
 
