@@ -420,7 +420,7 @@ more research can be found here
 
 1. Data Labeling and Preprocessing
 2. Model Training, evaluation, Inspection
-3. Model Deployment and Monitoring
+3. Model Deployment and Monitoring (convert the model to torchscript, and use torchserve for the serving)
 
 ## More Resourcesfor NLP
 
