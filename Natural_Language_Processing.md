@@ -249,11 +249,21 @@ notebook
 
 Sentiment analysis is especially useful in customer services, understanding the feedback of the product or services.
 
-Here you can check the movie review using different models.
+Here we use 5-class Stanford Sentiment Treebank (SST-5) dataset to test the performance of different models.
 
-* [RNN for movie review]()
+* [RNN for SST-5]()
 
-* [Bert for movie review]()
+* [Bert for SST-5]()
+
+Also check other people's work for sentiment analysis
+
+* [https://github.com/prrao87/fine-grained-sentiment](https://github.com/prrao87/fine-grained-sentiment)
+
+* [https://github.com/gopalanvinay/thesis-vinay-gopalan](https://github.com/gopalanvinay/thesis-vinay-gopalan)
+
+Or try other dataset yourself:
+
+* Movie review
 
 ### Ducument Classification
 
