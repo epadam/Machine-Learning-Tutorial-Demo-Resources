@@ -251,7 +251,7 @@ Sentiment analysis is especially useful in customer services, understanding the 
 
 Here we use 5-class Stanford Sentiment Treebank (SST-5) dataset to test the performance of different models.
 
-* [RNN for SST-5]()
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 * [Bert for SST-5]()
 
@@ -263,7 +263,7 @@ Also check other people's work for sentiment analysis
 
 Or try other dataset yourself:
 
-* Movie review
+* IMDB Movie review
 
 ### Ducument Classification
 
