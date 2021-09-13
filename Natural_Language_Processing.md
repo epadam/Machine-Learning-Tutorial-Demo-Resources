@@ -60,9 +60,11 @@ Takes advantage of global count statistics instead of only local information
 
 The source code can be found here.
 
-### N-grams
+### N-gram
 
 ### FastText
+
+N-gram + Softmax
 
 ## Neural Language Models
 
@@ -267,6 +269,10 @@ Also check other people's work for sentiment analysis
 * [https://github.com/prrao87/fine-grained-sentiment](https://github.com/prrao87/fine-grained-sentiment)
 
 * [https://github.com/gopalanvinay/thesis-vinay-gopalan](https://github.com/gopalanvinay/thesis-vinay-gopalan)
+
+SOTA:
+
+* [RoBERTa-large+Self-Explaining](https://paperswithcode.com/sota/sentiment-analysis-on-sst-5-fine-grained)
 
 Or try other dataset yourself:
 
