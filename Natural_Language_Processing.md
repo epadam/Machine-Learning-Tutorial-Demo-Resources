@@ -151,6 +151,7 @@ There are many examples here:
 * [mobileBert]():
 * [TinyBert]():
 * [DistillBert]():
+* [Albert]():
 
 
 There are also some pretrained Bert models with domain specific text, which can perform better :
@@ -169,7 +170,7 @@ Also improved version of Bert:
 * [RoBERTa]():
 * [BigBird]():
 * [ERINE]():
-* [Albert]():
+
 
 Now it's your turn:
 
