@@ -4,13 +4,29 @@
 
 ### Back Propagation
 
+How does back propagation work?
+
 ### Loss Function
+
+* Binary Cross Entropy 
+
+[notebook]()
+
+* MSE 
+
+[notebook]()
 
 ### Optimization
 
+* Adam
+
 ### What is Regularization?
 
+[notebook]()
+
 ### What is Batch Normalization?
+
+[notebook]()
 
 ## Variation of Neural Networks
 
