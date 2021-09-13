@@ -33,6 +33,7 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 - [Tokenization](#Tokenization)
 - [Statistical Language Models](#Statistical-Language-Models)
+  - [Bag of Words](#bag-of-words)
   - [Glove](#glove)
   - [N-grams](#N-grams)
   - [FastText](#FastText)
@@ -53,6 +54,8 @@ You can check some tools here:
 [SentencePiece](https://github.com/google/sentencepiece)
 
 ## Statistical Language Models
+
+### Bag of Words
 
 ### Glove
 Create word vectors that capture meaning in vector space
