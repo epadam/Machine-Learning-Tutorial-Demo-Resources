@@ -223,22 +223,29 @@ POS can be used for grammer checking. There are statitical and deep learning sol
 
 Let's use this [Penn Treebank Dataset](https://deepai.org/dataset/penn-treebank)
 
-And practice in this notebook  
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
 
 ### Grammer correction
 
-notebook 
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
 
 ### Named Entity Recognition 
-notebook 
+
+
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
 
 ### Dependency Parsing
 
-notebook 
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
 
 ### Relation Extraction
 
-notebook  
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
 
 
 ## Sentence/Paragraph/Document Level Tasks
@@ -267,23 +274,23 @@ Or try other dataset yourself:
 
 ### Ducument Classification
 
+* Clustering (PCA)
+
 * TF-IDF
 
 * FastText
 
 * Latent Dirichlet Allocation (LDA)
 
-* Clustering (PCA)
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
-Toxic Comment Classification
-notebook  
+### Toxic Comment Classification
+
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 ### Textual Entailment/Natural Language Inference
 
-notebook 
-
-
-
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 ### Sentence Segmentation
 
@@ -291,15 +298,19 @@ notebook
 
 QQP Classification with Siamese Network
 
-notebook 
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 ### Reading Comprehension
 
-notebook  
+Squad 2.0
+
+* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
 
 ### Extractive Summarization
 
-notebook 
+
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ### Text Matching/Semantic Similarity
@@ -307,6 +318,8 @@ notebook
 Siamese Bert 
 
 Dual BERT
+
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 #### Information Retrieval/Semantic Search
@@ -327,6 +340,7 @@ Hystack
 
 Sentence Transformer
 
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 #### Question Answering
@@ -335,11 +349,17 @@ There are actually many types of question answering
 
 * simple question answering
 
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
+
 One model to trained with all data
 
 * Open Domain 
 
 You may need Knowledge Graph, please check this [guide]() for more information.
+
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
 
 * Close Domain 
 
@@ -347,6 +367,7 @@ It is similar to Information Retrieval but use natural language for processing
 
 -- Covid-19 question answering
 
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ## Natural Language Generation
@@ -355,18 +376,27 @@ Utterance Generation (which can be seen as a data augmentation)
 
 News writing, article gneration
 
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
+
 ### Machine Translation
 
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+
+
+more research can be found here
 * Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
 
 * OpenKiwi [`github`](https://github.com/Unbabel/OpenKiwi)
 
 ### Abstractive Summarization
 
-notebook  
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ### Paraphrase Generation
+
+* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ### Code Generation
@@ -374,44 +404,54 @@ notebook
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
 
+
 ## How to develop a production level NLP services
 
-1. Data Labeling and 
-
+1. Data Labeling and Preprocessing
+2. Model Training, evaluation, Inspection
+3. Model Deployment and Monitoring
 
 ## More Resourcesfor NLP
 
 ### NLP Benchmark
 
-[Glue]()
+* [Glue]()
 
-[SuperGlue]()
+* [SuperGlue]()
 
-[XTREME]()
+* [XTREME]()
 
-[Turing Machine]()
+* [Turing Machine]()
 
 You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchmarks and dataset in NLP.
 
 ### Data Augmentation
 
-[snorkel]()
+* [Snorkel]()
+
+### Text Processing
+
+* [Pytext]()
+
+* [Torchtext]()
 
 ### Multi functional including Text Preprocessing, Model Training)
 
-[spaCy](https://spacy.io)
+* [spaCy](https://spacy.io)
 
-[AllenNLP]()
+* [AllenNLP]()
 
-[GlounNLP]()
+* [GlounNLP]()
 
-[FARM]()
+* [Flair]()
 
-[Fast.ai]()
+* [FARM]()
+
+* [Fast.ai]()
 
 [nlp-architect](https://github.com/NervanaSystems/nlp-architect)
 
-[Check the comparison between libraries](https://luckytoilet.wordpress.com/2018/12/29/deep-learning-for-nlp-spacy-vs-pytorch-vs-allennlp/)
+[You can check the comparison between libraries](https://luckytoilet.wordpress.com/2018/12/29/deep-learning-for-nlp-spacy-vs-pytorch-vs-allennlp/)
 
 You can choose the library based on which framework they are using(tensorflow, pytorch or both), running speed, support of distributed training or special processing functions.
 
@@ -454,17 +494,19 @@ You can choose the library based on which framework they are using(tensorflow, p
 
 * [Huggingface](https://github.com/huggingface)
 
-### DataSet 
+### DataSet Viewer
 
 * [https://huggingface.co/datasets/viewer/](https://huggingface.co/datasets/viewer/)
 
-### Data and Model Inspection
+### Data and Model Inspection/Visualization
 
 * [LIT](https://github.com/PAIR-code/lit) 
 
-Check the tutorial see how to use this for the model we just trained
+* [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
 
-### For Productions
+* [BertViz](https://github.com/jessevig/bertviz)
+
+### For Production
 
 * [Bert as Service](https://github.com/hanxiao/bert-as-service)
 
