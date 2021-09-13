@@ -21,7 +21,7 @@ Enjoy!!
     <li><a href="#nlp-tasks">NLP Tasks</a></li>
     <li><a href="#Resouces-for-NLP">More Resources for NLP</a></li>
     <li><a href="#Simple-project">How to develop a production level NLP service</a></li>
-    <li><a href="#Other-research-topics-in-NLP">Other Research Topics in NLP</a></li>
+    <li><a href="#Advanced-research-topics-in-NLP">Advanced Research Topics in NLP</a></li>
    
 </ul>
 
@@ -418,9 +418,15 @@ more research can be found here
 
 ## How to develop a production level NLP services
 
-1. Data Labeling and Preprocessing
-2. Model Training, evaluation, Inspection
+1. Data Labeling and Preprocessing ()
+2. Model Training, evaluation, Inspection (Kubeflow, mlflow)
 3. Model Deployment and Monitoring (convert the model to torchscript, and use torchserve for the serving)
+
+keras version
+
+tensorflow version
+
+pytorch version
 
 ## More Resourcesfor NLP
 
@@ -535,9 +541,7 @@ You can choose the library based on which framework they are using(tensorflow, p
 * [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 
-## Other Research Topics in NLP
-
-* [Tensorflow Model Garden]()
+## Advanced Research Topics in NLP
 
 ### GAN for NLP
 
