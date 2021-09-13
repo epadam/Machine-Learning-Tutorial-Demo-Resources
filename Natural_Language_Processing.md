@@ -39,7 +39,7 @@ Language models take the text as input and generate a prediction, a word, a sent
   - [FastText](#FastText)
 - [Neural Language Models](#Neural-Language-Models)
   - [Word2Vec](#Word2Vec) 
-  - [RNN/GRN/LSTM](#RNN/GRU/LSTM)
+  - [RNN/GRU/LSTM](#RNN/GRU/LSTM)
   - [ELMo](#Elmo)
   - [Transformer](#Transformer)
     - [Attention](#Attention)
