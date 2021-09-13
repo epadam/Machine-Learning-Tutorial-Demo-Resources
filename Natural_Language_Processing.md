@@ -51,6 +51,8 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 You can check some tools here:
 
+WordPiece
+
 [SentencePiece](https://github.com/google/sentencepiece)
 
 ## Statistical Language Models
