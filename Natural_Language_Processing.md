@@ -84,6 +84,8 @@ As you can see, if input is a sentence, each word is turned into a vector and fe
 
 Check the RNN source cod in a [notebook]()
 
+Calculate number of parameters of RNN:
+
 * GRU
 
 ![Architeccture of GRU](https://www.researchgate.net/publication/331848495/figure/fig3/AS:738004381466626@1552965364778/Gated-Recurrent-Unit-GRU.ppm)
