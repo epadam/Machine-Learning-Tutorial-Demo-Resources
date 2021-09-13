@@ -449,7 +449,13 @@ You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchm
 
 * [Fast.ai]()
 
-[nlp-architect](https://github.com/NervanaSystems/nlp-architect)
+* [nlp-architect](https://github.com/NervanaSystems/nlp-architect)
+
+* [NeMO](): NeMo is designed for conversational AI, but also offers tools for NLP training and exporting
+
+* [Deepavlov](): It offers many pretrained NLP models and you can also fine-tune your own model
+
+
 
 [You can check the comparison between libraries](https://luckytoilet.wordpress.com/2018/12/29/deep-learning-for-nlp-spacy-vs-pytorch-vs-allennlp/)
 
@@ -493,6 +499,7 @@ You can choose the library based on which framework they are using(tensorflow, p
 ### pre-trained models
 
 * [Huggingface](https://github.com/huggingface)
+* [Tensorflow Hub]()
 
 ### DataSet Viewer
 
@@ -518,6 +525,8 @@ You can choose the library based on which framework they are using(tensorflow, p
 
 
 ## Other Research Topics in NLP
+
+* [Tensorflow Model Garden]()
 
 ### GAN for NLP
 
