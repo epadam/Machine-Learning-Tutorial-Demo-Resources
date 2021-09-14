@@ -191,6 +191,12 @@ Train a Bert model with one of the following dataset.
 
 Decoder itself is better at generation tasks. The most famous one is GPT-2.
 
+Control text generation:
+
+* Beam Search
+
+* random
+
 Let's fine-tune a GPT-2 model. [notebook]()
 
 ### Multi-Task models
