@@ -320,7 +320,7 @@ Squad 2.0
 
 * [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
-* [GPT-2 for SQuAD]()
+* [GPT-2 for SQuAD2.0](https://medium.com/analytics-vidhya/an-ai-that-does-your-homework-e5fa40c43d17)
 
 ### Extractive Summarization
 
