@@ -37,6 +37,8 @@
     * [Grad-CAM]()
   
   * Relevance score based
+    
+    * [Layerwise Relevance Propagation]()
 
     * [DeepLift]()
 
