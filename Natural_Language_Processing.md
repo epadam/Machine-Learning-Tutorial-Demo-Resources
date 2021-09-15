@@ -432,6 +432,7 @@ more research can be found here
 
 ## How to develop a production level NLP services
 
+Let's build a technical document service
 1. Data Labeling and Preprocessing (let's use label studio and snorkel)
 2. Model Training and tracking (Kubeflow, mlflow)
 3. Model evaluation, Inspection (LIT, tensorboard)
