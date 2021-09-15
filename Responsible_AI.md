@@ -10,7 +10,7 @@
 
 * [LIME](https://github.com/marcotcr/lime)
 
-* [Manifold]()
+* [Manifold](https://github.com/uber/manifold#manifold)
 
 * [What If Tool](https://pair-code.github.io/what-if-tool/)
 
