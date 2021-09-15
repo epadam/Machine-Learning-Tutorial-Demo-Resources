@@ -168,10 +168,7 @@ There are also some pretrained Bert models with domain specific text, which can 
 * [SciBert]():
 * [ClinicalBERT]():
 
-One application of these pretrained models are as follows:
 
-[Covid-19 Semantic Browser](https://github.com/gsarti/covid-papers-browser)
-Semantic search of Covid-19 & SARS-CoV-2 Scientific Papers
 
 
 Also improved version of Bert:
@@ -239,28 +236,30 @@ POS can be used for grammer checking. There are statitical and deep learning sol
 
 Let's use this [Penn Treebank Dataset](https://deepai.org/dataset/penn-treebank)
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [Spacy and_RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ### Grammer correction
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [LSTM for Cola](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ### Named Entity Recognition 
 
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for_](notebooks/nlp/SST-5_RNN.ipynb)
+
+* [Bert for_](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ### Dependency Parsing
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ### Relation Extraction
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 
@@ -288,9 +287,9 @@ SOTA:
 
 * [RoBERTa-large+Self-Explaining](https://paperswithcode.com/sota/sentiment-analysis-on-sst-5-fine-grained)
 
-Or try other dataset yourself:
+For more sentiment dataset please check:
 
-* IMDB Movie review
+* IMDB Movie Review
 
 ### Ducument Classification
 
@@ -302,15 +301,15 @@ Or try other dataset yourself:
 
 * Latent Dirichlet Allocation (LDA)
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
 
 ### Toxic Comment Classification
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for](notebooks/nlp/SST-5_RNN.ipynb)
 
 ### Textual Entailment/Natural Language Inference
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
 
 ### Sentence Segmentation
 
@@ -318,20 +317,20 @@ Or try other dataset yourself:
 
 QQP Classification with Siamese Network
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
 
 ### Reading Comprehension
 
 Squad 2.0
 
-* [RNN for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for SQuAD](notebooks/nlp/SST-5_RNN.ipynb)
 
 * [GPT-2 for SQuAD2.0](https://medium.com/analytics-vidhya/an-ai-that-does-your-homework-e5fa40c43d17)
 
 ### Extractive Summarization
 
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [Bert for ](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 ### Text Matching/Semantic Similarity
@@ -340,7 +339,7 @@ Siamese Bert
 
 Dual BERT
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [Bert for ](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 #### Information Retrieval/Semantic Search
@@ -361,7 +360,13 @@ Hystack
 
 Sentence Transformer
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [Bert for ](notebooks/nlp/SST-5_RNN.ipynb)
+
+
+One application of these pretrained models are as follows:
+
+[Covid-19 Semantic Browser](https://github.com/gsarti/covid-papers-browser)
+Semantic search of Covid-19 & SARS-CoV-2 Scientific Papers
 
 
 #### Question Answering
@@ -423,7 +428,6 @@ more research can be found here
 ### Code Generation
 
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
-
 
 
 ## How to develop a production level NLP services
