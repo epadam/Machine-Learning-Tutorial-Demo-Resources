@@ -4,7 +4,7 @@
 
 ### For Tabular Data
 
-* [Shapley]()
+* [SHAP]()
 
 * XAI - An eXplainability toolbox for machine learning [`Github`](https://github.com/EthicalML/xai)
 
@@ -32,7 +32,9 @@
   
   * Gradient Based
 
-    * [Saliency maps](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
+    * Saliency maps
+      * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
+      * [Keras-vis](https://raghakot.github.io/keras-vis/)
   
     * [Grad-CAM]()
   
@@ -58,7 +60,8 @@ Explaining Explanations: An Overview of Interpretability of Machine Learning [`a
 
 TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
 
-### Other Resource
+### Other Resources
+
 
 * [xAI]()
 
