@@ -432,9 +432,10 @@ more research can be found here
 
 ## How to develop a production level NLP services
 
-1. Data Labeling and Preprocessing ()
-2. Model Training, evaluation, Inspection (Kubeflow, mlflow)
-3. Model Deployment and Monitoring (convert the model to torchscript, and use torchserve for the serving)
+1. Data Labeling and Preprocessing (let's use label studio and snorkel)
+2. Model Training and tracking (Kubeflow, mlflow)
+3. Model evaluation, Inspection (LIT, tensorboard)
+4. Model Deployment and Monitoring (convert the model to torchscript, and use torchserve for the serving)
 
 keras version
 
