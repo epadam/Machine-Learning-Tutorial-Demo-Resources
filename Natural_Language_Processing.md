@@ -4,7 +4,7 @@ If you are in a hurry:
 
 You can play with a Streamlit demo to see what can NLP do.
 
-* [NLP interactive tasks overview]()
+* [NLP interactive tasks overview]() deployed on Heroku, you can find the source [here]().
 
 Here are the [links]() to all the notebooks in this guide.
 
