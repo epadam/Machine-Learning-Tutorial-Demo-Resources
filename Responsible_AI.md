@@ -1,49 +1,43 @@
 # Responsible AI
 
-## Explainability
+## Model Inspection and Explainability
 
 ### For Tabular Data
 
-* Shapley
+* [Shapley]()
 
 * XAI - An eXplainability toolbox for machine learning [`Github`](https://github.com/EthicalML/xai)
 
 * [LIME](https://github.com/marcotcr/lime)
 
-
 * [Manifold]()
 
 * [What If Tool](https://pair-code.github.io/what-if-tool/)
 
-InterpretML [`Github`](https://github.com/interpretml/interpret)
+* InterpretML [`Github`](https://github.com/interpretml/interpret)
 
-Google TCAV [`Github`](https://github.com/tensorflow/tcav)
-
+* Google TCAV [`Github`](https://github.com/tensorflow/tcav)
 
 
 ### Computer Vision
 
-* [Saliency maps](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
+* Perturbation based 
+
+  * [LIME](https://github.com/marcotcr/lime)
 
 
-* [LIME](https://github.com/marcotcr/lime)
+* Backpropagation based
 
-Grad-CAM
-
-Image Generator
-
-Image heat map:
-
-Kernel Map Visualization
-
-Intermiediate Layer Output Visualization 
-
-[DeepLift]()
+  * [Saliency maps](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
+  
+  * [Grad-CAM]()
+  
+  * [DeepLift]()
 
 
 ### Natural Language Processing
 
-[LIT]()
+* [LIT]()
 
 * [LIME](https://github.com/marcotcr/lime)
 
@@ -58,4 +52,8 @@ TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](htt
 
 ### Other Resource
 
-[https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources)
+* [xAI]()
+
+* [360]()
+
+* [https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources)
