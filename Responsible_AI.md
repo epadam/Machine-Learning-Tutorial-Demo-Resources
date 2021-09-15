@@ -25,7 +25,6 @@ Google TCAV [`Github`](https://github.com/tensorflow/tcav)
 
 * [Saliency maps](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
 
-Check the streamlit ap
 
 * [LIME](https://github.com/marcotcr/lime)
 
