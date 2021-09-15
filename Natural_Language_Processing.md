@@ -303,6 +303,8 @@ For more sentiment dataset please check:
 
 * [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
 
+* Comparison between TF-IDF, FastText and Bert for Document Classification
+
 ### Toxic Comment Classification
 
 * [RNN for](notebooks/nlp/SST-5_RNN.ipynb)
