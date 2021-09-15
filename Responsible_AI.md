@@ -24,15 +24,21 @@
 * Perturbation based 
 
   * [LIME](https://github.com/marcotcr/lime)
+  
+  * [Integrated Gradients]() 
 
 
 * Backpropagation based
+  
+  * Gradient Based
 
-  * [Saliency maps](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
+    * [Saliency maps](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
   
-  * [Grad-CAM]()
+    * [Grad-CAM]()
   
-  * [DeepLift]()
+  * Relevance score based
+
+    * [DeepLift]()
 
 
 ### Natural Language Processing
