@@ -4,7 +4,15 @@ In this guide we will give general ideas of analysis for tabular data. For data 
 
 For images and texts please refer to [Computer Vision](Computer_Vision.md) and [Natural Language Processing](Natural_Language_Processing.md)
 
+All the nodebooks in this section:
 
+* Reggression:
+
+  * [Boston House Price Prediction]()
+
+* Classification:
+
+  * [Cancer Prediction]()
 
 ## Explore Data Analysis(EDA)
 
@@ -25,7 +33,7 @@ For images and texts please refer to [Computer Vision](Computer_Vision.md) and [
 
 Basic theory of models please check [Machine Learning Overview](Machine_Learning_Overview.md)
 
-### How to acchieve high accuracy
+### How to achieve high accuracy
 
 * Model Fusion
 * Data Augmentation
