@@ -79,14 +79,16 @@ N-gram + Softmax
 
 CBOW & Skip-Gram
 
-![Exploiting Similarities among Languages for Machine Translation](https://miro.medium.com/max/700/1*cuOmGT7NevP9oJFJfVpRKA.png)
+<img src="https://miro.medium.com/max/700/1*cuOmGT7NevP9oJFJfVpRKA.png" alt="Exploiting Similarities among Languages for Machine Translation" width="400"/>
+
 
 ### RNN/GRU/LSTM
 
 * RNN 
-![Architeccture of RNN](http://blog.peddy.ai/assets/2019-05-26-Recurrent-Neural-Networks/rnn_rnn_unrolled.png)
+<img src="http://blog.peddy.ai/assets/2019-05-26-Recurrent-Neural-Networks/rnn_rnn_unrolled.png" alt="Architeccture of RNN" width="400"/>
 
-![Detail Structure of RNN](https://pica.zhimg.com/80/v2-b45f69904d546edde41d9539e4c5548c_720w.jpg?source=1940ef5c)
+<img src="https://pica.zhimg.com/80/v2-b45f69904d546edde41d9539e4c5548c_720w.jpg?source=1940ef5c" alt="Detail Structure of RNN" width="400"/>
+
 As you can see, if input is a sentence, each word is turned into a vector and fed into a neural netork.
 
 Check the RNN source cod in a [notebook]()
@@ -95,10 +97,13 @@ Calculate number of parameters of RNN:
 
 * GRU
 
-![Architeccture of GRU](https://www.researchgate.net/publication/331848495/figure/fig3/AS:738004381466626@1552965364778/Gated-Recurrent-Unit-GRU.ppm)
+<img src="https://www.researchgate.net/publication/331848495/figure/fig3/AS:738004381466626@1552965364778/Gated-Recurrent-Unit-GRU.ppm" alt="Architeccture of GRU" width="400"/>
+
 
 * LSTM
-![Architeccture of LSTM](https://i.stack.imgur.com/RHNrZ.jpg)
+
+<img src="https://i.stack.imgur.com/RHNrZ.jpg" alt="Architeccture of LSTM" width="400"/>
+
 
 The downside of RNN/GRN/LSTM is the first input element can't see the information after it. Also, they can't be computed in parallel, so it is replaced by transformer in many NLP tasks.
 
@@ -111,7 +116,8 @@ It uses bidirectional LSTM in the seq2seq model
 Transformer is proposed in 2017 by google in the paper "Attention is all you need". 
 
 Below is the architecture of the transformer:
-![Transformer Model Architecture](https://www.researchgate.net/publication/342045332/figure/fig2/AS:900500283215874@1591707406300/Transformer-Model-Architecture-Transformer-Architecture-26-is-parallelized-for-seq2seq.png)
+
+<img src="https://www.researchgate.net/publication/342045332/figure/fig2/AS:900500283215874@1591707406300/Transformer-Model-Architecture-Transformer-Architecture-26-is-parallelized-for-seq2seq.png" alt="Transformer Model Architecture" width="400"/>
 
 Check the code of transformer!
 
