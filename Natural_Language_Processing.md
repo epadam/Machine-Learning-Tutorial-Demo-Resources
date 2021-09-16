@@ -175,7 +175,7 @@ Also improved version of Bert:
 * [M-BERT (multi lingual)]():
 * [RoBERTa]():
 * [BigBird]():
-* [ERINE]():
+* [ERNIE]():
 
 
 Now it's your turn:
@@ -197,6 +197,8 @@ Control text generation:
 Let's fine-tune a GPT-2 model. [notebook]()
 
 ### Multi-Task models
+
+[MT-DNN]()
 
 # NLP Tasks
 
