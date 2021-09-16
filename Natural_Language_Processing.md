@@ -79,15 +79,15 @@ N-gram + Softmax
 
 CBOW & Skip-Gram
 
-<img src="https://miro.medium.com/max/700/1*cuOmGT7NevP9oJFJfVpRKA.png" alt="Exploiting Similarities among Languages for Machine Translation" width="400"/>
+<img src="https://miro.medium.com/max/700/1*cuOmGT7NevP9oJFJfVpRKA.png" alt="Exploiting Similarities among Languages for Machine Translation" width="600"/>
 
 
 ### RNN/GRU/LSTM
 
 * RNN 
-<img src="http://blog.peddy.ai/assets/2019-05-26-Recurrent-Neural-Networks/rnn_rnn_unrolled.png" alt="Architeccture of RNN" width="400"/>
+<img src="http://blog.peddy.ai/assets/2019-05-26-Recurrent-Neural-Networks/rnn_rnn_unrolled.png" alt="Architeccture of RNN" width="500"/>
 
-<img src="https://pica.zhimg.com/80/v2-b45f69904d546edde41d9539e4c5548c_720w.jpg?source=1940ef5c" alt="Detail Structure of RNN" width="400"/>
+<img src="https://pica.zhimg.com/80/v2-b45f69904d546edde41d9539e4c5548c_720w.jpg?source=1940ef5c" alt="Detail Structure of RNN" width="500"/>
 
 As you can see, if input is a sentence, each word is turned into a vector and fed into a neural netork.
 
@@ -117,7 +117,7 @@ Transformer is proposed in 2017 by google in the paper "Attention is all you nee
 
 Below is the architecture of the transformer:
 
-<img src="https://www.researchgate.net/publication/342045332/figure/fig2/AS:900500283215874@1591707406300/Transformer-Model-Architecture-Transformer-Architecture-26-is-parallelized-for-seq2seq.png" alt="Transformer Model Architecture" width="400"/>
+<img src="https://www.researchgate.net/publication/342045332/figure/fig2/AS:900500283215874@1591707406300/Transformer-Model-Architecture-Transformer-Architecture-26-is-parallelized-for-seq2seq.png" alt="Transformer Model Architecture" width="600"/>
 
 Check the code of transformer!
 
@@ -146,7 +146,8 @@ Transformer is a seq2seq model which can do NLU and NLG tasks. Only Encoder itse
 
 * Bert
 
-![Bert Pretraining and Fine-Tuning](https://miro.medium.com/max/1200/1*p4LFBwyHtCw_Qq9paDampA.png)
+<img src="https://miro.medium.com/max/1200/1*p4LFBwyHtCw_Qq9paDampA.png" alt="Bert Pretraining and Fine-Tuning" width="600"/>
+
 
 
 
