@@ -2,7 +2,7 @@
 
 ## Neural Network
 
-![Neural Network](https://1.cms.s81c.com/sites/default/files/2021-01-06/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png)
+<img src="https://1.cms.s81c.com/sites/default/files/2021-01-06/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png" alt="Neural Network" width="300"/>
 
 
 ### Back Propagation
@@ -14,6 +14,7 @@ How does back propagation work?
 * Classification
   * Binary Cross Entropy 
     [notebook]()
+  * 
 
 * Regression
   * MAE 
