@@ -2,19 +2,24 @@
 
 ## Neural Network
 
+![Neural Network](https://1.cms.s81c.com/sites/default/files/2021-01-06/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png)
+
+
 ### Back Propagation
 
 How does back propagation work?
 
 ### Loss Function
 
-* Binary Cross Entropy 
+* Classification
+  * Binary Cross Entropy 
+    [notebook]()
 
-[notebook]()
-
-* MSE 
-
-[notebook]()
+* Regression
+  * MAE 
+  * ![MAE](https://miro.medium.com/max/513/0*RWvFBzRzelUnPXpq.png)
+  * MSE
+  * [notebook]()
 
 ### Optimization
 
@@ -28,15 +33,7 @@ How does back propagation work?
 
 [notebook]()
 
-## Variation of Neural Networks
 
-### CNN
-
-How to calculate the parameters of CNN
-
-### RNN/LSTM/GRN
-
-How to calculate the parameters of RNN
 
 
 ## Domain Adaptation / Transfer Learning
@@ -57,13 +54,6 @@ Self-supervised learning means training the models without labeled data. AutoEnc
 
 [UGATIT](https://github.com/taki0112/UGATIT?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
-## How to add new class/data to a trained model
-
-* Incremental Training
-
-* Life Long Learning
-
-* Online Learning
 
 ## Model IP Protection
 
