@@ -322,7 +322,7 @@ For more sentiment dataset please check:
 
 ### Sentence Segmentation
 
-### Paraphrase indentification
+### Paraphrase Indentification
 
 QQP Classification with Siamese Network
 
@@ -433,6 +433,9 @@ more research can be found here
 
 * [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
+## Data to Text Generation
+
+* [WebNLG Challenge 2020]()
 
 ### Code Generation
 
