@@ -9,19 +9,25 @@ Check the Streamlit [demo]()
 
 * VGG
 
+[code]()
+
 * ResNet
+
+[code]()
 
 * DenseNet
 
 * Morphnet
 
-Model Compression:
+* Model Compression:
 
-* MobileNet
+  * MobileNet
 
-* EfficientNet
+  * EfficientNet
 
 ### Fine-Grained Image Classification
+
+* [Dog-breed-classification]()
 
 ### Autoencoder for Image Classification
 
@@ -38,16 +44,16 @@ Model Compression:
 
 ## Object Detection
 
-Check the demo
+* One-Stage 
 
-SSD
-
-Faster R-CNN
+  * SSD
+  * [YOLO]()
+  
+* Two-Stage
+  
+  * Faster R-CNN
 
 Feature Pyramid Network (FPN)
-
-[YOLO4]()
-
 
 
 ### NAS for Object Detection
@@ -59,15 +65,15 @@ Feature Pyramid Network (FPN)
 
 ## Semantic Segmentation
 
-Full Convolutional Networks(FCN)
+* Full Convolutional Networks(FCN)
 
-[DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
+* [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
 
-DeepLab V3 [`github`](https://github.com/tensorflow/models/tree/master/research/deeplab)
+* DeepLab V3 [`github`](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
-body-pix [`github`](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
+* body-pix [`github`](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
 
-robosat [`github`](https://github.com/mapbox/robosat)
+* robosat [`github`](https://github.com/mapbox/robosat)
 
 ### NAS for Semantic Image Segmentation
 
@@ -75,13 +81,11 @@ robosat [`github`](https://github.com/mapbox/robosat)
 
 ## Instance Segmentation
 
-MMDetection [`github`](https://github.com/open-mmlab/mmdetection)
+* Mask R-CNN [`github`](https://github.com/matterport/Mask_RCNN)
 
-Mask R-CNN [`github`](https://github.com/matterport/Mask_RCNN)
+* [ShapeMask](https://cloud.google.com/blog/products/ai-machine-learning/high-performance-large-scale-instance-segmentation-with-cloud-tpus) 
 
-[ShapeMask](https://cloud.google.com/blog/products/ai-machine-learning/high-performance-large-scale-instance-segmentation-with-cloud-tpus) 
-
-yolact [`github`](https://github.com/dbolya/yolact)
+* yolact [`github`](https://github.com/dbolya/yolact)
 
 ### Unknown Classes Detection
 
@@ -89,36 +93,38 @@ yolact [`github`](https://github.com/dbolya/yolact)
 
 ## Panoptic Segmentation
 
-Detectron2 [`github`](https://github.com/facebookresearch/detectron2)
+Check the Demo here:
 
-Panoptic Feature Pyramid Networks [`arXiv`](https://arxiv.org/abs/1901.02446)
+* Detectron2 [`github`](https://github.com/facebookresearch/detectron2)
 
-Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1801.00868)
+* Panoptic Feature Pyramid Networks [`arXiv`](https://arxiv.org/abs/1901.02446)
 
-An End-to-End Network for Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1903.05027)
+* Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1801.00868)
 
-Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.10194)
+* An End-to-End Network for Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1903.05027)
 
-Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arXiv`](https://arxiv.org/abs/1809.04184)
+* Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.10194)
 
-Single-Shot Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.00764)
+* Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [`arXiv`](https://arxiv.org/abs/1809.04184)
+
+* Single-Shot Panoptic Segmentation [`arXiv`](https://arxiv.org/abs/1911.00764)
 
 ### Unknown Classes Detection
 
-UPSNet: A Unified Panoptic Segmentation Network [`github`](https://arxiv.org/abs/1901.03784)
+* UPSNet: A Unified Panoptic Segmentation Network [`github`](https://arxiv.org/abs/1901.03784)
 
 
 ## Depth Estimation
 
-Densepose [`github`](https://github.com/facebookresearch/DensePose)
+* Densepose [`github`](https://github.com/facebookresearch/DensePose)
 
-[Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction](https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html)
+* [Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction](https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html)
 
-Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXiv`](https://arxiv.org/abs/1411.6387)
+* Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXiv`](https://arxiv.org/abs/1411.6387)
 
 ## Pose Estimation
 
-openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 ## Face Recognition
 
@@ -186,6 +192,8 @@ generative-compression [`github`](https://github.com/Justin-Tan/generative-compr
 
 
 ## Useful Tools 
+
+* MMDetection [`github`](https://github.com/open-mmlab/mmdetection)
 
 * [YOLO3](https://pjreddie.com/darknet/yolo/)
 
