@@ -33,9 +33,9 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 - [Tokenization](#Tokenization)
 - [Statistical Language Models](#Statistical-Language-Models)
+  - [N-grams](#N-grams)
   - [Bag of Words](#bag-of-words)
   - [Glove](#glove)
-  - [N-grams](#N-grams)
   - [FastText](#FastText)
 - [Neural Language Models](#Neural-Language-Models)
   - [Word2Vec](#Word2Vec) 
@@ -59,6 +59,8 @@ BPE
 
 ## Statistical Language Models
 
+### N-gram
+
 ### Bag of Words
 
 ### Glove
@@ -66,8 +68,6 @@ Create word vectors that capture meaning in vector space
 Takes advantage of global count statistics instead of only local information
 
 The source code can be found here.
-
-### N-gram
 
 ### FastText
 
@@ -246,6 +246,7 @@ Let's use this [Penn Treebank Dataset](https://deepai.org/dataset/penn-treebank)
 
 ### Named Entity Recognition 
 
+NER is very useful for chatbot or building or querying knowledge graph.
 
 * [RNN for_](notebooks/nlp/SST-5_RNN.ipynb)
 
@@ -277,6 +278,8 @@ Here we use 5-class Stanford Sentiment Treebank (SST-5) dataset to test the perf
 
 * [Bert for SST-5]()
 
+* [Train multiple datasets and evaluate the performance]()
+
 Also check other people's work for sentiment analysis
 
 * [https://github.com/prrao87/fine-grained-sentiment](https://github.com/prrao87/fine-grained-sentiment)
@@ -286,6 +289,8 @@ Also check other people's work for sentiment analysis
 SOTA:
 
 * [RoBERTa-large+Self-Explaining](https://paperswithcode.com/sota/sentiment-analysis-on-sst-5-fine-grained)
+
+
 
 For more sentiment dataset please check:
 
