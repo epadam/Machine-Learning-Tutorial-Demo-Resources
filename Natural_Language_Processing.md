@@ -282,6 +282,7 @@ NER is very useful for chatbot or building or querying knowledge graph.
 ### Sentiment Analysis
 
 Sentiment analysis is especially useful in customer services, understanding the feedback of the product or services.
+There are acutially two types, one is sentiment ranking, the other one is sentence semantic similarity. For emantic similarity, please check the text matching section.
 
 Here we use 5-class Stanford Sentiment Treebank (SST-5) dataset to test the performance of different models.
 
