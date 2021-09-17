@@ -329,12 +329,6 @@ For more sentiment dataset please check:
 
 ### Sentence Segmentation
 
-### Paraphrase Indentification
-
-QQP Classification with Siamese Network
-
-* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
-
 ### Reading Comprehension
 
 Squad 2.0
@@ -351,32 +345,36 @@ Squad 2.0
 
 ### Text Matching/Semantic Similarity
 
-Siamese Bert 
+1. Put both text into the model.
 
-Dual BERT
+2. Generate embedding for both text and calculate cosine for both.
 
-* [Bert for ](notebooks/nlp/SST-5_RNN.ipynb)
+#### Paraphrase Indentification
 
+
+* [RNN for ](notebooks/nlp/QQP_RNN.ipynb)
+
+* [Bert for ](notebooks/nlp/QQP_Bert.ipynb)
+
+* Dual BERT
+
+* QQP Classification with Siamese Bert
 
 #### Information Retrieval/Semantic Search
 
 The future of information retrieval will evolve to more like question answering system
 
-Query
+* retriever (BM25, TF-IDF)
 
-retriever
-
-Ranking
+* Ranking 
 
 Embeding the documents and then use Cosine to calculate the similarity
 
-Facebook RAG
+* [Sentence Transformer]()
 
-Hystack
+* [Facebook RAG]()
 
-Sentence Transformer
-
-* [Bert for ](notebooks/nlp/SST-5_RNN.ipynb)
+* [Hystack]()
 
 
 One application of these pretrained models are as follows:
@@ -389,18 +387,17 @@ Semantic search of Covid-19 & SARS-CoV-2 Scientific Papers
 
 There are actually many types of question answering
 
-* simple question answering
+* Classification Question Answering
+  One model to trained with all data
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+  * [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
-
-One model to trained with all data
 
 * Open Domain 
 
-You may need Knowledge Graph, please check this [guide]() for more information.
+   You may need Knowledge Graph, please check this [guide]() for more information.
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+   * [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
 
 * Close Domain 
@@ -425,7 +422,6 @@ News writing, article gneration
 
 * [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
 
-
 more research can be found here
 * Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
 
@@ -433,18 +429,20 @@ more research can be found here
 
 ### Abstractive Summarization
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [T5 for_news_summary](notebooks/nlp/T5_for_news.ipynb)
 
 
 ### Paraphrase Generation
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [T5 for new_generation](notebooks/nlp/T5_RNN.ipynb)
 
 ## Data to Text Generation
 
 * [WebNLG Challenge 2020]()
 
 ### Code Generation
+
+Microsoft and OpenAI uses GPT-3 to launch their Codex service. Honestly I think the more codes embedded in models, the prediction and suggestion will become better.
 
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
@@ -467,13 +465,11 @@ pytorch version
 
 ### NLP Benchmark
 
-* [Glue]()
+* [Glue](https://gluebenchmark.com/)
 
-* [SuperGlue]()
+* [SuperGlue](https://super.gluebenchmark.com/)
 
-* [XTREME]()
-
-* [Turing Machine]()
+* [XTREME](https://sites.research.google/xtreme)
 
 You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchmarks and dataset in NLP.
 
