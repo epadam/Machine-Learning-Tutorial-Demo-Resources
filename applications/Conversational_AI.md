@@ -23,9 +23,16 @@ Demo
 
 It requires NLU, which include intent extraction, Name Entity Recognition, Relation Extraction, Enitity Linking
 
+* Joint Classification of NER and Intention
+
+  * [DIET]() 
+
+
 ### Dialog State Tracking
 
 ### Dialog Policy
+
+* TEDpolicy
 
 ### NLG
 
