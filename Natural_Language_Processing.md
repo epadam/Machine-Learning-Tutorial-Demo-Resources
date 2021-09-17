@@ -93,7 +93,7 @@ CBOW & Skip-Gram
 
 As you can see, if input is a sentence, each word is turned into a vector and fed into a neural netork.
 
-Check the RNN source cod in a [notebook]()
+Check the RNN source cod [here]().
 
 Calculate number of parameters of RNN:
 
@@ -128,16 +128,17 @@ How to train a transformer?
 
 There are many improved transformer models
 * [Transformer-XL]():
-* [XLNet]():
-* [T5]():
 * [UniLM]():
-* [Turing-LG](): 17b
+* [XLNet]():
+* [ELECTRA]():
+
 * [Bart]():
 * [MegatronLM]() 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
-* [ELECTRA]():
 * [Microsoft MT-DNN]():
 * [Megatron-LM from Nvidia]():
+* [T5]():
 * [DeBERTa](https://github.com/microsoft/DeBERTa): 1.5B parameters
+* [Turing-LG](): 17b
 * [Meena](): Open domain chatbot by Google based on Transformer.
 * [Blender](): Open domain chatbot by Facebook based on Transformer.
 * [BlenderBot2](): Open domain chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
@@ -348,9 +349,11 @@ Squad 2.0
 
 ### Text Matching/Semantic Similarity
 
-1. Put both text into the model.
+There are mainly two ways:
+  * Input both text into the model.
+  * Generate embedding for both text and calculate cosine for both.
 
-2. Generate embedding for both text and calculate cosine for both.
+
 
 #### Paraphrase Indentification
 
@@ -473,6 +476,8 @@ pytorch version
 * [SuperGlue](https://super.gluebenchmark.com/)
 
 * [XTREME](https://sites.research.google/xtreme)
+
+* [SentEval](https://github.com/facebookresearch/SentEval)
 
 You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchmarks and dataset in NLP.
 
