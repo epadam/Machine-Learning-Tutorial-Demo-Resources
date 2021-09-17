@@ -49,13 +49,15 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 ## Tokenization
 
-You can check some tools here:
+Vocab:
 
+* BPE
+* 
 WordPiece
 
 [SentencePiece](https://github.com/google/sentencepiece)
 
-BPE
+
 
 ## Statistical Language Models
 
