@@ -15,35 +15,58 @@ We can first start with handling the data.
 
 ## [Data Engineering](Data_Engineering.md)
 
-Machine Learning is all about data processing.
+Machine Learning is all about data processing. This section introduces ETL process, using Kafka, Spark, etc.
 
 ## [Data Privacy](Data_Privacy.md)
 
+Techniques and issues of preserving data privacy in machine learning
+
 ## [Machine Learning](Machine_Learning.md)
 
-Gives the general idea of machine learning
+demo
+
+Introducing machine learning algorithms like SVM, decision trees, Random Forest with real world challenges.
 
 ## [Deep Learning](Deep_Learning.md)
 
-Deep learning dominates computer vision and Nature Language Processing, this tutorial gives you the theory of Deep Learning
+Neural Network architecture and theories. Introducing what's loss function, activation functions, backpropagation, etc.
 
 ## [Data Analysis with Machine Learning](Data_Analysis.md)
 
+Introducing Data preprocessing, Exploritary Data Analysis, feature engineering, model selection and training, model inspection
+
 ## [Production Level Machine Learning(MLOps)](MLOps.md)
+
+A real world machine learning from model developement to deployment and monitoring.
 
 ## [Computer Vision](Computer_Vision.md)
 
+Image classification, object detection, segmentation, 
+
 ## [Generative Adversarial Network](Generative_Adversarial_Network.md)
+
 
 ## [Natural Language Processing](Natural_Language_Processing.md)
 
+Include most of NLP models and tasks.
+
 ## [Knowledge Grpah](Knowledge_Graph.md)
+
+Knowledge Graph generation, application of KG
 
 ## [Responsible AI](Responsible_AI.md)
 
+Explainable AI, Bias avoidance
+
 ## [Multimodal Learning](Multimodal.md)
 
+Image captions, visual question answering
+
 ## [AutoML](autoML.md)
+
+Demo, 
+
+Theory and applications
 
 ## [Other Learning Resources](Other_Learning_Resources.md)
 
