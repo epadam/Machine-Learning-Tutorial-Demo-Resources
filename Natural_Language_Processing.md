@@ -364,7 +364,7 @@ There are mainly two ways:
 
 * Dual BERT
 
-* QQP Classification with Siamese Bert
+* QQP Classification with Siamese Bert (Sentenc Transformer)
 
 #### Information Retrieval/Semantic Search
 
@@ -441,7 +441,7 @@ more research can be found here
 
 ### Paraphrase Generation
 
-* [T5 for paraphrase_generation](notebooks/nlp/T5_paraphrase.ipynb)
+* [T5 for paraphrase_generation_fine-tune with QQP](notebooks/nlp/T5_small_qqp_paraphrase_generation.ipynb)
 
 ## Data to Text Generation
 
