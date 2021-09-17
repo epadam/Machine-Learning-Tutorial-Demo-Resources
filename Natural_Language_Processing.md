@@ -52,8 +52,7 @@ Language models take the text as input and generate a prediction, a word, a sent
 Vocab:
 
 * BPE
-* 
-WordPiece
+* WordPiece
 
 [SentencePiece](https://github.com/google/sentencepiece)
 
@@ -121,7 +120,7 @@ Below is the architecture of the transformer:
 
 <img src="https://www.researchgate.net/publication/342045332/figure/fig2/AS:900500283215874@1591707406300/Transformer-Model-Architecture-Transformer-Architecture-26-is-parallelized-for-seq2seq.png" alt="Transformer Model Architecture" width="600"/>
 
-Check the code of transformer!
+Check the code of transformer! [notebook]()
 
 How to train a transformer?
 
@@ -151,17 +150,11 @@ Transformer is a seq2seq model which can do NLU and NLG tasks. Only Encoder itse
 <img src="https://miro.medium.com/max/1200/1*p4LFBwyHtCw_Qq9paDampA.png" alt="Bert Pretraining and Fine-Tuning" width="600"/>
 
 
-
-
-
-
 The most famous encoder is Bert proposed by Google. You can check the original paper here. Although it is not the first one introducing pre-train and finetune paradime
 
 Now let's build our own Bert from scratch! [notebook]()
 
-How is Bert pre-trained? [notebook](). There are two tasks
-
-How to fine-tune Bert for downstream tasks? [notebook]()
+How is Bert pre-trained? Mask Prediction and Next Sentence Prediction [notebook](). 
 
 How to make Bert smaller? [notebook]()
 
@@ -187,23 +180,17 @@ Also improved version of Bert:
 * [ERNIE]():
 
 
-Now it's your turn:
-
-Train a Bert model with one of the following dataset.
-
 ### Decoder
 
 * GPT/GPT-2/GPT-3
 
-Decoder itself is better at generation tasks. The most famous one is GPT-2.
+Decoder itself is better at generation tasks. The most famous one is GPT-2. [notebook](GPT-2)
 
 Control text generation:
 
 * Beam Search
 
 * random
-
-Let's fine-tune a GPT-2 model. [notebook]()
 
 
 # NLP Tasks
@@ -258,8 +245,11 @@ NER is very useful for chatbot or building or querying knowledge graph.
 
 * [RNN for_NER](notebooks/nlp/NER_RNN.ipynb)
 
-* [Bert for_](notebooks/nlp/NER_Bert.ipynb)
+* [Bert for_NER_kaggle](notebooks/nlp/NER_Bert.ipynb)
 
+More dataset please check below:
+
+* [https://github.com/juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets)
 
 ### Dependency Parsing
 
