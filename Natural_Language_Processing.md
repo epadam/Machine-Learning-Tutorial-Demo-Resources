@@ -131,7 +131,6 @@ There are many improved transformer models
 * [UniLM]():
 * [XLNet]():
 * [ELECTRA]():
-
 * [Bart]():
 * [MegatronLM]() 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
 * [Microsoft MT-DNN]():
@@ -248,31 +247,31 @@ POS can be used for grammer checking. There are statitical and deep learning sol
 
 Let's use this [Penn Treebank Dataset](https://deepai.org/dataset/penn-treebank)
 
-* [Spacy and_RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
+* [Spacy and_RNN for ](notebooks/nlp/Spacy_POS_RNN.ipynb)
 
 
 ### Grammer correction
 
-* [LSTM for Cola](notebooks/nlp/SST-5_RNN.ipynb)
+* [LSTM for Cola](notebooks/nlp/Cola_LSTM.ipynb)
 
 
 ### Named Entity Recognition 
 
 NER is very useful for chatbot or building or querying knowledge graph.
 
-* [RNN for_](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for_NER](notebooks/nlp/NER_RNN.ipynb)
 
-* [Bert for_](notebooks/nlp/SST-5_RNN.ipynb)
+* [Bert for_](notebooks/nlp/NER_Bert.ipynb)
 
 
 ### Dependency Parsing
 
-* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/DP_RNN.ipynb)
 
 
 ### Relation Extraction
 
-* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/RE_RNN.ipynb)
 
 
 
@@ -319,17 +318,19 @@ For more sentiment dataset please check:
 
 * Latent Dirichlet Allocation (LDA)
 
-* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/Doc_RNN.ipynb)
+
+* [T-Bert] 
 
 * Comparison between TF-IDF, FastText and Bert for Document Classification
 
 ### Toxic Comment Classification
 
-* [RNN for](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for](notebooks/nlp/Toxic_RNN.ipynb)
 
 ### Textual Entailment/Natural Language Inference
 
-* [RNN for ](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for ](notebooks/nlp/NLI_RNN.ipynb)
 
 ### Sentence Segmentation
 
@@ -337,14 +338,14 @@ For more sentiment dataset please check:
 
 Squad 2.0
 
-* [RNN for SQuAD](notebooks/nlp/SST-5_RNN.ipynb)
+* [RNN for SQuAD](notebooks/nlp/Squad_RNN.ipynb)
 
 * [GPT-2 for SQuAD2.0](https://medium.com/analytics-vidhya/an-ai-that-does-your-homework-e5fa40c43d17)
 
 ### Extractive Summarization
 
 
-* [Bert for ](notebooks/nlp/SST-5_RNN.ipynb)
+* [Bert for ](notebooks/nlp/Bert_extractive_summarization.ipynb)
 
 
 ### Text Matching/Semantic Similarity
@@ -352,8 +353,6 @@ Squad 2.0
 There are mainly two ways:
   * Input both text into the model.
   * Generate embedding for both text and calculate cosine for both.
-
-
 
 #### Paraphrase Indentification
 
@@ -396,14 +395,14 @@ There are actually many types of question answering
 * Classification Question Answering
   One model to trained with all data
 
-  * [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+  * [Bert for FAQ](notebooks/nlp/Bert_FAQ.ipynb)
 
 
 * Open Domain 
 
    You may need Knowledge Graph, please check this [guide]() for more information.
 
-   * [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+   * [Bert for openQA](notebooks/nlp/openQA_Bert.ipynb)
 
 
 * Close Domain 
@@ -412,21 +411,22 @@ It is similar to Information Retrieval but use natural language for processing
 
 -- Covid-19 question answering
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [Bert for covid](notebooks/nlp/covid_Bert.ipynb)
 
 
 ## Natural Language Generation
 
-Utterance Generation (which can be seen as a data augmentation)
+### Utterance Generation
 
 News writing, article gneration
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [GPT-2 for utterance](notebooks/nlp/GPT-2_writing.ipynb)
+
 
 
 ### Machine Translation
 
-* [Bert for SST-5](notebooks/nlp/SST-5_RNN.ipynb)
+* [T5 for translation](notebooks/nlp/T5_translation.ipynb)
 
 more research can be found here
 * Meta-Learning for Low-Resource Neural Machine Translation [`arXiv`](https://arxiv.org/abs/1808.08437)
@@ -440,7 +440,7 @@ more research can be found here
 
 ### Paraphrase Generation
 
-* [T5 for new_generation](notebooks/nlp/T5_RNN.ipynb)
+* [T5 for paraphrase_generation](notebooks/nlp/T5_paraphrase.ipynb)
 
 ## Data to Text Generation
 
