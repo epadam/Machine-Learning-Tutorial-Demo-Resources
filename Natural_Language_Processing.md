@@ -45,7 +45,7 @@ Language models take the text as input and generate a prediction, a word, a sent
     - [Attention](#Attention)
     - [Encoder](#Encoder)
     - [Decoder](#Decoder)
-  - [Multitask Models](#multitask-models)
+
 
 ## Tokenization
 
@@ -133,7 +133,7 @@ There are many improved transformer models
 * [ELECTRA]():
 * [Bart]():
 * [MegatronLM]() 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
-* [Microsoft MT-DNN]():
+* [Microsoft MT-DNN](): Multi-tasking model
 * [Megatron-LM from Nvidia]():
 * [T5]():
 * [DeBERTa](https://github.com/microsoft/DeBERTa): 1.5B parameters
@@ -205,9 +205,6 @@ Control text generation:
 
 Let's fine-tune a GPT-2 model. [notebook]()
 
-### Multi-Task models
-
-[MT-DNN]()
 
 # NLP Tasks
 
