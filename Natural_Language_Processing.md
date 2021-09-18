@@ -245,7 +245,7 @@ NER is very useful for chatbot or building or querying knowledge graph.
 
 * [RNN for_NER](notebooks/nlp/NER_RNN.ipynb)
 
-* [Bert for_NER_kaggle](notebooks/nlp/NER_Bert.ipynb)
+* [Bert for_NER_kaggle](notebooks/nlp/NER_Bert_Kaggle.ipynb)
 
 More dataset please check below:
 
