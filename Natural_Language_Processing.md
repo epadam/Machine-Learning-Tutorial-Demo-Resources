@@ -141,6 +141,8 @@ There are many improved transformer models
 * [Blender](): Open domain chatbot by Facebook based on Transformer.
 * [BlenderBot2](): Open domain chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
 
+Transformer architecture has been used for many domains such as biology, computer vision and business data analysis.
+
 ### Encoder
 
 Transformer is a seq2seq model which can do NLU and NLG tasks. Only Encoder itself can mostly do NLU jobs.
