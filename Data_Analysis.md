@@ -44,9 +44,13 @@ Basic theory of models please check [Machine Learning Overview](Machine_Learning
 
 - DALI [`Github`](https://github.com/NVIDIA/DALI)
 
-### Deep Learning for Tabular Data Analysis
+### Transformer for Tabular Data Analysis
+
+* [TabNet](https://github.com/google-research/google-research/tree/master/tabnet)
 
 ### AutoML for Tabular Data Analysis
+
+* [AutoGluon](https://github.com/awslabs/autogluon)
 
 ## Model Evaluation and Inspection
 
