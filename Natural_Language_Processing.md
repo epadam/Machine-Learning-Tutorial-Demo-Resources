@@ -364,21 +364,37 @@ There are mainly two ways:
 
 * QQP Classification with Siamese Bert (Sentenc Transformer)
 
-#### Information Retrieval/Semantic Search
+#### Information Retrieval/Semantic Search/Question Answering
 
-The future of information retrieval will evolve to more like question answering system
+Information Retrieval is gradually relying on semantic understanding these days, where user can search information in a question format not just keywords.
 
-* retriever (BM25, TF-IDF)
+There are actually many types of question answering:
 
-* Ranking 
+* Classification Question Answering:
+  One model to trained with all data
 
-Embeding the documents and then use Cosine to calculate the similarity
+  * [Bert for FAQ](notebooks/nlp/question-answering/Bert_FAQ.ipynb)
+   
 
-* [Sentence Transformer]()
+* Close/Open Domain Question Answering:
+   
+  * Retrieve
+    * BM25 
+    * TF-IDF
 
-* [Facebook RAG]()
+  * Ranking:
+     * QA Bert: You may find specific answer in your documents, 
+     * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers):Encode the documents once and can be used for similarity comparison later.
+  
+  * Examples:
+    * [Bert for covid](notebooks/nlp/question-answering/covid_Bert.ipynb)
+    * [Bert for openQA](notebooks/nlp/question-answering/openQA_Bert.ipynb)
 
-* [Hystack]()
+Tools:
+
+* [Facebook RAG](https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/): Trandformer Style Retrieval Augmented Generation. Models are available on HuggingFace.
+
+* [Hystack](https://github.com/deepset-ai/haystack): Retriever(Elasticsearch, SQL, in memory, FAISS) and Reader(Bert, RobertA, etct) based search system. Check the Demo. 
 
 
 One application of these pretrained models are as follows:
@@ -386,32 +402,6 @@ One application of these pretrained models are as follows:
 [Covid-19 Semantic Browser](https://github.com/gsarti/covid-papers-browser)
 Semantic search of Covid-19 & SARS-CoV-2 Scientific Papers
 
-
-#### Question Answering
-
-There are actually many types of question answering
-
-* Classification Question Answering
-  One model to trained with all data
-
-  * [Bert for FAQ](notebooks/nlp/question-answering/Bert_FAQ.ipynb)
-
-
-* Open Domain 
-
-   You may need Knowledge Graph, please check this [guide]() for more information.
-
-   * [Bert for openQA](notebooks/nlp/question-answering/openQA_Bert.ipynb)
-   * RAG
-
-
-* Close Domain 
-
-It is similar to Information Retrieval but use natural language for processing
-
--- Covid-19 question answering
-
-* [Bert for covid](notebooks/nlp/question-answering/covid_Bert.ipynb)
 
 
 ## Natural Language Generation
