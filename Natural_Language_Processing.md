@@ -170,6 +170,7 @@ Also improved version of Bert:
 How to make Bert smaller? [notebook]()
 
 There are many examples here:
+
 * [mobileBert]():
 * [TinyBert]():
 * [DistillBert]():
@@ -379,12 +380,13 @@ There are actually many types of question answering:
 * Close/Open Domain Question Answering:
    
   * Retrieve
-    * BM25 
     * TF-IDF
+    * BM25 
+    * Embedding with [Sentence Transformers](https://github.com/UKPLab/sentence-transformers):Encode the documents once and can be used for similarity comparison later.
 
   * Ranking:
      * QA Bert: You may find specific answer in your documents, 
-     * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers):Encode the documents once and can be used for similarity comparison later.
+     
   
   * Examples:
     * [Bert for covid](notebooks/nlp/question-answering/covid_Bert.ipynb)
