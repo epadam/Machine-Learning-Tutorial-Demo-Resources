@@ -166,12 +166,14 @@ Also improved version of Bert:
 
 How to make Bert smaller? [notebook]()
 
-There are many examples here:
+1. Quantization:
+   * [TinyBert]():
+   * [Q-Bert]():
 
-* [mobileBert]():
-* [TinyBert]():
-* [DistillBert]():
-* [Albert]():
+2. Knowledge Distillation:
+   * [mobileBert]():
+   * [Albert]():
+   * [DistillBert]():
 
 
 There are also some pretrained Bert models with domain specific text, which can perform better :
