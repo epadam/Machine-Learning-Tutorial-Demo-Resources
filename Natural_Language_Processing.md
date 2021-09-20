@@ -129,14 +129,10 @@ There are many improved transformer models
 * [Transformer-XL]():
 * [UniLM]():
 * [XLNet]():
-
 * [Bart]():
-* [MegatronLM]() 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
-* [Microsoft MT-DNN](): Multi-tasking model
-* [Megatron-LM from Nvidia]():
+* [Megatron-LM]() 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
 * [T5]():
 * [DeBERTa](https://github.com/microsoft/DeBERTa): 1.5B parameters
-* [Turing-LG](): 17b
 * [Meena](): Open domain chatbot by Google based on Transformer.
 * [Blender](): Open domain chatbot by Facebook based on Transformer.
 * [BlenderBot2](): Open domain chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
@@ -162,6 +158,7 @@ How is Bert pre-trained? MLM and Next Sentence Prediction [notebook]().
 
 Also improved version of Bert:
 * [ELECTRA]():
+* [MT-DNN](): Multi-tasking model
 * [M-BERT (multi lingual)]():
 * [RoBERTa]():
 * [BigBird]():
@@ -190,7 +187,8 @@ There are also some pretrained Bert models with domain specific text, which can 
 
 ### Decoder
 
-* GPT/GPT-2/GPT-3
+* [GPT/GPT-2/GPT-3]()
+* [Turing-LG](): 17b
 
 Decoder itself is better at generation tasks. The most famous one is GPT-2. [notebook](GPT-2)
 
