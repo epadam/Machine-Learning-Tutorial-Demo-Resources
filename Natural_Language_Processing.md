@@ -128,7 +128,6 @@ How to train a transformer?
 There are many improved transformer models
 * [Transformer-XL]():
 * [UniLM]():
-* [XLNet]():
 * [Bart]():
 * [Megatron-LM]() 8.3B parameters 
 * [T5]():
@@ -157,9 +156,9 @@ How is Bert pre-trained? MLM and Next Sentence Prediction [notebook]().
 
 
 Also improved version of Bert:
+* [XLNet]():
 * [ELECTRA]():
 * [MT-DNN](): Multi-tasking model
-* [M-BERT (multi lingual)]():
 * [RoBERTa]():
 * [BigBird]():
 * [ERNIE]():
@@ -190,7 +189,7 @@ There are also some pretrained Bert models with domain specific text, which can 
 ### Decoder
 
 * [GPT/GPT-2/GPT-3]()
-* [Turing-LG](): 17b
+* [Turing-LG](): 17B
 
 Decoder itself is better at generation tasks. The most famous one is GPT-2. [notebook](GPT-2)
 
