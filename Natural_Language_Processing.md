@@ -130,12 +130,12 @@ There are many improved transformer models
 * [UniLM]():
 * [XLNet]():
 * [Bart]():
-* [Megatron-LM]() 8.3b (use GPU parallel training, Doesn't Pytorch or tf support this?) 
+* [Megatron-LM]() 8.3B parameters 
 * [T5]():
 * [DeBERTa](https://github.com/microsoft/DeBERTa): 1.5B parameters
 * [Meena](): Open domain chatbot by Google based on Transformer.
 * [Blender](): Open domain chatbot by Facebook based on Transformer.
-* [BlenderBot2](): Open domain chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
+* [BlenderBot2](): 2nd generation chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
 
 Transformer architecture has been used for many domains such as biology, computer vision and business data analysis.
 
