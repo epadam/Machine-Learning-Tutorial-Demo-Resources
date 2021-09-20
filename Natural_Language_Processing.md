@@ -380,10 +380,13 @@ There are actually many types of question answering:
   * Retrieve
     * TF-IDF
     * BM25 
-    * Embedding with [Sentence Transformers](https://github.com/UKPLab/sentence-transformers):Encode the documents once and can be used for similarity comparison later.
+    * Text Embedding: Use [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) to encode the documents once and can be used for similarity comparison later.
 
-  * Ranking:
-     * QA Bert: You may find specific answer in your documents, 
+  * Ranking or Answer Finding:
+     * Use Bert/Sentence-Transformer to re-rank the retrieving documents.
+     * QA Bert to find exact answer in the document. 
+  * Answer Generation:
+     * RAG
      
   
   * Examples:
