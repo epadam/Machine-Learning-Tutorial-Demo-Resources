@@ -6,7 +6,7 @@
 
 ### Regression
 
-Check an example in [notebook](notebooks/data-analysis/Boston_House_Price.ipynb)! 
+Check an example in [notebook](notebooks/data analysis/Boston_House_Price.ipynb)! 
 
 * Linear Regression
 ```
