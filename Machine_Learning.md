@@ -1,26 +1,33 @@
 # Machine Learning
 
+In this guide, let's check an and 
+
 ## Supervised Learning
 
-### Linear Regression
+### Regression
 
-### Logic Regression
+Check an example in notebook! 
 
-### Decision Tree
+* Linear Regression
 
-### Random Forest
+* Decision Tree
+* Random Forest
+* Bayesian
 
-### Gradient Boosting
+### Classification
 
-## KNN
+Check an example in notebook!
 
-### Naive Bayes
+* Logic Regression
+* Naive Bayes
+* Support Vector Machine (SVM)
+* Decision Tree
+* Random Forest
+* Gradient Boosting
+* KNN
 
-### Bayesian
 
-### Support Vector Machine (SVM)
-
-### Enssemble Algorithms
+### Enssemble/Stacking
 
 Let's try out these algorithms on a Kaggle compettion
 
@@ -32,11 +39,12 @@ We can also build an interactive streamlit app from our trained model.
 
 ## unsupervised Learning
 
-### K-means
+* K-means
+* PCA
 
 ## Deep Learning
 
-Deep learning please check this [tutorial](Deep_Learning.md)
+Please check [here](Deep_Learning.md)
 
 
 ## More Resources
