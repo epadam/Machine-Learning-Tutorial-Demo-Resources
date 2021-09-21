@@ -199,6 +199,9 @@ Control text generation:
 
 * random
 
+More Resources:
+
+* [Chinese GPT-2](https://github.com/imcaspar/gpt2-ml)  
 
 # NLP Tasks
 
