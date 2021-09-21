@@ -4,8 +4,7 @@ Machine learning models development is only little part of the whole ML system.
 
 ![MLOps](https://www.kdnuggets.com/wp-content/uploads/Fig1-Bose-mlops-why-required-what-is.jpg)
 
-Let's try an example from from data collecting, annotation, to model developing, training, tracking to deployment and monitoring.
-
+Let's follow the steps beflow to build a machine learning service on GCP.
 
 1. Data preprocessing 
 2. Model Training and Tracking using mlflow
