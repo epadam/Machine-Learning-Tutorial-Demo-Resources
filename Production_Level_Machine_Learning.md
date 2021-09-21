@@ -14,23 +14,36 @@ Kafka, Spark
 
 Let's use labeling tools 
 
+Until here, data should be organized in better way.
+
 3. Data preprocessing/model training and tracking
 
-Here the most convinient way is Jupyter Notebook
+We can fetch the data in bigQuery and do some preprocessing.
 
-We can use MLflow to evaluate our model.
+Let's orchastrate a pipeline for machine learning pipeline
 
-4. Model Evalution and explaination
+Here the most convenient way is Jupyter Notebook, you can also use H2O
 
-Here we can use Manifold, SHAP for explaniation
+You can also use autoML to automatically build the model, but it would take some time.
+
+We can use MLflow or Tensorboard to evaluate different model or hyperparameters.
+
+4. Model Inspection and Explanation
+
+Here we can use Manifold, SHAP for explanation to avoid bias and misbehavior
 
 5. Model Development
 
 Let's convert our model to the format we want for serving
+(Depending on the scenario, you might need to give explanation for every single inference like medical usage or)
 
-6. Model performance monitoring
+6. Model Performance Monitoring
 
-What can be monitored from our model?
+What can be monitored from our model? 
+
+* Concept drift
+
+* equipment related index
 
 Let's use Elasticsearch APM to monitor our model
 
