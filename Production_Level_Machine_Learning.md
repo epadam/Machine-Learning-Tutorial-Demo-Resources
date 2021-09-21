@@ -127,6 +127,7 @@ Please refer to [Responsible AI](Responsible_AI.md)
    * [igel](https://github.com/nidhaloff/igel)
 * Commercial
    * [Amazon SageMaker]()
+   * [Google AI Platform]()
    * [SalesForce Einstein Discovery]()
    * [Databricks]()
    * [Huawei ModelArts]()
