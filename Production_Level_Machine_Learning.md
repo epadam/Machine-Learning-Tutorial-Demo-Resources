@@ -6,10 +6,34 @@ Machine learning models development is only little part of the whole ML system.
 
 Let's follow the steps beflow to build a machine learning service on GCP.
 
-1. Data preprocessing 
-2. Model Training and Tracking using mlflow
-3. Model Evalution and explaination
-4. Model Development and Monitoring
+1. Data Acquisition and ETL Process (Fetch data from internet )
+
+Kafka, Spark
+
+2. Data Validation/Data Annotation and Store.
+
+Let's use labeling tools 
+
+3. Data preprocessing/model training and tracking
+
+Here the most convinient way is Jupyter Notebook
+
+We can use MLflow to evaluate our model.
+
+4. Model Evalution and explaination
+
+Here we can use Manifold, SHAP for explaniation
+
+5. Model Development
+
+Let's convert our model to the format we want for serving
+
+6. Model performance monitoring
+
+What can be monitored from our model?
+
+Let's use Elasticsearch APM to monitor our model
+
 
 
 
