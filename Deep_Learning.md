@@ -4,10 +4,10 @@
 
 <img src="https://1.cms.s81c.com/sites/default/files/2021-01-06/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png" alt="Neural Network" width="300"/>
 
+## Activation Function
 
-### Back Propagation
 
-How does back propagation work?
+
 
 ### Loss Function
 
@@ -21,6 +21,11 @@ How does back propagation work?
   * ![MAE](https://miro.medium.com/max/513/0*RWvFBzRzelUnPXpq.png)
   * MSE
   * [notebook]()
+
+
+### Back Propagation
+
+How does back propagation work?
 
 ### Optimization
 
