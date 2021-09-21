@@ -14,7 +14,10 @@ y=α0+α1x
 ```
 
 * Decision Tree
+
 * Random Forest
+
+
 * Bayesian
 
 ### Classification
@@ -22,11 +25,17 @@ y=α0+α1x
 Check an example in notebook!
 
 * Logic Regression
+
 * Naive Bayes
+
 * Support Vector Machine (SVM)
-* Decision Tree
+
+* Decision Tree for Regression
+
 * Random Forest
+
 * Gradient Boosting
+
 * KNN
 
 
@@ -43,6 +52,7 @@ We can also build an interactive streamlit app from our trained model.
 ## unsupervised Learning
 
 * K-means
+
 * PCA
 
 ## Deep Learning
