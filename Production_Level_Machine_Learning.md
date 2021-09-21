@@ -32,10 +32,14 @@ We can use MLflow or Tensorboard to evaluate different model or hyperparameters.
 
 Here we can use Manifold, SHAP for explanation to avoid bias and misbehavior
 
+It would be nice if there is an interactive report that you can show the EDA and explanbility
+
 5. Model Development
 
 Let's convert our model to the format we want for serving
 (Depending on the scenario, you might need to give explanation for every single inference like medical usage or)
+
+You may need some optimization to reduce the cost of inference, 
 
 6. Model Performance Monitoring
 
