@@ -111,4 +111,4 @@ Please refer to [Responsible AI](Responsible_AI.md)
 
 ## Reference
 * A Guide to Production Level Deep Learning [`github`](https://github.com/alirezadir/Production-Level-Deep-Learning)
-* [Uber Michelangelo](https://eng.uber.com/michelangelo-machine-learning-platform/)
+* [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/)
