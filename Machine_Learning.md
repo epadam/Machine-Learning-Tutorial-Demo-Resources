@@ -1,12 +1,12 @@
 # Machine Learning
 
-In this guide, let's check an and 
+
 
 ## Supervised Learning
 
 ### Regression
 
-Check an example in notebook! 
+Check an example in [notebook](notebooks/data-analysis/Boston_House_Price.ipynb)! 
 
 * Linear Regression
 ```
