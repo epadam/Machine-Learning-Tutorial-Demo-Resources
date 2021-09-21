@@ -9,9 +9,9 @@ In this guide, let's check an and
 Check an example in notebook! 
 
 * Linear Regression
-'''
+```
 y=α0+α1x
-'''
+```
 
 * Decision Tree
 * Random Forest
