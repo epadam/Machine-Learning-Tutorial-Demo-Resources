@@ -10,12 +10,17 @@ Check an example in [notebook](notebooks/data-analysis/Boston_House_Price.ipynb)
 
 * Linear Regression
 
-The simplest LR is as below. It can be multi-dimentional depending on your input.
+The simplest LR is as below. It can be multi-dimentional depending on your input. It can also be Polynomial equation.
 
 ```
 y=ax+b
 ```
-
+   * Lasso Regression (L1)
+   * Ridge Regression (L2)
+   
+It can easily see which component is more important, but hard to include interaction between features.
+   
+   
 * Decision Tree
 
 
@@ -28,7 +33,7 @@ y=ax+b
 
 Check an example in notebook!
 
-* Logic Regression
+* Logisitc Regression
 
 * Naive Bayes
 
