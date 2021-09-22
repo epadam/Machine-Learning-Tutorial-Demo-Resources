@@ -9,11 +9,15 @@
 Check an example in [notebook](notebooks/data-analysis/Boston_House_Price.ipynb)! 
 
 * Linear Regression
+
+The simplest LR is as below. It can be multi-dimentional depending on your input.
+
 ```
-y=α0+α1x
+y=ax+b
 ```
 
 * Decision Tree
+
 
 * Random Forest
 
