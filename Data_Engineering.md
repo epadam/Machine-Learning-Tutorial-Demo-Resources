@@ -1,20 +1,25 @@
 # Data Engineering
 
-
-
-## Data Pipeline
+## Data Pipeline (ETL)
 
 Data Collection, Labeling, Storage, Processing
 
-### ETL
-
-## Data Collection
+### Data Collection
 
 How to use python for web crawling.
 
 ## Data Processing
 
-### Data Labeling
+Kafka, Spark
+
+## Data Storage and Versioning
+
+### Data Lake
+
+### Data Warehouse
+
+
+## Data Labeling
 
 * [Label Studio](https://github.com/heartexlabs/label-studio):Web based with python backend that can label different data type
 
@@ -28,8 +33,6 @@ How to use python for web crawling.
 
 * [MONAI Label](https://github.com/Project-MONAI/MONAILabel/tree/main/monailabel):Python backend with 3D Slicer as interdace for medical images annotation
 
-
-
 Some researh in labeling:
 
 [Annotating Object Instances with a Polygon-RNN](http://www.cs.toronto.edu/polyrnn/poly_cvpr17/)
@@ -40,11 +43,6 @@ Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.or
 
 
 
-## Data Storage and Versioning
-
-## Data Lake
-
-## Data Warehouse
 
 
 
