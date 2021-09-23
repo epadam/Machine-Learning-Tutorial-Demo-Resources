@@ -36,7 +36,7 @@ All the nodebooks in this section:
 ### Model Ensemble
 
 * Voting 
-* Stakcing
+* Stacking
 
 
 ### Transformer for Tabular Data Analysis
