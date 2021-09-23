@@ -47,7 +47,7 @@ Check an example in notebook!
 
 * KNN
 
-## unsupervised Learning
+## Unsupervised Learning
 
 * K-means
 
