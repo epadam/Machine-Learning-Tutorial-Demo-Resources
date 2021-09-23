@@ -17,12 +17,9 @@ All the nodebooks in this section:
 
 * Principle Component Analysis (PCA)
 * Correlation Plot
-
-### Data Distribution Analysis
-
-### Data Cleansing
-
-### Feature Engineering
+* Data Distribution Analysis
+* Data Cleansing
+* Feature Engineering
 
 ### Data Augmentation
 
