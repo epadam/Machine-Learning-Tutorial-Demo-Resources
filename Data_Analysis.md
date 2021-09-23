@@ -13,9 +13,10 @@ All the nodebooks in this section:
 
   * [Cancer Prediction]()
 
-## Explore Data Analysis(EDA)
+## Exploratory Data Analysis (EDA)
 
 * Principle Component Analysis (PCA)
+* Coreltation
 
 ### Data Distribution Analysis
 
@@ -33,7 +34,11 @@ All the nodebooks in this section:
 
 ## Model Selection and Training
 
-### Model Ensembling
+### Model Ensemble
+
+* Voting 
+* Stakcing
+
 
 ### Transformer for Tabular Data Analysis
 
@@ -48,6 +53,7 @@ All the nodebooks in this section:
 ## Model Evaluation and Inspection
 
 
+
 ### Cross-Validation
 
 ### Model Explanation
@@ -55,6 +61,6 @@ All the nodebooks in this section:
 Models like linear Regression and Decsion Tree has better explanbility. However, 
 
  * SHAP
- * 
+ * Manifold
 
 
