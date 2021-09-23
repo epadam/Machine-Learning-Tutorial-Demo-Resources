@@ -16,8 +16,13 @@ Let's use labeling tools
 
 Until here, data should be organized in better way.
 
-3. Data preprocessing/model training and tracking
+3. Data preprocessing/
 
+
+4. model training and tracking
+   * Early Stopping
+   * checked point
+   * model format
 We can fetch the data in bigQuery and do some preprocessing.
 
 Let's orchastrate a pipeline for machine learning pipeline
@@ -28,20 +33,22 @@ You can also use autoML to automatically build the model, but it would take some
 
 We can use MLflow or Tensorboard to evaluate different model or hyperparameters.
 
-4. Model Inspection and Explanation
+5. Model Inspection and Explanation
 
 Here we can use Manifold, SHAP for explanation to avoid bias and misbehavior
 
 It would be nice if there is an interactive report that you can show the EDA and explanbility
 
-5. Model Development
+6. Model Development, Training, Tracking,
+
 
 Let's convert our model to the format we want for serving
 (Depending on the scenario, you might need to give explanation for every single inference like medical usage or)
 
 You may need some optimization to reduce the cost of inference, 
 
-6. Model Performance Monitoring
+
+7. Model Performance Monitoring
 
 What can be monitored from our model? 
 
