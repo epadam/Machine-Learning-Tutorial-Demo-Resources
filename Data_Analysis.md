@@ -16,7 +16,7 @@ All the nodebooks in this section:
 ## Exploratory Data Analysis (EDA)
 
 * Principle Component Analysis (PCA)
-* Coreltation
+* Correlation Plot
 
 ### Data Distribution Analysis
 
@@ -31,6 +31,8 @@ All the nodebooks in this section:
 - albumentations [`Github`](https://github.com/albumentations-team/albumentations)
 
 - DALI [`Github`](https://github.com/NVIDIA/DALI)
+
+
 
 ## Model Selection and Training
 
@@ -60,7 +62,19 @@ All the nodebooks in this section:
 
 Models like linear Regression and Decsion Tree has better explanbility. However, 
 
- * SHAP
- * Manifold
+
+
+
+## Tools
+
+* [Facet]()
+* [SHAP]()
+* [Manifold]()
+
+## Interesting Research for Auto Data Analysis
+
+* [AutoVis]()
+* [Auto EDA]()
+* [AutoML]()
 
 
