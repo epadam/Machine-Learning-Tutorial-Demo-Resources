@@ -1,14 +1,10 @@
 # Data Engineering
 
-## Data Pipeline (ETL)
-
-Check a demo here
-
-### Pipeline Orchestration
+## Data Pipeline Orchestration
 
 * Airflow
 
-### Data Collection/Extraction
+## Data Collection (Extraction)
 
 How to use python for web crawling.
 
