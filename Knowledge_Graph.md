@@ -2,6 +2,8 @@
 
 ## Basic
 
+* Triple
+
 ## Knowledge Graph Database
 
 ### Neo4j
