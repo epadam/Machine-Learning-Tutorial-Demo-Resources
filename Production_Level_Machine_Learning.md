@@ -52,6 +52,15 @@ What can be monitored from our model?
 Let's use Elasticsearch APM to monitor our model
 
 
+## Model IP Protection
+
+How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
+
+
+## ML Attack
+
+[Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
+
 
 
 ## Resources
