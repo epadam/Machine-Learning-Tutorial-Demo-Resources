@@ -2,9 +2,12 @@
 
 ## Neural Network
 
-<img src="https://1.cms.s81c.com/sites/default/files/2021-01-06/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png" alt="Neural Network" width="300"/>
+<img src="https://1.cms.s81c.com/sites/default/files/2021-01-06/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png" alt="Neural Network" width="400"/>
 
 ### Activation Function
+
+* ReLu
+* Softmax
 
 
 
@@ -25,10 +28,11 @@
 
 ### Back Propagation
 
-How does back propagation work?
+How back propagation works?
 
 ### Optimization
 
+* SGD
 * Adam
 
 ### What is Regularization?
