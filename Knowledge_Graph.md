@@ -1,13 +1,19 @@
 # Knowledge Graph
 
-## Knowledge Graph Building
+## Basic
+
+## Knowledge Graph Database
+
+### Neo4j
+
+## NLP with Knowledge Graph
 
 ### Entity Linking
 
 
+
+## Building Knowledge Graph 
+
 ### Auto Knowledge Graph Build
 
-
-
-## Neo4j
 
