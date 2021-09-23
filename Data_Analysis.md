@@ -1,8 +1,6 @@
 # Data Analysis
 
-In this guide we will give general ideas of analysis for tabular data. For data engineering, please check [here](Data_Engineering.md).
-
-For images and texts please refer to [Computer Vision](Computer_Vision.md) and [Natural Language Processing](Natural_Language_Processing.md)
+In this section we talk about tricks and tips for data analysis with machine learning
 
 All the nodebooks in this section:
 
@@ -24,25 +22,17 @@ All the nodebooks in this section:
 
 ### Feature Engineering
 
-
-
-
-
-
-## Model Selection and Training
-
-Basic theory of models please check [Machine Learning Overview](Machine_Learning_Overview.md)
-
-### How to achieve high accuracy
-
-* Model Fusion
-* Data Augmentation
+### Data Augmentation
 
 - Augmentor [`Github`](https://github.com/mdbloice/Augmentor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 - albumentations [`Github`](https://github.com/albumentations-team/albumentations)
 
 - DALI [`Github`](https://github.com/NVIDIA/DALI)
+
+## Model Selection and Training
+
+### Model Ensembling
 
 ### Transformer for Tabular Data Analysis
 
@@ -52,9 +42,13 @@ Basic theory of models please check [Machine Learning Overview](Machine_Learning
 
 * [AutoGluon](https://github.com/awslabs/autogluon)
 
+
+
 ## Model Evaluation and Inspection
 
 
-## Model Deployment and Monitoring
+### Cross-Validation
+
+### Model Explanation
 
 
