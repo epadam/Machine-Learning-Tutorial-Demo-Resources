@@ -1,6 +1,7 @@
-# Data Analysis
+# Data Analysis 
 
-In this section we talk about tricks and tips for data analysis with machine learning
+In this section we talk about tricks and tips for data analysis with machine learning. 
+
 
 All the nodebooks in this section:
 
@@ -50,5 +51,10 @@ All the nodebooks in this section:
 ### Cross-Validation
 
 ### Model Explanation
+
+Models like linear Regression and Decsion Tree has better explanbility. However, 
+
+ * SHAP
+ * 
 
 
