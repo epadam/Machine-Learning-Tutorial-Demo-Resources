@@ -10,7 +10,14 @@
 
 ## Text Detection
 
+* Faster-RCNN
+* CTPN
+
+
 ## Text Recognition
+
+* CRNN
+  * CTC Loss 
 
 ## Information Extraction
 
