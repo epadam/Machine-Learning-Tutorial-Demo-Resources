@@ -2,21 +2,30 @@
 
 ## Data Pipeline (ETL)
 
-Data Collection, Labeling, Storage, Processing
+Check a demo here
 
-### Data Collection
+### Pipeline Orchestration
+
+* Airflow
+
+### Data Collection/Extraction
 
 How to use python for web crawling.
 
-## Data Processing
+## Data Processing (Transform)
 
 Kafka, Spark
 
-## Data Storage and Versioning
+## Data Storage and Versioning (Loading)
 
 ### Data Lake
 
+* ElasticSearch
+
 ### Data Warehouse
+
+* HBase
+* Hive
 
 
 ## Data Labeling
