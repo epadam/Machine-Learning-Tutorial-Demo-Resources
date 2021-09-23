@@ -65,14 +65,3 @@ Self-supervised learning means training the models without labeled data. AutoEnc
 [UGATIT](https://github.com/taki0112/UGATIT?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 
-## Model IP Protection
-
-How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
-
-
-## ML Attack
-
-[Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
-
-
-
