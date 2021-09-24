@@ -84,6 +84,14 @@ Demo,
 
 Theory and applications
 
+# Application Fields of Machine Learning
+
+## [Manufacturing](applications/manufacturing.md)
+
+
+
+
+
 ## [Other Learning Resources](Other_Learning_Resources.md)
 
 ## [Quick List of Libraries and Frameworks](Libraries_and_Frameworks.md)
