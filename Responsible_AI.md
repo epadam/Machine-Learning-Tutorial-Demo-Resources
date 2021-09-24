@@ -67,8 +67,7 @@ TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](htt
 ### Other Resources
 
 
-* [xAI]()
-
-* [360]()
-
+* [EthicalML/xai](https://github.com/EthicalML/xai)
+* [Trusted-AI/AIX360](https://github.com/Trusted-AI/AIX360)
+* [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360)
 * [https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources)
