@@ -2,22 +2,22 @@
 
 ## Overview
 
-* Deep Learning for Smart Manufacturing Methods and Applications
+* [Deep Learning for Smart Manufacturing Methods and Applications]()
 
-* Machine learning in manufacturing advantages challenges and applications
+* [Machine learning in manufacturing advantages challenges and applications]()
 
-## Prediction Maintenance/Anomaly Detection
+## 1. Prediction Maintenance/Anomaly Detection
 
 ### Supervised Learning
 
-How to solve Class Imbalance
+* Class Imbalance
 
 ### Autoencoder
 
 * A Novel Autoencoder with Dynamic Feature Enhanced Factor for Fault Diagnosis of Wind Turbine
 
 
-## Qaulity Control
+## 2. Qaulity Control
 
 ### Image Segmentation
 
@@ -25,22 +25,22 @@ How to solve Class Imbalance
 
 ### Online and Incremental Learning
 
-* Online and incremental machine learning approaches for IC yield improvement
+* [Online and incremental machine learning approaches for IC yield improvement]()
 
 
-## Process Automation and Optimization
+## 3. Process Automation and Optimization
 
 ### Supervised Learning
 
 * A deep learning-based approach to material removal rate prediction in polishing
 
-## Schdedule Optimization
+## 4. Schdedule Optimization
 
 ### Reinforcement Learning
 
 * Optimization of global production scheduling with deep reinforcement learning
 
-## Root Cause Analysis
+## 5. Root Cause Analysis
 
 ## Aritcles
 
