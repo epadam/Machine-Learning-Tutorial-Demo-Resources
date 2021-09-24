@@ -30,15 +30,24 @@
 
 ### Process Result Prediction
 
+[Neural_Approach_for_Modeling_and_Optimizing_Si-MOS.pdf](https://github.com/epadam/Machine-Learning-Tutorial-Demo-Resources/files/7228767/Neural_Approach_for_Modeling_and_Optimizing_Si-MOS.pdf)
 * [A deep learning-based approach to material removal rate prediction in polishing]()
 
 ### Process Parameters Optimization
 
-* [Basin Hopping Optimization]()
+When using neural network to predict the process result, couple of algorithms can be applied to the trained network to find optimized input parameters.
 
-* [Bayesian Optimization]()
+* [Basin Hopping Optimization]():
+  
+  * [](https://towardsdatascience.com/machine-learning-for-production-optimization-e460a0b82237)
+
+* [Bayesian Optimization](How to use machine learning for production optimization)
 
 * [Genetic Algorithm]()
+
+* [Gradient Descent]():
+
+  * [Neural Approach for Modeling and Optimizing Si-MOSFET Manufacturing](https://ieeexplore.ieee.org/abstract/document/9178720)
 
 ## 4. Schdedule Optimization
 
