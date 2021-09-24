@@ -91,7 +91,7 @@ Theory and applications
 
 # Application Fields of Machine Learning
 
-## [Manufacturing](applications/manufacturing.md)
+## [Manufacturing](applications/Manufacturing.md)
 
 ## [Document AI](applications/Document_AI.md)
 
