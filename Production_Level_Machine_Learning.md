@@ -53,6 +53,7 @@ You may need some optimization to reduce the cost of inference,
      * Data Drift
      * Outlier detection 
    * Concept Drift
+   * Concerted adversaries
    
 
 What can be monitored from our model? 
@@ -69,7 +70,7 @@ Let's use Elasticsearch APM to monitor our model
 How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN [`arXiv`](https://arxiv.org/abs/1903.01743)
 
 
-## ML Attack
+##  Adversarial Attack
 
 [Breaking neural networks with adversarial attacks](https://towardsdatascience.com/breaking-neural-networks-with-adversarial-attacks-f4290a9a45aa)
 
