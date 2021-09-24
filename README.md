@@ -2,6 +2,17 @@
 
 The best way to learn machine learning is to build tutorials and notes yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also pratical applications. 
 
+If you want a quick tutorial of machine learning.
+
+[Course 101 (1) Train and Deploy a Image Classifier on the web]()
+[Course 101 (2) Train and Deploy a Sentiment Classifier on the web]()
+
+Advanced:
+[Monitor your model with Elastic Search]()
+
+
+
+
 It includes many jupyter notebooks and real demo. It also answers common questions of machine learning. 
 You can find collections of most useful frameworks and tools for machine learning in this repo as well.
 
