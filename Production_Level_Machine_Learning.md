@@ -22,7 +22,7 @@ Until here, data should be organized in better way.
 4. model training and tracking
    * Early Stopping
    * checked point
-   * model format
+  
 We can fetch the data in bigQuery and do some preprocessing.
 
 Let's orchastrate a pipeline for machine learning pipeline
@@ -39,8 +39,8 @@ Here we can use Manifold, SHAP for explanation to avoid bias and misbehavior
 
 It would be nice if there is an interactive report that you can show the EDA and explanbility
 
-6. Model Development, Training, Tracking,
-
+6. Model Deployment
+    * saved model format
 
 Let's convert our model to the format we want for serving
 (Depending on the scenario, you might need to give explanation for every single inference like medical usage or)
@@ -49,6 +49,11 @@ You may need some optimization to reduce the cost of inference,
 
 
 7. Model Performance Monitoring
+   * Data Quality
+     * Data Drift
+     * Outlier detection 
+   * Concept Drift
+   
 
 What can be monitored from our model? 
 
