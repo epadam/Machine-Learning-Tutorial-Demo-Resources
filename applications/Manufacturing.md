@@ -1,4 +1,4 @@
-# Manufacturing
+# Manufacturing with Machine Learning
 
 ## Overview
 
@@ -25,7 +25,6 @@
 ### Online and Incremental Learning
 
 * [Online and incremental machine learning approaches for IC yield improvement]()
-
 
 ## 3. Process Automation and Optimization
 
