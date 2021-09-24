@@ -8,10 +8,8 @@
 
 ## 1. Prediction Maintenance/Anomaly Detection
 
-### Supervised Learning
-
 * How to solve class imbalance
-  * Data augmentation 
+  * Data Augmentation 
 
 ### Autoencoder
 
@@ -33,15 +31,23 @@
 
 ## 3. Process Automation and Optimization
 
-### Supervised Learning
+### Process Result Prediction
 
-* A deep learning-based approach to material removal rate prediction in polishing
+* [A deep learning-based approach to material removal rate prediction in polishing]()
+
+### Process Parameters Optimization
+
+* [Basin Hopping Optimization]()
+
+* [Bayesian Optimization]()
+
+* [Genetic Algorithm]()
 
 ## 4. Schdedule Optimization
 
 ### Reinforcement Learning
 
-* Optimization of global production scheduling with deep reinforcement learning
+* [Optimization of global production scheduling with deep reinforcement learning]()
 
 ## 5. Root Cause Analysis
 
