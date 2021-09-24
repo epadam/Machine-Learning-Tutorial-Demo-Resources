@@ -1,6 +1,6 @@
 # Responsible AI
 
-## Model Inspection and Explainability
+## Interpretability
 
 ### For Tabular Data
 
@@ -64,7 +64,13 @@ Explaining Explanations: An Overview of Interpretability of Machine Learning [`a
 
 TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
 
-### Other Resources
+## Fairness
+
+## Privacy
+
+## Security
+
+## Other Resources
 
 
 * [EthicalML/xai](https://github.com/EthicalML/xai)
