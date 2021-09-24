@@ -17,7 +17,9 @@
 * A Novel Autoencoder with Dynamic Feature Enhanced Factor for Fault Diagnosis of Wind Turbine
 
 
-## 2. Qaulity Control
+## 2. Qaulity Assurance
+
+![quality](https://miro.medium.com/max/2000/1*7RELPjTBwBnDR1NtLwmUQQ.jpeg)
 
 ### Image Segmentation
 
