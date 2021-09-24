@@ -10,11 +10,12 @@
 
 ### Supervised Learning
 
-* Class Imbalance
+* How to solve class imbalance
+  * Data augmentation 
 
 ### Autoencoder
 
-* A Novel Autoencoder with Dynamic Feature Enhanced Factor for Fault Diagnosis of Wind Turbine
+* [A Novel Autoencoder with Dynamic Feature Enhanced Factor for Fault Diagnosis of Wind Turbine]()
 
 
 ## 2. Qaulity Assurance
