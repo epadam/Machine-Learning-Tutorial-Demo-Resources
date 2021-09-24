@@ -1,11 +1,5 @@
 # Manufacturing with Machine Learning
 
-## Overview
-
-* [Deep Learning for Smart Manufacturing Methods and Applications]()
-
-* [Machine learning in manufacturing advantages challenges and applications]()
-
 ## 1. Prediction Maintenance/Anomaly Detection
 
 * How to solve class imbalance
@@ -39,7 +33,7 @@ When using neural network to predict the process result, couple of algorithms ca
 
 * [Basin Hopping Optimization]():
   
-  * [](https://towardsdatascience.com/machine-learning-for-production-optimization-e460a0b82237)
+  * [How to use machine learning for production optimization](https://towardsdatascience.com/machine-learning-for-production-optimization-e460a0b82237)
 
 * [Bayesian Optimization](How to use machine learning for production optimization)
 
@@ -57,6 +51,8 @@ When using neural network to predict the process result, couple of algorithms ca
 
 ## 5. Root Cause Analysis
 
-## Aritcles
+## Reference
 
-* [How to use machine learning for production optimization](https://towardsdatascience.com/machine-learning-for-production-optimization-e460a0b82237)
+* [Deep Learning for Smart Manufacturing Methods and Applications](https://www.sciencedirect.com/science/article/abs/pii/S0278612518300037)
+
+* [Machine learning in manufacturing advantages challenges and applications](https://www.tandfonline.com/doi/full/10.1080/21693277.2016.1192517)
