@@ -41,3 +41,7 @@ How to solve Class Imbalance
 * Optimization of global production scheduling with deep reinforcement learning
 
 ## Root Cause Analysis
+
+## Aritcles
+
+* [How to use machine learning for production optimization](https://towardsdatascience.com/machine-learning-for-production-optimization-e460a0b82237)
