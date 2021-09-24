@@ -45,7 +45,7 @@ Check an example in notebook!
 
 * Gradient Boosting
 
-* KNN
+* K-Nearest Neighbors
 
 ## Unsupervised Learning
 
