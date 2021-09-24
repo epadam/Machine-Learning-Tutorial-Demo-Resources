@@ -18,8 +18,6 @@
 
 ## 2. Qaulity Assurance
 
-![quality](https://miro.medium.com/max/2000/1*7RELPjTBwBnDR1NtLwmUQQ.jpeg)
-
 ### Image Segmentation
 
 * [Nvidia Defect Detection Platform](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
