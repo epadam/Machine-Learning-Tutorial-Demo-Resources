@@ -35,11 +35,11 @@ When using neural network to predict the process result, couple of algorithms ca
   
   * [How to use machine learning for production optimization](https://towardsdatascience.com/machine-learning-for-production-optimization-e460a0b82237)
 
-* [Bayesian Optimization](How to use machine learning for production optimization)
+* [Bayesian Optimization](How to use machine learning for production optimization):
 
-* [Genetic Algorithm]()
+* [Genetic Algorithm]():
 
-* [Gradient Descent]():
+* [Gradient Descent](): Maximize or Minimize output
 
   * [Neural Approach for Modeling and Optimizing Si-MOSFET Manufacturing](https://ieeexplore.ieee.org/abstract/document/9178720)
 
@@ -47,7 +47,7 @@ When using neural network to predict the process result, couple of algorithms ca
 
 ### Reinforcement Learning
 
-* [Optimization of global production scheduling with deep reinforcement learning]()
+* [Optimization of global production scheduling with deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S221282711830372X)
 
 ## 5. Root Cause Analysis
 
