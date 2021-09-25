@@ -5,15 +5,9 @@
 
 ### Models
 
-Check the Streamlit [demo]()
-
-* VGG
-
-[code]()
+* [VGG Net](notebooks/cv/CNN_architecture.ipynb)
 
 * ResNet
-
-[code]()
 
 * DenseNet
 
@@ -40,7 +34,6 @@ Check the Streamlit [demo]()
 ### Few Shot Image Classification
 
 * Meta Learning
-
 
 ## Object Detection
 
