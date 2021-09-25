@@ -4,7 +4,7 @@
 
 ### For Tabular Data
 
-* [SHAP]()
+* [SHAP](https://github.com/slundberg/shap)
 
 * XAI - An eXplainability toolbox for machine learning [`Github`](https://github.com/EthicalML/xai)
 
