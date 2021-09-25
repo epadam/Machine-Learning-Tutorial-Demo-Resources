@@ -2,22 +2,15 @@
 
 The best way to learn machine learning is to build tutorials and notes yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also pratical applications. 
 
-If you want a quick tutorial of machine learning.
+All notebooks [here](notebooks/)
 
-[Course 101 (1) Train and deploy a Image Classifier on the web]()
+[My NLP Tasks Demo]()
 
-[Course 101 (2) Train and deploy a Sentiment Classifier wit on the web]()
+[My CV Tasks Demo]()
 
-[Course 101 (3) Train and deploy a Temperature Forcasting which can continual learning to improve the prediction on the web]()
+[My Data Analysis Demo]()
 
-[Course 101 (4) How to visualize feature map and filter of your CNN model]()
-
-[Course 101 (5)]()
-
-Advanced:
-[Monitor your model with ElasticSearch]()
-
-
+[Time Series Classification Demo]()
 
 
 It includes many jupyter notebooks and real demo. It also answers common questions of machine learning. 
