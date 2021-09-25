@@ -14,7 +14,7 @@ Please check all notebooks [here](notebooks/)!!
 
 * [NLP Tasks Overview Demo]()
 
-* [Rasa QA chatbot with Haystack]
+* [Rasa QA chatbot with Haystack]()
 
 * [Spectrum Classifier Demo]()
 
