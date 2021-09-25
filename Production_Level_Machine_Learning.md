@@ -51,7 +51,8 @@ You may need some optimization to reduce the cost of inference,
 7. Model Performance Monitoring
    * Data Quality
      * Data Drift
-     * Outlier detection 
+     * Outlier detection
+   * Metrics 
    * Concept Drift
    * Concerted adversaries
    
