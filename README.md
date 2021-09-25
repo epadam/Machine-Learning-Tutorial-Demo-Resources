@@ -1,28 +1,37 @@
 # Machine Learning Tutorial, Demo and Resources
 
-The best way to learn machine learning is to build tutorials and notes yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also pratical applications. 
+The best way to learn machine learning is to build tutorials and demos yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also useful tools and libraries. It includes many jupyter notebooks and real demo. 
 
-All notebooks [here](notebooks/)
+### Quick Lists
 
-[My NLP Tasks Demo]()
+Please check all notebooks [here](notebooks/)!!
 
-[My CV Tasks Demo]()
+[CV Tasks Overview Demo](): Including Intepretity
 
-[My Data Analysis Demo]()
+[Information Extraction Demo](): OCR tasks
+
+[NLP Tasks Overview Demo]()
+
+[Rasa QA chatbot with Haystack]
+
+[Spectrum Classifier Demo]()
+
+[Sales Prediction Demo]()
 
 [Time Series Classification/Prediction Demo]()
 
+### Quick Guide
 
-It includes many jupyter notebooks and real demo. It also answers common questions of machine learning. 
-You can find collections of most useful frameworks and tools for machine learning in this repo as well.
+[How to use ElasticSearch for model monitoring]()
 
-I hope you can get good ideas of different machine learning challenges not just model build but also  and find the resources you need in this repo.
+[How to deploy a machine learning model using torchserve]()
+
+
+I hope you can get good ideas of different machine learning challenges not just model build but also and find the resources you need in this repo.
 
 A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or data engineer from AM.ai is also very helpful guideline to check.
 
 You can follow the order to learn machine learning or select the topic you are interested below:
-
-We can first start with handling the data.
 
 ## [Data Engineering](Data_Engineering.md)
 
@@ -33,8 +42,6 @@ Machine Learning is all about data processing. This section introduces ETL proce
 Techniques and issues of preserving data privacy in machine learning
 
 ## [Machine Learning](Machine_Learning.md)
-
-demo
 
 Introducing machine learning algorithms like SVM, decision trees, Random Forest with real world challenges.
 
@@ -52,10 +59,7 @@ A real world machine learning from model developement to deployment and monitori
 
 ## [Computer Vision](Computer_Vision.md)
 
-Image classification, object detection, segmentation, 
-
-## [Generative Adversarial Network](Generative_Adversarial_Network.md)
-
+Image classification, object detection, segmentation, depth estimation
 
 ## [Natural Language Processing](Natural_Language_Processing.md)
 
@@ -63,22 +67,17 @@ Include most of NLP models and tasks.
 
 ## [Knowledge Grpah](Knowledge_Graph.md)
 
-Knowledge Graph generation, application of KG
+Knowledge Graph building guide.
 
 ## [Responsible AI](Responsible_AI.md)
 
-Explainable AI, Bias avoidance
+Explainable AI, Fairness 
 
 ## [Multimodal Learning](Multimodal.md)
 
 Image captions, visual question answering
 
 ## [AutoML](autoML.md)
-
-Demo, 
-
-Theory and applications
-
 
 ## [Other Learning Resources](Other_Learning_Resources.md)
 
