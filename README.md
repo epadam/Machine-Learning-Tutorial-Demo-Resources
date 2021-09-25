@@ -10,7 +10,7 @@ All notebooks [here](notebooks/)
 
 [My Data Analysis Demo]()
 
-[Time Series Classification Demo]()
+[Time Series Classification/Prediction Demo]()
 
 
 It includes many jupyter notebooks and real demo. It also answers common questions of machine learning. 
