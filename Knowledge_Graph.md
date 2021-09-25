@@ -48,4 +48,4 @@
 
 ### Papers
 
-* [JAKET: Joint Pre-training of Knowledge Graph and Language Understanding]()
+* [JAKET: Joint Pre-training of Knowledge Graph and Language Understanding](https://arxiv.org/abs/2010.00796)
