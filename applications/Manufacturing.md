@@ -24,8 +24,8 @@
 
 ### Process Result Prediction
 
-[Neural_Approach_for_Modeling_and_Optimizing_Si-MOS](https://github.com/epadam/Machine-Learning-Tutorial-Demo-Resources/files/7228767/Neural_Approach_for_Modeling_and_Optimizing_Si-MOS.pdf)
-* [A deep learning-based approach to material removal rate prediction in polishing]()
+* [Neural_Approach_for_Modeling_and_Optimizing_Si-MOS](https://github.com/epadam/Machine-Learning-Tutorial-Demo-Resources/files/7228767/Neural_Approach_for_Modeling_and_Optimizing_Si-MOS.pdf)
+* [A deep learning-based approach to material removal rate prediction in polishing](https://www.sciencedirect.com/science/article/abs/pii/S0007850617300136)
 
 ### Process Parameters Optimization
 
@@ -39,7 +39,7 @@ When using neural network to predict the process result, couple of algorithms ca
 
 * [Genetic Algorithm]():
 
-* [Gradient Descent](): Maximize or Minimize output
+* [Gradient Descent](): Maximize or minimize output
 
   * [Neural Approach for Modeling and Optimizing Si-MOSFET Manufacturing](https://ieeexplore.ieee.org/abstract/document/9178720)
 
