@@ -20,6 +20,8 @@ Please check all notebooks [here](notebooks/)!!
 
 [Time Series Classification/Prediction Demo]()
 
+[Forest covertype with Tabnet Demo]()
+
 ### Quick Guide
 
 [How to use ElasticSearch for model monitoring]()
