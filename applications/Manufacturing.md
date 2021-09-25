@@ -7,7 +7,7 @@
 
 ### Autoencoder
 
-* [A Novel Autoencoder with Dynamic Feature Enhanced Factor for Fault Diagnosis of Wind Turbine]()
+* [A Novel Autoencoder with Dynamic Feature Enhanced Factor for Fault Diagnosis of Wind Turbine](https://www.mdpi.com/2079-9292/9/4/600)
 
 
 ## 2. Qaulity Assurance
@@ -18,13 +18,13 @@
 
 ### Online and Incremental Learning
 
-* [Online and incremental machine learning approaches for IC yield improvement]()
+* [Online and incremental machine learning approaches for IC yield improvement](https://ieeexplore.ieee.org/document/8203857/)
 
 ## 3. Process Automation and Optimization
 
 ### Process Result Prediction
 
-[Neural_Approach_for_Modeling_and_Optimizing_Si-MOS.pdf](https://github.com/epadam/Machine-Learning-Tutorial-Demo-Resources/files/7228767/Neural_Approach_for_Modeling_and_Optimizing_Si-MOS.pdf)
+[Neural_Approach_for_Modeling_and_Optimizing_Si-MOS](https://github.com/epadam/Machine-Learning-Tutorial-Demo-Resources/files/7228767/Neural_Approach_for_Modeling_and_Optimizing_Si-MOS.pdf)
 * [A deep learning-based approach to material removal rate prediction in polishing]()
 
 ### Process Parameters Optimization
