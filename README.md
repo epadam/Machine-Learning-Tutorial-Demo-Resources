@@ -6,30 +6,31 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 Please check all notebooks [here](notebooks/)!!
 
-[CV Tasks Overview Demo](): Including Intepretity
+### All the demos
 
-[Information Extraction Demo](): OCR tasks
+* [CV Tasks Overview Demo](): Including Intepretity
 
-[NLP Tasks Overview Demo]()
+* [Information Extraction Demo](): OCR tasks
 
-[Rasa QA chatbot with Haystack]
+* [NLP Tasks Overview Demo]()
 
-[Spectrum Classifier Demo]()
+* [Rasa QA chatbot with Haystack]
 
-[Sales Prediction Demo]()
+* [Spectrum Classifier Demo]()
 
-[Time Series Classification/Prediction Demo]()
+* [Sales Prediction Demo]()
 
-[Forest covertype with Tabnet Demo]()
+* [Time Series Classification/Prediction Demo]()
+
+* [Forest covertype with Tabnet Demo]()
 
 ### Quick Guide
 
-[How to use ElasticSearch for model monitoring]()
+* [How to deploy the a production ready model]()
 
-[How to deploy a machine learning model using torchserve]()
+* [How to use ElasticSearch for model monitoring]()
 
-
-I hope you can get good ideas of different machine learning challenges not just model build but also and find the resources you need in this repo.
+* [How to deploy a machine learning model using torchserve]()
 
 A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or data engineer from AM.ai is also very helpful guideline to check.
 
