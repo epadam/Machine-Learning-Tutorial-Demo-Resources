@@ -6,16 +6,16 @@ If you want a quick tutorial of machine learning.
 
 [Course 101 (1) Train and deploy a Image Classifier on the web]()
 
-[Course 101 (2) Train and deploy a Sentiment Classifier on the web]()
+[Course 101 (2) Train and deploy a Sentiment Classifier wit on the web]()
 
 [Course 101 (3) Train and deploy a Temperature Forcasting which can continual learning to improve the prediction on the web]()
 
 [Course 101 (4) How to visualize feature map and filter of your CNN model]()
 
-[Course 101 (5) ]()
+[Course 101 (5)]()
 
 Advanced:
-[Monitor your model with Elastic Search]()
+[Monitor your model with ElasticSearch]()
 
 
 
