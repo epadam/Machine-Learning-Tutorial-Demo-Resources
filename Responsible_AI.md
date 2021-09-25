@@ -6,7 +6,7 @@
 
 * [SHAP](https://github.com/slundberg/shap)
 
-* XAI - An eXplainability toolbox for machine learning [`Github`](https://github.com/EthicalML/xai)
+* [xAI](https://github.com/EthicalML/xai)
 
 * [LIME](https://github.com/marcotcr/lime)
 
@@ -14,44 +14,40 @@
 
 * [What If Tool](https://pair-code.github.io/what-if-tool/)
 
-* InterpretML [`Github`](https://github.com/interpretml/interpret)
+* [InterpretML](https://github.com/interpretml/interpret)
 
-* Google TCAV [`Github`](https://github.com/tensorflow/tcav)
+* [TCAV](https://github.com/tensorflow/tcav)
 
 
 ### For Computer Vision
 
-* Feature Map visualization of CNN
-  * https://blog.csdn.net/weixin_36411839/article/details/109097714
-  * https://kknews.cc/zh-tw/code/4zlpp9v.html
-
-* Perturbation based 
+* Perturbation Based 
 
   * [LIME](https://github.com/marcotcr/lime)
   
-  * [Integrated Gradients]() 
+  * [Integrated Gradients](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients) 
 
 
-* Backpropagation based
+* Backpropagation Based
   
   * Gradient Based
 
-    * Saliency maps
+    * Saliency Maps
       * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
       * [Keras-vis](https://raghakot.github.io/keras-vis/)
   
-    * [Grad-CAM]()
+    * [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
   
-  * Relevance score based
+  * Relevance Score Based
     
-    * [Layerwise Relevance Propagation]()
+    * [Layerwise Relevance Propagation](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
 
-    * [DeepLift]()
+    * [DeepLift visualization with Captum](notebooks/cv/deeplift.ipynb)
 
 
 ### For Natural Language Processing
 
-* [LIT]()
+* [LIT](https://github.com/PAIR-code/lit)
 
 * [LIME](https://github.com/marcotcr/lime)
 
@@ -72,7 +68,7 @@ TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](htt
 
 ## Other Resources
 
-
+* [Captum](https://captum.ai/)
 * [EthicalML/xai](https://github.com/EthicalML/xai)
 * [Trusted-AI/AIX360](https://github.com/Trusted-AI/AIX360)
 * [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360)
