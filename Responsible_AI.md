@@ -42,7 +42,7 @@
     
     * [Layerwise Relevance Propagation](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
 
-    * [DeepLift visualization with Captum](notebooks/cv/deeplift.ipynb)
+    * [DeepLift](https://github.com/kundajelab/deeplift)
 
 
 ### For Natural Language Processing
