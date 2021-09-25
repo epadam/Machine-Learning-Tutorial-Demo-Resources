@@ -26,11 +26,18 @@ Please check all notebooks [here](notebooks/)!!
 
 ### Quick Guide
 
+Simple:
+
+* [Deploy your first image classifier using streamlit from Tensorflow Hub](demo/simple/tensorhub)
+
+Medium:
+
 * [How to deploy the a production ready model]()
 
 * [How to use ElasticSearch for model monitoring]()
 
 * [How to deploy a machine learning model using torchserve]()
+
 
 A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or data engineer from AM.ai is also very helpful guideline to check.
 
