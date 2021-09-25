@@ -12,6 +12,8 @@ If you want a quick tutorial of machine learning.
 
 [Course 101 (4) How to visualize feature map and filter of your CNN model]()
 
+[Course 101 (5) ]()
+
 Advanced:
 [Monitor your model with Elastic Search]()
 
