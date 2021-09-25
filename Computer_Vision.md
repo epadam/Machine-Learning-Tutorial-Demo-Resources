@@ -46,14 +46,17 @@ Check the Streamlit [demo]()
 
 * One-Stage 
 
-  * SSD
+  * [SSD]()
   * [YOLO]()
   
 * Two-Stage
   
-  * Faster R-CNN
+  * [Faster R-CNN]()
 
-Feature Pyramid Network (FPN)
+  * [Feature Pyramid Network]()
+
+### Metrics
+
 
 
 ### NAS for Object Detection
@@ -152,10 +155,7 @@ Check the Demo here:
 
 Please check [Document_AI.md](applications/Document_AI.md)
 
-
 ## Image Retrieval
-
-
 
 ##  Video Processing
 
