@@ -1,5 +1,8 @@
 # Computer Vision
 
+Resources for Computer Vision Tasks
+
+Check demos [here]()
 
 ## Image Classification
 
@@ -7,21 +10,21 @@
 
 * [VGG Net](notebooks/cv/CNN_architecture.ipynb)
 
-* ResNet
+* [ResNet]()(notebooks/cv/CNN_architecture.ipynb)
 
-* DenseNet
+* [DenseNet]()(notebooks/cv/CNN_architecture.ipynb)
 
-* Morphnet
+* [Morphnet]()(notebooks/cv/CNN_architecture.ipynb)
 
 * Model Compression:
 
-  * MobileNet
+  * [MobileNet]()(notebooks/cv/CNN_architecture.ipynb)
 
-  * EfficientNet
+  * [EfficientNet]()(notebooks/cv/CNN_architecture.ipynb)
 
 ### Fine-Grained Image Classification
 
-* [Dog-breed-classification]()
+* [Dog-breed-classification](notebooks/cv/dog_breed.ipynb)
 
 ### Autoencoder for Image Classification
 
@@ -39,14 +42,14 @@
 
 * One-Stage 
 
-  * [SSD]()
-  * [YOLO]()
+  * [SSD](notebooks/cv/object_detection.ipynb)
+  * [YOLO](notebooks/cv/object_detection.ipynb)
   
 * Two-Stage
   
-  * [Faster R-CNN]()
+  * [Faster R-CNN](notebooks/cv/object_detection.ipynb)
 
-  * [Feature Pyramid Network]()
+  * [Feature Pyramid Network](notebooks/cv/object_detection.ipynb)
 
 ### Metrics
 
@@ -88,8 +91,6 @@
 * Detecting the Unexpected via Image Resynthesis [`arXiv`](https://arxiv.org/abs/1904.07595)
 
 ## Panoptic Segmentation
-
-Check the Demo here:
 
 * Detectron2 [`github`](https://github.com/facebookresearch/detectron2)
 
