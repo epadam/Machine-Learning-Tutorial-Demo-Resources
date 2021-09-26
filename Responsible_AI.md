@@ -10,13 +10,15 @@
 
 * [LIME](https://github.com/marcotcr/lime)
 
-* [Manifold](https://github.com/uber/manifold#manifold)
+* Tools:
 
-* [What If Tool](https://pair-code.github.io/what-if-tool/)
+   * [Manifold](https://github.com/uber/manifold#manifold)
 
-* [InterpretML](https://github.com/interpretml/interpret)
+   * [What If Tool](https://pair-code.github.io/what-if-tool/)
 
-* [TCAV](https://github.com/tensorflow/tcav)
+   * [InterpretML](https://github.com/interpretml/interpret)
+
+   * [TCAV](https://github.com/tensorflow/tcav)
 
 
 ### For Computer Vision
@@ -24,25 +26,22 @@
 * Perturbation Based 
 
   * [LIME](https://github.com/marcotcr/lime)
-  
-  * [Integrated Gradients](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients) 
+   
+* Gradient Based
 
-
-* Backpropagation Based
-  
-  * Gradient Based
-
-    * Saliency Maps
+  * Saliency Maps
       * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
       * [Keras-vis](https://raghakot.github.io/keras-vis/)
+      
+  * [Integrated Gradients](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
   
-    * [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
+  * [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
   
-  * Relevance Score Based
+* Relevance Score Based
     
-    * [Layerwise Relevance Propagation](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
+  * [Layerwise Relevance Propagation](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
 
-    * [DeepLift](https://github.com/kundajelab/deeplift)
+  * [DeepLift](https://github.com/kundajelab/deeplift)
 
 
 ### For Natural Language Processing
@@ -50,8 +49,6 @@
 * [LIT](https://github.com/PAIR-code/lit)
 
 * [LIME](https://github.com/marcotcr/lime)
-
-
 
 
 ### Research Papers
