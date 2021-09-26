@@ -10,11 +10,13 @@ Check demos [here]()
 
 * [VGG Net](notebooks/cv/CNN_architecture.ipynb)
 
-* [ResNet]()(notebooks/cv/CNN_architecture.ipynb)
+* [ResNet](notebooks/cv/CNN_architecture.ipynb)
 
-* [DenseNet]()(notebooks/cv/CNN_architecture.ipynb)
+* [DenseNet](notebooks/cv/CNN_architecture.ipynb)
 
-* [Morphnet]()(notebooks/cv/CNN_architecture.ipynb)
+* [Morphnet](notebooks/cv/CNN_architecture.ipynb)
+
+* [Inception](notebooks/cv/CNN_architecture.ipynb)
 
 * Model Compression:
 
