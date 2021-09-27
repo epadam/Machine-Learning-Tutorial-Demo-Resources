@@ -10,13 +10,13 @@ Please check all notebooks [here](notebooks/)!!
 
 Simple:
 
-* [Deploy your first image classifier using streamlit from Tensorflow Hub](demo/simple/tensorhub)
+* [Build your first image classifier demo with interpreity from Tensorflow Hub (Using Streamlit)](demo/simple/image_cls)
 
-* [Predict House Price with ML and build a Demo]()
+* [Build a interpretible house price predictor with machine learning](demo/simple/data_analysis)
 
-* [Track your model with MLflow]()
+* [Train and track your model with MLflow]()
 
-* [How to deploy a machine learning model using torchserve]()
+* [Deploy a machine learning model using torchserve or tensorflow serving]()
 
 Medium:
 
@@ -25,15 +25,15 @@ Medium:
 * [How to use ElasticSearch for model monitoring]()
 
 
-### All the demos
+### Other Demos
 
 * [CV Tasks Overview Demo]()
 
-* [Information Extraction Demo](): OCR tasks
+* [Information Extraction Demo]()
 
 * [NLP Tasks Overview Demo]()
 
-* [Rasa QA chatbot with Haystack]()
+* [Rasa QA chatbot with Haystack Demo]()
 
 * [Spectrum Classifier Demo]()
 
@@ -42,8 +42,6 @@ Medium:
 * [Time Series Classification/Prediction Demo]()
 
 * [Forest covertype with Tabnet Demo]()
-
-
 
 
 A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or data engineer from AM.ai is also very helpful guideline to check.
