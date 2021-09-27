@@ -29,10 +29,11 @@ Please check all notebooks [here](notebooks/)!!
 Simple:
 
 * [Deploy your first image classifier using streamlit from Tensorflow Hub](demo/simple/tensorhub)
+* [Track your model with MLflow]()
 
 Medium:
 
-* [How to deploy the a production ready model]()
+* [How to deploy the a production ready model](MLOps.md)
 
 * [How to use ElasticSearch for model monitoring]()
 
