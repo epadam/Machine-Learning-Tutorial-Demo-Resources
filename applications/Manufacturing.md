@@ -39,7 +39,7 @@ When using neural network to predict the process result, couple of algorithms ca
 
 * [Genetic Algorithm]():
 
-* [Gradient Descent](): Maximize or minimize output
+* [Activation Maximization](): Maximize or minimize output 
 
   * [Neural Approach for Modeling and Optimizing Si-MOSFET Manufacturing](https://ieeexplore.ieee.org/abstract/document/9178720)
 
