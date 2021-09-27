@@ -6,6 +6,24 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 Please check all notebooks [here](notebooks/)!!
 
+### Quick Guide
+
+Simple:
+
+* [Deploy your first image classifier using streamlit from Tensorflow Hub](demo/simple/tensorhub)
+
+* [Predict House Price with ML and build a Demo]()
+
+* [Track your model with MLflow]()
+
+Medium:
+
+* [How to deploy the a production ready model](MLOps.md)
+
+* [How to use ElasticSearch for model monitoring]()
+
+* [How to deploy a machine learning model using torchserve]()
+
 ### All the demos
 
 * [CV Tasks Overview Demo](): Including Intepretity
@@ -24,20 +42,7 @@ Please check all notebooks [here](notebooks/)!!
 
 * [Forest covertype with Tabnet Demo]()
 
-### Quick Guide
 
-Simple:
-
-* [Deploy your first image classifier using streamlit from Tensorflow Hub](demo/simple/tensorhub)
-* [Track your model with MLflow]()
-
-Medium:
-
-* [How to deploy the a production ready model](MLOps.md)
-
-* [How to use ElasticSearch for model monitoring]()
-
-* [How to deploy a machine learning model using torchserve]()
 
 
 A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or data engineer from AM.ai is also very helpful guideline to check.
