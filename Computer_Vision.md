@@ -121,6 +121,8 @@ Check demos [here]()
 
 * Deep Convolutional Neural Fields for Depth Estimation from a Single Image [`arXiv`](https://arxiv.org/abs/1411.6387)
 
+* AdaBins: Depth Estimation using Adaptive Bins [`arXiv`](https://arxiv.org/pdf/2011.14141.pdf)
+
 ## Pose Estimation
 
 * openpose [`github`](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
