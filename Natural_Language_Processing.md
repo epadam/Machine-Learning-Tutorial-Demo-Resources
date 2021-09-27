@@ -514,40 +514,9 @@ You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchm
 
 You can choose the library based on which framework they are using(tensorflow, pytorch or both), running speed, support of distributed training or special processing functions.
 
-<table border="0" align="center">
-<tr>
-    <td style="padding:15px;"><a href="#tokenization"> </a></td>
-    <td style="padding:15px;"><a href="#word-embeddings---word2vec">AllenNLP</td>
-    <td style="padding:15px;"><a href="#word-embeddings---glove">SpaCy</a></td>
-    <td style="padding:15px;"><a href="#word-embeddings---elmo">Farm</a></td>
-</tr>
+### Adversarial Attack Test
 
-<tr>
-    <td style="padding:15px;"><a href="#rnn-lstm-gru">Distributed Training</a></td>
-    <td style="padding:15px;"><a href="#packing-padded-sequences">X</a></td>
-    <td style="padding:15px;"><a href="#attention-mechanism---luong">X</a></td>
-    <td style="padding:15px;"><a href="#attention-mechanism---bahdanau">Attention Mechanism - Bahdanau</a></td>
-</tr>
-
-<tr>
-    <td style="padding:15px;"><a href="#pointer-network">Speed</a></td>
-    <td style="padding:15px;"><a href="#transformer">Transformer</a></td>
-    <td style="padding:15px;"><a href="#gpt-2">GPT-2</a></td>
-    <td style="padding:15px;"><a href="#bert">BERT</a></td>
-</tr>
-
-<tr>
-    <td style="padding:15px;"><a href="#topic-modelling-using-lda">Preprocessing</a></td>
-    <td style="padding:15px;"><a href="#principal-component-analysispca">Principal Component Analysis (PCA)</a></td>
-    <td style="padding:15px;"><a href="#naive-bayes-algorithm">Naive Bayes</a></td>
-    <td style="padding:15px;"><a href="#data-augmentation-in-nlp">Data Augmentation</a></td>
-</tr>
-
-<tr>
-    <td style="padding:15px;"><a href="#sentence-embeddings">Sentence Embeddings</a></td>
-</tr>
-
-</table>
+* [TextAttack](https://github.com/QData/TextAttack)
 
 ### pre-trained models
 
