@@ -2,7 +2,7 @@
 
 The best way to learn machine learning is to build tutorials and demos yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also useful tools and libraries. It includes many jupyter notebooks and real demo. 
 
-### Quick Lists
+### Quick Notebook Lists
 
 Please check all notebooks [here](notebooks/)!!
 
@@ -16,17 +16,18 @@ Simple:
 
 * [Track your model with MLflow]()
 
+* [How to deploy a machine learning model using torchserve]()
+
 Medium:
 
 * [How to deploy the a production ready model](MLOps.md)
 
 * [How to use ElasticSearch for model monitoring]()
 
-* [How to deploy a machine learning model using torchserve]()
 
 ### All the demos
 
-* [CV Tasks Overview Demo](): Including Intepretity
+* [CV Tasks Overview Demo]()
 
 * [Information Extraction Demo](): OCR tasks
 
