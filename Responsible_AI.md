@@ -2,40 +2,22 @@
 
 ## Interpretability
 
-### For Tabular Data
+### For All Type Data
 
-* [SHAP](https://github.com/slundberg/shap)
+* Perturbation Based
+   * [LIME](https://github.com/marcotcr/lime)
+  
+   * [SHAP](https://github.com/slundberg/shap)
 
-* [xAI](https://github.com/EthicalML/xai)
-
-* [LIME](https://github.com/marcotcr/lime)
-
-* Tools:
-
-   * [Manifold](https://github.com/uber/manifold#manifold)
-
-   * [What If Tool](https://pair-code.github.io/what-if-tool/)
-
-   * [InterpretML](https://github.com/interpretml/interpret)
-
-   * [TCAV](https://github.com/tensorflow/tcav)
-
-
-### For Computer Vision
-
-* Perturbation Based 
-
-  * [LIME](https://github.com/marcotcr/lime)
-   
 * Gradient Based
 
-  * Saliency Maps
+   * Saliency Maps
       * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
       * [Keras-vis](https://raghakot.github.io/keras-vis/)
-      
-  * [Integrated Gradients](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
+
+* [Integrated Gradients](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
   
-  * [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
+* [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
   
 * Relevance Score Based
     
@@ -43,12 +25,26 @@
 
   * [DeepLift](https://github.com/kundajelab/deeplift)
 
+### For Tabular Data
+
+* [xAI](https://github.com/EthicalML/xai)
+
+* [Manifold](https://github.com/uber/manifold#manifold)
+
+* [What If Tool](https://pair-code.github.io/what-if-tool/)
+
+* [InterpretML](https://github.com/interpretml/interpret)
+
+* [TCAV](https://github.com/tensorflow/tcav)
+
+
+### For Computer Vision
+
+
 
 ### For Natural Language Processing
 
 * [LIT](https://github.com/PAIR-code/lit)
-
-* [LIME](https://github.com/marcotcr/lime)
 
 
 ### Research Papers
@@ -66,7 +62,11 @@ TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](htt
 ## Other Resources
 
 * [Captum](https://captum.ai/)
+
 * [EthicalML/xai](https://github.com/EthicalML/xai)
+
 * [Trusted-AI/AIX360](https://github.com/Trusted-AI/AIX360)
+
 * [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360)
+
 * [https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources)
