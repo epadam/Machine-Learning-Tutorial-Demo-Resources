@@ -2,7 +2,7 @@
 
 ## Interpretability
 
-### For All Type Data
+### For All Data Type
 
 * Perturbation Based
    * [LIME](https://github.com/marcotcr/lime)
@@ -15,17 +15,21 @@
       * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
       * [Keras-vis](https://raghakot.github.io/keras-vis/)
 
-* [Integrated Gradients](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
+   * [Integrated Gradients](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
   
-* [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
+   * [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
   
 * Relevance Score Based
     
-  * [Layerwise Relevance Propagation](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
+   * [Layerwise Relevance Propagation](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
 
-  * [DeepLift](https://github.com/kundajelab/deeplift)
+   * [DeepLift](https://github.com/kundajelab/deeplift)
 
 ### For Tabular Data
+
+* Feature Importance
+
+* Permutation Importance
 
 * [xAI](https://github.com/EthicalML/xai)
 
