@@ -427,6 +427,9 @@ News writing, article gneration
 
 * [CTRL]()
 
+* Reference:
+   * [How to Fine-Tune GPT-2 for Text Generation](https://towardsdatascience.com/how-to-fine-tune-gpt-2-for-text-generation-ae2ea53bc272)
+
 ### Machine Translation
 
 * [T5 for translation](notebooks/nlp/natural-language-generation/translation/T5_translation.ipynb)
