@@ -199,9 +199,15 @@ Control text generation:
 
 * random
 
+Bias Control of NLG model:
+
+* [Towards Controllable Biases in Language Generation](https://arxiv.org/abs/2005.00268)
+
+
 More Resources:
 
-* [Chinese GPT-2](https://github.com/imcaspar/gpt2-ml)  
+* [Chinese GPT-2](https://github.com/imcaspar/gpt2-ml) 
+
 
 # NLP Tasks
 
