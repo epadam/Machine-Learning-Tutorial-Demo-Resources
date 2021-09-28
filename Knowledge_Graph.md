@@ -8,7 +8,10 @@
 ## NLP with Knowledge Graph
 
 * Name Enitity Recognition
+
 * Entity Linking
+  * [Spacy Component for Entity linking in Knowlege Graph](https://github.com/allenai/scispacy)
+  * [REL (Entity Linker)](https://github.com/informagi/REL) 
 
 ### Graph Convolutional Network with Knowledge Graph
 
@@ -17,6 +20,7 @@
 ## Building Knowledge Graph 
 
 * NER
+
 * Relation Extraction
 
 ### Auto Knowledge Graph Build
