@@ -13,6 +13,9 @@
   * [Spacy Component for Entity linking in Knowlege Graph](https://github.com/allenai/scispacy)
   * [REL (Entity Linker)](https://github.com/informagi/REL) 
 
+* [Entity Disambiguation]()
+
+
 ### Graph Convolutional Network with Knowledge Graph
 
 ### Knowledge Representation Learning
