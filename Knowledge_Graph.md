@@ -16,10 +16,6 @@
 * [Entity Disambiguation]()
 
 
-### Graph Convolutional Network with Knowledge Graph
-
-### Knowledge Representation Learning
-
 ## Building Knowledge Graph 
 
 * NER
