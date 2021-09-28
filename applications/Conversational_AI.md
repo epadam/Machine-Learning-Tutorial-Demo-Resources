@@ -1,6 +1,5 @@
 # Machine Learning for Conversational AI
 
-
 Chatbot is probably the most challenging application in NLP. It requires almost all tasks above to give smooth communicating experience.
 It can be simple Q&A chatbot, task specific cahtbot to open domain chatbot or all-in-one chatbot. 
 
@@ -25,27 +24,22 @@ It requires NLU, which include intent extraction, Name Entity Recognition, Relat
 
 * Joint Classification of NER and Intention
 
-  * [DIET]() 
+  * [DIET from RASA](https://github.com/RasaHQ/rasa/blob/main/rasa/nlu/classifiers/diet_classifier.py) 
 
 
 ### Dialog State Tracking
 
 ### Dialog Policy
 
-* TEDpolicy
+* [TEDpolicy](https://github.com/RasaHQ/rasa/blob/main/rasa/core/policies/ted_policy.py)
 
 ### NLG
 
-notebook  
-
-Check also some other examples here
 
 
 ## Chatbot with Knowledge Graph
 
-Knowledge grpah gives the power of chatbot. Please check here 
-
-## Multitask Chatbot
+* Entity Linking
 
 
 
