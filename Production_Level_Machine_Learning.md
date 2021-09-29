@@ -8,13 +8,11 @@ Let's follow the steps beflow to build a machine learning service on GCP.
 
 1. Data Acquisition and ETL Process (Fetch data from internet )
 
-Kafka, Spark
+  - Kafka, Spark
 
 2. Data Validation/Data Annotation and Store.
 
-Let's use labeling tools 
 
-Until here, data should be organized in better way.
 
 3. Data preprocessing/
 
@@ -40,7 +38,7 @@ Here we can use Manifold, SHAP for explanation to avoid bias and misbehavior
 It would be nice if there is an interactive report that you can show the EDA and explanbility
 
 6. Model Deployment
-    * saved model format
+ 
 
 Let's convert our model to the format we want for serving
 (Depending on the scenario, you might need to give explanation for every single inference like medical usage or)
@@ -49,6 +47,9 @@ You may need some optimization to reduce the cost of inference,
 
 
 7. Model Performance Monitoring
+
+What can be monitored from our model? 
+
    * Data Quality
      * Data Drift
      * Outlier detection
@@ -56,12 +57,7 @@ You may need some optimization to reduce the cost of inference,
    * Concept Drift
    * Concerted adversaries
    
-
-What can be monitored from our model? 
-
-* Concept drift
-
-* equipment related index
+* Operational related index
 
 Let's use Elasticsearch APM to monitor our model
 
@@ -81,12 +77,18 @@ How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Pro
 
 ### Data Storage
 
-* Data Lake
+* Data Lake 
+  * Amazon S3
+  * Google Cloud Storage (GCS)
+  * Hadoop Distributed File System (HDFS)
+  * MongoDB
 * Data Warehouse
+  * BigQuery 
+  * Snowflake
 
 ### Orchestration
 
-[TFX]()
+[TFX](https://www.tensorflow.org/tfx)
 
 [Kubeflow](https://www.kubeflow.org/)
 
@@ -96,11 +98,11 @@ How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Pro
 
 * [Polyaxon](https://polyaxon.com/)
 
-* OpenPAI
+* [OpenPAI](https://openpai.readthedocs.io/en/latest/#:~:text=OpenPAI%20is%20an%20open%2Dsource,User%20Manual%20and%20Admin%20Manual.)
 
-* [Horovod]()
+* [Horovod](https://github.com/horovod/horovod)
 
-* [Ray]()
+* [Ray](https://www.ray.io/)
 
 ### Training Management and Tracking
 
