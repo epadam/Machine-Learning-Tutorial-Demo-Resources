@@ -20,6 +20,8 @@ Simple:
 
 Medium:
 
+* [Deploy a Bert model at scale](Natural_Language_Processing.md)
+
 * [How to deploy the a production ready model](MLOps.md)
 
 * [How to use ElasticSearch for model monitoring]()
