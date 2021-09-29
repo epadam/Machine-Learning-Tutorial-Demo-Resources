@@ -119,11 +119,13 @@ Please refer to [Responsible AI](Responsible_AI.md)
 
 ## Model Format for Deployment
 
-* Saved Model
+* Tensorflow
+  * SavedModel
+  * H5
 
-* protobuf
-
-* ONNX
+* Pytorch
+  * Torchscript 
+  * ONNX
 
 [tfpyth](https://github.com/BlackHC/tfpyth)
 
@@ -136,6 +138,7 @@ Please refer to [Responsible AI](Responsible_AI.md)
 * KF serving
 * Mleap
 * Clipper
+* Torchserve
 
 ### Edge Deployment
 
