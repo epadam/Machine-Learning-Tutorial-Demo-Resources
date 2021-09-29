@@ -34,13 +34,13 @@ video-object-removal [`Github`](https://github.com/zllrunning/video-object-remov
 
 Large Scale GAN Training for High Fidelity Natural Image Synthesis [`arXiv`](https://arxiv.org/abs/1807.10875)
 
+#### Dataset Generation
+
 ### GAN for Transfer Learning
 
 ### GAN for Multimodal
 
 ### GAN for NLP
-
-* Code Generation
 
 ### GAN for ML Attack
 
