@@ -5,7 +5,7 @@
 * Process Automation (RPA)
 
 * Security 
-   * Fraud Detection
+   * [Fraud Detection](notebooks/data-analysis/fraud_detection.ipynb)
 
 * Insurance Underwriting
 
