@@ -18,7 +18,10 @@ All the nodebooks in this section:
 * Principle Component Analysis (PCA)
 * Correlation Plot
 * Data Distribution Analysis
+   * Undersampling for Imbalanced Data
+   * Oversampling for Imbalanced Data 
 * Data Cleansing
+   * Outlier Detection 
 * Feature Engineering
 
 ### Data Augmentation
