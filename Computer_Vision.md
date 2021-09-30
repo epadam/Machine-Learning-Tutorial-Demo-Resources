@@ -24,6 +24,8 @@ Check demos [here]()
 
   * [EfficientNet]()(notebooks/cv/CNN_architecture.ipynb)
 
+
+
 ### Fine-Grained Image Classification
 
 * [Dog-breed-classification](notebooks/cv/dog_breed.ipynb)
@@ -202,6 +204,13 @@ generative-compression [`github`](https://github.com/Justin-Tan/generative-compr
 * SNIPER [`github`](https://github.com/mahyarnajibi/SNIPER)
 
 * [Mediapipe](https://mediapipe.dev/)
+
+
+### Data Augmentation
+
+* Tensorflow Augmentation[`link`](https://www.tensorflow.org/tutorials/images/data_augmentation)
+
+* Albumentations[`github`](https://albumentations.ai/whos_using)
 
 ## Awesome CV List
 
