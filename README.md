@@ -10,9 +10,11 @@ Please check all notebooks [here](notebooks/)!!
 
 Simple:
 
-* [Build your first image classifier demo with interpreity from Tensorflow Hub (Using Streamlit)](demo/simple/image_cls)
+* [House Price Predction with Interpretible Machine Learning and Deep Learning in notebook](notebooks/data-analysis/house_price.ipynb)
 
-* [Build a interpretible house price predictor with machine learning](demo/simple/data_analysis)
+* [Neural Network Explore Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation](notebooks/data-analysis/house_price_NN_xAI.ipynb)
+
+* [Build your first image classifier demo from Tensorflow Hub (Using Streamlit)](demo/simple/image_cls)
 
 * [Train and track your model with MLflow]()
 
