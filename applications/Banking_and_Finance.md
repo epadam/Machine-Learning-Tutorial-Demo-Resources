@@ -5,7 +5,7 @@
 * Process Automation (RPA)
 
 * Security 
-   * Fraud Detection[`notebook`](notebooks/data-analysis/fraud_detection.ipynb)
+   * Fraud Detection[`notebook`](notebooks/data-analysis/fraud_detection.ipynb): To improve the accuracy, more data or include related features is crucial
 
 * Insurance Underwriting
 
