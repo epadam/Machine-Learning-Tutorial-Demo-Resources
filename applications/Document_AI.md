@@ -21,6 +21,11 @@
 
 ## Information Extraction
 
+* Transformer Based
+    * LayoutLM []()
+* Graph Network
+    * Spatial Dual-Modality Graph Reasoning for Key Information Extraction [`arXiv`](https://arxiv.org/abs/2103.14470)
+
 ## Open Source Resources
 
 
