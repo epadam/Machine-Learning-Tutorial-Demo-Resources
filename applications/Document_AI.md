@@ -31,3 +31,11 @@ Microsoft
 Huawei
 
 Baidu
+
+## Tools
+
+* mmOCR [`github`](https://mmocr.readthedocs.io/en/latest/)
+
+## Reference
+
+* Timeseries anomaly detection using an Autoencoder [`link`](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
