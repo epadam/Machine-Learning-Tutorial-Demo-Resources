@@ -63,9 +63,12 @@ Check the Interactive Streamlit [Demo]()
 
 ### Research Papers
 
-Explaining Explanations: An Overview of Interpretability of Machine Learning [`arXiv`](https://arxiv.org/abs/1806.00069)
+* Explaining Explanations: An Overview of Interpretability of Machine Learning [`arXiv`](https://arxiv.org/abs/1806.00069)
 
-TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
+* TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
+
+* A Unified Approach to Interpreting Model Predictions
+
 
 ## Fairness
 
@@ -88,3 +91,5 @@ TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](htt
 ## Reference
 
 * https://maelfabien.github.io/machinelearning/Explorium_2/#limitations-of-linear-regression
+
+* https://christophm.github.io/interpretable-ml-book/
