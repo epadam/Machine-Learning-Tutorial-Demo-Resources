@@ -9,7 +9,6 @@ Check the Interactive Streamlit [Demo]()
 * Perturbation Based
    * LIME [`github`](https://github.com/marcotcr/lime)
   
-   * SHAP [`github`](https://github.com/slundberg/shap)
 
 * Gradient Based (for Nueral Network)
 
@@ -22,6 +21,8 @@ Check the Interactive Streamlit [Demo]()
   
    * Grad-CAM: Gradient with respect to last Conv layer
       * Pytorch Version [`github`](https://github.com/jacobgil/pytorch-grad-cam)
+   * Activation Maximization
+
   
 * Relevance Score Based
     
@@ -47,6 +48,8 @@ Check the Interactive Streamlit [Demo]()
 * InterpretML [`github`](https://github.com/interpretml/interpret)
 
 * TCAV [`github`](https://github.com/tensorflow/tcav)
+
+* SHAP [`github`](https://github.com/slundberg/shap)
 
 
 ### For Computer Vision
