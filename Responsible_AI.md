@@ -5,25 +5,25 @@
 ### For All Data Type
 
 * Perturbation Based
-   * [LIME](https://github.com/marcotcr/lime)
+   * LIME [‵github‵](https://github.com/marcotcr/lime)
   
-   * [SHAP](https://github.com/slundberg/shap)
+   * SHAP [‵github‵](https://github.com/slundberg/shap)
 
 * Gradient Based
 
-   * Saliency Maps
+   * Saliency Map
       * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
       * [Keras-vis](https://raghakot.github.io/keras-vis/)
 
-   * [Integrated Gradients](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
+   * Integrated Gradients [‵link‵](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
   
-   * [Grad-CAM](https://github.com/jacobgil/pytorch-grad-cam)
+   * Grad-CAM (pytorch version) [‵github‵](https://github.com/jacobgil/pytorch-grad-cam)
   
 * Relevance Score Based
     
-   * [Layerwise Relevance Propagation](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
+   * Layerwise Relevance Propagation ['tutorial'](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
 
-   * [DeepLift](https://github.com/kundajelab/deeplift)
+   * DeepLift [‵github‵](https://github.com/kundajelab/deeplift)
 
 ### For Tabular Data
 
@@ -31,15 +31,15 @@
 
 * Permutation Importance
 
-* [xAI](https://github.com/EthicalML/xai)
+* xAI [‵github‵](https://github.com/EthicalML/xai)
 
-* [Manifold](https://github.com/uber/manifold#manifold)
+* Manifold [‵github‵](https://github.com/uber/manifold#manifold)
 
-* [What If Tool](https://pair-code.github.io/what-if-tool/)
+* What If Tool [‵github‵](https://pair-code.github.io/what-if-tool/)
 
-* [InterpretML](https://github.com/interpretml/interpret)
+* InterpretML [‵github‵](https://github.com/interpretml/interpret)
 
-* [TCAV](https://github.com/tensorflow/tcav)
+* TCAV [‵github‵](https://github.com/tensorflow/tcav)
 
 
 ### For Computer Vision
@@ -48,7 +48,7 @@
 
 ### For Natural Language Processing
 
-* [LIT](https://github.com/PAIR-code/lit)
+* LIT [‵github‵](https://github.com/PAIR-code/lit)
 
 
 ### Research Papers
@@ -59,18 +59,18 @@ TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](htt
 
 ## Fairness
 
+* Trusted-AI/AIF360 [‵github‵](https://github.com/Trusted-AI/AIF360)
+
 ## Privacy
 
 ## Security
 
 ## Other Resources
 
-* [Captum](https://captum.ai/)
+* Captum [‵website‵](https://captum.ai/)
 
-* [EthicalML/xai](https://github.com/EthicalML/xai)
+* [EthicalML/xai [‵github‵](https://github.com/EthicalML/xai)
 
-* [Trusted-AI/AIX360](https://github.com/Trusted-AI/AIX360)
-
-* [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360)
+* Trusted-AI/AIX360 [‵github‵](https://github.com/Trusted-AI/AIX360)
 
 * [https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources)
