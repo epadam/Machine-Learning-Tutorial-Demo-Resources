@@ -1,6 +1,6 @@
 # Responsible AI
 
-## Interpretability
+## Explainability
 
 ### For All Data Type
 
@@ -9,7 +9,7 @@
   
    * SHAP [`github`](https://github.com/slundberg/shap)
 
-* Gradient Based
+* Gradient Based (for Nueral Network)
 
    * Saliency Map
       * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
