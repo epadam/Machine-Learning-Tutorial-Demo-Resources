@@ -14,7 +14,11 @@
 
 ### Image Segmentation
 
-* [Nvidia Defect Detection Platform](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
+* Nvidia Defect Detection Platform [`link`](https://devblogs.nvidia.com/automatic-defect-inspection-using-the-nvidia-end-to-end-deep-learning-platform/)
+
+* DataSet 
+   * DAGM 2007 [`link`](https://conferences.mpi-inf.mpg.de/dagm/2007/prizes.html)
+
 
 ### Online and Incremental Learning
 
