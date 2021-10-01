@@ -13,13 +13,15 @@ Check the Interactive Streamlit [Demo]()
 
 * Gradient Based (for Nueral Network)
 
-   * Saliency Map
+   * Saliency Map: Gradient with respect to output
       * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
-      * [Keras-vis](https://raghakot.github.io/keras-vis/)
+      * Keras-vis [`github`](https://raghakot.github.io/keras-vis/)
 
-   * Integrated Gradients [`link`](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
+   * Integrated Gradients: Avoid saturation of activation 
+      * Tutorial[`link`](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
   
-   * Grad-CAM (pytorch version) [`github`](https://github.com/jacobgil/pytorch-grad-cam)
+   * Grad-CAM: Gradient with respect to last Conv layer
+      * Pytorch Version [`github`](https://github.com/jacobgil/pytorch-grad-cam)
   
 * Relevance Score Based
     
@@ -76,3 +78,7 @@ TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](htt
 * Trusted-AI/AIX360 [`github`](https://github.com/Trusted-AI/AIX360)
 
 * [https://github.com/pbiecek/xai_resources](https://github.com/pbiecek/xai_resources)
+
+## Reference
+
+* https://maelfabien.github.io/machinelearning/Explorium_2/#limitations-of-linear-regression
