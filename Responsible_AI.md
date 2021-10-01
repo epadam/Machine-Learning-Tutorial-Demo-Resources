@@ -5,9 +5,9 @@
 ### For All Data Type
 
 * Perturbation Based
-   * LIME [‵github‵](https://github.com/marcotcr/lime)
+   * LIME [`github`](https://github.com/marcotcr/lime)
   
-   * SHAP [‵github‵](https://github.com/slundberg/shap)
+   * SHAP [`github`](https://github.com/slundberg/shap)
 
 * Gradient Based
 
