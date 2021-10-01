@@ -69,7 +69,7 @@ TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](htt
 
 * Captum [`github`](https://captum.ai/)
 
-* [EthicalML/xai [`github`](https://github.com/EthicalML/xai)
+* EthicalML/xai [`github`](https://github.com/EthicalML/xai)
 
 * Trusted-AI/AIX360 [`github`](https://github.com/Trusted-AI/AIX360)
 
