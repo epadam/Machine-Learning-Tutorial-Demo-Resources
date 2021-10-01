@@ -32,12 +32,15 @@ Check the Interactive Streamlit [Demo]()
 ### For Tabular Data
 
 * Feature Importance
+   * Permutation Importance
+   
+* Individual Conditional Expectation (ICE)
 
-* Permutation Importance
+* Partial Dependence Plots (PDP)
 
-* xAI [`github`](https://github.com/EthicalML/xai)
 
-* Manifold [`github`](https://github.com/uber/manifold#manifold)
+
+#### Tools:
 
 * What If Tool [`github`](https://pair-code.github.io/what-if-tool/)
 
