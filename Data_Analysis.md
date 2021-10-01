@@ -67,10 +67,19 @@ Models like linear Regression and Decsion Tree has better explanbility. However,
 
 ## Tools
 
+### Data Validation
+
 * Facets [`github`](https://github.com/PAIR-code/facets)
+
+### Quick Model Testing
+
+* Lazy Predict [`github`](https://github.com/shankarpandala/lazypredict)
+
+### Explainity
+
 * SHAP [`github`](https://github.com/slundberg/shap)
 * Manifold [`github`](https://github.com/uber/manifold)
-* Lazy Predict [`github`](https://github.com/shankarpandala/lazypredict)
+
 
 ## Interesting Research for Auto Data Analysis
 
