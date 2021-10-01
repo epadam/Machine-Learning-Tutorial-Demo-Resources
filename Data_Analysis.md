@@ -44,11 +44,11 @@ All the nodebooks in this section:
 
 ### Transformer for Tabular Data Analysis
 
-* [TabNet](https://github.com/google-research/google-research/tree/master/tabnet)
+* TabNet [`github`](https://github.com/google-research/google-research/tree/master/tabnet)
 
 ### AutoML for Tabular Data Analysis
 
-* [AutoGluon](https://github.com/awslabs/autogluon)
+* AutoGluon [`github`](https://github.com/awslabs/autogluon)
 
 
 
@@ -68,8 +68,8 @@ Models like linear Regression and Decsion Tree has better explanbility. However,
 ## Tools
 
 * Facets [`github`](https://github.com/PAIR-code/facets)
-* [SHAP]()
-* [Manifold]()
+* SHAP [`github`](https://github.com/slundberg/shap)
+* Manifold [`github`](https://github.com/uber/manifold)
 * Lazy Predict [`github`](https://github.com/shankarpandala/lazypredict)
 
 ## Interesting Research for Auto Data Analysis
