@@ -67,7 +67,7 @@ Check the Interactive Streamlit [Demo]()
 
 * TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing [`arXiv`](https://arxiv.org/abs/1807.10875)
 
-* A Unified Approach to Interpreting Model Predictions
+* A Unified Approach to Interpreting Model Predictions [`arXiv`](https://arxiv.org/abs/1705.07874)
 
 
 ## Fairness
