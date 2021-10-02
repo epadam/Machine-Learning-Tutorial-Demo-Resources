@@ -554,6 +554,10 @@ You can choose the library based on which framework they are using(tensorflow, p
 
 * [Stanford CS224N: Natural Language Processing with Deep Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
+## Challenges
+
+* ICON 2020: 17th International Conference on Natural Language Processing[`link`](https://www.iitp.ac.in/~ai-nlp-ml/icon2020/shared_tasks.html)
+* SemEval-2020 International Workshop on Semantic Evaluation [`link`](https://alt.qcri.org/semeval2020/index.php?id=tasks)
 
 ## Advanced Research Topics in NLP
 
