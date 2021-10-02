@@ -20,7 +20,7 @@ Check demos [here]()
 
 * Model Compression:
 
-  * MobileNet [`notebook`]](notebooks/cv/CNN_architecture.ipynb)
+  * MobileNet [`notebook`](notebooks/cv/CNN_architecture.ipynb)
 
   * EfficientNet [`notebook`](notebooks/cv/CNN_architecture.ipynb)
 
