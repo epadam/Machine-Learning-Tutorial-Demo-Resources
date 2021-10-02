@@ -8,27 +8,27 @@ Check demos [here]()
 
 ### Models
 
-* [VGG Net](notebooks/cv/CNN_architecture.ipynb)
+* VGG Net [`notebook`](notebooks/cv/CNN_architecture.ipynb)
 
-* [ResNet](notebooks/cv/CNN_architecture.ipynb)
+* ResNet [`notebook`](notebooks/cv/CNN_architecture.ipynb)
 
-* [DenseNet](notebooks/cv/CNN_architecture.ipynb)
+* DenseNet [`notebook`](notebooks/cv/CNN_architecture.ipynb)
 
-* [Morphnet](notebooks/cv/CNN_architecture.ipynb)
+* Morphnet [`notebook`](notebooks/cv/CNN_architecture.ipynb)
 
-* [Inception](notebooks/cv/CNN_architecture.ipynb)
+* Inception [`notebook`](notebooks/cv/CNN_architecture.ipynb)
 
 * Model Compression:
 
-  * [MobileNet]()(notebooks/cv/CNN_architecture.ipynb)
+  * MobileNet [`notebook`]](notebooks/cv/CNN_architecture.ipynb)
 
-  * [EfficientNet]()(notebooks/cv/CNN_architecture.ipynb)
+  * EfficientNet [`notebook`](notebooks/cv/CNN_architecture.ipynb)
 
 
 
 ### Fine-Grained Image Classification
 
-* [Dog-breed-classification](notebooks/cv/dog_breed.ipynb)
+* Dog-breed-classification [`notebook`](notebooks/cv/dog_breed.ipynb)
 
 ### Autoencoder for Image Classification
 
@@ -46,14 +46,14 @@ Check demos [here]()
 
 * One-Stage 
 
-  * [SSD](notebooks/cv/object_detection.ipynb)
-  * [YOLO](notebooks/cv/object_detection.ipynb)
+  * SSD [`notebook`](notebooks/cv/object_detection.ipynb)
+  * YOLO [`notebook`](notebooks/cv/object_detection.ipynb)
   
 * Two-Stage
   
-  * [Faster R-CNN](notebooks/cv/object_detection.ipynb)
+  * Faster R-CNN [`notebook`](notebooks/cv/object_detection.ipynb)
 
-  * [Feature Pyramid Network](notebooks/cv/object_detection.ipynb)
+  * Feature Pyramid Network [`notebook`](notebooks/cv/object_detection.ipynb)
 
 ### Metrics
 
@@ -70,7 +70,7 @@ Check demos [here]()
 
 * Full Convolutional Networks(FCN)
 
-* [DeepLab](http://liangchiehchen.com/projects/DeepLab.html)
+* DeepLab [`link`](http://liangchiehchen.com/projects/DeepLab.html)
 
 * DeepLab V3 [`github`](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
@@ -86,7 +86,7 @@ Check demos [here]()
 
 * Mask R-CNN [`github`](https://github.com/matterport/Mask_RCNN)
 
-* [ShapeMask](https://cloud.google.com/blog/products/ai-machine-learning/high-performance-large-scale-instance-segmentation-with-cloud-tpus) 
+* ShapeMask [`link`](https://cloud.google.com/blog/products/ai-machine-learning/high-performance-large-scale-instance-segmentation-with-cloud-tpus) 
 
 * yolact [`github`](https://github.com/dbolya/yolact)
 
@@ -95,8 +95,6 @@ Check demos [here]()
 * Detecting the Unexpected via Image Resynthesis [`arXiv`](https://arxiv.org/abs/1904.07595)
 
 ## Panoptic Segmentation
-
-* Detectron2 [`github`](https://github.com/facebookresearch/detectron2)
 
 * Panoptic Feature Pyramid Networks [`arXiv`](https://arxiv.org/abs/1901.02446)
 
@@ -192,6 +190,8 @@ generative-compression [`github`](https://github.com/Justin-Tan/generative-compr
 
 
 ## Useful Tools 
+
+* Detectron2 [`github`](https://github.com/facebookresearch/detectron2)
 
 * MMDetection [`github`](https://github.com/open-mmlab/mmdetection)
 
