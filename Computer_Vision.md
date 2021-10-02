@@ -212,6 +212,8 @@ generative-compression [`github`](https://github.com/Justin-Tan/generative-compr
 
 * Albumentations[`github`](https://albumentations.ai/whos_using)
 
+* flip [`github`](https://github.com/LinkedAi/flip)
+
 ## Awesome CV List
 
 * [Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision)
