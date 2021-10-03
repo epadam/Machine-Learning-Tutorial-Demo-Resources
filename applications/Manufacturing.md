@@ -39,7 +39,7 @@ When using neural network to predict the process result, couple of algorithms ca
   
   * [How to use machine learning for production optimization](https://towardsdatascience.com/machine-learning-for-production-optimization-e460a0b82237)
 
-* [Bayesian Optimization](How to use machine learning for production optimization):
+* [Bayesian Optimization]():
 
 * [Genetic Algorithm]():
 
