@@ -1,14 +1,8 @@
 # Dive into Natural Language Processing
 
-If you are in a hurry:
+You can play with a [Streamlit demo]() to see what can NLP do. You can find the code [here]().
 
-You can play with a Streamlit demo to see what can NLP do.
-
-* [NLP interactive tasks overview]() deployed on Heroku, you can find the source [here]().
-
-Here are the [links]() to all the notebooks in this guide.
-
-You can also check [Conversational AI](applications/chat_bot.md) and [Knowledge Graph](Knowledge_Graph.md) in another guide. 
+And check all the [notebooks]() in this guide.
 
 If you are interested in all tasks of NLP, [PapersWithCode](https://paperswithcode.com/area/natural-language-processing) is definitely the good place.
 
@@ -33,8 +27,9 @@ Language models take the text as input and generate a prediction, a word, a sent
 
 - [Tokenization](#Tokenization)
 - [Statistical Language Models](#Statistical-Language-Models)
-  - [N-grams](#N-grams)
   - [Bag of Words](#bag-of-words)
+  - [N-grams](#N-grams)
+  - [TF-IDF](#TF-IDF)
   - [Glove](#glove)
   - [FastText](#FastText)
 - [Neural Language Models](#Neural-Language-Models)
@@ -54,31 +49,37 @@ Vocab:
 * BPE
 * WordPiece
 
-[SentencePiece](https://github.com/google/sentencepiece)
+SentencePiece [`github`](https://github.com/google/sentencepiece)
 
 
 
 ## Statistical Language Models
 
-### N-gram
-
 ### Bag of Words
+* Calculate how many times a word is showing in a documents.
+
+
+### N-grams
+* N-token sequence of words
+
+### TF-IDF 
+* Term Frequency x Inverse Document Frequency 
 
 ### Glove
-Create word vectors that capture meaning in vector space
-Takes advantage of global count statistics instead of only local information
 
-The source code can be found here.
+* Create word vectors that capture meaning in vector space. It takes advantage of global count statistics instead of only local information.
+
 
 ### FastText
 
-N-gram + Softmax
+* N-gram + Softmax
 
 ## Neural Language Models
 
 ### Word2Vec
 
-CBOW & Skip-Gram
+* CBOW
+* Skip-Gram
 
 <img src="https://miro.medium.com/max/700/1*cuOmGT7NevP9oJFJfVpRKA.png" alt="Exploiting Similarities among Languages for Machine Translation" width="600"/>
 
@@ -110,80 +111,71 @@ The downside of RNN/GRN/LSTM is the first input element can't see the informatio
 
 ### ELMo
 
-It uses bidirectional LSTM in the seq2seq model
+It uses bidirectional LSTM in the seq2seq model.
 
 ### Transformer 
 
-Transformer is proposed in 2017 by google in the paper "Attention is all you need". 
+Transformer is proposed in 2017 by Google in the paper "Attention is all you need". 
 
 Below is the architecture of the transformer:
 
 <img src="https://www.researchgate.net/publication/342045332/figure/fig2/AS:900500283215874@1591707406300/Transformer-Model-Architecture-Transformer-Architecture-26-is-parallelized-for-seq2seq.png" alt="Transformer Model Architecture" width="600"/>
 
-Check the code of transformer! [notebook]()
+* code of transformer:[`notebook`]()
 
-How to train a transformer?
+* How to train a transformer?
 
-
-There are many improved transformer models
-* [Transformer-XL]():
-* [UniLM]():
-* [Bart]():
-* [Megatron-LM]() 8.3B parameters 
-* [T5]():
-* [DeBERTa](https://github.com/microsoft/DeBERTa): 1.5B parameters
-* [Meena](): Open domain chatbot by Google based on Transformer.
-* [Blender](): Open domain chatbot by Facebook based on Transformer.
-* [BlenderBot2](): 2nd generation chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
+* Improved transformer models
+   * [Transformer-XL]():
+   * [UniLM]():
+   * [Bart]():
+   * [Megatron-LM]() 8.3B parameters 
+   * [T5]():
+   * [DeBERTa](https://github.com/microsoft/DeBERTa): 1.5B parameters
+   * [Meena](): Open domain chatbot by Google based on Transformer.
+   * [Blender](): Open domain chatbot by Facebook based on Transformer.
+   * [BlenderBot2](): 2nd generation chatbot by Facebook based on Transformer. It can search information on the internet and reply up to date information.
 
 Transformer architecture has been used for many domains such as biology, computer vision and business data analysis.
+
 
 ### Encoder
 
 Transformer is a seq2seq model which can do NLU and NLG tasks. Only Encoder itself can mostly do NLU jobs.
 
-* Bert
+The most famous encoder is Bert proposed by Google. You can check the original paper here. Although it is not the first one introducing pre-train and finetune paradime
 
 <img src="https://miro.medium.com/max/1200/1*p4LFBwyHtCw_Qq9paDampA.png" alt="Bert Pretraining and Fine-Tuning" width="600"/>
 
+* Bert from scratch! [notebook]()
 
-The most famous encoder is Bert proposed by Google. You can check the original paper here. Although it is not the first one introducing pre-train and finetune paradime
+* How is Bert pre-trained? MLM and Next Sentence Prediction [notebook](). 
 
-Now let's build our own Bert from scratch! [notebook]()
+* Improved version of Bert:
+   * [XLNet]():
+   * [ELECTRA]():
+   * [MT-DNN](): Multi-tasking model
+   * [RoBERTa]():
+   * [BigBird]():
+   * [ERNIE]():
 
-How is Bert pre-trained? MLM and Next Sentence Prediction [notebook](). 
+* How to make Bert smaller? [`notebook`]()
 
+   * Quantization:
+      * [TinyBert]():
+      * [Q-Bert]():
 
-
-Also improved version of Bert:
-* [XLNet]():
-* [ELECTRA]():
-* [MT-DNN](): Multi-tasking model
-* [RoBERTa]():
-* [BigBird]():
-* [ERNIE]():
-
-How to make Bert smaller? [notebook]()
-
-1. Quantization:
-   * [TinyBert]():
-   * [Q-Bert]():
-
-2. Knowledge Distillation:
-   * [mobileBert]():
-   * [Albert]():
-   * [DistillBert]():
+   * Knowledge Distillation:
+      * [mobileBert]():
+      * [Albert]():
+      * [DistillBert]():
 
 
-There are also some pretrained Bert models with domain specific text, which can perform better :
-* [BioBert]():
-* [SciBert]():
-* [ClinicalBERT]():
-
-
-
-
-
+* Pretrained Bert models with domain specific text, which can perform better :
+   * [BioBert]():
+   * [SciBert]():
+   * [ClinicalBERT]():
+]
 
 
 ### Decoder
@@ -193,15 +185,12 @@ There are also some pretrained Bert models with domain specific text, which can 
 
 Decoder itself is better at generation tasks. The most famous one is GPT-2. [notebook](GPT-2)
 
-Control text generation:
+* Control text generation:
+   * Beam Search
+   * random
 
-* Beam Search
-
-* random
-
-Bias Control of NLG model:
-
-* [Towards Controllable Biases in Language Generation](https://arxiv.org/abs/2005.00268)
+* Bias Control of NLG model:
+   * [Towards Controllable Biases in Language Generation](https://arxiv.org/abs/2005.00268)
 
 
 More Resources:
