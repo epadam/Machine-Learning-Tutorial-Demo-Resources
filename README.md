@@ -10,7 +10,7 @@ Please check all notebooks [here](notebooks/)!!
 
 Simple:
 
-* House Price Prediction with Explainable Machine Learning [`notebook`](notebooks/data-analysis/house_price.ipynb) [`streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
+* House Price Prediction with Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
 
 * [Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network](notebooks/data-analysis/house_price_NN_xAI.ipynb)
 
