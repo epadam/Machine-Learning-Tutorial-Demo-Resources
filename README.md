@@ -10,11 +10,11 @@ Please check all notebooks [here](notebooks/)!!
 
 Simple:
 
-* [House Price Predction with Interpretible Machine Learning and Deep Learning in notebook](notebooks/data-analysis/house_price.ipynb)
+* House Price Prediction with Explainable Machine Learning [`notebook`](notebooks/data-analysis/house_price.ipynb) [`streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
 
-* [Neural Network Explore Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation](notebooks/data-analysis/house_price_NN_xAI.ipynb)
+* [Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network](notebooks/data-analysis/house_price_NN_xAI.ipynb)
 
-* [Build your first image classifier demo from Tensorflow Hub (Using Streamlit)](demo/simple/image_cls)
+* [Build your first image classifier demo from Tensorflow Hub](demo/simple/image_cls)
 
 * [Train and track your model with MLflow]()
 
