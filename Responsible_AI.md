@@ -13,15 +13,16 @@ Check the Interactive Streamlit [Demo]()
 * Gradient Based (for Nueral Network)
 
    * Saliency Map: Gradient with respect to output
-      * [Tutorial](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
+      * Tutorial [`link`](https://www.kaggle.com/ernie55ernie/mnist-with-keras-visualization-and-saliency-map)
       * Keras-vis [`github`](https://raghakot.github.io/keras-vis/)
 
    * Integrated Gradients: Avoid saturation of activation 
-      * Tutorial[`link`](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
+      * Tutorial [`link`](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients)
   
    * Grad-CAM: Gradient with respect to last Conv layer
       * Pytorch Version [`github`](https://github.com/jacobgil/pytorch-grad-cam)
    * Activation Maximization
+      * Keras Tutorial [`link`](https://keras.io/examples/vision/visualizing_what_convnets_learn/)
 
   
 * Relevance Score Based
