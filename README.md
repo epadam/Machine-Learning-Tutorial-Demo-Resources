@@ -14,7 +14,7 @@ Simple:
 
 * [Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network](notebooks/data-analysis/house_price_NN_xAI.ipynb)
 
-* [Build your first image classifier demo from Tensorflow Hub](demo/simple/image_cls)
+* [Build your first machine learning service from Tensorflow Hub](demo/simple/image_cls)
 
 * [Train and track your model with MLflow]()
 
