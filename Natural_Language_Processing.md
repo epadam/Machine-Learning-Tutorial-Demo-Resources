@@ -478,7 +478,8 @@ You can check [http://nlpprogress.com/](http://nlpprogress.com/) for more benchm
 
 ### Data Augmentation
 
-* [Snorkel]()
+* Snorkel [`github`](https://github.com/snorkel-team/snorkel)
+* nlpaug [`github`](https://github.com/makcedward/nlpaug)
 
 ### Text Processing
 
