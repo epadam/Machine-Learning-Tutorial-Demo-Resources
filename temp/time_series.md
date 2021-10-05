@@ -30,9 +30,13 @@
 * https://www.kaggle.com/fatmakursun/predict-sales-time-series-with-cnn
 * https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/
 * https://boostedml.com/2020/04/1-d-convolutional-neural-networks-for-time-series-basic-intuition.html
-* 
 
-Combine multiple models(time series + regression model) 
+
+Combine multiple models(time series + regression model with multiple features)
+
+## Benchmark
+
+* The Numenta Anomaly Benchmark (NAB) [`github`](https://github.com/numenta/NAB)
 
 
 
