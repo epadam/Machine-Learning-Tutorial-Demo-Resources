@@ -10,15 +10,13 @@ Please check all notebooks [here](notebooks/)!!
 
 Simple:
 
+* Build your first machine learning service from Tensorflow Hub [`Streamlit Demo`](demo/simple/image_cls)
+
 * House Price Prediction with Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
 
-* [Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network](notebooks/data-analysis/house_price_NN_xAI.ipynb)
+* Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
 
-* [Build your first machine learning service from Tensorflow Hub](demo/simple/image_cls)
-
-* [Train and track your model with MLflow]()
-
-* [Deploy a machine learning model using torchserve or tensorflow serving]()
+* Deploy a machine learning model using torchserve or tensorflow serving [`Demo`]()
 
 Medium:
 
