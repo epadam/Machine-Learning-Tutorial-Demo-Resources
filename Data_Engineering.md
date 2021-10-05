@@ -26,19 +26,19 @@ Kafka, Spark
 
 ## Data Labeling
 
-* Label Studio [`github`](https://github.com/heartexlabs/label-studio):Web based with python backend that can label different data type
+* Label Studio : Web based with python backend that can label different data type [`github`](https://github.com/heartexlabs/label-studio)
 
-* Computer Vision Annotation Tool (CVAT) [`github`](https://github.com/openvinotoolkit/cvat):Web based with python backend for video and image annotation
+* Computer Vision Annotation Tool (CVAT) : Web based with python backend for video and image annotation  [`github`](https://github.com/openvinotoolkit/cvat)
 
-* makesense.ai [`github`](https://github.com/SkalskiP/make-sense):Web based labeling tool with no backend. They use tensorflow.js models to help you achieve labeling faster
+* makesense.ai : Web based labeling tool with no backend. They use tensorflow.js models to help you achieve labeling faster [`github`](https://github.com/SkalskiP/make-sense)
 
-* VoTT (Visual Object Tagging Tool) [`github`](https://github.com/microsoft/VoTT):Web based labeling tool with no backend. For images or video frames labeling
+* VoTT (Visual Object Tagging Tool) : Web based labeling tool with no backend. For images or video frames labeling [`github`](https://github.com/microsoft/VoTT)
 
-* labelme [`github`](https://github.com/wkentaro/labelme):Python Desktop app using QT for image labeling
+* labelme : Python Desktop app using QT for image labeling [`github`](https://github.com/wkentaro/labelme)
 
 * VIA [`github`](https://github.com/ox-vgg/via)
 
-* MONAI Label [`github`](https://github.com/Project-MONAI/MONAILabel/tree/main/monailabel):Python backend with 3D Slicer as interdace for medical images annotation
+* MONAI Label : Python backend with 3D Slicer as interdace for medical images annotation [`github`](https://github.com/Project-MONAI/MONAILabel/tree/main/monailabel)
 
 Some researh in labeling:
 
