@@ -2,29 +2,29 @@
 
 The best way to learn machine learning is to build tutorials and demos yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also useful tools and libraries. It includes many jupyter notebooks and real demo. 
 
-### Quick Notebook Lists
 
-Please check all notebooks [here](notebooks/)!!
 
 ### Quick Guide
 
-Simple:
+* Quick Developing and Deployment:
 
-* Build your first machine learning service from Tensorflow Hub [`Streamlit Demo`](demo/simple/image_cls)
+   * Build your first machine learning service from Tensorflow Hub [`Streamlit Demo`](demo/simple/image_cls)
 
-* House Price Prediction with Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
+* Twick your model:
 
-* Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
+   * Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
 
-* Deploy a machine learning model using torchserve or tensorflow serving [`Demo`]()
+* Explaining your Models:
 
-Medium:
+   * Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
 
-* [Deploy a Bert model at scale](Natural_Language_Processing.md)
+* Deploy a machine learning model using torchserve/tensorflow serving [`Demo`]()
 
-* [How to deploy the a production ready model](MLOps.md)
+* MLOps
 
-* [How to use ElasticSearch for model monitoring]()
+   * [How to deploy the a production ready model](MLOps.md)
+
+   * [Use Prometheus for model monitoring]()
 
 
 ### Other Demos
@@ -39,24 +39,24 @@ Medium:
 
 * [Spectrum Classifier Demo]()
 
-* [Sales Prediction Demo]()
-
 * [Time Series Classification/Prediction Demo]()
 
+* [Sales Prediction Demo]()
+
 * [Forest covertype with Tabnet Demo]()
+
+### Notebook Lists
+
+Please check all notebooks [here](notebooks/)!!
 
 
 A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or data engineer from AM.ai is also very helpful guideline to check.
 
-You can follow the order to learn machine learning or select the topic you are interested below:
+Below gives you more details of knowledge and resources in each domain of machine learning:
 
 ## [Data Engineering](Data_Engineering.md)
 
-Machine Learning is all about data processing. This section introduces ETL process, using Kafka, Spark, etc.
-
-## [Data Privacy](Data_Privacy.md)
-
-Techniques and issues of preserving data privacy in machine learning
+This section introduces Data Lake, Data warehouse and ETL process, using Kafka, Spark, Airflow, etc.
 
 ## [Machine Learning](Machine_Learning.md)
 
@@ -76,15 +76,11 @@ A real world machine learning from model developement to deployment and monitori
 
 ## [Computer Vision](Computer_Vision.md)
 
-Image classification, object detection, segmentation, depth estimation
+Image classification, object detection, segmentation, depth estimation, etc.
 
 ## [Natural Language Processing](Natural_Language_Processing.md)
 
 Include most of NLP models and tasks.
-
-## [Knowledge Grpah](Knowledge_Graph.md)
-
-Knowledge Graph building guide.
 
 ## [Responsible AI](Responsible_AI.md)
 
