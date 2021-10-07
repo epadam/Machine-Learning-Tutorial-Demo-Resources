@@ -6,7 +6,7 @@ Machine learning models development is only little part of the whole ML system.
 
 Let's follow the steps beflow to build a machine learning service on GCP.
 
-1. Data Acquisition and ETL Process (Fetch data from internet )
+1. Data Acquisition and ETL Process (Fetch data from internet)
 
   - Kafka, Spark
 
