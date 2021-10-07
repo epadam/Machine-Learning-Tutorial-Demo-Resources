@@ -4,7 +4,7 @@
 
 * Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods [`arXiv`](https://arxiv.org/abs/1907.09358)
 
-* [Hello, World: Building an AI that understands the world through video](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
+* Hello, World: Building an AI that understands the world through video [`link`](https://medium.com/twentybn/watch-and-learn-building-an-ai-that-understands-the-world-through-video-9e2796400176)
 
 ## Representation Learning
 
