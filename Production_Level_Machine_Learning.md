@@ -121,9 +121,10 @@ Please refer to [Responsible AI](Responsible_AI.md)
 
 ## Model Format for Deployment
 
-* Tensorflow
-  * SavedModel
-  * H5
+* Tensorflow [`link`](https://www.tensorflow.org/guide/keras/save_and_serialize)
+  * TensorFlow SavedModel format (or in the older Keras H5 format)
+  * Saving the architecture / configuration only
+  * Saving the weights values only
 
 * Pytorch
   * Torchscript 
