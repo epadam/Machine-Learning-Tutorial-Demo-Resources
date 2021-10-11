@@ -342,7 +342,7 @@ Squad 2.0
 ### Extractive Summarization
 
 
-* [Bert for ](notebooks/nlp/summarization/Bert_extractive_summarization.ipynb)
+* [Bert for extractive Summarization](notebooks/nlp/summarization/Bert_extractive_summarization.ipynb)
 
 
 ### Text Matching/Semantic Similarity
@@ -361,6 +361,9 @@ There are mainly two ways:
 * Dual BERT
 
 * QQP Classification with Siamese Bert (Sentenc Transformer)
+
+* Dataset:
+  * PAWS: Paraphrase Adversaries from Word Scrambling [`github`](https://github.com/google-research-datasets/paws)
 
 #### Information Retrieval/Semantic Search/Question Answering
 
