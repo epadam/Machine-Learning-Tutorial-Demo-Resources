@@ -35,10 +35,12 @@ Check the Interactive Streamlit [Demo]()
 
 * Feature Importance
    * Permutation Importance
-   
+
+* Partial Dependence Plots (PDP): When the features are corelated, it can be misleading.
+
 * Individual Conditional Expectation (ICE)
 
-* Partial Dependence Plots (PDP)
+* Accumulated Local Effects (ALE)
 
 
 
