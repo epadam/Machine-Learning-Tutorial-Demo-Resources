@@ -11,10 +11,14 @@ Let's follow the steps beflow to build a machine learning service on GCP.
   - Kafka, Spark
 
 2. Data Validation/Data Annotation and Store.
+   
+   - Tensorflow Data Validation
 
 
 
 3. Data preprocessing/
+   
+   - Tensorflow Data Transform
 
 
 4. model training and tracking
@@ -33,6 +37,8 @@ We can use MLflow or Tensorboard to evaluate different model or hyperparameters.
 
 5. Model Inspection and Explanation
 
+   - Tensorflow Model Analysis
+
 Here we can use Manifold, SHAP for explanation to avoid bias and misbehavior
 
 It would be nice if there is an interactive report that you can show the EDA and explanbility
@@ -46,7 +52,7 @@ Let's convert our model to the format we want for serving
 You may need some optimization to reduce the cost of inference, 
 
 
-7. Model Performance Monitoring
+7. Model Monitoring
 
 What can be monitored from our model? 
 
