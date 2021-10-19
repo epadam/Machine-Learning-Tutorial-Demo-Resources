@@ -4,68 +4,71 @@ Machine learning models development is only little part of the whole ML system.
 
 ![MLOps](https://www.kdnuggets.com/wp-content/uploads/Fig1-Bose-mlops-why-required-what-is.jpg)
 
-Let's follow the steps beflow to build a machine learning service on GCP.
 
-1. Data Acquisition and ETL Process (Fetch data from internet)
+1. Data Acquisition or Collecting:
+   - ELK
+   - Kafka
 
-  - Kafka, Spark
+2. Data Store:
+   - File Storage:
+     - Amazon S3
+     - GCS
+   - Data Lake:
+     - HDFS
+     - Elastic Search
+   - Data Warehouse:
+     - SnowFlake
+     - Google BigQuery
+   - Database
+     - SQL   
+     - noSQL
 
-2. Data Validation/Data Annotation and Store.
-   
+3. ETL Process:
+   - Spark
+   ETL Orchestration:
+   - Airflow
+     
+4. Data Annotation/Labeling:
+   - Label Studio      
+
+5. Data Validation:   
    - Tensorflow Data Validation
 
+6. Data Transform:
+   - Tensorflow Transform
 
+7. Data Preparation/Version Control:
+   - Split
+   - DVC
 
-3. Data preprocessing/
-   
-   - Tensorflow Data Transform
+8. Model Training/Tracking/Evaluation:
+   - Tracking
+     - Mlflow 
+   - Inspection
+     - Shap
+     - Tensorflow Model Analysis
 
+9. Model Deployment: 
+   - Seldon
+   - KFServing
 
-4. model training and tracking
-   * Early Stopping
-   * checked point
-  
-We can fetch the data in bigQuery and do some preprocessing.
-
-Let's orchastrate a pipeline for machine learning pipeline
-
-Here the most convenient way is Jupyter Notebook, you can also use H2O
-
-You can also use autoML to automatically build the model, but it would take some time.
-
-We can use MLflow or Tensorboard to evaluate different model or hyperparameters.
-
-5. Model Inspection and Explanation
-
-   - Tensorflow Model Analysis
-
-Here we can use Manifold, SHAP for explanation to avoid bias and misbehavior
-
-It would be nice if there is an interactive report that you can show the EDA and explanbility
-
-6. Model Deployment
- 
-
-Let's convert our model to the format we want for serving
-(Depending on the scenario, you might need to give explanation for every single inference like medical usage or)
-
-You may need some optimization to reduce the cost of inference, 
-
-
-7. Model Monitoring
-
-What can be monitored from our model? 
-
+10. Model Monitoring:
    * Data Quality
      * Data Drift
      * Outlier detection
    * Metrics 
    * Concept Drift
    * Concerted adversaries
-   
-* Operational related index
+   * Operational related index
+   - Elasticsearch APM
+   - Prometheous
 
-Let's use Elasticsearch APM to monitor our model
+X. Pipeline Orchestration:
+   Steps above can be built by pipeline orchestration tool
+   - Kubeflow
+   - Airflow
+  
+
 
 
 ## Model IP Protection
@@ -92,33 +95,37 @@ How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Pro
   * BigQuery 
   * Snowflake
 
+### Toolkit
+
+TFX [`link`](https://www.tensorflow.org/tfx)
+
 ### Orchestration
 
-[TFX](https://www.tensorflow.org/tfx)
+Kubeflow [`link`](https://www.kubeflow.org/)
 
-[Kubeflow](https://www.kubeflow.org/)
+Metaflow [`link`](https://metaflow.org/)
 
-[Metaflow](https://metaflow.org/)
+Airflow [`link`](https://airflow.apache.org/)
 
 ### Distributed Training
 
-* [Polyaxon](https://polyaxon.com/)
+* Polyaxon [`link`](https://polyaxon.com/)
 
-* [OpenPAI](https://openpai.readthedocs.io/en/latest/#:~:text=OpenPAI%20is%20an%20open%2Dsource,User%20Manual%20and%20Admin%20Manual.)
+* OpenPAI [`link`](https://openpai.readthedocs.io/en/latest/#:~:text=OpenPAI%20is%20an%20open%2Dsource,User%20Manual%20and%20Admin%20Manual.)
 
-* [Horovod](https://github.com/horovod/horovod)
+* Horovod [`github`](https://github.com/horovod/horovod)
 
-* [Ray](https://www.ray.io/)
+* Ray [`link`](https://www.ray.io/)
 
 ### Training Management and Tracking
 
-[MLflow](https://mlflow.org/)
+MLflow [`link`](https://mlflow.org/)
 
-[Mace](https://github.com/XiaoMi/mace)
+Mace [`github`](https://github.com/XiaoMi/mace)
 
-[SOD](https://github.com/symisc/sod)
+SOD [`github`](https://github.com/symisc/sod)
 
-[MMdnn](https://github.com/Microsoft/MMdnn)
+MMdnn [`github`](https://github.com/Microsoft/MMdnn)
 
 
 ### Model Inspection
@@ -136,7 +143,7 @@ Please refer to [Responsible AI](Responsible_AI.md)
   * Torchscript 
   * ONNX
 
-[tfpyth](https://github.com/BlackHC/tfpyth)
+tfpyth [`github`](https://github.com/BlackHC/tfpyth)
 
 
 ## Deployment Tools
@@ -151,39 +158,39 @@ Please refer to [Responsible AI](Responsible_AI.md)
 
 ### Edge Deployment
 
-[Tensorflow Lite]()
+Tensorflow Lite [`link`](https://www.tensorflow.org/lite)
 
 ### MCU
 
-[Tensorflow Lite Micro]()
+Tensorflow Lite Micro [`link`]()
 
 ### Web Deployment
 
-[Tensorflow.js]()
+Tensorflow.js [`link`]()
 
 ## Hardware Acceleration
 
-[TensorRT]()
+TensorRT [`link`]()
 
-[GLOW](https://github.com/pytorch/glow)
+GLOW [`github`](https://github.com/pytorch/glow)
 
 
 ## AI Platform
 
 * Open Source
-   * [Ludwig](https://github.com/ludwig-ai/ludwig):A tool box lets you train and test deep learning models without writing code. It supports distributed training with Horovod and integrates with mlflow.
-   * [H2O]():
-   * [ElasticSearch Machine Learning]():
-   * [DataRobot]()
-   * [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo):Big data AI platform for scaling end-to-end AI to distributed Big Data.
-   * [igel](https://github.com/nidhaloff/igel)
+   * Ludwig [`github`](https://github.com/ludwig-ai/ludwig):A tool box lets you train and test deep learning models without writing code. It supports distributed training with Horovod and integrates with mlflow.
+   * H2O  [`github`](https://github.com/h2oai/h2o-3):
+   * ElasticSearch Machine Learning [`link`]():
+   * DataRobot [`link`]()
+   * Analytics Zoo [`github`](https://github.com/intel-analytics/analytics-zoo):Big data AI platform for scaling end-to-end AI to distributed Big Data.
+   * igel [`github`](https://github.com/nidhaloff/igel)
 * Commercial
    * [Amazon SageMaker]()
    * [Google AI Platform]()
    * [SalesForce Einstein Discovery]()
    * [Databricks]()
    * [Huawei ModelArts]()
-   * [OpenPanel](https://github.com/onepanelio/onepanel):End-to-end computer vision platform
+   * OpenPanel [`github`](https://github.com/onepanelio/onepanel):End-to-end computer vision platform
 
 ## Reference
 * A Guide to Production Level Deep Learning [`github`](https://github.com/alirezadir/Production-Level-Deep-Learning)
