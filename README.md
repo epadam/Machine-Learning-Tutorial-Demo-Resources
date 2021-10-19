@@ -24,7 +24,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
    * How to manage machine learning models in production [`check here`](MLOps.md)
    
-   * Deploy a continous training model with kubeflow
+   * Deploy a continuous training model with kubeflow
 
    * Use Prometheus for model monitoring [`check here`]()
 
