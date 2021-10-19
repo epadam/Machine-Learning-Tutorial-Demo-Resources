@@ -10,7 +10,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
    * Build your first machine learning service from Tensorflow Hub [`Streamlit Demo`](demo/simple/image_cls)
 
-* Tweek your model:
+* Tweak your model:
 
    * Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
 
