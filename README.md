@@ -10,7 +10,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
    * Build your first machine learning service from Tensorflow Hub [`Streamlit Demo`](demo/simple/image_cls)
 
-* Twick your model:
+* Tweek your model:
 
    * Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
 
@@ -22,9 +22,9 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 * MLOps
 
-   * [How to deploy the a production ready model](MLOps.md)
+   * How to manage machine learning models in production [`check here`](MLOps.md)
 
-   * [Use Prometheus for model monitoring]()
+   * Use Prometheus for model monitoring [`check here`]()
 
 
 ### Other Demos
@@ -47,8 +47,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 ### Notebook Lists
 
-Please check all notebooks [here](notebooks/)!!
-
+Please check all notebooks [here](notebooks/)
 
 A [roadmap](https://i.am.ai/roadmap/) of becoming a machine learning engineer or data engineer from AM.ai is also very helpful guideline to check.
 
