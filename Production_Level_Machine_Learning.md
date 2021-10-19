@@ -25,8 +25,8 @@ Machine learning models development is only little part of the whole ML system.
 
 3. ETL Process:
    - Spark
-   ETL Orchestration:
-   - Airflow
+   - ETL Orchestration:
+     - Airflow
      
 4. Data Annotation/Labeling:
    - Label Studio      
