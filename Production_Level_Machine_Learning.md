@@ -5,7 +5,7 @@ Machine learning models development is only little part of the whole ML system.
 ![MLOps](https://www.kdnuggets.com/wp-content/uploads/Fig1-Bose-mlops-why-required-what-is.jpg)
 
 
-1. Data Acquisition or Collecting:
+1. Data Acquisition or Collection:
    - ELK
    - Kafka
 
