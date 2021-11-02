@@ -6,27 +6,31 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 ### Quick Guide
 
-* Quick Developing and Deployment:
+* Quick developing and deployment:
 
-   * Build your first machine learning service from Tensorflow Hub [`Streamlit Demo`](demo/simple/image_cls)
+   * Build your first machine learning service from Tensorflow Hub with Streamlit[`Streamlit Demo`](demo/simple/image_cls)
 
 * Tweak your model:
 
    * Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
 
-* Explaining your Models:
+* Explain your model:
 
    * Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
 
 * Deploy a machine learning model using torchserve/tensorflow serving [`Demo`]()
 
-* MLOps
+* Production level machine learning (MLOps):
 
-   * How to manage machine learning models in production [`check here`](MLOps.md)
+   * How to manage machine learning models in production [`link`](MLOps.md)
    
-   * Deploy a continuous training model with kubeflow
+   * Deploy a continuous training model with Kubeflow [`github`]()
 
-   * Use Prometheus for model monitoring [`check here`]()
+   * Use Prometheus for model monitoring [`github`]()
+
+* Don't forget data. 
+   *  Airflow with Spark
+   *  Streaming data with Kafka
 
 
 ### Other Demos
@@ -45,7 +49,9 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 * [Sales Prediction Demo]()
 
-* [Forest covertype with Tabnet Demo]()
+* [Forest covertype with Tabnet Demo (transformer for tablular data)]()
+
+* [Applications in semiconductor engineering]
 
 ### Notebook Lists
 
@@ -57,7 +63,7 @@ Below gives you more details of knowledge and resources in each domain of machin
 
 ## [Data Engineering](Data_Engineering.md)
 
-This section introduces Data Lake, Data warehouse and ETL process, using Kafka, Spark, Airflow, etc.
+This section introduces Data Lake, Data Warehouse and ETL process with Kafka, Spark, Airflow, etc.
 
 ## [Machine Learning](Machine_Learning.md)
 
@@ -65,11 +71,11 @@ Introducing machine learning algorithms like SVM, decision trees, Random Forest 
 
 ## [Deep Learning](Deep_Learning.md)
 
-Neural Network architecture and theories. Introducing what's loss function, activation functions, backpropagation, etc.
+Neural network architecture and theories. Introducing what's loss function, activation functions, backpropagation, etc.
 
 ## [Data Analysis with Machine Learning](Data_Analysis.md)
 
-Introducing Data preprocessing, Exploritary Data Analysis, feature engineering, model selection and training, model inspection
+Introducing Data preprocessing, Exploritary Data Analysis(EDA), feature engineering, model selection and training, model inspection
 
 ## [Production Level Machine Learning(MLOps)](MLOps.md)
 
@@ -85,13 +91,7 @@ Include most of NLP models and tasks.
 
 ## [Responsible AI](Responsible_AI.md)
 
-Explainable AI, Fairness 
-
-## [Multimodal Learning](Multimodal.md)
-
-Image captions, visual question answering
-
-## [AutoML](autoML.md)
+Explainable AI, Fairness, Bias avoidance
 
 ## [Other Learning Resources](Other_Learning_Resources.md)
 
@@ -105,8 +105,13 @@ Image captions, visual question answering
 
 ## [Conversational_AI](applications/Conversational_AI.md)
 
+# Update in the Future
 
+## [Multimodal Learning](Multimodal.md)
 
+Image captions, visual question answering
+
+## [AutoML](autoML.md)
 
 
 
