@@ -51,7 +51,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 * [Forest covertype with Tabnet Demo (transformer for tablular data)]()
 
-* [Applications in semiconductor engineering]
+* [Applications in semiconductor engineering]()
 
 ### Notebook Lists
 
