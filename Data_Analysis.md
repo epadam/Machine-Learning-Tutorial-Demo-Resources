@@ -60,7 +60,7 @@ All the nodebooks in this section:
 
 ### Model Explanation
 
-Models like linear Regression and Decsion Tree has better explanbility. However, 
+Models like Linear Regression and Decsion Tree has better explanbility. However, 
 
 
 
