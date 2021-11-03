@@ -1,28 +1,36 @@
 # Data Engineering
 
-## Data Pipeline Orchestration
+## Data Collection (Extraction)
+
+- web crawling.
+
+## Data Streaming
+
+- Kafka
+
+## Data Processing (Cleansing, Validation)
+
+* Spark
+* Flink
+
+## Data Pipeline Orchestration (ETL Pipeline)
 
 * Airflow
 
-## Data Collection (Extraction)
-
-How to use python for web crawling.
-
-## Data Processing (Transform)
-
-Kafka, Spark
-
-## Data Storage and Versioning (Loading)
+## Data Storage and Versioning 
 
 ### Data Lake
 
 * ElasticSearch
+* HDFS
+* S3
+* GCS
 
 ### Data Warehouse
 
 * HBase
 * Hive
-
+* BigQuery
 
 ## Data Labeling
 
@@ -47,6 +55,7 @@ Some researh in labeling:
 * Fluid Annotation: An Exploratory Machine Learning–Powered Interface for Faster Image Annotation [`link`](https://ai.googleblog.com/2018/10/fluid-annotation-exploratory-machine.html)
 
 Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.org/abs/1908.01862)
+
 
 
 
