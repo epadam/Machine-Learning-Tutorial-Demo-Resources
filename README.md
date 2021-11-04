@@ -97,7 +97,7 @@ Explainable AI, Fairness, Bias avoidance
 
 ## [Quick List of Libraries and Frameworks](Libraries_and_Frameworks.md)
 
-# Application Fields of Machine Learning
+# Applications of Machine Learning
 
 ## [Manufacturing](applications/Manufacturing.md)
 
