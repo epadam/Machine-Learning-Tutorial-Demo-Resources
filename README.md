@@ -18,7 +18,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
    * Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
 
-* Deploy a machine learning model using torchserve/tensorflow serving [`Demo`]()
+* Deploy a machine learning model (Model as code vs model as data) [`Demo`]()
 
 * Production level machine learning (MLOps):
 
