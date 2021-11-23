@@ -6,7 +6,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 ### Quick Guide
 
-* Quick developing and deployment:
+* Quick developing and deployment for demo:
 
    * Build your first machine learning service from Tensorflow Hub with Streamlit[`Streamlit Demo`](demo/simple/image_cls)
 
@@ -18,20 +18,11 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
    * Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
 
-* Deploy a machine learning model (model as code vs model as data) [`Demo`]()
+* Deploy a machine learning model using fast api [`link`]()
 
-* Production level machine learning (MLOps):
+* Production level machine learning (MLOps) with Kubeflow, MLflow and other tools[`repo`](MLOps.md)
 
-   * How to manage machine learning models in production [`link`](MLOps.md)
-   
-   * Deploy a continuous training model with Kubeflow [`github`]()
-
-   * Use Prometheus for model monitoring [`github`]()
-
-* Don't forget data. 
-   *  Airflow with Spark
-   *  Streaming data with Kafka
-
+* Data Engineering with Kafka, Spark.['Link'](Data_Engineering.md)
 
 ### Other Demos
 
@@ -41,15 +32,13 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 * [NLP Tasks Overview Demo]()
 
-* [Rasa QA chatbot with Haystack Demo]()
+* Rasa chatbot with Haystack Demo['Repo']()
 
 * [Spectrum Classifier Demo]()
 
 * [Time Series Classification/Prediction Demo]()
 
 * [Sales Prediction Demo]()
-
-* [Forest covertype with Tabnet Demo (transformer for tablular data)]()
 
 * [Applications in semiconductor engineering]()
 
