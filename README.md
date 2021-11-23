@@ -32,7 +32,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 * [NLP Tasks Overview Demo]()
 
-* Rasa chatbot with Haystack Demo['Repo']()
+* Rasa chatbot with Haystack Demo ['Repo']()
 
 * [Spectrum Classifier Demo]()
 
