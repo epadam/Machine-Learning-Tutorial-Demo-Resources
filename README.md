@@ -3,7 +3,6 @@
 The best way to learn machine learning is to build tutorials and demos yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also useful tools and libraries. It includes many jupyter notebooks and real demo. 
 
 
-
 ### Quick Guide
 
 * Quick developing and deployment for demo:
@@ -24,7 +23,7 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 * Data Engineering with Kafka, Spark.['Link'](Data_Engineering.md)
 
-### Other Demos
+### Quick Demos with Streamlit
 
 * [CV Tasks Overview Demo]()
 
