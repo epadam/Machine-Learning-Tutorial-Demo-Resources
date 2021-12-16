@@ -451,20 +451,6 @@ Microsoft and OpenAI uses GPT-3 to launch their Codex service. Honestly I think 
 * [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
 
-## How to develop a production level NLP services
-
-Let's build a technical document service
-1. Data Labeling and Preprocessing (let's use label studio and snorkel)
-2. Model Training and tracking (Kubeflow, mlflow)
-3. Model evaluation, Inspection (LIT, tensorboard)
-4. Model Deployment and Monitoring (convert the model to torchscript, and use torchserve for the serving)
-
-keras version
-
-tensorflow version
-
-pytorch version
-
 ## More Resourcesfor NLP
 
 ### NLP Benchmark
