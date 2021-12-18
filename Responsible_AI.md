@@ -33,6 +33,8 @@ Check the Interactive Streamlit [Demo]()
 
 ### For Tabular Data
 
+#### Methods
+
 * Feature Importance
    * Permutation Importance
 
@@ -42,9 +44,11 @@ Check the Interactive Streamlit [Demo]()
 
 * Accumulated Local Effects (ALE)
 
+* Counterfact Analysis
 
+* Error Analysis
 
-#### Tools:
+#### Tools
 
 * What If Tool [`github`](https://pair-code.github.io/what-if-tool/)
 
@@ -54,6 +58,7 @@ Check the Interactive Streamlit [Demo]()
 
 * SHAP [`github`](https://github.com/slundberg/shap)
 
+* microsoft/responsible-ai-widgets[`github`](https://github.com/microsoft/responsible-ai-widgets/)
 
 ### For Computer Vision
 
