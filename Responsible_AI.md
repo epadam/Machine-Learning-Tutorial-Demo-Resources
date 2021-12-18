@@ -4,7 +4,7 @@ Check the Interactive Streamlit [Demo]()
 
 ## Explainability
 
-### For All Data Type
+### For All Data Type (image, text, tabular data)
 
 * Perturbation Based
    * LIME [`github`](https://github.com/marcotcr/lime)
@@ -31,7 +31,7 @@ Check the Interactive Streamlit [Demo]()
 
    * DeepLift [`github`](https://github.com/kundajelab/deeplift)
 
-### For Tabular Data
+### For Tabular Data Only
 
 #### Methods
 
@@ -60,11 +60,7 @@ Check the Interactive Streamlit [Demo]()
 
 * microsoft/responsible-ai-widgets[`github`](https://github.com/microsoft/responsible-ai-widgets/)
 
-### For Computer Vision
-
-
-
-### For Natural Language Processing
+### For Natural Language Processing Only
 
 * LIT [`github`](https://github.com/PAIR-code/lit)
 
