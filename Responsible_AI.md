@@ -45,6 +45,8 @@ Check the Interactive Streamlit [Demo]()
 * Accumulated Local Effects (ALE)
 
 * Counterfact Analysis
+    * What if tools
+    * Responsible-ai-toolbox
 
 * Error Analysis
 
