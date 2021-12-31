@@ -24,13 +24,17 @@
 
 ### Motion Prediction
 
-## Motion Planning
-
 ### Mapping Occupancy Grids
+
+## Planning
+
+### Behaviour planning with dynamic objects
 
 ### Path Planning
 
-### Behaviour planning with dynamic objects
+### Decision Macking
+
+### Motion Planning
 
 
 
@@ -48,6 +52,8 @@
 * Apollo [`github`](https://github.com/ApolloAuto/apollo)
 
 * Comma ai openpilot [`github`](https://github.com/commaai/openpilot)
+
+* Autoware
 
 ## Simulator
 
