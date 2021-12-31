@@ -19,12 +19,11 @@
 
 ## Localization
 
+### Mapping Occupancy Grids
 
 ## Prediction
 
-### Motion Prediction
-
-### Mapping Occupancy Grids
+### Trajectory and Motion Prediction
 
 ## Planning
 
