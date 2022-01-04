@@ -301,7 +301,7 @@ For more sentiment dataset please check:
 * IMDB Movie Review
 
 
-### Ducument Classification
+### Document Classification
 
 * Clustering (PCA)
 
@@ -365,9 +365,9 @@ There are mainly two ways:
 * Dataset:
   * PAWS: Paraphrase Adversaries from Word Scrambling [`github`](https://github.com/google-research-datasets/paws)
 
-#### Information Retrieval/Semantic Search/Question Answering
+#### Information Retrieval (Including Semantic Search and Question Answering)
 
-Information Retrieval is gradually relying on semantic understanding these days, where user can search information in a question format not just keywords.
+Information Retrieval is gradually relying on semantic understanding these days instead of rules, where user can search information in a question format not just keywords.
 
 There are actually many types of question answering:
 
