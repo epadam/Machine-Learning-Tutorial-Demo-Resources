@@ -1,8 +1,14 @@
 # Data Engineering
 
+## Data Source
+
+- open source
+- synthetic 
+
 ## Data Collection (Extraction)
 
-- web crawling.
+- web crawling
+- API fetching
 
 ## Data Streaming
 
@@ -19,7 +25,7 @@
 
 ## Data Storage and Versioning 
 
-### Data Lake
+### Data Storage/Data Lake
 
 * ElasticSearch
 * HDFS
@@ -56,8 +62,10 @@ Some researh in labeling:
 
 Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.org/abs/1908.01862)
 
+## Data Versioning
 
-
+* DVC
+* Pachyderm
 
 
 
