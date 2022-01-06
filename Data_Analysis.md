@@ -26,13 +26,7 @@ All the nodebooks in this section:
 
 ### Data Augmentation
 
-- Augmentor [`Github`](https://github.com/mdbloice/Augmentor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-
-- albumentations [`Github`](https://github.com/albumentations-team/albumentations)
-
-- DALI [`Github`](https://github.com/NVIDIA/DALI)
-
-
+- DeltaPy⁠⁠ [`github`](https://github.com/firmai/deltapy)
 
 ## Model Selection and Training
 
