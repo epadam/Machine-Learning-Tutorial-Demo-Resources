@@ -79,7 +79,7 @@ Neural network architecture and theories. Introducing loss function, activation 
 
 Data preprocessing, Exploritary Data Analysis(EDA), feature engineering, model selection and training, model inspection
 
-### [Production Level Machine Learning(MLOps)](MLOps.md)
+### [Production Level Machine Learning(MLOps)](https://github.com/epadam/production-level-machine-learning)
 
 From model developement to deployment and monitoring.
 
