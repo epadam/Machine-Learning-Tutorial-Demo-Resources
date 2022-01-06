@@ -3,10 +3,7 @@
 The best way to learn machine learning is to build tutorials and demos yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also useful tools and libraries. It includes many jupyter notebooks and real demo. 
 
 
-### Quick Guide
-
-1. Machine Learning Tasks Type
-
+### Quick Guide to get the Taste
 
 * Quick developing and deployment for demo:
 
@@ -47,6 +44,21 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 ### Notebook Lists
 
 Please check all notebooks [here](notebooks/)
+
+1. Machine Learning Tasks Type
+
+   a. Structured Data 
+     
+     - Regression
+
+     - Classification
+    
+   b. Unstructured Data
+      
+     - Text
+
+     - Image, Videos
+
 
 
 ## Theory, Tools and Other Resources in Different Topics of Machine Learning
