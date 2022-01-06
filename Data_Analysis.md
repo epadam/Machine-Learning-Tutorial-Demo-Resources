@@ -80,6 +80,12 @@ Models like Linear Regression and Decsion Tree has better explanbility. However,
 * SHAP [`github`](https://github.com/slundberg/shap)
 * Manifold [`github`](https://github.com/uber/manifold)
 
+### Debugging
+
+* Tensorflow Model Analysis
+
+* Microsoft Responsible AI Widget
+
 
 ## Interesting Research for Auto Data Analysis
 
