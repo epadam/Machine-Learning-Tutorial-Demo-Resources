@@ -83,11 +83,11 @@ Data preprocessing, Exploritary Data Analysis(EDA), feature engineering, model s
 
 From model developement to deployment and monitoring.
 
-### [Computer Vision](Computer_Vision.md)
+### [Computer Vision](https://github.com/epadam/cv-overview)
 
 Image classification, object detection, segmentation, depth estimation, etc.
 
-### [Natural Language Processing](Natural_Language_Processing.md)
+### [Natural Language Processing](https://github.com/epadam/nlp-overview)
 
 NLP models and tasks.
 
