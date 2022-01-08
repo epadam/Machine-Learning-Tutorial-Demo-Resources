@@ -1,4 +1,4 @@
-# Data Analysis 
+# Machine Learning for Tabular Data
 
 In this section we talk about tricks and tips for data analysis with machine learning. 
 
