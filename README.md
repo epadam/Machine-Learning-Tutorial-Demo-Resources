@@ -21,7 +21,7 @@ Please check and run the code yourself
 
 * Deploy your model service![`link`]()
 
-   Check here to see how production level model works(MLOps.md)
+   Check [here]((https://github.com/epadam/production-level-machine-learning) to see how to manage a machine learning project!!
 
 * Not just Dataset, get your own data!['Link'](Data_Engineering.md)
 
@@ -47,47 +47,25 @@ Please check and run the code yourself
 
 Please check all notebooks [here](notebooks/)
 
-### Machine Learning Process Flow
-
-1. What it the target and data type?
-
-   a. Structured Data 
-     
-     - Regression
-
-     - Classification
-    
-   b. Unstructured Data
-      
-     - Text
-
-     - Image, Videos
-
-   c. Multimodal Data
- 
-2. Data Collection
-
-
-
 ##  More Details for Different Topics in Machine Learning
+
+### [Production Level Machine Learning(MLOps)](https://github.com/epadam/production-level-machine-learning)
 
 ### [Data Engineering](Data_Engineering.md)
 
 This section introduces Data Lake, Data Warehouse and ETL process with Kafka, Spark, Airflow, etc.
 
-### [Machine Learning](Machine_Learning.md)
+### [Machine Learning Algorithms](Machine_Learning.md)
 
 Machine learning algorithms like SVM, decision trees, random forest with real world challenges.
 
-### [Deep Learning](Deep_Learning.md)
+### [Deep Learning Overview](Deep_Learning.md)
 
 Neural network architecture and theories. Introducing loss function, activation functions, backpropagation, etc.
 
-### [Data Analysis with Machine Learning](Data_Analysis.md)
+### [Machine Learning for Tabular Data](ML_Tabular.md)
 
 Data preprocessing, Exploritary Data Analysis(EDA), feature engineering, model selection and training, model inspection
-
-### [Production Level Machine Learning(MLOps)](https://github.com/epadam/production-level-machine-learning)
 
 From model developement to deployment and monitoring.
 
@@ -110,7 +88,7 @@ Image captions, visual question answering
 
 ### [AutoML](autoML.md)
 
-NAS, 
+NAS
 
 ## [Libraries and Frameworks](Libraries_and_Frameworks.md)
 
