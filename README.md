@@ -5,25 +5,24 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 ### Quick Guide to get the Taste
 
-* Quick developing and deployment for demo:
+* Quick developing and deployment :
 
    * Build your first machine learning service from Tensorflow Hub with Streamlit[`Streamlit Demo`](demo/simple/image_cls)
 
-* Tweak your model:
+* Develop and explaing your own model:
 
-   * Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization, Visualization and Interpretation in Nueral Network [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
-
-* Explain your model:
-
+   * Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization for your model [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
    * Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
+   
+   Check here to dive deeper for debugging your model and more!
 
-* Deploy a machine learning model using fast api [`link`]()
+* Deploy your model service![`link`]()
 
-* Production level machine learning (MLOps) with Kubeflow, MLflow and other tools[`repo`](MLOps.md)
+   Check here to see how production level model works(MLOps.md)
 
-* Data Engineering with Kafka, Spark.['Link'](Data_Engineering.md)
+* Not just Dataset, get your own data!['Link'](Data_Engineering.md)
 
-### Quick Demos with Streamlit
+### More Fun Demos with Streamlit
 
 * [CV Tasks Overview Demo]()
 
@@ -41,11 +40,13 @@ The best way to learn machine learning is to build tutorials and demos yourself.
 
 * [Applications in semiconductor engineering]()
 
-### Notebook Lists
+### Notebooks
 
 Please check all notebooks [here](notebooks/)
 
-1. Machine Learning Tasks Type
+### Machine Learning Process Flow
+
+1. What it the target and data type?
 
    a. Structured Data 
      
@@ -59,9 +60,13 @@ Please check all notebooks [here](notebooks/)
 
      - Image, Videos
 
+   c. Multimodal Data
+ 
+2. Data Collection
 
 
-## Theory, Tools and Other Resources in Different Topics of Machine Learning
+
+##  More Details for Different Topics in Machine Learning
 
 ### [Data Engineering](Data_Engineering.md)
 
@@ -102,16 +107,12 @@ Image captions, visual question answering
 
 ### [AutoML](autoML.md)
 
-### [Libraries and Frameworks](Libraries_and_Frameworks.md)
+NAS, 
 
+## [Libraries and Frameworks](Libraries_and_Frameworks.md)
 
-## Other Examples of Machine Learning Application
+## [More Machine Learning Applications](applications/README.md)
 
-### [Manufacturing](applications/Manufacturing.md)
-
-### [Document AI](applications/Document_AI.md)
-
-### [Conversational_AI](applications/Conversational_AI.md)
 
 
 
