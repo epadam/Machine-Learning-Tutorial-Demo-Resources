@@ -43,7 +43,7 @@ Check all notebooks [here](notebooks/)
 
 * [NLP Tasks Overview Demo]()
 
-* Rasa chatbot with Haystack Demo['Repo']()
+* Rasa chatbot with Haystack Demo[`Repo`]()
 
 * [Time Series Classification/Prediction Demo]()
 
