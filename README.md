@@ -19,7 +19,7 @@ Please check and run the code yourself
    
    Check here to dive deeper for debugging your model and more!
 
-* Deploy your own model service![`link`]()
+* Deploy your own model service! [`link`]()
 
    Check [here]((https://github.com/epadam/production-level-machine-learning) to see how to manage a machine learning project!!
 
