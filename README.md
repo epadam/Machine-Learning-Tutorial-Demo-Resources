@@ -8,52 +8,54 @@ Please check and run the code yourself
 
 ### Quick Guide to get the Taste
 
-* Quick developing and deployment :
+* Quick deploy a demo using trained model:
 
    * Build your first machine learning service from Tensorflow Hub with Streamlit[`Streamlit Demo`](demo/simple/image_cls)
 
-* Develop and explaing your own model:
+* Develop, train and explain your own model:
 
    * Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization for your model [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
    * Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
    
    Check here to dive deeper for debugging your model and more!
 
-* Deploy your model service![`link`]()
+* Deploy your own model service![`link`]()
 
    Check [here]((https://github.com/epadam/production-level-machine-learning) to see how to manage a machine learning project!!
 
-* Not just Dataset, get your own data!['Link'](Data_Engineering.md)
+### Train more models in notebooks!
 
-### More Fun Demos with Streamlit
+Finish five tabular data tasks!
+
+Finish five computer vision tasks!
+
+Finish five Natural Language tasks!
+
+Check all notebooks [here](notebooks/)
+
+### Check some more demos to see which topics you like more
 
 * [CV Tasks Overview Demo]()
+
+* [Spectrum Classifier Demo]()
 
 * [Information Extraction Demo]()
 
 * [NLP Tasks Overview Demo]()
 
-* Rasa chatbot with Haystack Demo ['Repo']()
-
-* [Spectrum Classifier Demo]()
+* Rasa chatbot with Haystack Demo['Repo']()
 
 * [Time Series Classification/Prediction Demo]()
 
 * [Sales Prediction Demo]()
 
-* [Applications in semiconductor engineering]()
+* [Applications for Semiconductor]()
 
-### Notebooks
+## Not just Dataset, get your own data and build your own data pipeline!['Link'](Data_Engineering.md)
 
-Please check all notebooks [here](notebooks/)
+## What else do we need for production?[(MLOps)](https://github.com/epadam/production-level-machine-learning)
 
-##  More Details for Different Topics in Machine Learning
-
-### [Production Level Machine Learning(MLOps)](https://github.com/epadam/production-level-machine-learning)
-
-### [Data Engineering](Data_Engineering.md)
-
-This section introduces Data Lake, Data Warehouse and ETL process with Kafka, Spark, Airflow, etc.
+##  Need more resources?
 
 ### [Machine Learning Algorithms](Machine_Learning.md)
 
@@ -66,8 +68,6 @@ Neural network architecture and theories. Introducing loss function, activation 
 ### [Machine Learning for Tabular Data](ML_Tabular.md)
 
 Data preprocessing, Exploritary Data Analysis(EDA), feature engineering, model selection and training, model inspection
-
-From model developement to deployment and monitoring.
 
 ### [Computer Vision](https://github.com/epadam/cv-overview)
 
