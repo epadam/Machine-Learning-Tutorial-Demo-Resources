@@ -21,7 +21,7 @@ Please check and run the code yourself
 
 * Deploy your own model service! [`link`]()
 
-   Check [`here`]((https://github.com/epadam/production-level-machine-learning) to see how to manage a machine learning project!!
+   Check [`here`](https://github.com/epadam/production-level-machine-learning) to see how to manage a machine learning project!!
 
 ### Train more models in notebooks!
 
