@@ -30,6 +30,9 @@
 * Graph Network
     * Spatial Dual-Modality Graph Reasoning for Key Information Extraction [`arXiv`](https://arxiv.org/abs/2103.14470)
 
+* [Extracting Structured Data from Templatic Documents](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
+* [StructuralLM: Structural Pre-training for Form Understanding](https://arxiv.org/abs/2105.11210)
+
 ### NLP for Information Extraction
 
 Question Answering, Summary, 
