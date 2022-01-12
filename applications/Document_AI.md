@@ -1,41 +1,44 @@
 # Document AI
 
+## OCR
+
 ## Image Preprocessing
 
-### Dewarping
+#### Dewarping
 
-## Layout Analysis
+### Layout Analysis
 
-## Table Recognition
+### Table Recognition
 
-## Text Detection
+### Text Detection
 
 * Faster-RCNN
 * CTPN
 
 
-## Text Recognition
+### Text Recognition
 
 * CRNN
   * CTC Loss 
 
 ## Information Extraction
 
+### Key-Value Pair Extraction
+
 * Transformer Based
     * LayoutLM []()
 * Graph Network
     * Spatial Dual-Modality Graph Reasoning for Key Information Extraction [`arXiv`](https://arxiv.org/abs/2103.14470)
 
-## Open Source Resources
+### NLP for Information Extraction
+
+Question Answering, Summary, 
+
+## Use Casees
+
+Contract review, RPA
 
 
-## Commercial Examples
-
-Microsoft
-
-Huawei
-
-Baidu
 
 ## Tools
 
