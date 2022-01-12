@@ -28,6 +28,7 @@ Please check and run the code yourself
 Finish five tabular data tasks!
 
 Finish five computer vision tasks!
+
 2. Freiburg Groceries Dataset[`notebook`]()
 
 
