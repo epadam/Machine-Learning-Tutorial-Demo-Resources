@@ -2,9 +2,7 @@
 
 ### General
 
-#### Information Extraction
-
-1. OCR
+#### Document AI (OCR & Information Extraction)
 
 #### Conversational AI
 
