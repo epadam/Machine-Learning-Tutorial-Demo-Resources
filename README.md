@@ -1,10 +1,10 @@
 # Machine Learning Tutorial, Demo and Resources
 
-When I started to learn machine learning, I didn't find tutorials that give you the whole pictures of machine learning.
+Have you ever wanted to learn machine learning, but got confused by all the buzz words in machine learning and scattered resources?
 
-The best way to learn machine learning is to build tutorials and demos yourself. That is the reason why this repository exists. It covers from basic knowledge to modern research and also useful tools and libraries.
+This is the one for you. From the basic machine learning practice, debugging to production machine learning, it can help you not just stay in the lab.
 
-Please check and run the code yourself
+The best way to learn machine learning is to build tutorials and demos yourself. You can check this repo and build one yourself.
 
 ### Quick Guide to get the Taste
 
