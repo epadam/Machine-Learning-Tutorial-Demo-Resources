@@ -2,7 +2,9 @@
 
 Have you ever wanted to learn machine learning, but got confused by all the buzz words in machine learning and scattered resources? Are you afraid what you learn is not state-of-the-art machine learning?
 
-This is the one for you. From the basic machine learning practice, debugging to production machine learning, it can help you not just stay in the lab.
+Many learning resources stop at model development, and don't put responsible AI, model deployment and monitoring together. You need to search for yourself and puzzel them together.
+
+This is the resource gives you from the basic machine learning practice, debugging to production machine learning. Your model can really be deployed in production not just a jupyter notebook.
 
 The best way to learn machine learning is to build tutorials and demos yourself. You can check this repo and build one yourself.
 
