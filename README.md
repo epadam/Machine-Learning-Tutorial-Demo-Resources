@@ -1,6 +1,6 @@
 # Machine Learning Tutorial, Demo and Resources
 
-Have you ever wanted to learn machine learning, but got confused by all the buzz words in machine learning and scattered resources?
+Have you ever wanted to learn machine learning, but got confused by all the buzz words in machine learning and scattered resources? Are you afraid what you learn is not state-of-the-art machine learning?
 
 This is the one for you. From the basic machine learning practice, debugging to production machine learning, it can help you not just stay in the lab.
 
