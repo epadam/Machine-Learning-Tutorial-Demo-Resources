@@ -2,6 +2,8 @@
 
 ### Sales/Demand Forcasting
 
+### Robotic Process Automation
+
 ### Inventory Management
 
 ### Contract Reviewing
