@@ -82,8 +82,7 @@ NLP models and tasks.
 
 ### [Responsible AI](Responsible_AI.md)
 
-Explainable AI can help you understand why the model would make this prediction and can be used for model debugging. 
-Fairness evaluation to insure bias avoidance.
+Fairness, Reliability & Safety, Privacy and Security, Inclusiveness, Transparency, Accountability
 
 ### [Multimodal Learning](temp/Multimodal.md)
 
