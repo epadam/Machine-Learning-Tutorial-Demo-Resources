@@ -45,6 +45,8 @@
 
 * Audio-Visual Scene-Aware Dialog [`github`](https://github.com/batra-mlp-lab/avsd)
 
+### Multimodal Sentiment Analysis
+
 ### Multi-agent Communication
 
 ### Healthcare
