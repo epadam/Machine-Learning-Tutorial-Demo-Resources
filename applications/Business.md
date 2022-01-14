@@ -21,3 +21,5 @@
 ### Public Image/Relation Analysis
 
 * knowledge Graph for Social Media
+
+* Sentiment Analysis of Brand (https://github.com/heartexlabs/brand-sentiment-analysis)
