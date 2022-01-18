@@ -3,6 +3,7 @@
 ## Architecture
 
 ### VAE-GAN
+### DCGAN
 
 ## Reinforcement Learning for GAN
 
