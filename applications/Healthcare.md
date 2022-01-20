@@ -6,6 +6,14 @@
 
 ### GAN for Medical Images
 
+1. Synthesis
+2. Segmentation
+3. Reconstruction
+4. Detection
+5. De-noising
+6. Registration
+7. Classification
+
 ### Open Source Tool for Medical Images
 
 * [NiftyNet](https://github.com/NifTK/NiftyNet)
