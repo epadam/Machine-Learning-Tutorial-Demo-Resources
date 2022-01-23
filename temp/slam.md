@@ -1,28 +1,30 @@
 # SLAM
 
-## Frontend
+## General
 
-### Visual Odometry
+### Odometry (Frontend)
 
+### Localization
 
+### Loop Clossing
 
-## Localization
-
-## Backend
-
-## Loop
-
-## Mapping
-
-## 3D Reconstruction
+### Mapping
 
 ## Visual SLAM
 
-### ORB-SLAM (ORB_SLAM2)
+1. ORB-SLAM (ORB_SLAM2)
+2. SVO
 
-### SVO (Visual Semantic Odometry)
+## Visual Inertial SLAM
+
+## Lidar SLAM
+
 
 ## Deep Learning for SLAM
 
+### Replace components in SLAM
 
-## Semantic SLAM
+### Add Semantic Information in SLAM
+
+## 3D-Reconstruction
+
