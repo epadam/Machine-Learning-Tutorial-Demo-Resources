@@ -32,6 +32,10 @@
 
 ## Data Analysis for Health Care
 
+## Notebooks
+
+* Mednist
+
 ## Kaggle Contest
 
 ### Image Segmentation
