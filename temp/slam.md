@@ -2,10 +2,11 @@
 
 ## Frontend
 
-## Localization
-
 ### Visual Odometry
 
+
+
+## Localization
 
 ## Backend
 
@@ -19,7 +20,7 @@
 
 ### ORB-SLAM (ORB_SLAM2)
 
-### SVO
+### SVO (Visual Semantic Odometry)
 
 ## Deep Learning for SLAM
 
