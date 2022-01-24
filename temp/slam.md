@@ -6,9 +6,9 @@
 
 ### Localization
 
-### Loop Clossing
+### Loop Closure
 
-### Mapping
+### Map Estimation
 
 ## Visual SLAM
 
@@ -22,7 +22,12 @@
 
 ## Deep Learning for SLAM
 
+### Data Source Estimation
+
+CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction (Depth Estimation)
+
 ### Replace components in SLAM
+
 
 ### Add Semantic Information in SLAM
 
