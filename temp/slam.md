@@ -14,6 +14,7 @@
 
 1. ORB-SLAM (ORB_SLAM2)
 2. SVO
+3. LSD-SLAM
 
 ## Visual Inertial SLAM
 
