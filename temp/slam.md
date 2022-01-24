@@ -13,7 +13,7 @@
 ## Visual SLAM
 
 1. ORB-SLAM (ORB_SLAM2)
-2. SVO
+2. SVO (Semi-direct Visual Odoemtry) 
 3. LSD-SLAM
 
 ## Visual Inertial SLAM
