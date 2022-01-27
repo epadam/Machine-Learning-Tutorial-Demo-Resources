@@ -14,6 +14,8 @@
 6. Registration
 7. Classification
 
+### Self-Supervised Learning for Medical Images
+
 ### Open Source Tool for Medical Images
 
 * [NiftyNet](https://github.com/NifTK/NiftyNet)
