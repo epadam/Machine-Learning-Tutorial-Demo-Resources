@@ -10,7 +10,7 @@
 
 ### Map Estimation
 
-## Visual SLAM
+## Visual SLAM (Monocular, Stereo, RGB-D)
 
 1. ORB-SLAM (ORB_SLAM2)
 2. SVO (Semi-direct Visual Odoemtry) 
