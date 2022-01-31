@@ -15,6 +15,8 @@ Include experts in the loop. The model selects valuable data and ask experts to 
 * Fine-tuning Convolutional Neural Networks for Biomedical Image Analysis Actively and Incrementally [`arXiv`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Fine-Tuning_Convolutional_Neural_CVPR_2017_paper.pdf)
 * Deep Active Learning for Myelin Segmentation on Histology Data [`github`](https://github.com/neuropoly/deep-active-learning)
 
+* Review Classification using Active Learning [`notebook`](https://keras.io/examples/nlp/active_learning_review_classification/)
+
 # Incremental Learning
 
 *  Fine-tuning Deep Neural Networks in Continuous Learning Scenarios [`arXiv`](https://pub.inf-cv.uni-jena.de/pdf/Kaeding16_FDN.pdf)
