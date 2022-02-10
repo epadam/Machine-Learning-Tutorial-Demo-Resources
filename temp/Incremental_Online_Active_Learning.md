@@ -17,11 +17,14 @@ Include experts in the loop. The model selects valuable data and ask experts to 
 
 * Review Classification using Active Learning [`notebook`](https://keras.io/examples/nlp/active_learning_review_classification/)
 
+## Using active learning in Label Studio
+
 # Incremental Learning
 
 *  Fine-tuning Deep Neural Networks in Continuous Learning Scenarios [`arXiv`](https://pub.inf-cv.uni-jena.de/pdf/Kaeding16_FDN.pdf)
 
 #  Life Long Learning (One model keeps changing)
+
 
 ## Memory
 
