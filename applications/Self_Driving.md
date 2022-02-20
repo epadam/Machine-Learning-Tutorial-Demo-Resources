@@ -2,17 +2,11 @@
 
 ## Perception
 
-### GNSS/INS
-
-### feature detector/ outlier visual odometry
-
-### Object Detection and Semantic Segmentation
-
-#### 2D
-
-#### 3D
+### Stereo Vision
 
 #### Depth Estimation
+
+### 2D/3D Object Detection and Semantic Segmentation
 
 #### Lane Detection
 
@@ -20,13 +14,25 @@
 
 #### Pedestrain Detection
 
-### Sensor Fusion
+#### Sensor Fusion
 
-### 3D Reconstruction
+#### 3D Reconstruction
 
 ## Localization
 
-### Mapping Occupancy Grids
+### GNSS/INS
+
+### Visual Odemetry
+
+
+## Mapping
+
+### 2D Mapping
+
+#### Mapping Occupancy Grids
+
+### 3D Mapping
+
 
 ## Prediction
 
@@ -49,6 +55,8 @@
 ### Longitudinal Vehicle Modeling
 
 ### Lateteral Dynamics 
+
+### MPC
 
 ## Safety
 
