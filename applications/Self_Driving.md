@@ -42,9 +42,11 @@
 
 ## Planning
 
+### Path Planning
+
 ### Behaviour planning with dynamic objects
 
-### Path Planning
+#### Reinforcement Learning and Imitation Learning
 
 ### Decision Macking
 
