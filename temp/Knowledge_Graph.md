@@ -30,7 +30,7 @@
 * Knowledge Graph for Banking
 * Knowledge Graph for Biology and Medicine
 
-* Pretraining with Knowledge Graph
+* Language Model Pretraining with Knowledge Graph
 
 ## Resources
 
