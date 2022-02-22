@@ -4,10 +4,11 @@
 
 * Triple Store
 
-
-## NLP with Knowledge Graph
+## Information Extraction for Building of Knowledge Graph 
 
 * Name Enitity Recognition
+
+* Relation Extraction
 
 * Entity Linking
   * [Spacy Component for Entity linking in Knowlege Graph](https://github.com/allenai/scispacy)
@@ -15,16 +16,11 @@
 
 * [Entity Disambiguation]()
 
+* Information Extraction with Reading Comprehension
 
-## Building Knowledge Graph 
+### Auto Knowledge Graph Building
 
-* NER
-
-* Relation Extraction
-
-### Auto Knowledge Graph Build
-
-### Knowledge Graph Compensation
+## Knowledge Graph Compensation
 
 ## Application
 
@@ -34,8 +30,7 @@
 * Knowledge Graph for Banking
 * Knowledge Graph for Biology and Medicine
 
-
-
+* Pretraining with Knowledge Graph
 
 ## Resources
 
