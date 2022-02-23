@@ -2,6 +2,8 @@
 
 ## Perception
 
+### Camera Calibration
+
 ### Stereo Vision
 
 #### Depth Estimation
@@ -14,11 +16,11 @@
 
 #### Pedestrain Detection
 
-#### Sensor Fusion
-
 #### 3D Reconstruction
 
 #### Bird Eye View 
+
+### Sensor Fusion
 
 ## Localization
 
