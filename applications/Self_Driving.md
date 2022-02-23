@@ -33,9 +33,12 @@
 
 ### 2D Mapping
 
+https://towardsdatascience.com/deep-learning-in-mapping-for-autonomous-driving-9e33ee951a44
+
 #### Mapping Occupancy Grids
 
 ### 3D Mapping
+
 
 
 ## Prediction
