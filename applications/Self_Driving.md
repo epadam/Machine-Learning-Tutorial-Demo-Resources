@@ -20,6 +20,8 @@
 
 #### Bird Eye View 
 
+https://towardsdatascience.com/monocular-bev-perception-with-transformers-in-autonomous-driving-c41e4a893944
+
 ### Sensor Fusion
 
 ## Localization
@@ -74,7 +76,7 @@ https://www.thinkautonomous.ai/blog/?p=how-googles-self-driving-cars-work
 
 * Apollo [`github`](https://github.com/ApolloAuto/apollo)
 
-* Comma ai openpilot [`github`](https://github.com/commaai/openpilot)
+* Comma ai Openpilot [`github`](https://github.com/commaai/openpilot)
 
 * Autoware
 
