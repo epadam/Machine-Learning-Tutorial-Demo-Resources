@@ -1,4 +1,0 @@
-# Retail
-
-## Fashion
-
