@@ -57,7 +57,7 @@ https://towardsdatascience.com/deep-learning-in-mapping-for-autonomous-driving-9
 
 ### Motion Planning
 
-
+https://www.thinkautonomous.ai/blog/?p=how-googles-self-driving-cars-work
 
 ## Control
 
