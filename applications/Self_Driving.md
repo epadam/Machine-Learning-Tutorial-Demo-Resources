@@ -10,6 +10,9 @@
 
 ### 2D/3D Object Detection and Semantic Segmentation
 
+(Monocular 3D Object Detection in Autonomous Driving — A Review)[https://towardsdatascience.com/monocular-3d-object-detection-in-autonomous-driving-2476a3c7f57e]
+
+
 #### Lane Detection
 
 #### Traffic Light Detection
