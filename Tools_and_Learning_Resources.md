@@ -259,6 +259,11 @@ pytorch version of exAI
 
 [TransmogrifAI]()
 
+## Distributed Training
+
+* Ray
+* Dask
+* Horovod
 
 ## Knoewledge Graph
 
