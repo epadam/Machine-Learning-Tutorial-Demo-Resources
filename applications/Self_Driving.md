@@ -54,11 +54,9 @@ https://towardsdatascience.com/deep-learning-in-mapping-for-autonomous-driving-9
 
 ### Path Planning
 
-### Behaviour planning with dynamic objects
+### Decision making/Behaviour planning with dynamic objects
 
 #### Reinforcement Learning and Imitation Learning
-
-### Decision Macking
 
 ### Motion Planning
 
