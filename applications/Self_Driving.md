@@ -26,12 +26,13 @@ https://towardsdatascience.com/monocular-bev-perception-with-transformers-in-aut
 
 ### Sensor Fusion
 
+Lidar-Camera Sensor Fusion
+
 ## Localization
 
 ### GNSS/INS
 
 ### Visual Odemetry
-
 
 ## Mapping
 
@@ -43,7 +44,7 @@ https://towardsdatascience.com/deep-learning-in-mapping-for-autonomous-driving-9
 
 ### 3D Mapping
 
-
+### SLAM
 
 ## Prediction
 
@@ -95,3 +96,8 @@ https://www.thinkautonomous.ai/blog/?p=how-googles-self-driving-cars-work
 * Carla [`github`](https://github.com/carla-simulator/carla)
 
 * AirSim [`github`](https://github.com/Microsoft/AirSim)
+
+## Reference
+
+* [https://github.com/daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car)
+* [https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
