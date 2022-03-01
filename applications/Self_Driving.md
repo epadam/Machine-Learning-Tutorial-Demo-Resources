@@ -62,6 +62,8 @@ https://towardsdatascience.com/deep-learning-in-mapping-for-autonomous-driving-9
 
 #### Reinforcement Learning and Imitation Learning
 
+ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst [`Arxiv`](https://arxiv.org/pdf/1812.03079.pdf)
+
 ### Trajectory/Motion Planning
 
 https://www.thinkautonomous.ai/blog/?p=how-googles-self-driving-cars-work
