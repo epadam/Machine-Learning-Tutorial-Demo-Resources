@@ -1,12 +1,12 @@
 # Machine Learning Tutorial, Demo and Resources
 
-Have you ever wanted to learn machine learning, but got confused by all the buzz words in machine learning and scattered resources? Are you afraid what you learn is not state-of-the-art machine learning?
+Have you ever wanted to learn machine learning, but get confused by all the terms in machine learning and don't know how and where to apply it? And you are afraid what you learn is not out-dated?
 
-Many learning resources stop at model development, and don't put responsible AI, model deployment and monitoring together. You need to search for yourself and puzzel them together.
+Many learning resources only focus on model development, without telling you other important parts like responsible AI, model deployment and monitoring. 
 
-This is the resource gives you from the basic machine learning practice, debugging to production machine learning. Your model can really be deployed in production not just a jupyter notebook.
+Personally I prefer a site that can give me the whole scope that I can know where I am in the machine learning world and what else is still missing.
 
-The best way to learn machine learning is to build tutorials and demos yourself. You can check this repo and build one yourself.
+If you feel the same, this is the resource gives you from the basic machine learning practice, debugging to production machine learning. Your model can really be deployed in production not just a jupyter notebook.
 
 ### Quick Guide to get the Taste
 
