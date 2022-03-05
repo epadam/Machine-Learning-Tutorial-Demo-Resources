@@ -47,7 +47,7 @@ When using neural network to predict the process result, couple of algorithms ca
 
   * [Neural Approach for Modeling and Optimizing Si-MOSFET Manufacturing](https://ieeexplore.ieee.org/abstract/document/9178720)
 
-## 4. Schdedule Optimization
+## 4. Schedule Optimization
 
 ### Reinforcement Learning
 
