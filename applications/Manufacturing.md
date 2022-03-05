@@ -24,7 +24,7 @@
 
 * [Online and incremental machine learning approaches for IC yield improvement](https://ieeexplore.ieee.org/document/8203857/)
 
-## 3. Process Automation and Optimization
+## 3. Process Automation and Optimization/Root Cause Analysis
 
 ### Process Result Prediction
 
@@ -52,8 +52,6 @@ When using neural network to predict the process result, couple of algorithms ca
 ### Reinforcement Learning
 
 * [Optimization of global production scheduling with deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S221282711830372X)
-
-## 5. Root Cause Analysis
 
 ## Reference
 
