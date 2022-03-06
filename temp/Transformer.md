@@ -4,6 +4,8 @@
 
 * ViT
 
+* Scene Understanding
+
 ## Natural Language Processing
 
 * BlenderBot
