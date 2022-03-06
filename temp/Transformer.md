@@ -2,6 +2,12 @@
 
 ## Computer Vision
 
+* ViT
+
 ## Natural Language Processing
 
-## 
+* BlenderBot
+
+## Tabular Data
+
+* TabTransformer
