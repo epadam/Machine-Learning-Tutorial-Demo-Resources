@@ -19,7 +19,8 @@ y=ax+b
    * Ridge Regression (L2)
    
 It can easily see which component is more important, but hard to include interaction between features.
-   
+
+* Don't use it unless the feature is pure independent. 
    
 * Decision Tree
 
