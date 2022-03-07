@@ -20,7 +20,7 @@ y=ax+b
    
 It can easily see which component is more important, but hard to include interaction between features.
 
-* Don't use it unless the feature is pure independent. 
+Don't use it unless the feature is pure independent. 
    
 * Decision Tree
 
