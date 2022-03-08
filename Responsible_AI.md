@@ -103,3 +103,5 @@ Check the Interactive Streamlit [Demo]()
 * https://christophm.github.io/interpretable-ml-book/
 
 * https://github.com/wangyongjie-ntu/Awesome-explainable-AI
+
+* https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/
