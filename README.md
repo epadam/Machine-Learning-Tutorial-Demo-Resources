@@ -16,7 +16,7 @@ If you feel the same, this is the resource gives you from the basic machine lear
 
 # Advanced
 
-## Understand your model better! Debuggin and explain your model with explainable AI
+## Understand your model better! Debug and explain your model with explainable AI
 
 ## [Not just Dataset, get your own data and build your own data pipeline!](Data_Engineering.md)
 
