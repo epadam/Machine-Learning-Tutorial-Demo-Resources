@@ -2,6 +2,10 @@
 
 In this section we talk about tricks and tips for data analysis with machine learning. 
 
+## What you have to think (General Guide)
+* What do you want to predict
+* What data source do you need, do you need ETL pipeline, use autoML for prediction?
+* Is the model responsible?
 
 All the nodebooks in this section:
 
@@ -46,17 +50,13 @@ All the nodebooks in this section:
 
 
 
-## Model Evaluation and Inspection
-
-
+## Model Evaluation, Inspection and Debugging
 
 ### Cross-Validation
 
 ### Model Explanation
 
 Models like Linear Regression and Decsion Tree has better explanbility. However, 
-
-
 
 
 ## Tools
