@@ -101,3 +101,5 @@ Check the Interactive Streamlit [Demo]()
 * https://maelfabien.github.io/machinelearning/Explorium_2/#limitations-of-linear-regression
 
 * https://christophm.github.io/interpretable-ml-book/
+
+* https://github.com/wangyongjie-ntu/Awesome-explainable-AI
