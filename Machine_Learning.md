@@ -8,7 +8,7 @@
 
 Check an example in [notebook](notebooks/data-analysis/Boston_House_Price.ipynb)! 
 
-* Linear Regression
+#### Linear Regression
 
 The simplest LR is as below. It can be multi-dimentional depending on your input. It can also be Polynomial equation.
 
@@ -22,41 +22,44 @@ It can easily see which component is more important, but hard to include interac
 
 Don't use it unless the feature is pure independent. 
    
-* Decision Tree
+#### Decision Tree
 
 
-* Random Forest
+#### Random Forest
 
 
-* Bayesian
+#### Bayesian
 
 ### Classification
 
 Check an example in notebook!
 
-* Logisitc Regression
+#### Logisitc Regression
 
-* Naive Bayes
+#### Naive Bayes
 
-* Support Vector Machine (SVM)
+#### Support Vector Machine (SVM)
 
-* Decision Tree for Regression
+#### Decision Tree for Regression
 
-* Random Forest
+#### Random Forest
 
-* Gradient Boosting
+#### Gradient Boosting
 
-* K-Nearest Neighbors
+#### K-Nearest Neighbors
 
 ## Unsupervised Learning
 
-* K-means
+### K-means
 
-* PCA
+### PCA
+
+## Ensemble and Stacking
 
 ## Deep Learning
 
 Please check [here](Deep_Learning.md)
+
 
 
 ## More Resources
