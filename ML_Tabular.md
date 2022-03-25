@@ -27,7 +27,8 @@ All the nodebooks in this section:
 * Data Cleansing
    * Outlier Detection 
 * Feature Engineering
-* Feature D
+* Feature Distribution
+* Data Visualization
 
 ### Data Augmentation
 
