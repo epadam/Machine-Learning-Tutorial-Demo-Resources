@@ -8,35 +8,35 @@ Personally I prefer a site that can give me the whole scope that I can know wher
 
 If you feel the same, this is the resource gives you from the basic machine learning practice, debugging to production machine learning. Your model can really be deployed in production not just a jupyter notebook.
 
-# Basic
+## Basic
 
-## 1. Understand the algorithm and practice with dataset in notebook!
+### 1. Understand the algorithm and practice with dataset in notebook!
 
 * Understand data visualization, preprocessing
 * Understand traditional machine learning, deep learning
 
-## 2. Build an interactive app with Streamlit/Dash!
+### 2. Build an interactive app with Streamlit/Dash!
 
 
-## 3. Build a machine learning model serving!
+### 3. Build a machine learning model serving!
 
 Think what will you need
 
-## 4. Build an machine learning embedded app!
+### 4. Build an machine learning embedded app!
 
 think about pipeline
 
-# Advanced
+## Advanced
 
-## 1. Understand your model better! Debug and explain your model with explainable AI
+### 1. Understand your model better! Debug and explain your model with explainable AI
 
 * try using tensorboard, responsible AI 
 
-## 2. [Not just Dataset, get your own data and build your own data pipeline!](Data_Engineering.md)
+### 2. [Not just Dataset, get your own data and build your own data pipeline!](Data_Engineering.md)
 
 * Data pipeline, 
 
-## 3. Go to production level machine learning[(MLOps)](https://github.com/epadam/production-level-machine-learning)
+### 3. Go to production level machine learning[(MLOps)](https://github.com/epadam/production-level-machine-learning)
 
 mlops, technical debt
 autoML
