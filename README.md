@@ -12,21 +12,43 @@ If you feel the same, this is the resource gives you from the basic machine lear
 
 ## Understand the algorithm and practice with dataset in notebook!
 
-## Deploy a model/Build an app!
+* Understand data visualization, preprocessing
+* Understand traditional machine learning, deep learning
+
+## Build an interactive app with Streamlit/Dash!
+
+
+## Build a machine learning model serving!
+
+Think what will you need
+
+## Build an machine learning embedded app!
+
+think about pipeline
 
 # Advanced
 
 ## Understand your model better! Debug and explain your model with explainable AI
 
+* try using tensorboard, responsible AI 
+
 ## [Not just Dataset, get your own data and build your own data pipeline!](Data_Engineering.md)
+
+* Data pipeline, 
 
 ## Go to production level machine learning[(MLOps)](https://github.com/epadam/production-level-machine-learning)
 
+mlops, technical debt
+autoML
 model tracking, pipeline, deploying, monitoring
 
-## Build fancy applications
+## Check more production level examples
 
-Chatbot? Android App
+* kafka
+* Chatbot
+* Android App (mediapipe)
+* Video Surveillance 
+
 
 ## Need more resources? Check below!
 
@@ -60,62 +82,6 @@ Image captions, visual question answering
 
 ### [AutoML](autoML.md)
 
-NAS
-
 ## [Libraries and Frameworks](Tools_and_Learning_Resources.md)
 
 ## [More Machine Learning Applications](applications/README.md)
-
-
-
-### Quick Guide to get the Taste
-
-* Quick deploy a demo using trained model:
-
-   * Build your first machine learning service from Tensorflow Hub with Streamlit[`Streamlit Demo`](demo/simple/image_cls)
-
-* Develop, train and explain your own model:
-
-   * Normalization, Regularization, Dropout, Activation Function, Loss Function, Optimization for your model [`notebook`](notebooks/data-analysis/house_price_NN_xAI.ipynb)
-   * Explainable Machine Learning [`Notebook`](notebooks/data-analysis/house_price.ipynb) [`Streamlit Demo`](https://explainable-machine-learning.herokuapp.com/)
-   
-   Check here to dive deeper for debugging your model and more!
-
-* Deploy your own model service! [`link`]()
-
-   Check [`here`](https://github.com/epadam/production-level-machine-learning) to see how to manage a machine learning project!!
-
-### Train more models in notebooks!
-
-Finish five tabular data tasks!
-
-Finish five computer vision tasks!
-
-2. Freiburg Groceries Dataset[`notebook`]()
-
-
-Finish five Natural Language tasks!
-
-Check all notebooks [here](notebooks/)
-
-### Check some more demos to see which topics you like more
-
-* [CV Tasks Overview Demo]()
-
-* [Spectrum Classifier Demo]()
-
-* [Information Extraction Demo]()
-
-* [NLP Tasks Overview Demo]()
-
-* Rasa chatbot with Haystack Demo[`Repo`]()
-
-* [Time Series Classification/Prediction Demo]()
-
-* [Sales Prediction Demo]()
-
-* [Applications for Semiconductor]()
-
-
-
-
