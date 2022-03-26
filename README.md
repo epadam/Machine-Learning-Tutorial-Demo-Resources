@@ -10,12 +10,25 @@ If you feel the same, this is the resource gives you from the basic machine lear
 
 ## Basic
 
-### 1. Understand the algorithm and practice with dataset in notebook!
+### 1. [Understand the algorithm and practice with the datasets in notebook!]()
 
-* Understand data visualization, preprocessing
-* Understand traditional machine learning, deep learning
+* Goal:
+   * Understand data visualization, preprocessing
+   * Understand traditional machine learning, deep learning
+   * Understan the metrics
 
-### 2. Build an interactive app with Streamlit/Dash!
+
+* Tabular data (Regression)
+   1. Kaggle House Price Prediction (SVR, Decision Tree)
+
+* Tabular data (Classification)
+
+* Computer Vision
+
+* Natural Language Processing
+
+
+### 2. [Build interactive apps with Streamlit/Dash!]()
 
 
 ### 3. Build a machine learning model serving!
@@ -31,21 +44,27 @@ think about pipeline
 ### 1. Understand your model better! Debug and explain your model with explainable AI
 
 * try using tensorboard, responsible AI 
+* try autoML
 
 ### 2. [Not just Dataset, get your own data and build your own data pipeline!](Data_Engineering.md)
 
-* Data pipeline, 
+* Data pipeline, kafka, Spark, Perfect
 
 ### 3. Go to production level machine learning[(MLOps)](https://github.com/epadam/production-level-machine-learning)
 
-mlops, technical debt
-autoML
-Sentiment Analysis
-Demand Prediction
-model tracking, pipeline, deploying, monitoring
+technical debt
+* data engineering
+* distributed training
+* model/data tracking
+* retraining pipeline
+* kubernetes, kubeflow, tfx, seldon core
+* promethues, ELK
+
 
 ## Check more production level examples
 
+* Sentiment Analysis
+* Demand Prediction
 * kafka
 * Chatbot
 * Android App (mediapipe)
