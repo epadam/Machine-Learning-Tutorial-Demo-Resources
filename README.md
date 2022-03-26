@@ -40,6 +40,8 @@ think about pipeline
 
 mlops, technical debt
 autoML
+Sentiment Analysis
+Demand Prediction
 model tracking, pipeline, deploying, monitoring
 
 ## Check more production level examples
