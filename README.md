@@ -10,33 +10,33 @@ If you feel the same, this is the resource gives you from the basic machine lear
 
 # Basic
 
-## Understand the algorithm and practice with dataset in notebook!
+## 1. Understand the algorithm and practice with dataset in notebook!
 
 * Understand data visualization, preprocessing
 * Understand traditional machine learning, deep learning
 
-## Build an interactive app with Streamlit/Dash!
+## 2. Build an interactive app with Streamlit/Dash!
 
 
-## Build a machine learning model serving!
+## 3. Build a machine learning model serving!
 
 Think what will you need
 
-## Build an machine learning embedded app!
+## 4. Build an machine learning embedded app!
 
 think about pipeline
 
 # Advanced
 
-## Understand your model better! Debug and explain your model with explainable AI
+## 1. Understand your model better! Debug and explain your model with explainable AI
 
 * try using tensorboard, responsible AI 
 
-## [Not just Dataset, get your own data and build your own data pipeline!](Data_Engineering.md)
+## 2. [Not just Dataset, get your own data and build your own data pipeline!](Data_Engineering.md)
 
 * Data pipeline, 
 
-## Go to production level machine learning[(MLOps)](https://github.com/epadam/production-level-machine-learning)
+## 3. Go to production level machine learning[(MLOps)](https://github.com/epadam/production-level-machine-learning)
 
 mlops, technical debt
 autoML
