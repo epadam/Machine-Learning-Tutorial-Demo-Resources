@@ -15,7 +15,14 @@
 
 * Stock Prediction
 
-* Energy Forecasting
+* Energy Forecasting 
+    * Kaggle Household Electric Power Consumption [`notebook`]()
+    * Individual household electric power consumption Data Set [`notebook`]()  
+    * GEFCom2014 Load Forecasting Data [`notebook`]()
+
+
+
+
 
 * Temperature Forecasting 
 
