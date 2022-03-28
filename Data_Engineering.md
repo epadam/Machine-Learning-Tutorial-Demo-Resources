@@ -62,14 +62,11 @@ Some researh in labeling:
 
 Semi-Automatic Labeling for Deep Learning in Robotics [`arXiv`](https://arxiv.org/abs/1908.01862)
 
-## Data Versioning
 
-* DVC
-* Pachyderm
 
 ## Data Visualization
 
-## Data Distribution
+
 
 
 
