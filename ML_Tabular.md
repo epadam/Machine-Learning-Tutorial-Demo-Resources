@@ -27,8 +27,9 @@ All the nodebooks in this section:
 * Data Cleansing
    * Outlier Detection 
 * Feature Engineering
-* Feature Distribution
+* Feature Distribution Analysis
 * Data Visualization
+
 
 ### Data Augmentation
 
@@ -81,6 +82,14 @@ Models like Linear Regression and Decsion Tree has better explanbility. However,
 * Tensorflow Model Analysis
 
 * Microsoft Responsible AI Widget
+
+
+### Data Visualization
+
+### Data Versioning
+
+* DVC
+* Pachyderm
 
 
 ## Interesting Research for Auto Data Analysis
