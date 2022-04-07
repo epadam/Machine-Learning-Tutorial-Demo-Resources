@@ -2,11 +2,6 @@
 
 In this section we talk about tricks and tips for data analysis with machine learning. 
 
-## What you have to think (General Guide)
-* What do you want to predict
-* What data source do you need, do you need ETL pipeline, use autoML for prediction?
-* Is the model responsible?
-
 All the nodebooks in this section:
 
 * Reggression:
@@ -17,23 +12,28 @@ All the nodebooks in this section:
 
   * [Cancer Prediction]()
 
+
+## Data Collection (General Guide)
+
+* What do you want to predict
+* What and where to get your data
+* If you need need ETL pipeline, check here: 
+
 ## Exploratory Data Analysis (EDA)
 
-* Principle Component Analysis (PCA)
-* Correlation Plot
-* Data Distribution Analysis
-   * Undersampling for Imbalanced Data
-   * Oversampling for Imbalanced Data 
+You should know your data, here is what you can do for your data:
+
+* Data Visualization
 * Data Cleansing
    * Outlier Detection 
+* Principle Component Analysis (PCA)
+* Correlation Plot
 * Feature Engineering
-* Feature Distribution Analysis
-* Data Visualization
-
-
-### Data Augmentation
-
-- DeltaPy⁠⁠ [`github`](https://github.com/firmai/deltapy)
+* Data Distribution Analysis
+   * Does the feature need to be normal distributed?
+   * For classification task, is the amount of data for each class even? do you need oversampling or undersampling
+* Data Augmentation
+   * DeltaPy⁠⁠ [`github`](https://github.com/firmai/deltapy)
 
 ## Model Selection and Training
 
@@ -42,7 +42,6 @@ All the nodebooks in this section:
 * Voting 
 * Stacking
 
-
 ### Transformer for Tabular Data Analysis
 
 * TabNet [`github`](https://github.com/google-research/google-research/tree/master/tabnet)
@@ -50,8 +49,6 @@ All the nodebooks in this section:
 ### AutoML for Tabular Data Analysis
 
 * AutoGluon [`github`](https://github.com/awslabs/autogluon)
-
-
 
 ## Model Evaluation, Inspection and Debugging
 
@@ -90,6 +87,8 @@ Models like Linear Regression and Decsion Tree has better explanbility. However,
 
 * DVC
 * Pachyderm
+
+### Model Tracking
 
 
 ## Interesting Research for Auto Data Analysis
