@@ -4,6 +4,8 @@ In this section we talk about tricks and tips for data analysis with machine lea
 
 All the nodebooks in this section:
 
+The notebook includes many different models and tools, so you can save time for searching yourself
+
 * Reggression:
 
   * [Boston House Price Prediction]()
@@ -22,7 +24,9 @@ Please check here for data collection:
 * What and where to get your data
 * If you need need ETL pipeline, check here: 
 
-## Exploratory Data Analysis (EDA)
+## How to examine your data? 
+
+### Exploratory Data Analysis (EDA)
 
 You should know your data, here is what you can do for your data:
 
@@ -34,7 +38,7 @@ You should know your data, here is what you can do for your data:
     * Scatter Plot
     * Correlation Plot
 * Principle Component Analysis (PCA)
-* Feature Engineering
+* Feature Engineering (Auto Feature Engineering)
 * For classification task, is the amount of data for each class even? do you need oversampling or undersampling?
 * Data Augmentation
    * DeltaPy⁠⁠ [`github`](https://github.com/firmai/deltapy)
