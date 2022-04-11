@@ -1,4 +1,4 @@
-# Guidline of Machine Learning for Tabular Data
+# Guideline of Machine Learning for Tabular Data
 
 In this section we talk about tricks and tips for data analysis with machine learning. 
 
@@ -12,8 +12,11 @@ All the nodebooks in this section:
 
   * [Cancer Prediction]()
 
+Check the following tips to examine your data and improve your model!
 
 ## Data Collection (General Guide)
+
+Please check here for data collection:
 
 * What do you want to predict
 * What and where to get your data
@@ -23,16 +26,16 @@ All the nodebooks in this section:
 
 You should know your data, here is what you can do for your data:
 
-* Data Visualization
 * Data Cleansing
    * Outlier Detection 
+* Data Visualization
+   * Data Distribution Analysis
+       * Only models like LDA, Gaussian Naive Bayes, Logistic Regression, Linear Regression assume Normality. For models like decision tree, it is better to have even amounts of data for a feature.
+    * Scatter Plot
+    * Correlation Plot
 * Principle Component Analysis (PCA)
-* Correlation Plot
 * Feature Engineering
-* Data Distribution Analysis
-   * Only models like LDA, Gaussian Naive Bayes, Logistic Regression, Linear Regression assume Normality. For models like decision tree, it is better to have even amounts of data for a feature.
-
-   * For classification task, is the amount of data for each class even? do you need oversampling or undersampling
+* For classification task, is the amount of data for each class even? do you need oversampling or undersampling?
 * Data Augmentation
    * DeltaPy⁠⁠ [`github`](https://github.com/firmai/deltapy)
 
