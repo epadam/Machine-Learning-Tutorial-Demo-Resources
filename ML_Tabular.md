@@ -1,4 +1,4 @@
-# Machine Learning for Tabular Data
+# Guidline of Machine Learning for Tabular Data
 
 In this section we talk about tricks and tips for data analysis with machine learning. 
 
@@ -30,7 +30,8 @@ You should know your data, here is what you can do for your data:
 * Correlation Plot
 * Feature Engineering
 * Data Distribution Analysis
-   * Does the feature need to be normal distributed?
+   * Only models like LDA, Gaussian Naive Bayes, Logistic Regression, Linear Regression assume Normality. For models like decision tree, it is better to have even amounts of data for a feature.
+
    * For classification task, is the amount of data for each class even? do you need oversampling or undersampling
 * Data Augmentation
    * DeltaPy⁠⁠ [`github`](https://github.com/firmai/deltapy)
