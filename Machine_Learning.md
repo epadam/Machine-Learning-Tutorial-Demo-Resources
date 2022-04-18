@@ -54,12 +54,6 @@ Check an example in notebook!
 
 ### PCA
 
-## Loss Function
-
-MSE
-
-binary 
-
 ## Ensemble and Stacking
 
 ## Deep Learning
