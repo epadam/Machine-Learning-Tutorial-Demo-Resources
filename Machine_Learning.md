@@ -4,7 +4,7 @@
 
 ## Supervised Learning
 
-### Regression
+### Classification
 
 Check an example in [notebook](notebooks/data-analysis/Boston_House_Price.ipynb)! 
 
@@ -21,7 +21,19 @@ y=ax+b
 It can easily see which component is more important, but hard to include interaction between features.
 
 Don't use it unless the feature is pure independent. 
-   
+
+#### Metrics
+
+Accuracy
+
+Recall, Precision
+
+F1 Score
+
+ROC curve
+
+AUC
+
 #### Decision Tree
 
 
@@ -30,7 +42,7 @@ Don't use it unless the feature is pure independent.
 
 #### Bayesian
 
-### Classification
+### Rregression
 
 Check an example in notebook!
 
@@ -47,6 +59,13 @@ Check an example in notebook!
 #### Gradient Boosting
 
 #### K-Nearest Neighbors
+
+#### Metrics
+
+MSE
+
+
+
 
 ## Unsupervised Learning
 
