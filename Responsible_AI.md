@@ -96,6 +96,8 @@ Check the Interactive Streamlit [Demo]()
 
 * Evidently[`github`](https://github.com/evidentlyai/evidently)
 
+* Alibi[`github`](https://github.com/SeldonIO/alibi)
+
 ## Reference
 
 * https://maelfabien.github.io/machinelearning/Explorium_2/#limitations-of-linear-regression
